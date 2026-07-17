@@ -1,0 +1,21 @@
+from __future__ import annotations
+
+from fastapi import APIRouter, Query
+
+from app.services.perfume_scrape_service import PerfumeScrapeService
+
+router = APIRouter(tags=["perfumes"])
+
+
+@router.get("/perfumes/live")
+async def live_perfumes(
+    retailer_slugs: list[str] = Query(default=["life-pharmacy", "chemist-warehouse-nz", "lush"]),
+    terms: list[str] | None = Query(default=None),
+    limit_per_retailer: int = Query(default=100, ge=1, le=200),
+):
+    payload = await PerfumeScrapeService().scrape(
+        retailer_slugs=retailer_slugs,
+        terms=terms,
+        limit_per_retailer=limit_per_retailer,
+    )
+    return payload

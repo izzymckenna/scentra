@@ -1,0 +1,18 @@
+name: Nightly Scrapes
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-nightly-scrapes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger backend nightly queue
+        env:
+          SCENTRA_API_URL: ${{ secrets.SCENTRA_API_URL }}
+          SCENTRA_CRON_TOKEN: ${{ secrets.SCENTRA_CRON_TOKEN }}
+        run: |
+          curl -fsS -X POST "${SCENTRA_API_URL%/}/api/admin/cron/nightly" \
+            -H "X-Cron-Token: ${SCENTRA_CRON_TOKEN}"

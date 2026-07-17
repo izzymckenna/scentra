@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #F9F8F6;
+  --color-surface: #FFFFFF;
+  --color-surface-soft: #F2EFE9;
+  --color-surface-deep: #EBE6DE;
+  --color-primary: #321232;
+  --color-primary-2: #522A52;
+  --color-accent: #321232;
+  --color-lavender: #D1CDC0;
+  --color-soft-lilac: #F2EFE9;
+  --color-border: #E2DED0;
+  --color-border-med: #D1CDC0;
+  --color-text: #1A1A1A;
+  --color-muted: #6B665E;
+  --color-success: #4E7D62;
+  --color-sale: #B8325F;
+  --font-display: "Playfair Display", serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --text-xs: 12px;
+  --text-sm: 14px;
+  --text-md: 16px;
+  --text-lg: 20px;
+  --text-xl: 28px;
+  --text-2xl: 40px;
+  --text-hero: 64px;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
+  --radius-pill: 999px;
+  --shadow-card: none;
+  --shadow-hover: 0 20px 60px rgba(0, 0, 0, 0.05);
+}
+
+* {
+  box-sizing: border-box;
+  border-radius: 0 !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display);
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: var(--font-body);
+}
+
+button,
+a,
+input,
+select {
+  transition: 180ms ease;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+}
+
+.scrollbar-soft {
+  scrollbar-color: var(--color-lavender) transparent;
+  scrollbar-width: thin;
+}
+
+.scrollbar-soft::-webkit-scrollbar {
+  height: 8px;
+}
+
+.scrollbar-soft::-webkit-scrollbar-thumb {
+  background: var(--color-border-med);
+  border-radius: 0;
+}

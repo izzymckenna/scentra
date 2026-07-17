@@ -1,0 +1,42 @@
+[project]
+name = "scentra-backend"
+version = "0.1.0"
+description = "FastAPI backend for Scentra fragrance and beauty price comparison."
+requires-python = ">=3.14"
+dependencies = [
+  "alembic>=1.13.2",
+  "asyncpg>=0.29.0",
+  "fastapi>=0.115.0",
+  "geoalchemy2>=0.15.2",
+  "httpx>=0.27.0",
+  "greenlet>=3.1.1",
+  "meilisearch>=0.31.5",
+  "pydantic-settings>=2.4.0",
+  "python-slugify>=8.0.4",
+  "redis>=5.0.8",
+  "rq>=1.16.2",
+  "sqlalchemy>=2.0.32",
+  "uvicorn[standard]>=0.30.6"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3.2",
+  "pytest-asyncio>=0.24.0",
+  "ruff>=0.6.2"
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py314"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["app*"]

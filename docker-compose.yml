@@ -1,0 +1,31 @@
+services:
+  postgres:
+    image: postgis/postgis:16-3.4
+    environment:
+      POSTGRES_DB: scentra
+      POSTGRES_USER: scentra
+      POSTGRES_PASSWORD: scentra
+    ports:
+      - "5432:5432"
+    volumes:
+      - scentra-postgres:/var/lib/postgresql/data
+      - ./backend/sql:/docker-entrypoint-initdb.d:ro
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  meilisearch:
+    image: getmeili/meilisearch:v1.10
+    environment:
+      MEILI_MASTER_KEY: masterKey
+      MEILI_NO_ANALYTICS: "true"
+    ports:
+      - "7700:7700"
+    volumes:
+      - scentra-meili:/meili_data
+
+volumes:
+  scentra-postgres:
+  scentra-meili:
