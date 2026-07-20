@@ -31,7 +31,7 @@ def run_price_scrape() -> dict:
 
 async def _run_perfume_scrape_async() -> dict:
     results = await PerfumeScrapeService().scrape(
-        retailer_slugs=["life-pharmacy", "chemist-warehouse-nz", "lush"],
+        retailer_slugs=["life-pharmacy", "chemist-warehouse-nz"],
     )
     return {"results": results}
 

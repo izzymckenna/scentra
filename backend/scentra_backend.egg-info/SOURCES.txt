@@ -8,6 +8,7 @@ app/api/routes/__init__.py
 app/api/routes/admin.py
 app/api/routes/cart.py
 app/api/routes/deals.py
+app/api/routes/perfumes.py
 app/api/routes/products.py
 app/api/routes/search.py
 app/api/routes/stores.py
@@ -38,6 +39,8 @@ app/services/import_service.py
 app/services/live_import_service.py
 app/services/matching_service.py
 app/services/offer_service.py
+app/services/perfume_scrape_service.py
+app/services/price_scrape_service.py
 app/services/product_service.py
 app/services/retailer_service.py
 app/services/search_service.py

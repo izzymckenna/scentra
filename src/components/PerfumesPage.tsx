@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { LoaderCircle } from "lucide-react";
+import { AlertCircle, ArrowUpDown, ExternalLink, LoaderCircle, Search } from "lucide-react";
 import { Link } from "react-router-dom";
 import { apiUrl } from "../lib/api";
 import scrapedPerfumes from "../data/scraped-perfumes.json";
@@ -38,6 +38,8 @@ type PerfumeResponse = {
   results: LivePerfume[];
   errors?: { retailer_slug: string; error: string }[];
 };
+
+type SortOption = "value" | "price" | "brand";
 
 function formatMoney(amount: number | null | undefined, currency: string) {
   if (amount == null || Number.isNaN(amount)) return "—";
@@ -82,6 +84,9 @@ export function PerfumesPage() {
   const [data, setData] = useState<PerfumeResponse>(localPerfumeData());
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [query, setQuery] = useState("");
+  const [source, setSource] = useState("all");
+  const [sort, setSort] = useState<SortOption>("value");
 
   useEffect(() => {
     const controller = new AbortController();
@@ -90,7 +95,7 @@ export function PerfumesPage() {
       try {
         setLoading(true);
         setError(null);
-        const response = await fetch(apiUrl("/perfumes/live?retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=lush&limit_per_retailer=200"), {
+        const response = await fetch(apiUrl("/perfumes/live?retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&limit_per_retailer=200"), {
           signal: controller.signal,
         });
         if (!response.ok) {
@@ -110,93 +115,197 @@ export function PerfumesPage() {
     return () => controller.abort();
   }, []);
 
-  const results = useMemo(() => data.results ?? [], [data]);
+  const retailers = useMemo(() => {
+    const names = new Set<string>();
+    for (const item of data.results ?? []) {
+      names.add(retailerLabel(item.source_name, item.source_url));
+    }
+    return ["all", ...[...names].sort((a, b) => a.localeCompare(b))];
+  }, [data.results]);
+
+  const results = useMemo(() => {
+    const normalizedQuery = query.trim().toLowerCase();
+    const filtered = (data.results ?? []).filter((item) => {
+      const retailer = retailerLabel(item.source_name, item.source_url);
+      const searchable = [item.brand, item.name, item.size, retailer].filter(Boolean).join(" ").toLowerCase();
+      return (!normalizedQuery || searchable.includes(normalizedQuery)) && (source === "all" || retailer === source);
+    });
+
+    return [...filtered].sort((a, b) => {
+      if (sort === "price") return (a.price ?? Number.POSITIVE_INFINITY) - (b.price ?? Number.POSITIVE_INFINITY);
+      if (sort === "brand") return `${a.brand} ${a.name}`.localeCompare(`${b.brand} ${b.name}`);
+      return (a.price_per_100ml ?? Number.POSITIVE_INFINITY) - (b.price_per_100ml ?? Number.POSITIVE_INFINITY);
+    });
+  }, [data.results, query, sort, source]);
+
+  const comparisons = results.filter((item) => item.price_per_100ml != null).length;
 
   return (
-    <main className="mx-auto max-w-7xl px-6 py-10 md:px-12">
-      <section className="border-b border-border pb-5">
-        <span className="block text-[11px] uppercase tracking-[0.27em] text-muted">Live Perfume Scrape</span>
-        <h1 className="mt-3 font-display text-4xl font-normal leading-tight text-primary sm:text-5xl">All perfumes from the scraped sites</h1>
-        <p className="mt-3 max-w-3xl text-base leading-7 text-muted">
-          Deduped across Life Pharmacy, Chemist Warehouse NZ, and Lush. Prices are shown as bottle price plus a 100ml comparison where available.
-        </p>
+    <main className="mx-auto max-w-7xl px-5 py-8 md:px-10 lg:px-12">
+      <section className="grid gap-6 border-b border-border pb-6 lg:grid-cols-[1fr_auto] lg:items-end">
+        <div>
+          <span className="block text-[11px] font-bold uppercase tracking-[0.24em] text-muted">Live retailer prices</span>
+          <h1 className="mt-3 font-display text-4xl font-normal leading-tight text-primary sm:text-5xl">Scraped perfumes</h1>
+          <p className="mt-3 max-w-2xl text-base leading-7 text-muted">
+            A cleaned-up price board from Life Pharmacy and Chemist Warehouse NZ, sorted for quick value comparison.
+          </p>
+        </div>
+        <Link to="/explore" className="inline-flex w-fit border border-primary bg-primary px-5 py-3 text-xs font-extrabold uppercase tracking-[0.12em] text-white hover:bg-primary-2">
+          Back to explore
+        </Link>
       </section>
 
-      {loading ? (
-        <div className="flex min-h-[40vh] items-center justify-center">
-          <div className="flex items-center gap-3 text-muted">
-            <LoaderCircle className="animate-spin" size={20} />
-            Scraping perfume feeds...
-          </div>
-        </div>
-      ) : (
-        <>
-          {error ? <div className="mt-8 border border-border bg-surface-soft p-4 text-sm text-muted">Live scrape unavailable, showing the local scraped perfume snapshot instead.</div> : null}
-          {data.errors?.length ? (
-            <div className="mt-8 border border-border bg-surface-soft p-4 text-sm text-muted">
-              Some sources were blocked or failed to scrape: {data.errors.map((item) => item.retailer_slug).join(", ")}
-            </div>
-          ) : null}
-          <section className="mt-8 grid gap-3 md:grid-cols-3">
-            <Stat label="Unique perfumes" value={data?.count ?? 0} />
-            <Stat label="Retailer-backed entries" value={results.length} />
-            <Stat label="100ml comparisons" value={results.filter((item) => item.price_per_100ml != null).length} />
-          </section>
+      <section className="mt-6 grid gap-3 sm:grid-cols-3">
+        <Stat label="Showing" value={results.length} />
+        <Stat label="Total scraped" value={data.count ?? 0} />
+        <Stat label="100ml comparisons" value={comparisons} />
+      </section>
 
-          <section className="mt-8">
-            <div className="mb-4 flex items-end justify-between border-b border-border pb-4">
-              <div>
-                <span className="block text-[11px] uppercase tracking-[0.22em] text-muted">All results</span>
-                <h2 className="mt-2 font-display text-3xl font-normal text-primary">Sorted by 100ml comparison price</h2>
-              </div>
-              <Link to="/explore" className="hidden text-sm font-extrabold text-primary hover:text-accent sm:block">
-                Back to explore
-              </Link>
-            </div>
-            <div className="grid gap-4 md:grid-cols-2">
-              {results.map((item) => (
-                <a
-                  key={`${item.brand}-${item.name}-${item.size}-${item.source_url}`}
-                  href={item.source_url}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="group flex flex-col border border-border bg-white p-4 text-inherit no-underline transition duration-300 hover:-translate-y-1"
-                >
-                  <div className="aspect-[4/5] overflow-hidden border border-border bg-surface-soft">
-                    {item.image_url ? <img src={item.image_url} alt={`${item.brand} ${item.name}`} className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.02]" /> : null}
-                  </div>
-                  <div className="flex flex-1 flex-col gap-1 pt-3">
-                    <span className="text-[11px] font-semibold uppercase tracking-[0.14em] text-muted">{item.brand}</span>
-                    <h3 className="font-display text-base font-normal leading-tight text-primary sm:text-lg">{item.name}</h3>
-                    <p className="mt-1 text-sm text-muted">{item.size ?? "Unknown size"}</p>
-                    <div className="mt-auto flex flex-col gap-1 pt-3 sm:flex-row sm:items-end sm:justify-between">
-                      <div className="flex flex-col gap-1">
-                        <span className="text-[10px] font-semibold uppercase tracking-[0.16em] text-muted">{priceLabel(item.source_name, item.source_url)}</span>
-                        <span className="text-lg font-extrabold leading-none text-primary sm:text-xl">{formatMoney(item.price, item.currency)}</span>
-                        <span className="text-[11px] uppercase tracking-[0.14em] text-muted">
-                          {item.price_per_100ml != null ? `${formatMoney(item.price_per_100ml, item.currency)} / 100ml` : "100ml compare unavailable"}
-                        </span>
-                      </div>
-                      <span className="max-w-none text-left text-[10px] font-semibold uppercase tracking-[0.12em] text-muted sm:max-w-[50%] sm:text-right">
-                        {retailerLabel(item.source_name, item.source_url)}
-                      </span>
-                    </div>
-                  </div>
-                </a>
+      <section className="sticky top-0 z-20 mt-5 border border-border bg-bg/95 p-3 backdrop-blur">
+        <div className="grid gap-3 lg:grid-cols-[1fr_220px_220px]">
+          <label className="flex min-h-12 items-center gap-3 border border-border bg-white px-4">
+            <Search size={18} className="shrink-0 text-muted" />
+            <input
+              value={query}
+              onChange={(event) => setQuery(event.target.value)}
+              placeholder="Search brand, perfume, size, or retailer"
+              className="w-full bg-transparent text-sm font-semibold text-primary outline-none placeholder:font-medium placeholder:text-muted"
+            />
+          </label>
+          <label className="flex min-h-12 items-center gap-3 border border-border bg-white px-4">
+            <span className="text-[10px] font-extrabold uppercase tracking-[0.14em] text-muted">Source</span>
+            <select value={source} onChange={(event) => setSource(event.target.value)} className="min-w-0 flex-1 bg-transparent text-sm font-bold text-primary outline-none">
+              {retailers.map((item) => (
+                <option key={item} value={item}>
+                  {item === "all" ? "All retailers" : item}
+                </option>
               ))}
-            </div>
-          </section>
-        </>
-      )}
+            </select>
+          </label>
+          <label className="flex min-h-12 items-center gap-3 border border-border bg-white px-4">
+            <ArrowUpDown size={16} className="shrink-0 text-muted" />
+            <select value={sort} onChange={(event) => setSort(event.target.value as SortOption)} className="min-w-0 flex-1 bg-transparent text-sm font-bold text-primary outline-none">
+              <option value="value">Best value / 100ml</option>
+              <option value="price">Lowest bottle price</option>
+              <option value="brand">Brand A-Z</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <StatusMessage loading={loading} error={error} sourceErrors={data.errors ?? []} />
+
+      <section className="mt-6">
+        <div className="mb-4 flex flex-wrap items-end justify-between gap-3 border-b border-border pb-3">
+          <div>
+            <span className="block text-[11px] font-bold uppercase tracking-[0.2em] text-muted">Results</span>
+            <h2 className="mt-1 font-display text-2xl font-normal text-primary sm:text-3xl">{results.length} perfumes matched</h2>
+          </div>
+          <p className="text-sm font-semibold text-muted">Prices open at the source retailer.</p>
+        </div>
+
+        {results.length ? (
+          <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
+            {results.map((item) => (
+              <PerfumeCard key={`${item.brand}-${item.name}-${item.size}-${item.source_url}`} item={item} />
+            ))}
+          </div>
+        ) : (
+          <div className="border border-border bg-surface-soft px-6 py-14 text-center">
+            <h3 className="font-display text-3xl font-normal text-primary">No perfumes match that search.</h3>
+            <button type="button" onClick={() => setQuery("")} className="mt-5 border border-primary px-5 py-3 text-xs font-extrabold uppercase tracking-[0.12em] text-primary hover:bg-white">
+              Clear search
+            </button>
+          </div>
+        )}
+      </section>
     </main>
   );
 }
 
 function Stat({ label, value }: { label: string; value: string | number }) {
   return (
-    <div className="border border-border bg-white p-5">
-      <p className="text-[11px] uppercase tracking-[0.18em] text-muted">{label}</p>
-      <p className="mt-2 font-display text-2xl font-normal text-primary">{value}</p>
+    <div className="border border-border bg-white px-4 py-3">
+      <p className="text-[10px] font-extrabold uppercase tracking-[0.16em] text-muted">{label}</p>
+      <p className="mt-1 font-display text-2xl font-normal leading-none text-primary">{value}</p>
     </div>
+  );
+}
+
+function StatusMessage({
+  loading,
+  error,
+  sourceErrors,
+}: {
+  loading: boolean;
+  error: string | null;
+  sourceErrors: { retailer_slug: string; error: string }[];
+}) {
+  if (loading) {
+    return (
+      <div className="mt-4 flex items-center gap-3 border border-border bg-white px-4 py-3 text-sm font-semibold text-muted">
+        <LoaderCircle className="animate-spin" size={18} />
+        Refreshing live prices...
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="mt-4 flex items-start gap-3 border border-border bg-surface-soft px-4 py-3 text-sm text-muted">
+        <AlertCircle className="mt-0.5 shrink-0 text-sale" size={18} />
+        <span>Live scrape unavailable, showing the latest saved snapshot.</span>
+      </div>
+    );
+  }
+
+  if (sourceErrors.length) {
+    return (
+      <div className="mt-4 flex items-start gap-3 border border-border bg-surface-soft px-4 py-3 text-sm text-muted">
+        <AlertCircle className="mt-0.5 shrink-0 text-sale" size={18} />
+        <span>Some sources failed: {sourceErrors.map((item) => item.retailer_slug).join(", ")}</span>
+      </div>
+    );
+  }
+
+  return null;
+}
+
+function PerfumeCard({ item }: { item: LivePerfume }) {
+  const retailer = retailerLabel(item.source_name, item.source_url);
+  const compareLabel = item.price_per_100ml != null ? `${formatMoney(item.price_per_100ml, item.currency)} / 100ml` : "No 100ml comparison";
+
+  return (
+    <a href={item.source_url} target="_blank" rel="noreferrer" className="group grid min-h-[178px] grid-cols-[104px_1fr] border border-border bg-white text-inherit no-underline transition hover:-translate-y-0.5 hover:shadow-hover sm:grid-cols-[118px_1fr]">
+      <div className="h-full min-h-[178px] border-r border-border bg-surface-soft">
+        {item.image_url ? (
+          <img src={item.image_url} alt={`${item.brand} ${item.name}`} className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.02]" loading="lazy" />
+        ) : (
+          <div className="flex h-full items-center justify-center px-3 text-center text-[10px] font-bold uppercase tracking-[0.12em] text-muted">No image</div>
+        )}
+      </div>
+      <div className="flex min-w-0 flex-col p-4">
+        <div className="flex items-start justify-between gap-3">
+          <div className="min-w-0">
+            <p className="truncate text-[11px] font-extrabold uppercase tracking-[0.14em] text-muted">{item.brand}</p>
+            <h3 className="mt-1 line-clamp-2 font-display text-lg font-normal leading-tight text-primary">{item.name}</h3>
+          </div>
+          <ExternalLink size={16} className="mt-1 shrink-0 text-muted transition group-hover:text-primary" />
+        </div>
+
+        <div className="mt-3 flex flex-wrap gap-2">
+          <span className="border border-border bg-surface-soft px-2 py-1 text-[11px] font-bold text-muted">{item.size ?? "Unknown size"}</span>
+          <span className="border border-border bg-surface-soft px-2 py-1 text-[11px] font-bold text-muted">{retailer}</span>
+        </div>
+
+        <div className="mt-auto pt-4">
+          <p className="text-[10px] font-extrabold uppercase tracking-[0.14em] text-muted">{priceLabel(item.source_name, item.source_url)}</p>
+          <div className="mt-1 flex items-end justify-between gap-3">
+            <span className="text-2xl font-extrabold leading-none text-primary">{formatMoney(item.price, item.currency)}</span>
+            <span className="text-right text-xs font-bold text-success">{compareLabel}</span>
+          </div>
+        </div>
+      </div>
+    </a>
   );
 }

@@ -5,14 +5,54 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: nightly-scrapes
+  cancel-in-progress: false
+
 jobs:
-  run-nightly-scrapes:
+  refresh-scraped-perfumes:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger backend nightly queue
-        env:
-          SCENTRA_API_URL: ${{ secrets.SCENTRA_API_URL }}
-          SCENTRA_CRON_TOKEN: ${{ secrets.SCENTRA_CRON_TOKEN }}
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install backend
+        working-directory: backend
         run: |
-          curl -fsS -X POST "${SCENTRA_API_URL%/}/api/admin/cron/nightly" \
-            -H "X-Cron-Token: ${SCENTRA_CRON_TOKEN}"
+          python -m pip install --upgrade pip
+          python -m pip install -e .
+
+      - name: Start local scrape API
+        working-directory: backend
+        run: |
+          python -m uvicorn app.main:app --host 127.0.0.1 --port 8010 &
+          for attempt in {1..30}; do
+            if curl -fsS http://127.0.0.1:8010/health >/dev/null; then
+              exit 0
+            fi
+            sleep 1
+          done
+          echo "Backend did not become healthy in time" >&2
+          exit 1
+
+      - name: Refresh scraped perfume snapshot
+        run: node backend/scripts_generate_scraped_snapshot.mjs
+
+      - name: Commit snapshot changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update scraped perfume snapshot"
+          file_pattern: src/data/scraped-perfumes.json

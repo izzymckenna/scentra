@@ -30,7 +30,12 @@ PERFUME_TERMS = [
 ]
 USER_AGENT = "ScentraBot/0.1 (+https://scentra.local; price comparison import)"
 PERFUME_INCLUDE_RE = re.compile(r"\b(perfume|fragrance|parfum|eau de parfum|eau de toilette|edp|edt|body mist|perfume mist|cologne|extrait)\b", re.IGNORECASE)
-PERFUME_EXCLUDE_RE = re.compile(r"\b(atomiser|atomizer|accessory|case|travel spray|sample|tester|refill|set|gift set|gift pack)\b", re.IGNORECASE)
+PERFUME_EXCLUDE_RE = re.compile(
+    r"\b(atomiser|atomizer|accessory|case|travel spray|sample|tester|refill|set|gift set|gift pack|"
+    r"fragrance free|lotion|moisturiser|moisturizer|cream|soap|body wash|shampoo|conditioner|"
+    r"deodorant|candle|diffuser)\b",
+    re.IGNORECASE,
+)
 
 
 class LiveRetailerImportError(RuntimeError):
@@ -137,12 +142,22 @@ class LifePharmacyImporter(RetailerImporter):
                 seen.add(sku)
                 if not is_perfume_row(item.get("title"), item.get("body"), item.get("type"), item.get("vendor"), item.get("tags")):
                     continue
-                compare_at = item.get("compare_at_price_min") or item.get("compare_at_price_max")
+                price = first_positive_money(
+                    item.get("price_min"),
+                    item.get("price"),
+                    item.get("price_max"),
+                )
+                if not has_positive_money(price):
+                    continue
+                compare_at = first_positive_money(
+                    item.get("compare_at_price_min"),
+                    item.get("compare_at_price_max"),
+                )
                 rows.append(
                     self._row(
                         name=item["title"],
                         brand=item.get("vendor"),
-                        price=item.get("price_min") or item.get("price"),
+                        price=price,
                         original_price=compare_at if parse_money_or_none(compare_at) else None,
                         url=item["url"],
                         category=category_from_type(item.get("type")),
@@ -167,14 +182,17 @@ class ChemistWarehouseImporter(RetailerImporter):
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
         for term in terms or DEFAULT_TERMS:
-            response = await self._get_with_retry(
-                f"{self.base_url}/searchapiv2/suggest?&identifier=nz&search={term}",
-                headers={
-                    "Referer": f"{self.base_url}/search?searchtext={term}",
-                    "User-Agent": "Mozilla/5.0 ScentraBot/0.1",
-                },
-            )
-            ensure_json_response(response, self.slug)
+            try:
+                response = await self._get_with_retry(
+                    f"{self.base_url}/searchapiv2/suggest?&identifier=nz&search={term}",
+                    headers={
+                        "Referer": f"{self.base_url}/search?searchtext={term}",
+                        "User-Agent": "Mozilla/5.0 ScentraBot/0.1",
+                    },
+                )
+                ensure_json_response(response, self.slug)
+            except (httpx.HTTPError, LiveRetailerImportError):
+                continue
             groups = response.json().get("suggestionGroups", [])
             products = next((group.get("suggestions", []) for group in groups if group.get("indexName") == "3products"), [])
             for item in products:
@@ -185,11 +203,14 @@ class ChemistWarehouseImporter(RetailerImporter):
                 brand = item.get("brand")
                 if brand and brand.lower().startswith("cw nz"):
                     brand = None
+                price = item.get("price")
+                if not has_positive_money(price):
+                    continue
                 rows.append(
                     self._row(
                         name=item["name"],
                         brand=brand,
-                        price=item.get("price"),
+                        price=price,
                         original_price=item.get("rrp"),
                         url=item["producturl"],
                         category=chemist_category(item),
@@ -230,12 +251,22 @@ class LushImporter(RetailerImporter):
                 seen.add(sku)
                 if not is_perfume_row(item.get("name"), item.get("description"), item.get("type"), item.get("brand"), item.get("l2_category")):
                     continue
+                price = first_positive_money(
+                    item.get("price_min"),
+                    item.get("price"),
+                    item.get("price_max"),
+                )
+                if not has_positive_money(price):
+                    continue
                 rows.append(
                     self._row(
                         name=item["title"],
                         brand=item.get("vendor"),
-                        price=item.get("price_min") or item.get("price"),
-                        original_price=item.get("compare_at_price_min") or item.get("compare_at_price_max"),
+                        price=price,
+                        original_price=first_positive_money(
+                            item.get("compare_at_price_min"),
+                            item.get("compare_at_price_max"),
+                        ),
                         url=item["url"],
                         category="fragrance",
                         product_type=item.get("type") or "perfume",
@@ -383,6 +414,22 @@ def parse_money_or_none(value: Any) -> Decimal | None:
         return Decimal(cleaned).quantize(Decimal("0.01"))
     except (InvalidOperation, ValueError):
         return None
+
+
+def first_positive_money(*values: Any) -> Any:
+    for value in values:
+        parsed = parse_money_or_none(value)
+        if parsed is not None and parsed > 0:
+            return value
+    for value in values:
+        if parse_money_or_none(value) is not None:
+            return value
+    return None
+
+
+def has_positive_money(value: Any) -> bool:
+    parsed = parse_money_or_none(value)
+    return parsed is not None and parsed > 0
 
 
 def clean_text(value: str | None) -> str | None:
