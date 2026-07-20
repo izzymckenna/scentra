@@ -2,7 +2,7 @@
 name = "scentra-backend"
 version = "0.1.0"
 description = "FastAPI backend for Scentra fragrance and beauty price comparison."
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 dependencies = [
   "alembic>=1.13.2",
   "asyncpg>=0.29.0",
@@ -28,7 +28,7 @@ dev = [
 
 [tool.ruff]
 line-length = 100
-target-version = "py314"
+target-version = "py312"
 
 [tool.pytest.ini_options]
 asyncio_mode = "auto"

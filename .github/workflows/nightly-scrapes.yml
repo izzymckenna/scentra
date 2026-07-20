@@ -22,7 +22,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.14"
+          python-version: "3.12"
 
       - name: Set up Node
         uses: actions/setup-node@v4
@@ -52,7 +52,13 @@ jobs:
         run: node backend/scripts_generate_scraped_snapshot.mjs
 
       - name: Commit snapshot changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update scraped perfume snapshot"
-          file_pattern: src/data/scraped-perfumes.json
+        run: |
+          if git diff --quiet -- src/data/scraped-perfumes.json; then
+            echo "No scraped perfume changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/scraped-perfumes.json
+          git commit -m "Update scraped perfume snapshot"
+          git push
