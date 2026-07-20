@@ -95,7 +95,7 @@ export function PerfumesPage() {
       try {
         setLoading(true);
         setError(null);
-        const response = await fetch(apiUrl("/perfumes/live?retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&limit_per_retailer=200"), {
+        const response = await fetch(apiUrl("/perfumes/live?retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=healthpost&retailer_slugs=the-warehouse&limit_per_retailer=200"), {
           signal: controller.signal,
         });
         if (!response.ok) {
@@ -147,7 +147,7 @@ export function PerfumesPage() {
           <span className="block text-[11px] font-bold uppercase tracking-[0.24em] text-muted">Live retailer prices</span>
           <h1 className="mt-3 font-display text-4xl font-normal leading-tight text-primary sm:text-5xl">Scraped perfumes</h1>
           <p className="mt-3 max-w-2xl text-base leading-7 text-muted">
-            A cleaned-up price board from Life Pharmacy and Chemist Warehouse NZ, sorted for quick value comparison.
+            A cleaned-up price board from Life Pharmacy, Chemist Warehouse NZ, HealthPost, and The Warehouse, sorted for quick value comparison.
           </p>
         </div>
         <Link to="/explore" className="inline-flex w-fit border border-primary bg-primary px-5 py-3 text-xs font-extrabold uppercase tracking-[0.12em] text-white hover:bg-primary-2">

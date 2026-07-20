@@ -89,6 +89,8 @@ Live importers are configured for:
 
 - Life Pharmacy: Shopify `search/suggest.json` product endpoint.
 - Chemist Warehouse NZ: public `searchapiv2/suggest` product suggestions.
+- HealthPost: Shopify `search/suggest.json` product endpoint.
+- The Warehouse: public fragrance category product tiles.
 - Lush NZ: configured but not used by default; the current storefront blocks or does not expose the product suggest endpoint this importer expects.
 - Farmers: public search page JSON-LD parser, with explicit failure reporting when Akamai/WAF blocks the request.
 
@@ -116,7 +118,7 @@ Use `/api/admin/imports/live/preview` with the same payload to fetch live rows w
 
 ## Perfume Scrape
 
-Run a perfume-only scrape across Life Pharmacy and Chemist Warehouse NZ with duplicate products merged by brand/name/size:
+Run a perfume-only scrape across Life Pharmacy, Chemist Warehouse NZ, HealthPost, and The Warehouse with duplicate products merged by brand/name/size:
 
 ```bash
 cd /Users/izzymckenna/Desktop/dev/scentra/backend

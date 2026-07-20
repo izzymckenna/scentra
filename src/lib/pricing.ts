@@ -1,5 +1,6 @@
 const nzRetailerPatterns = [
   /life pharmacy/i,
+  /healthpost/i,
   /chemist warehouse nz/i,
   /farmers/i,
   /lush nz/i,
@@ -19,5 +20,14 @@ export function priceLabel(sourceName: string, sourceUrl?: string) {
 }
 
 export function retailerLabel(sourceName: string, sourceUrl?: string) {
-  return isNzRetailer(sourceName, sourceUrl) ? `${sourceName} · NZ retailer` : `${sourceName} · not NZ retailer`;
+  const normalized = sourceName.toLowerCase();
+  let label = sourceName;
+  if (normalized.includes("life-pharmacy")) label = "Life Pharmacy";
+  else if (normalized.includes("chemist-warehouse")) label = "Chemist Warehouse NZ";
+  else if (normalized.includes("healthpost")) label = "HealthPost";
+  else if (normalized.includes("the-warehouse")) label = "The Warehouse";
+  else if (normalized.includes("lush")) label = "Lush NZ";
+  else if (normalized.includes("farmers")) label = "Farmers";
+
+  return isNzRetailer(label, sourceUrl) ? `${label} · NZ retailer` : `${label} · not NZ retailer`;
 }

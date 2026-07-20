@@ -43,6 +43,12 @@ async def seed_nz_retailers(db: AsyncSession) -> None:
             "approved": True,
         },
         {
+            "name": "HealthPost",
+            "slug": "healthpost",
+            "website_url": "https://www.healthpost.co.nz",
+            "approved": True,
+        },
+        {
             "name": "The Warehouse",
             "slug": "the-warehouse",
             "website_url": "https://www.thewarehouse.co.nz",

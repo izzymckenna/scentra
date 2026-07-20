@@ -29,7 +29,7 @@ class PriceScrapeRequest(BaseModel):
 
 
 class PerfumeScrapeRequest(BaseModel):
-    retailer_slugs: list[str] = ["life-pharmacy", "chemist-warehouse-nz"]
+    retailer_slugs: list[str] = ["life-pharmacy", "chemist-warehouse-nz", "healthpost", "the-warehouse"]
     terms: list[str] | None = None
     limit_per_retailer: int = 100
 

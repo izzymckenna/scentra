@@ -9,7 +9,7 @@ router = APIRouter(tags=["perfumes"])
 
 @router.get("/perfumes/live")
 async def live_perfumes(
-    retailer_slugs: list[str] = Query(default=["life-pharmacy", "chemist-warehouse-nz"]),
+    retailer_slugs: list[str] = Query(default=["life-pharmacy", "chemist-warehouse-nz", "healthpost", "the-warehouse"]),
     terms: list[str] | None = Query(default=None),
     limit_per_retailer: int = Query(default=100, ge=1, le=200),
 ):
