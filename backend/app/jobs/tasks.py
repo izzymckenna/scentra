@@ -4,6 +4,7 @@ import asyncio
 
 from app.core.config import get_settings
 from app.db.session import AsyncSessionLocal
+from app.importers.live_retailers import DEFAULT_PERFUME_RETAILERS
 from app.jobs.pipeline import DailyPricePipeline
 from app.services.perfume_scrape_service import PerfumeScrapeService
 from app.services.price_scrape_service import PriceScrapeService
@@ -31,7 +32,7 @@ def run_price_scrape() -> dict:
 
 async def _run_perfume_scrape_async() -> dict:
     results = await PerfumeScrapeService().scrape(
-        retailer_slugs=["life-pharmacy", "chemist-warehouse-nz", "healthpost", "the-warehouse"],
+        retailer_slugs=DEFAULT_PERFUME_RETAILERS,
     )
     return {"results": results}
 

@@ -6,7 +6,7 @@ const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), ".."
 const outPath = path.join(repoRoot, "src/data/scraped-perfumes.json");
 const apiUrl =
   process.env.SCENTRA_SNAPSHOT_API_URL ||
-  "http://127.0.0.1:8010/api/perfumes/live?retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=healthpost&retailer_slugs=the-warehouse&limit_per_retailer=200";
+  "http://127.0.0.1:8010/api/perfumes/live?retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=healthpost&retailer_slugs=the-warehouse&retailer_slugs=brand-outlet&retailer_slugs=perfume-nz&limit_per_retailer=200";
 
 const response = await fetch(apiUrl);
 if (!response.ok) {

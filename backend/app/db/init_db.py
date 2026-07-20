@@ -54,6 +54,18 @@ async def seed_nz_retailers(db: AsyncSession) -> None:
             "website_url": "https://www.thewarehouse.co.nz",
             "approved": True,
         },
+        {
+            "name": "The Brand Outlet",
+            "slug": "brand-outlet",
+            "website_url": "https://www.thebrandoutlet.co.nz",
+            "approved": True,
+        },
+        {
+            "name": "Perfume NZ",
+            "slug": "perfume-nz",
+            "website_url": "https://www.perfumenz.co.nz",
+            "approved": True,
+        },
     ]
     retailer_ids: dict[str, int] = {}
     for payload in retailers:

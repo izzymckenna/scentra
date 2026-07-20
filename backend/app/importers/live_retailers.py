@@ -29,6 +29,14 @@ PERFUME_TERMS = [
     "cologne",
     "extrait",
 ]
+DEFAULT_PERFUME_RETAILERS = [
+    "life-pharmacy",
+    "chemist-warehouse-nz",
+    "healthpost",
+    "the-warehouse",
+    "brand-outlet",
+    "perfume-nz",
+]
 USER_AGENT = "ScentraBot/0.1 (+https://scentra.local; price comparison import)"
 PERFUME_INCLUDE_RE = re.compile(r"\b(perfume|fragrance|parfum|eau de parfum|eau de toilette|edp|edt|body mist|perfume mist|cologne|extrait)\b", re.IGNORECASE)
 PERFUME_EXCLUDE_RE = re.compile(
@@ -333,6 +341,120 @@ class TheWarehouseImporter(RetailerImporter):
         return rows
 
 
+class BrandOutletImporter(RetailerImporter):
+    slug = "brand-outlet"
+    source_name = "brand-outlet-shopify-suggest"
+    base_url = "https://www.thebrandoutlet.co.nz"
+
+    async def fetch_rows(self, terms: list[str] | None = None, limit: int = 100) -> list[dict[str, Any]]:
+        rows: list[dict[str, Any]] = []
+        seen: set[str] = set()
+        for term in terms or PERFUME_TERMS:
+            response = await self._get_with_retry(
+                f"{self.base_url}/search/suggest.json",
+                params={
+                    "q": term,
+                    "resources[type]": "product",
+                    "resources[limit]": min(limit, 50),
+                },
+            )
+            ensure_json_response(response, self.slug)
+            products = response.json().get("resources", {}).get("results", {}).get("products", [])
+            for item in products:
+                sku = str(item.get("id") or item.get("handle") or item.get("url"))
+                if not sku or sku in seen:
+                    continue
+                seen.add(sku)
+                if not is_perfume_row(item.get("title"), item.get("body"), item.get("type"), item.get("vendor"), item.get("tags")):
+                    continue
+                price = first_positive_money(
+                    item.get("price_min"),
+                    item.get("price"),
+                    item.get("price_max"),
+                )
+                if not has_positive_money(price):
+                    continue
+                compare_at = first_positive_money(
+                    item.get("compare_at_price_min"),
+                    item.get("compare_at_price_max"),
+                )
+                rows.append(
+                    self._row(
+                        name=item["title"],
+                        brand=item.get("vendor"),
+                        price=price,
+                        original_price=compare_at if parse_money_or_none(compare_at) else None,
+                        url=item["url"],
+                        category=category_from_type(item.get("type")),
+                        product_type=item.get("type") or "fragrance",
+                        image_url=item.get("image") or item.get("featured_image", {}).get("url"),
+                        description=strip_html(item.get("body")),
+                        retailer_sku=sku,
+                        in_stock=bool(item.get("available", True)),
+                    )
+                )
+                if len(rows) >= limit:
+                    return rows
+        return rows
+
+
+class PerfumeNZImporter(RetailerImporter):
+    slug = "perfume-nz"
+    source_name = "perfume-nz-shopify-suggest"
+    base_url = "https://www.perfumenz.co.nz"
+
+    async def fetch_rows(self, terms: list[str] | None = None, limit: int = 100) -> list[dict[str, Any]]:
+        rows: list[dict[str, Any]] = []
+        seen: set[str] = set()
+        for term in terms or PERFUME_TERMS:
+            response = await self._get_with_retry(
+                f"{self.base_url}/search/suggest.json",
+                params={
+                    "q": term,
+                    "resources[type]": "product",
+                    "resources[limit]": min(limit, 50),
+                },
+            )
+            ensure_json_response(response, self.slug)
+            products = response.json().get("resources", {}).get("results", {}).get("products", [])
+            for item in products:
+                sku = str(item.get("id") or item.get("handle") or item.get("url"))
+                if not sku or sku in seen:
+                    continue
+                seen.add(sku)
+                if not is_perfume_row(item.get("title"), item.get("body"), item.get("type"), item.get("vendor"), item.get("tags")):
+                    continue
+                price = first_positive_money(
+                    item.get("price_min"),
+                    item.get("price"),
+                    item.get("price_max"),
+                )
+                if not has_positive_money(price):
+                    continue
+                compare_at = first_positive_money(
+                    item.get("compare_at_price_min"),
+                    item.get("compare_at_price_max"),
+                )
+                rows.append(
+                    self._row(
+                        name=item["title"],
+                        brand=item.get("vendor"),
+                        price=price,
+                        original_price=compare_at if parse_money_or_none(compare_at) else None,
+                        url=item["url"],
+                        category=category_from_type(item.get("type")),
+                        product_type=item.get("type") or "fragrance",
+                        image_url=item.get("image") or item.get("featured_image", {}).get("url"),
+                        description=strip_html(item.get("body")),
+                        retailer_sku=sku,
+                        in_stock=bool(item.get("available", True)),
+                    )
+                )
+                if len(rows) >= limit:
+                    return rows
+        return rows
+
+
 class LushImporter(RetailerImporter):
     slug = "lush"
     source_name = "lush-nz-search"
@@ -526,6 +648,8 @@ def live_importer_for_slug(slug: str) -> RetailerImporter:
         ChemistWarehouseImporter.slug: ChemistWarehouseImporter,
         HealthPostImporter.slug: HealthPostImporter,
         TheWarehouseImporter.slug: TheWarehouseImporter,
+        BrandOutletImporter.slug: BrandOutletImporter,
+        PerfumeNZImporter.slug: PerfumeNZImporter,
         LushImporter.slug: LushImporter,
         FarmersImporter.slug: FarmersImporter,
     }

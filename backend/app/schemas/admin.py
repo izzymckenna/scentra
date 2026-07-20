@@ -1,6 +1,8 @@
 from __future__ import annotations
 
-from pydantic import BaseModel, HttpUrl
+from pydantic import BaseModel, Field, HttpUrl
+
+from app.importers.live_retailers import DEFAULT_PERFUME_RETAILERS
 
 
 class ImportFeedRequest(BaseModel):
@@ -29,7 +31,7 @@ class PriceScrapeRequest(BaseModel):
 
 
 class PerfumeScrapeRequest(BaseModel):
-    retailer_slugs: list[str] = ["life-pharmacy", "chemist-warehouse-nz", "healthpost", "the-warehouse"]
+    retailer_slugs: list[str] = Field(default_factory=lambda: DEFAULT_PERFUME_RETAILERS.copy())
     terms: list[str] | None = None
     limit_per_retailer: int = 100
 
