@@ -5,6 +5,9 @@ import { apiUrl } from "../lib/api";
 import scrapedPerfumes from "../data/scraped-perfumes.json";
 import { priceLabel, retailerLabel } from "../lib/pricing";
 
+const LIVE_RETAILER_QUERY =
+  "retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=healthpost&retailer_slugs=the-warehouse&retailer_slugs=brand-outlet&retailer_slugs=perfume-nz&retailer_slugs=scent-boutique&retailer_slugs=miller-road";
+
 type LivePerfume = {
   brand: string;
   name: string;
@@ -95,7 +98,7 @@ export function PerfumesPage() {
       try {
         setLoading(true);
         setError(null);
-        const response = await fetch(apiUrl("/perfumes/live?retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=healthpost&retailer_slugs=the-warehouse&retailer_slugs=brand-outlet&retailer_slugs=perfume-nz&limit_per_retailer=200"), {
+        const response = await fetch(apiUrl(`/perfumes/live?${LIVE_RETAILER_QUERY}&limit_per_retailer=200`), {
           signal: controller.signal,
         });
         if (!response.ok) {

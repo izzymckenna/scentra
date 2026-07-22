@@ -8,7 +8,9 @@ from app.importers.live_retailers import (
     LifePharmacyImporter,
     LiveRetailerImportError,
     LushImporter,
+    MillerRoadImporter,
     PerfumeNZImporter,
+    ScentBoutiqueImporter,
     TheWarehouseImporter,
     live_importer_for_slug,
 )
@@ -21,7 +23,9 @@ __all__ = [
     "LifePharmacyImporter",
     "LiveRetailerImportError",
     "LushImporter",
+    "MillerRoadImporter",
     "PerfumeNZImporter",
+    "ScentBoutiqueImporter",
     "TheWarehouseImporter",
     "live_importer_for_slug",
 ]

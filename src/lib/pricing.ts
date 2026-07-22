@@ -4,6 +4,8 @@ const nzRetailerPatterns = [
   /chemist warehouse nz/i,
   /brand outlet/i,
   /perfume nz/i,
+  /scent boutique/i,
+  /miller road/i,
   /farmers/i,
   /lush nz/i,
   /sephora nz/i,
@@ -30,6 +32,8 @@ export function retailerLabel(sourceName: string, sourceUrl?: string) {
   else if (normalized.includes("the-warehouse")) label = "The Warehouse";
   else if (normalized.includes("brand-outlet")) label = "The Brand Outlet";
   else if (normalized.includes("perfume-nz")) label = "Perfume NZ";
+  else if (normalized.includes("scent-boutique")) label = "Scent Boutique";
+  else if (normalized.includes("miller-road")) label = "Miller Road";
   else if (normalized.includes("lush")) label = "Lush NZ";
   else if (normalized.includes("farmers")) label = "Farmers";
 

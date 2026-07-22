@@ -36,12 +36,14 @@ DEFAULT_PERFUME_RETAILERS = [
     "the-warehouse",
     "brand-outlet",
     "perfume-nz",
+    "scent-boutique",
+    "miller-road",
 ]
 USER_AGENT = "ScentraBot/0.1 (+https://scentra.local; price comparison import)"
 PERFUME_INCLUDE_RE = re.compile(r"\b(perfume|fragrance|parfum|eau de parfum|eau de toilette|edp|edt|body mist|perfume mist|cologne|extrait)\b", re.IGNORECASE)
 PERFUME_EXCLUDE_RE = re.compile(
     r"\b(atomiser|atomizer|accessory|case|travel spray|sample|tester|refill|set|gift set|gift pack|"
-    r"fragrance free|lotion|moisturiser|moisturizer|cream|soap|body wash|shampoo|conditioner|"
+    r"fragrance free|lotion|moisturiser|moisturizer|cream|soap|body wash|shampoo|conditioner|workshop|"
     r"deodorant|candle|diffuser)\b",
     re.IGNORECASE,
 )
@@ -134,15 +136,18 @@ class LifePharmacyImporter(RetailerImporter):
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
         for term in terms or DEFAULT_TERMS:
-            response = await self._get_with_retry(
-                f"{self.base_url}/search/suggest.json",
-                params={
-                    "q": term,
-                    "resources[type]": "product",
-                    "resources[limit]": min(limit, 50),
-                },
-            )
-            ensure_json_response(response, self.slug)
+            try:
+                response = await self._get_with_retry(
+                    f"{self.base_url}/search/suggest.json",
+                    params={
+                        "q": term,
+                        "resources[type]": "product",
+                        "resources[limit]": min(limit, 50),
+                    },
+                )
+                ensure_json_response(response, self.slug)
+            except (httpx.HTTPError, LiveRetailerImportError):
+                continue
             products = response.json().get("resources", {}).get("results", {}).get("products", [])
             for item in products:
                 sku = str(item.get("id") or item.get("handle") or item.get("url"))
@@ -243,16 +248,19 @@ class HealthPostImporter(RetailerImporter):
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
         for term in terms or PERFUME_TERMS:
-            response = await self._get_with_retry(
-                f"{self.base_url}/search/suggest.json",
-                params={
-                    "q": term,
-                    "resources[type]": "product",
-                    "resources[options][unavailable_products]": "last",
-                    "resources[limit]": min(limit, 50),
-                },
-            )
-            ensure_json_response(response, self.slug)
+            try:
+                response = await self._get_with_retry(
+                    f"{self.base_url}/search/suggest.json",
+                    params={
+                        "q": term,
+                        "resources[type]": "product",
+                        "resources[options][unavailable_products]": "last",
+                        "resources[limit]": min(limit, 50),
+                    },
+                )
+                ensure_json_response(response, self.slug)
+            except (httpx.HTTPError, LiveRetailerImportError):
+                continue
             products = response.json().get("resources", {}).get("results", {}).get("products", [])
             for item in products:
                 sku = str(item.get("id") or item.get("handle") or item.get("url"))
@@ -350,15 +358,18 @@ class BrandOutletImporter(RetailerImporter):
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
         for term in terms or PERFUME_TERMS:
-            response = await self._get_with_retry(
-                f"{self.base_url}/search/suggest.json",
-                params={
-                    "q": term,
-                    "resources[type]": "product",
-                    "resources[limit]": min(limit, 50),
-                },
-            )
-            ensure_json_response(response, self.slug)
+            try:
+                response = await self._get_with_retry(
+                    f"{self.base_url}/search/suggest.json",
+                    params={
+                        "q": term,
+                        "resources[type]": "product",
+                        "resources[limit]": min(limit, 50),
+                    },
+                )
+                ensure_json_response(response, self.slug)
+            except (httpx.HTTPError, LiveRetailerImportError):
+                continue
             products = response.json().get("resources", {}).get("results", {}).get("products", [])
             for item in products:
                 sku = str(item.get("id") or item.get("handle") or item.get("url"))
@@ -407,15 +418,18 @@ class PerfumeNZImporter(RetailerImporter):
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
         for term in terms or PERFUME_TERMS:
-            response = await self._get_with_retry(
-                f"{self.base_url}/search/suggest.json",
-                params={
-                    "q": term,
-                    "resources[type]": "product",
-                    "resources[limit]": min(limit, 50),
-                },
-            )
-            ensure_json_response(response, self.slug)
+            try:
+                response = await self._get_with_retry(
+                    f"{self.base_url}/search/suggest.json",
+                    params={
+                        "q": term,
+                        "resources[type]": "product",
+                        "resources[limit]": min(limit, 50),
+                    },
+                )
+                ensure_json_response(response, self.slug)
+            except (httpx.HTTPError, LiveRetailerImportError):
+                continue
             products = response.json().get("resources", {}).get("results", {}).get("products", [])
             for item in products:
                 sku = str(item.get("id") or item.get("handle") or item.get("url"))
@@ -453,6 +467,77 @@ class PerfumeNZImporter(RetailerImporter):
                 if len(rows) >= limit:
                     return rows
         return rows
+
+
+class ShopifyPerfumeSuggestImporter(RetailerImporter):
+    async def fetch_rows(self, terms: list[str] | None = None, limit: int = 100) -> list[dict[str, Any]]:
+        rows: list[dict[str, Any]] = []
+        seen: set[str] = set()
+        for term in terms or PERFUME_TERMS:
+            try:
+                response = await self._get_with_retry(
+                    f"{self.base_url}/search/suggest.json",
+                    params={
+                        "q": term,
+                        "resources[type]": "product",
+                        "resources[limit]": min(limit, 50),
+                    },
+                )
+                ensure_json_response(response, self.slug)
+            except (httpx.HTTPError, LiveRetailerImportError):
+                continue
+            products = response.json().get("resources", {}).get("results", {}).get("products", [])
+            for item in products:
+                sku = str(item.get("id") or item.get("handle") or item.get("url"))
+                if not sku or sku in seen:
+                    continue
+                seen.add(sku)
+                name = item.get("title") or item.get("name")
+                if not name:
+                    continue
+                if not is_perfume_row(name, item.get("body"), item.get("type"), item.get("vendor"), item.get("tags")):
+                    continue
+                price = first_positive_money(
+                    item.get("price_min"),
+                    item.get("price"),
+                    item.get("price_max"),
+                )
+                if not has_positive_money(price):
+                    continue
+                compare_at = first_positive_money(
+                    item.get("compare_at_price_min"),
+                    item.get("compare_at_price_max"),
+                )
+                rows.append(
+                    self._row(
+                        name=name,
+                        brand=item.get("vendor"),
+                        price=price,
+                        original_price=compare_at if parse_money_or_none(compare_at) else None,
+                        url=item.get("url") or f"/products/{item.get('handle')}",
+                        category=category_from_type(item.get("type") or "fragrance"),
+                        product_type=item.get("type") or "fragrance",
+                        image_url=item.get("image") or item.get("featured_image", {}).get("url"),
+                        description=strip_html(item.get("body")),
+                        retailer_sku=sku,
+                        in_stock=bool(item.get("available", True)),
+                    )
+                )
+                if len(rows) >= limit:
+                    return rows
+        return rows
+
+
+class ScentBoutiqueImporter(ShopifyPerfumeSuggestImporter):
+    slug = "scent-boutique"
+    source_name = "scent-boutique-shopify-suggest"
+    base_url = "https://scentboutique.co.nz"
+
+
+class MillerRoadImporter(ShopifyPerfumeSuggestImporter):
+    slug = "miller-road"
+    source_name = "miller-road-shopify-suggest"
+    base_url = "https://millerroad.co.nz"
 
 
 class LushImporter(RetailerImporter):
@@ -650,6 +735,8 @@ def live_importer_for_slug(slug: str) -> RetailerImporter:
         TheWarehouseImporter.slug: TheWarehouseImporter,
         BrandOutletImporter.slug: BrandOutletImporter,
         PerfumeNZImporter.slug: PerfumeNZImporter,
+        ScentBoutiqueImporter.slug: ScentBoutiqueImporter,
+        MillerRoadImporter.slug: MillerRoadImporter,
         LushImporter.slug: LushImporter,
         FarmersImporter.slug: FarmersImporter,
     }
