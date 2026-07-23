@@ -3,8 +3,10 @@ import { AlertCircle, ArrowUpDown, ExternalLink, LoaderCircle, Search } from "lu
 import { Link, useSearchParams } from "react-router-dom";
 import { apiUrl } from "../lib/api";
 import {
+  fetchLatestPerfumeSnapshot,
   formatMoney,
   localPerfumeData,
+  perfumeNotes,
   perfumeSearchText,
   perfumeSlug,
   scentProfileLabels,
@@ -64,11 +66,22 @@ export function PerfumesPage() {
     const controller = new AbortController();
 
     async function load() {
+      let refreshed = false;
       try {
         setLoading(true);
         setError(null);
+        const snapshot = await fetchLatestPerfumeSnapshot();
+        if (controller.signal.aborted) return;
+        setData((current) => mergePerfumeData(current, snapshot));
+        refreshed = true;
+      } catch (err) {
+        if (controller.signal.aborted) return;
+      }
+
+      try {
         const response = await fetch(apiUrl(`/perfumes/live?${LIVE_RETAILER_QUERY}&limit_per_retailer=200`), {
           signal: controller.signal,
+          cache: "no-store",
         });
         if (!response.ok) {
           throw new Error(`Request failed with ${response.status}`);
@@ -77,7 +90,7 @@ export function PerfumesPage() {
         setData((current) => mergePerfumeData(current, json));
       } catch (err) {
         if (controller.signal.aborted) return;
-        setError(err instanceof Error ? err.message : "Unable to load perfumes");
+        if (!refreshed) setError(err instanceof Error ? err.message : "Unable to load perfumes");
       } finally {
         if (!controller.signal.aborted) setLoading(false);
       }
@@ -264,6 +277,7 @@ function PerfumeCard({ item }: { item: LivePerfume }) {
   const retailer = retailerLabel(item.source_name, item.source_url);
   const compareLabel = item.price_per_100ml != null ? `${formatMoney(item.price_per_100ml, item.currency)} / 100ml` : "No 100ml comparison";
   const profiles = scentProfileLabels(item).slice(0, 3);
+  const notes = perfumeNotes(item).all.slice(0, 4);
 
   return (
     <article className="group grid min-h-[206px] grid-cols-[104px_1fr] border border-border bg-white text-inherit transition hover:-translate-y-0.5 hover:shadow-hover sm:grid-cols-[118px_1fr]">
@@ -289,6 +303,11 @@ function PerfumeCard({ item }: { item: LivePerfume }) {
           {profiles.map((profile) => (
             <span key={profile} className="border border-border bg-white px-2 py-1 text-[11px] font-bold text-muted">
               {profile}
+            </span>
+          ))}
+          {notes.map((note) => (
+            <span key={note} className="border border-border bg-white px-2 py-1 text-[11px] font-bold text-muted">
+              {note}
             </span>
           ))}
         </div>

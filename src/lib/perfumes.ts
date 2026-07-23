@@ -41,6 +41,14 @@ type ScentProfile = {
   keywords: string[];
 };
 
+export type PerfumeNotes = {
+  family: string[];
+  top: string[];
+  heart: string[];
+  base: string[];
+  all: string[];
+};
+
 const scentProfiles: ScentProfile[] = [
   { label: "Floral", keywords: ["floral", "flower", "rose", "jasmine", "peony", "tuberose", "iris", "violet", "gardenia", "orange blossom", "ylang"] },
   { label: "Woody", keywords: ["woody", "wood", "cedar", "sandalwood", "oud", "vetiver", "oakmoss", "patchouli", "pine"] },
@@ -58,6 +66,16 @@ const scentProfiles: ScentProfile[] = [
 
 export function localPerfumeData(): PerfumeResponse {
   return scrapedPerfumes as PerfumeResponse;
+}
+
+export async function fetchLatestPerfumeSnapshot() {
+  const configuredUrl = import.meta.env.VITE_SCRAPED_PERFUMES_URL as string | undefined;
+  const snapshotUrl = configuredUrl || "https://raw.githubusercontent.com/izzymckenna/scentra/main/src/data/scraped-perfumes.json";
+  const url = new URL(snapshotUrl);
+  url.searchParams.set("v", Date.now().toString());
+  const response = await fetch(url.toString(), { cache: "no-store" });
+  if (!response.ok) throw new Error(`Snapshot request failed with ${response.status}`);
+  return (await response.json()) as PerfumeResponse;
 }
 
 export function formatMoney(amount: number | null | undefined, currency: string) {
@@ -83,12 +101,122 @@ export function perfumeSearchText(item: LivePerfume) {
     .map((source) => [source.brand, source.name, source.size, source.source_name].filter(Boolean).join(" "))
     .join(" ");
   const profiles = scentProfileLabels(item).join(" ");
-  return [item.brand, item.name, item.size, item.description, item.source_name, profiles, sourceText].filter(Boolean).join(" ").toLowerCase();
+  const notes = perfumeNotes(item).all.join(" ");
+  return [item.brand, item.name, item.size, item.description, item.source_name, profiles, notes, sourceText].filter(Boolean).join(" ").toLowerCase();
 }
 
 export function scentProfileLabels(item: LivePerfume) {
-  const text = [item.brand, item.name, item.description, item.sources?.map((source) => source.name).join(" ")].filter(Boolean).join(" ").toLowerCase();
+  const notes = perfumeNotes(item).all.join(" ");
+  const text = [item.brand, item.name, item.description, notes, item.sources?.map((source) => source.name).join(" ")].filter(Boolean).join(" ").toLowerCase();
   return scentProfiles.filter((profile) => profile.keywords.some((keyword) => text.includes(keyword))).map((profile) => profile.label);
+}
+
+export function perfumeNotes(item: LivePerfume): PerfumeNotes {
+  const description = normalizeDescription(item.description || "");
+  const family = extractLabeledNotes(description, ["fragrance family", "family"]);
+  const top = extractLabeledNotes(description, ["top notes", "top note", "top"]);
+  const heart = extractLabeledNotes(description, ["heart notes", "heart note", "middle notes", "middle note", "heart"]);
+  const base = extractLabeledNotes(description, ["base notes", "base note", "base"]);
+  const fallback = inferLooseNotes([item.name, description].join(" "));
+  const all = uniqueNotes([...family, ...top, ...heart, ...base, ...fallback]);
+  return {
+    family: uniqueNotes(family),
+    top: uniqueNotes(top),
+    heart: uniqueNotes(heart),
+    base: uniqueNotes(base),
+    all,
+  };
+}
+
+function normalizeDescription(value: string) {
+  return value
+    .replace(/[\u2010-\u2015]/g, "-")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function extractLabeledNotes(description: string, labels: string[]) {
+  if (!description) return [];
+  const labelPattern = labels.map(escapeRegExp).join("|");
+  const boundaryLabels = [
+    "fragrance family",
+    "family",
+    "top notes?",
+    "heart notes?",
+    "middle notes?",
+    "base notes?",
+    "accords?",
+    "notes?",
+  ].join("|");
+  const match = description.match(new RegExp(`(?:${labelPattern})\\s*:\\s*(.*?)(?=(?:${boundaryLabels})\\s*:|$)`, "i"));
+  if (!match?.[1]) return [];
+  return splitNotes(match[1]);
+}
+
+function inferLooseNotes(text: string) {
+  const lower = text.toLowerCase();
+  const knownNotes = [
+    "apple",
+    "amber",
+    "bergamot",
+    "black cherry",
+    "caramel",
+    "cedar",
+    "cherry",
+    "citrus",
+    "coconut",
+    "coffee",
+    "fig",
+    "grapefruit",
+    "jasmine",
+    "lavender",
+    "lemon",
+    "mandarin",
+    "musk",
+    "orange blossom",
+    "patchouli",
+    "peach",
+    "pear",
+    "pepper",
+    "pistachio",
+    "plum",
+    "rose",
+    "sandalwood",
+    "strawberry",
+    "tonka",
+    "vanilla",
+    "vetiver",
+    "violet",
+  ];
+  return knownNotes.filter((note) => lower.includes(note));
+}
+
+function splitNotes(value: string) {
+  return uniqueNotes(
+    value
+      .replace(/\b(and|with)\b/gi, ",")
+      .split(/[,;/|]+/)
+      .map((part) => part.replace(/\baccord\b/gi, "").trim())
+      .filter((part) => part.length >= 3 && part.length <= 42)
+      .slice(0, 10),
+  );
+}
+
+function uniqueNotes(notes: string[]) {
+  const seen = new Set<string>();
+  return notes
+    .map((note) => note.replace(/\s+/g, " ").trim())
+    .filter(Boolean)
+    .filter((note) => {
+      const key = note.toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+}
+
+function escapeRegExp(value: string) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 export function scentProfileOptions(items: LivePerfume[]) {

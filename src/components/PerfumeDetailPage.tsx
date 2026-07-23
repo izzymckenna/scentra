@@ -1,9 +1,13 @@
+import { useEffect, useState } from "react";
 import { ArrowLeft, ExternalLink, Search } from "lucide-react";
 import { Link, useParams } from "react-router-dom";
 import {
   comparableSources,
+  fetchLatestPerfumeSnapshot,
   findPerfumeBySlug,
   formatMoney,
+  localPerfumeData,
+  perfumeNotes,
   perfumeSlug,
   scentProfileLabels,
   similarPerfumes,
@@ -13,7 +17,22 @@ import { retailerLabel } from "../lib/pricing";
 
 export function PerfumeDetailPage() {
   const { slug } = useParams();
-  const item = findPerfumeBySlug(slug);
+  const [data, setData] = useState(() => localPerfumeData());
+  const item = findPerfumeBySlug(slug, data.results);
+
+  useEffect(() => {
+    let ignore = false;
+    fetchLatestPerfumeSnapshot()
+      .then((snapshot) => {
+        if (!ignore) setData(snapshot);
+      })
+      .catch(() => {
+        // Keep the bundled snapshot when the network is unavailable.
+      });
+    return () => {
+      ignore = true;
+    };
+  }, []);
 
   if (!item) {
     return (
@@ -34,7 +53,8 @@ export function PerfumeDetailPage() {
 
   const sources = comparableSources(item);
   const profiles = scentProfileLabels(item);
-  const related = similarPerfumes(item);
+  const notes = perfumeNotes(item);
+  const related = similarPerfumes(item, data.results);
   const best = sources[0];
 
   return (
@@ -66,6 +86,15 @@ export function PerfumeDetailPage() {
           </div>
 
           {item.description ? <p className="mt-5 max-w-3xl text-base leading-7 text-muted">{item.description}</p> : null}
+
+          {notes.all.length ? (
+            <div className="mt-6 grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+              <NoteGroup label="Family" notes={notes.family} />
+              <NoteGroup label="Top" notes={notes.top} />
+              <NoteGroup label="Heart" notes={notes.heart} />
+              <NoteGroup label="Base" notes={notes.base} />
+            </div>
+          ) : null}
 
           <div className="mt-6 grid gap-3 sm:grid-cols-3">
             <Stat label="Best price" value={formatMoney(item.price, item.currency)} />
@@ -159,6 +188,25 @@ export function PerfumeDetailPage() {
         </section>
       ) : null}
     </main>
+  );
+}
+
+function NoteGroup({ label, notes }: { label: string; notes: string[] }) {
+  return (
+    <div className="min-h-[92px] border border-border bg-white px-4 py-3">
+      <p className="text-[10px] font-extrabold uppercase tracking-[0.16em] text-muted">{label} notes</p>
+      {notes.length ? (
+        <div className="mt-3 flex flex-wrap gap-2">
+          {notes.map((note) => (
+            <span key={note} className="border border-border bg-surface-soft px-2 py-1 text-xs font-bold text-muted">
+              {note}
+            </span>
+          ))}
+        </div>
+      ) : (
+        <p className="mt-3 text-sm font-semibold text-muted">Not listed</p>
+      )}
+    </div>
   );
 }
 
