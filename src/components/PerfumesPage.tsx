@@ -1,61 +1,23 @@
 import { useEffect, useMemo, useState } from "react";
 import { AlertCircle, ArrowUpDown, ExternalLink, LoaderCircle, Search } from "lucide-react";
-import { Link } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import { apiUrl } from "../lib/api";
-import scrapedPerfumes from "../data/scraped-perfumes.json";
+import {
+  formatMoney,
+  localPerfumeData,
+  perfumeSearchText,
+  perfumeSlug,
+  scentProfileLabels,
+  scentProfileOptions,
+  type LivePerfume,
+  type PerfumeResponse,
+} from "../lib/perfumes";
 import { priceLabel, retailerLabel } from "../lib/pricing";
 
 const LIVE_RETAILER_QUERY =
   "retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=healthpost&retailer_slugs=the-warehouse&retailer_slugs=brand-outlet&retailer_slugs=perfume-nz&retailer_slugs=scent-boutique&retailer_slugs=miller-road";
 
-type LivePerfume = {
-  brand: string;
-  name: string;
-  size?: string | null;
-  size_ml?: number | null;
-  price?: number | null;
-  price_per_100ml?: number | null;
-  currency: string;
-  image_url?: string | null;
-  description?: string | null;
-  source_name: string;
-  source_url: string;
-  source_price?: number | null;
-  source_count: number;
-  sources?: {
-    retailer_slug: string;
-    source_name: string;
-    source_url: string;
-    brand: string;
-    name: string;
-    size?: string | null;
-    price?: number | null;
-    currency: string;
-    image_url?: string | null;
-  }[];
-};
-
-type PerfumeResponse = {
-  count: number;
-  cheapest?: LivePerfume | null;
-  results: LivePerfume[];
-  errors?: { retailer_slug: string; error: string }[];
-};
-
 type SortOption = "value" | "price" | "brand";
-
-function formatMoney(amount: number | null | undefined, currency: string) {
-  if (amount == null || Number.isNaN(amount)) return "—";
-  return new Intl.NumberFormat("en-NZ", {
-    style: "currency",
-    currency,
-    maximumFractionDigits: amount % 1 === 0 ? 0 : 2,
-  }).format(amount);
-}
-
-function localPerfumeData(): PerfumeResponse {
-  return scrapedPerfumes as PerfumeResponse;
-}
 
 function mergePerfumeData(base: PerfumeResponse, incoming: PerfumeResponse): PerfumeResponse {
   const combined = new Map<string, LivePerfume>();
@@ -69,8 +31,13 @@ function mergePerfumeData(base: PerfumeResponse, incoming: PerfumeResponse): Per
     }
     const existingScore = existing.price_per_100ml ?? existing.price ?? Number.POSITIVE_INFINITY;
     const incomingScore = item.price_per_100ml ?? item.price ?? Number.POSITIVE_INFINITY;
+    const sources = [...(existing.sources ?? []), ...(item.sources ?? [])].filter(
+      (source, index, all) => all.findIndex((candidate) => candidate.source_url === source.source_url) === index,
+    );
     if (incomingScore < existingScore) {
-      combined.set(key, item);
+      combined.set(key, { ...item, sources, source_count: sources.length || item.source_count });
+    } else {
+      combined.set(key, { ...existing, sources, source_count: sources.length || existing.source_count });
     }
   }
 
@@ -84,11 +51,13 @@ function mergePerfumeData(base: PerfumeResponse, incoming: PerfumeResponse): Per
 }
 
 export function PerfumesPage() {
+  const [searchParams] = useSearchParams();
   const [data, setData] = useState<PerfumeResponse>(localPerfumeData());
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [query, setQuery] = useState("");
+  const [query, setQuery] = useState(searchParams.get("q") ?? "");
   const [source, setSource] = useState("all");
+  const [profile, setProfile] = useState(searchParams.get("profile") ?? "all");
   const [sort, setSort] = useState<SortOption>("value");
 
   useEffect(() => {
@@ -126,12 +95,19 @@ export function PerfumesPage() {
     return ["all", ...[...names].sort((a, b) => a.localeCompare(b))];
   }, [data.results]);
 
+  const profiles = useMemo(() => ["all", ...scentProfileOptions(data.results ?? [])], [data.results]);
+
   const results = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
     const filtered = (data.results ?? []).filter((item) => {
       const retailer = retailerLabel(item.source_name, item.source_url);
-      const searchable = [item.brand, item.name, item.size, retailer].filter(Boolean).join(" ").toLowerCase();
-      return (!normalizedQuery || searchable.includes(normalizedQuery)) && (source === "all" || retailer === source);
+      const profiles = scentProfileLabels(item);
+      const searchable = [perfumeSearchText(item), retailer].join(" ");
+      return (
+        (!normalizedQuery || searchable.includes(normalizedQuery)) &&
+        (source === "all" || retailer === source) &&
+        (profile === "all" || profiles.includes(profile))
+      );
     });
 
     return [...filtered].sort((a, b) => {
@@ -139,7 +115,7 @@ export function PerfumesPage() {
       if (sort === "brand") return `${a.brand} ${a.name}`.localeCompare(`${b.brand} ${b.name}`);
       return (a.price_per_100ml ?? Number.POSITIVE_INFINITY) - (b.price_per_100ml ?? Number.POSITIVE_INFINITY);
     });
-  }, [data.results, query, sort, source]);
+  }, [data.results, query, sort, source, profile]);
 
   const comparisons = results.filter((item) => item.price_per_100ml != null).length;
 
@@ -165,13 +141,13 @@ export function PerfumesPage() {
       </section>
 
       <section className="sticky top-0 z-20 mt-5 border border-border bg-bg/95 p-3 backdrop-blur">
-        <div className="grid gap-3 lg:grid-cols-[1fr_220px_220px]">
+        <div className="grid gap-3 xl:grid-cols-[1fr_220px_190px_220px]">
           <label className="flex min-h-12 items-center gap-3 border border-border bg-white px-4">
             <Search size={18} className="shrink-0 text-muted" />
             <input
               value={query}
               onChange={(event) => setQuery(event.target.value)}
-              placeholder="Search brand, perfume, size, or retailer"
+              placeholder="Search brand, perfume, note, profile, size, or retailer"
               className="w-full bg-transparent text-sm font-semibold text-primary outline-none placeholder:font-medium placeholder:text-muted"
             />
           </label>
@@ -181,6 +157,16 @@ export function PerfumesPage() {
               {retailers.map((item) => (
                 <option key={item} value={item}>
                   {item === "all" ? "All retailers" : item}
+                </option>
+              ))}
+            </select>
+          </label>
+          <label className="flex min-h-12 items-center gap-3 border border-border bg-white px-4">
+            <span className="text-[10px] font-extrabold uppercase tracking-[0.14em] text-muted">Profile</span>
+            <select value={profile} onChange={(event) => setProfile(event.target.value)} className="min-w-0 flex-1 bg-transparent text-sm font-bold text-primary outline-none">
+              {profiles.map((item) => (
+                <option key={item} value={item}>
+                  {item === "all" ? "All profiles" : item}
                 </option>
               ))}
             </select>
@@ -277,9 +263,10 @@ function StatusMessage({
 function PerfumeCard({ item }: { item: LivePerfume }) {
   const retailer = retailerLabel(item.source_name, item.source_url);
   const compareLabel = item.price_per_100ml != null ? `${formatMoney(item.price_per_100ml, item.currency)} / 100ml` : "No 100ml comparison";
+  const profiles = scentProfileLabels(item).slice(0, 3);
 
   return (
-    <a href={item.source_url} target="_blank" rel="noreferrer" className="group grid min-h-[178px] grid-cols-[104px_1fr] border border-border bg-white text-inherit no-underline transition hover:-translate-y-0.5 hover:shadow-hover sm:grid-cols-[118px_1fr]">
+    <article className="group grid min-h-[206px] grid-cols-[104px_1fr] border border-border bg-white text-inherit transition hover:-translate-y-0.5 hover:shadow-hover sm:grid-cols-[118px_1fr]">
       <div className="h-full min-h-[178px] border-r border-border bg-surface-soft">
         {item.image_url ? (
           <img src={item.image_url} alt={`${item.brand} ${item.name}`} className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.02]" loading="lazy" />
@@ -288,17 +275,22 @@ function PerfumeCard({ item }: { item: LivePerfume }) {
         )}
       </div>
       <div className="flex min-w-0 flex-col p-4">
-        <div className="flex items-start justify-between gap-3">
+        <Link to={`/perfumes/${perfumeSlug(item)}`} className="flex items-start justify-between gap-3 text-inherit no-underline">
           <div className="min-w-0">
             <p className="truncate text-[11px] font-extrabold uppercase tracking-[0.14em] text-muted">{item.brand}</p>
             <h3 className="mt-1 line-clamp-2 font-display text-lg font-normal leading-tight text-primary">{item.name}</h3>
           </div>
-          <ExternalLink size={16} className="mt-1 shrink-0 text-muted transition group-hover:text-primary" />
-        </div>
+          <span className="mt-1 shrink-0 border border-border px-2 py-1 text-[10px] font-extrabold uppercase tracking-[0.12em] text-primary">Details</span>
+        </Link>
 
         <div className="mt-3 flex flex-wrap gap-2">
           <span className="border border-border bg-surface-soft px-2 py-1 text-[11px] font-bold text-muted">{item.size ?? "Unknown size"}</span>
           <span className="border border-border bg-surface-soft px-2 py-1 text-[11px] font-bold text-muted">{retailer}</span>
+          {profiles.map((profile) => (
+            <span key={profile} className="border border-border bg-white px-2 py-1 text-[11px] font-bold text-muted">
+              {profile}
+            </span>
+          ))}
         </div>
 
         <div className="mt-auto pt-4">
@@ -307,8 +299,11 @@ function PerfumeCard({ item }: { item: LivePerfume }) {
             <span className="text-2xl font-extrabold leading-none text-primary">{formatMoney(item.price, item.currency)}</span>
             <span className="text-right text-xs font-bold text-success">{compareLabel}</span>
           </div>
+          <a href={item.source_url} target="_blank" rel="noreferrer" className="mt-3 inline-flex items-center gap-2 text-xs font-extrabold uppercase tracking-[0.12em] text-primary no-underline hover:text-sale">
+            Retailer <ExternalLink size={14} />
+          </a>
         </div>
       </div>
-    </a>
+    </article>
   );
 }

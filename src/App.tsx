@@ -7,6 +7,7 @@ import { ProductPage } from "./components/ProductPage";
 import { AboutPage } from "./components/AboutPage";
 import { NotesPage } from "./components/NotesPage";
 import { ForumPage } from "./components/ForumPage";
+import { PerfumeDetailPage } from "./components/PerfumeDetailPage";
 import { PerfumesPage } from "./components/PerfumesPage";
 import { SignInPage } from "./components/SignInPage";
 import { AuthProvider } from "./lib/auth";
@@ -23,6 +24,7 @@ export default function App() {
           <Route path="/about" element={<AboutPage />} />
           <Route path="/notes" element={<NotesPage />} />
           <Route path="/perfumes" element={<PerfumesPage />} />
+          <Route path="/perfumes/:slug" element={<PerfumeDetailPage />} />
           <Route path="/explore" element={<ExplorePage />} />
           <Route path="/forum" element={<ForumPage />} />
           <Route path="/product/:id" element={<ProductPage />} />
