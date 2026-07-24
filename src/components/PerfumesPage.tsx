@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { AlertCircle, ArrowUpDown, ExternalLink, LoaderCircle, Search } from "lucide-react";
 import { Link, useSearchParams } from "react-router-dom";
-import { apiUrl } from "../lib/api";
+import { localApiUrls } from "../lib/api";
 import {
   fetchLatestPerfumeSnapshot,
   formatMoney,
@@ -20,6 +20,7 @@ const LIVE_RETAILER_QUERY =
   "retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=healthpost&retailer_slugs=the-warehouse&retailer_slugs=brand-outlet&retailer_slugs=perfume-nz&retailer_slugs=scent-boutique&retailer_slugs=miller-road";
 
 type SortOption = "value" | "price" | "brand";
+type LiveStatus = "snapshot" | "live" | "unavailable";
 
 function mergePerfumeData(base: PerfumeResponse, incoming: PerfumeResponse): PerfumeResponse {
   const combined = new Map<string, LivePerfume>();
@@ -57,6 +58,8 @@ export function PerfumesPage() {
   const [data, setData] = useState<PerfumeResponse>(localPerfumeData());
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [liveStatus, setLiveStatus] = useState<LiveStatus>("snapshot");
+  const [liveSource, setLiveSource] = useState<string | null>(null);
   const [query, setQuery] = useState(searchParams.get("q") ?? "");
   const [source, setSource] = useState("all");
   const [profile, setProfile] = useState(searchParams.get("profile") ?? "all");
@@ -70,6 +73,8 @@ export function PerfumesPage() {
       try {
         setLoading(true);
         setError(null);
+        setLiveStatus("snapshot");
+        setLiveSource(null);
         const snapshot = await fetchLatestPerfumeSnapshot();
         if (controller.signal.aborted) return;
         setData((current) => mergePerfumeData(current, snapshot));
@@ -79,17 +84,14 @@ export function PerfumesPage() {
       }
 
       try {
-        const response = await fetch(apiUrl(`/perfumes/live?${LIVE_RETAILER_QUERY}&limit_per_retailer=200`), {
-          signal: controller.signal,
-          cache: "no-store",
-        });
-        if (!response.ok) {
-          throw new Error(`Request failed with ${response.status}`);
-        }
+        const { response, url } = await fetchFirstLiveResponse(`/perfumes/live?${LIVE_RETAILER_QUERY}&limit_per_retailer=80`, controller.signal);
         const json = (await response.json()) as PerfumeResponse;
         setData((current) => mergePerfumeData(current, json));
+        setLiveStatus("live");
+        setLiveSource(new URL(url, window.location.href).origin);
       } catch (err) {
         if (controller.signal.aborted) return;
+        setLiveStatus("unavailable");
         if (!refreshed) setError(err instanceof Error ? err.message : "Unable to load perfumes");
       } finally {
         if (!controller.signal.aborted) setLoading(false);
@@ -150,7 +152,7 @@ export function PerfumesPage() {
       <section className="mt-6 grid gap-3 sm:grid-cols-3">
         <Stat label="Showing" value={results.length} />
         <Stat label="Total scraped" value={data.count ?? 0} />
-        <Stat label="100ml comparisons" value={comparisons} />
+        <Stat label="Live scrape" value={liveStatus === "live" ? "Available" : liveStatus === "unavailable" ? "Snapshot only" : "Checking"} />
       </section>
 
       <section className="sticky top-0 z-20 mt-5 border border-border bg-bg/95 p-3 backdrop-blur">
@@ -195,7 +197,7 @@ export function PerfumesPage() {
         </div>
       </section>
 
-      <StatusMessage loading={loading} error={error} sourceErrors={data.errors ?? []} />
+      <StatusMessage loading={loading} error={error} sourceErrors={data.errors ?? []} liveStatus={liveStatus} liveSource={liveSource} comparisons={comparisons} />
 
       <section className="mt-6">
         <div className="mb-4 flex flex-wrap items-end justify-between gap-3 border-b border-border pb-3">
@@ -225,6 +227,26 @@ export function PerfumesPage() {
   );
 }
 
+async function fetchFirstLiveResponse(path: string, signal: AbortSignal) {
+  const errors: string[] = [];
+  for (const url of localApiUrls(path)) {
+    const timeout = AbortSignal.timeout(75000);
+    const combinedSignal = AbortSignal.any([signal, timeout]);
+    try {
+      const response = await fetch(url, {
+        signal: combinedSignal,
+        cache: "no-store",
+      });
+      if (response.ok) return { response, url };
+      errors.push(`${url}: ${response.status}`);
+    } catch (err) {
+      if (signal.aborted) throw err;
+      errors.push(`${url}: ${err instanceof Error ? err.message : "failed"}`);
+    }
+  }
+  throw new Error(`Live scrape unavailable (${errors.join("; ")})`);
+}
+
 function Stat({ label, value }: { label: string; value: string | number }) {
   return (
     <div className="border border-border bg-white px-4 py-3">
@@ -238,10 +260,16 @@ function StatusMessage({
   loading,
   error,
   sourceErrors,
+  liveStatus,
+  liveSource,
+  comparisons,
 }: {
   loading: boolean;
   error: string | null;
   sourceErrors: { retailer_slug: string; error: string }[];
+  liveStatus: LiveStatus;
+  liveSource: string | null;
+  comparisons: number;
 }) {
   if (loading) {
     return (
@@ -257,6 +285,26 @@ function StatusMessage({
       <div className="mt-4 flex items-start gap-3 border border-border bg-surface-soft px-4 py-3 text-sm text-muted">
         <AlertCircle className="mt-0.5 shrink-0 text-sale" size={18} />
         <span>Live scrape unavailable, showing the latest saved snapshot.</span>
+      </div>
+    );
+  }
+
+  if (liveStatus === "live") {
+    return (
+      <div className="mt-4 flex items-start gap-3 border border-border bg-white px-4 py-3 text-sm text-muted">
+        <span className="mt-1 h-2.5 w-2.5 shrink-0 bg-success" />
+        <span>
+          Live scrape available from {liveSource ?? "local API"} with {comparisons} size-normalized comparisons displayed.
+        </span>
+      </div>
+    );
+  }
+
+  if (liveStatus === "unavailable") {
+    return (
+      <div className="mt-4 flex items-start gap-3 border border-border bg-surface-soft px-4 py-3 text-sm text-muted">
+        <AlertCircle className="mt-0.5 shrink-0 text-sale" size={18} />
+        <span>Live scrape is unavailable, showing the latest saved snapshot from GitHub.</span>
       </div>
     );
   }
