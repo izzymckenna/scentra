@@ -70,32 +70,33 @@ export function LandingPage() {
           <div>
             <span className="mb-2 block text-[11px] uppercase tracking-[0.27em] text-muted">Live NZ Prices</span>
             <h2 className="font-display text-[32px] font-normal leading-tight text-primary">Scraped fragrances from NZ stores</h2>
+            <p className="mt-1 text-xs font-bold uppercase tracking-[0.12em] text-muted">Stored GitHub scrape loaded: {perfumeData.count ?? 0}</p>
           </div>
           <Link to="/perfumes" className="hidden text-sm font-extrabold text-primary hover:text-accent sm:block">
             View all fragrances
           </Link>
         </div>
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-6">
+        <div className="grid gap-2 sm:grid-cols-3 lg:grid-cols-5 xl:grid-cols-8">
           {scrapedFragrances.map((item) => (
-            <article key={`${item.brand}-${item.name}-${item.source_url}`} className="border border-border bg-white p-3">
+            <article key={`${item.brand}-${item.name}-${item.source_url}`} className="border border-border bg-white p-2">
               <Link to={`/perfumes/${perfumeSlug(item)}`} className="block text-inherit no-underline">
                 <div className="aspect-square overflow-hidden border border-border bg-surface-soft">
                   {item.image_url ? <img className="h-full w-full object-cover" src={item.image_url} alt={`${item.brand} ${item.name}`} /> : null}
                 </div>
-                <p className="mt-2 truncate text-[10px] font-semibold uppercase tracking-[0.14em] text-muted">{item.brand}</p>
-                <h3 className="mt-1 line-clamp-2 font-display text-base font-normal leading-tight text-primary">{item.name}</h3>
-                <p className="mt-1 text-xs text-muted">{item.size ?? "Unknown size"}</p>
+                <p className="mt-1.5 truncate text-[9px] font-semibold uppercase tracking-[0.12em] text-muted">{item.brand}</p>
+                <h3 className="mt-0.5 line-clamp-2 font-display text-sm font-normal leading-tight text-primary">{item.name}</h3>
+                <p className="mt-0.5 text-[10px] text-muted">{item.size ?? "Unknown size"}</p>
               </Link>
-              <div className="mt-3 border-t border-border pt-3">
-                <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-muted">{priceLabel(item.source_name, item.source_url)}</p>
-                <div className="mt-1 flex flex-col gap-1">
-                  <p className="text-sm font-extrabold text-primary">{formatMoney(item.price, item.currency)}</p>
-                  <p className="text-[11px] uppercase tracking-[0.14em] text-muted">
+              <div className="mt-2 border-t border-border pt-2">
+                <p className="text-[8px] font-semibold uppercase tracking-[0.14em] text-muted">{priceLabel(item.source_name, item.source_url)}</p>
+                <div className="mt-0.5 flex flex-col gap-0.5">
+                  <p className="text-xs font-extrabold text-primary">{formatMoney(item.price, item.currency)}</p>
+                  <p className="text-[9px] uppercase tracking-[0.12em] text-muted">
                     {item.price_per_100ml != null ? `${formatMoney(item.price_per_100ml, item.currency)} / 100ml` : "100ml compare unavailable"}
                   </p>
                 </div>
-                <p className="mt-2 line-clamp-1 text-[10px] font-semibold uppercase tracking-[0.12em] text-muted">{retailerLabel(item.source_name, item.source_url)}</p>
-                <a href={item.source_url} target="_blank" rel="noreferrer" className="mt-2 inline-flex text-[11px] font-extrabold uppercase tracking-[0.12em] text-primary hover:text-accent">
+                <p className="mt-1.5 line-clamp-1 text-[9px] font-semibold uppercase tracking-[0.1em] text-muted">{retailerLabel(item.source_name, item.source_url)}</p>
+                <a href={item.source_url} target="_blank" rel="noreferrer" className="mt-1 inline-flex text-[9px] font-extrabold uppercase tracking-[0.1em] text-primary hover:text-accent">
                   View source
                 </a>
               </div>

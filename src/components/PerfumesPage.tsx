@@ -151,9 +151,9 @@ export function PerfumesPage() {
         </Link>
       </section>
 
-      <section className="mt-6 grid gap-3 sm:grid-cols-3">
+      <section className="mt-5 grid gap-2 sm:grid-cols-3">
         <Stat label="Showing" value={results.length} />
-        <Stat label="Total scraped" value={data.count ?? 0} />
+        <Stat label="Stored scrape" value={data.count ?? 0} />
         <Stat label="Live scrape" value={liveStatus === "live" ? "Available" : liveStatus === "unavailable" ? "Snapshot only" : "Checking"} />
       </section>
 
@@ -207,11 +207,11 @@ export function PerfumesPage() {
             <span className="block text-[11px] font-bold uppercase tracking-[0.2em] text-muted">Results</span>
             <h2 className="mt-1 font-display text-2xl font-normal text-primary sm:text-3xl">{results.length} perfumes matched</h2>
           </div>
-          <p className="text-sm font-semibold text-muted">Prices open at the source retailer.</p>
+          <p className="text-xs font-bold uppercase tracking-[0.12em] text-muted">Stored GitHub scrape loaded: {data.count ?? 0}</p>
         </div>
 
         {results.length ? (
-          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
+          <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
             {results.map((item) => (
               <PerfumeCard key={`${item.brand}-${item.name}-${item.size}-${item.source_url}`} item={item} />
             ))}
@@ -251,9 +251,9 @@ async function fetchFirstLiveResponse(path: string, signal: AbortSignal) {
 
 function Stat({ label, value }: { label: string; value: string | number }) {
   return (
-    <div className="border border-border bg-white px-4 py-3">
+    <div className="border border-border bg-white px-3 py-2">
       <p className="text-[10px] font-extrabold uppercase tracking-[0.16em] text-muted">{label}</p>
-      <p className="mt-1 font-display text-2xl font-normal leading-none text-primary">{value}</p>
+      <p className="mt-1 font-display text-xl font-normal leading-none text-primary">{value}</p>
     </div>
   );
 }
@@ -296,7 +296,7 @@ function StatusMessage({
       <div className="mt-4 flex items-start gap-3 border border-border bg-white px-4 py-3 text-sm text-muted">
         <span className="mt-1 h-2.5 w-2.5 shrink-0 bg-success" />
         <span>
-          Live scrape available from {liveSource ?? "local API"} with {comparisons} size-normalized comparisons displayed.
+          Live scrape available from {liveSource ?? "local API"}; displaying {comparisons} size-normalized comparisons.
         </span>
       </div>
     );
@@ -306,7 +306,7 @@ function StatusMessage({
     return (
       <div className="mt-4 flex items-start gap-3 border border-border bg-surface-soft px-4 py-3 text-sm text-muted">
         <AlertCircle className="mt-0.5 shrink-0 text-sale" size={18} />
-        <span>Live scrape is unavailable, showing the latest saved snapshot from GitHub.</span>
+        <span>Displaying the latest stored GitHub scrape. Local live scrape is unavailable.</span>
       </div>
     );
   }
@@ -326,49 +326,49 @@ function StatusMessage({
 function PerfumeCard({ item }: { item: LivePerfume }) {
   const retailer = retailerLabel(item.source_name, item.source_url);
   const compareLabel = item.price_per_100ml != null ? `${formatMoney(item.price_per_100ml, item.currency)} / 100ml` : "No 100ml comparison";
-  const profiles = scentProfileLabels(item).slice(0, 3);
-  const notes = perfumeNotes(item).all.slice(0, 4);
+  const profiles = scentProfileLabels(item).slice(0, 1);
+  const notes = perfumeNotes(item).all.slice(0, 2);
 
   return (
-    <article className="group grid min-h-[156px] grid-cols-[82px_1fr] border border-border bg-white text-inherit transition hover:-translate-y-0.5 hover:shadow-hover sm:grid-cols-[94px_1fr]">
-      <div className="h-full min-h-[156px] border-r border-border bg-surface-soft">
+    <article className="group grid min-h-[116px] grid-cols-[62px_1fr] border border-border bg-white text-inherit transition hover:-translate-y-0.5 hover:shadow-hover">
+      <div className="h-full min-h-[116px] border-r border-border bg-surface-soft">
         {item.image_url ? (
           <img src={item.image_url} alt={`${item.brand} ${item.name}`} className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.02]" loading="lazy" />
         ) : (
           <div className="flex h-full items-center justify-center px-3 text-center text-[10px] font-bold uppercase tracking-[0.12em] text-muted">No image</div>
         )}
       </div>
-      <div className="flex min-w-0 flex-col p-3">
-        <Link to={`/perfumes/${perfumeSlug(item)}`} className="flex items-start justify-between gap-3 text-inherit no-underline">
+      <div className="flex min-w-0 flex-col p-2.5">
+        <Link to={`/perfumes/${perfumeSlug(item)}`} className="flex items-start justify-between gap-2 text-inherit no-underline">
           <div className="min-w-0">
-            <p className="truncate text-[11px] font-extrabold uppercase tracking-[0.14em] text-muted">{item.brand}</p>
-            <h3 className="mt-1 line-clamp-2 font-display text-base font-normal leading-tight text-primary">{item.name}</h3>
+            <p className="truncate text-[9px] font-extrabold uppercase tracking-[0.12em] text-muted">{item.brand}</p>
+            <h3 className="mt-0.5 line-clamp-2 font-display text-sm font-normal leading-tight text-primary">{item.name}</h3>
           </div>
-          <span className="mt-1 shrink-0 border border-border px-1.5 py-1 text-[9px] font-extrabold uppercase tracking-[0.12em] text-primary">Details</span>
+          <span className="mt-0.5 shrink-0 border border-border px-1 py-0.5 text-[8px] font-extrabold uppercase tracking-[0.1em] text-primary">Open</span>
         </Link>
 
-        <div className="mt-2 flex flex-wrap gap-1.5">
-          <span className="border border-border bg-surface-soft px-1.5 py-0.5 text-[10px] font-bold text-muted">{item.size ?? "Unknown size"}</span>
-          <span className="border border-border bg-surface-soft px-1.5 py-0.5 text-[10px] font-bold text-muted">{retailer}</span>
+        <div className="mt-1.5 flex flex-wrap gap-1">
+          <span className="border border-border bg-surface-soft px-1 py-0.5 text-[9px] font-bold text-muted">{item.size ?? "Unknown size"}</span>
+          <span className="max-w-[120px] truncate border border-border bg-surface-soft px-1 py-0.5 text-[9px] font-bold text-muted">{retailer}</span>
           {profiles.map((profile) => (
-            <span key={profile} className="border border-border bg-white px-1.5 py-0.5 text-[10px] font-bold text-muted">
+            <span key={profile} className="border border-border bg-white px-1 py-0.5 text-[9px] font-bold text-muted">
               {profile}
             </span>
           ))}
           {notes.map((note) => (
-            <span key={note} className="border border-border bg-white px-1.5 py-0.5 text-[10px] font-bold text-muted">
+            <span key={note} className="border border-border bg-white px-1 py-0.5 text-[9px] font-bold text-muted">
               {note}
             </span>
           ))}
         </div>
 
-        <div className="mt-auto pt-3">
-          <p className="text-[10px] font-extrabold uppercase tracking-[0.14em] text-muted">{priceLabel(item.source_name, item.source_url)}</p>
-          <div className="mt-1 flex items-end justify-between gap-3">
-            <span className="text-xl font-extrabold leading-none text-primary">{formatMoney(item.price, item.currency)}</span>
-            <span className="text-right text-[11px] font-bold text-success">{compareLabel}</span>
+        <div className="mt-auto pt-2">
+          <p className="text-[8px] font-extrabold uppercase tracking-[0.12em] text-muted">{priceLabel(item.source_name, item.source_url)}</p>
+          <div className="mt-0.5 flex items-end justify-between gap-2">
+            <span className="text-base font-extrabold leading-none text-primary">{formatMoney(item.price, item.currency)}</span>
+            <span className="text-right text-[9px] font-bold text-success">{compareLabel}</span>
           </div>
-          <a href={item.source_url} target="_blank" rel="noreferrer" className="mt-2 inline-flex items-center gap-1.5 text-[11px] font-extrabold uppercase tracking-[0.12em] text-primary no-underline hover:text-sale">
+          <a href={item.source_url} target="_blank" rel="noreferrer" className="mt-1.5 inline-flex items-center gap-1 text-[9px] font-extrabold uppercase tracking-[0.1em] text-primary no-underline hover:text-sale">
             Retailer <ExternalLink size={14} />
           </a>
         </div>
