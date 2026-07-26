@@ -70,6 +70,7 @@ export function PerfumesPage() {
 
     async function load() {
       let refreshed = false;
+      let snapshotData: PerfumeResponse | null = null;
       try {
         setLoading(true);
         setError(null);
@@ -77,7 +78,8 @@ export function PerfumesPage() {
         setLiveSource(null);
         const snapshot = await fetchLatestPerfumeSnapshot();
         if (controller.signal.aborted) return;
-        setData((current) => mergePerfumeData(current, snapshot));
+        snapshotData = snapshot;
+        setData(snapshot);
         refreshed = true;
       } catch (err) {
         if (controller.signal.aborted) return;
@@ -86,7 +88,7 @@ export function PerfumesPage() {
       try {
         const { response, url } = await fetchFirstLiveResponse(`/perfumes/live?${LIVE_RETAILER_QUERY}&limit_per_retailer=80`, controller.signal);
         const json = (await response.json()) as PerfumeResponse;
-        setData((current) => mergePerfumeData(current, json));
+        setData((current) => mergePerfumeData(snapshotData ?? current, json));
         setLiveStatus("live");
         setLiveSource(new URL(url, window.location.href).origin);
       } catch (err) {
@@ -209,7 +211,7 @@ export function PerfumesPage() {
         </div>
 
         {results.length ? (
-          <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
+          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
             {results.map((item) => (
               <PerfumeCard key={`${item.brand}-${item.name}-${item.size}-${item.source_url}`} item={item} />
             ))}
@@ -328,45 +330,45 @@ function PerfumeCard({ item }: { item: LivePerfume }) {
   const notes = perfumeNotes(item).all.slice(0, 4);
 
   return (
-    <article className="group grid min-h-[206px] grid-cols-[104px_1fr] border border-border bg-white text-inherit transition hover:-translate-y-0.5 hover:shadow-hover sm:grid-cols-[118px_1fr]">
-      <div className="h-full min-h-[178px] border-r border-border bg-surface-soft">
+    <article className="group grid min-h-[156px] grid-cols-[82px_1fr] border border-border bg-white text-inherit transition hover:-translate-y-0.5 hover:shadow-hover sm:grid-cols-[94px_1fr]">
+      <div className="h-full min-h-[156px] border-r border-border bg-surface-soft">
         {item.image_url ? (
           <img src={item.image_url} alt={`${item.brand} ${item.name}`} className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.02]" loading="lazy" />
         ) : (
           <div className="flex h-full items-center justify-center px-3 text-center text-[10px] font-bold uppercase tracking-[0.12em] text-muted">No image</div>
         )}
       </div>
-      <div className="flex min-w-0 flex-col p-4">
+      <div className="flex min-w-0 flex-col p-3">
         <Link to={`/perfumes/${perfumeSlug(item)}`} className="flex items-start justify-between gap-3 text-inherit no-underline">
           <div className="min-w-0">
             <p className="truncate text-[11px] font-extrabold uppercase tracking-[0.14em] text-muted">{item.brand}</p>
-            <h3 className="mt-1 line-clamp-2 font-display text-lg font-normal leading-tight text-primary">{item.name}</h3>
+            <h3 className="mt-1 line-clamp-2 font-display text-base font-normal leading-tight text-primary">{item.name}</h3>
           </div>
-          <span className="mt-1 shrink-0 border border-border px-2 py-1 text-[10px] font-extrabold uppercase tracking-[0.12em] text-primary">Details</span>
+          <span className="mt-1 shrink-0 border border-border px-1.5 py-1 text-[9px] font-extrabold uppercase tracking-[0.12em] text-primary">Details</span>
         </Link>
 
-        <div className="mt-3 flex flex-wrap gap-2">
-          <span className="border border-border bg-surface-soft px-2 py-1 text-[11px] font-bold text-muted">{item.size ?? "Unknown size"}</span>
-          <span className="border border-border bg-surface-soft px-2 py-1 text-[11px] font-bold text-muted">{retailer}</span>
+        <div className="mt-2 flex flex-wrap gap-1.5">
+          <span className="border border-border bg-surface-soft px-1.5 py-0.5 text-[10px] font-bold text-muted">{item.size ?? "Unknown size"}</span>
+          <span className="border border-border bg-surface-soft px-1.5 py-0.5 text-[10px] font-bold text-muted">{retailer}</span>
           {profiles.map((profile) => (
-            <span key={profile} className="border border-border bg-white px-2 py-1 text-[11px] font-bold text-muted">
+            <span key={profile} className="border border-border bg-white px-1.5 py-0.5 text-[10px] font-bold text-muted">
               {profile}
             </span>
           ))}
           {notes.map((note) => (
-            <span key={note} className="border border-border bg-white px-2 py-1 text-[11px] font-bold text-muted">
+            <span key={note} className="border border-border bg-white px-1.5 py-0.5 text-[10px] font-bold text-muted">
               {note}
             </span>
           ))}
         </div>
 
-        <div className="mt-auto pt-4">
+        <div className="mt-auto pt-3">
           <p className="text-[10px] font-extrabold uppercase tracking-[0.14em] text-muted">{priceLabel(item.source_name, item.source_url)}</p>
           <div className="mt-1 flex items-end justify-between gap-3">
-            <span className="text-2xl font-extrabold leading-none text-primary">{formatMoney(item.price, item.currency)}</span>
-            <span className="text-right text-xs font-bold text-success">{compareLabel}</span>
+            <span className="text-xl font-extrabold leading-none text-primary">{formatMoney(item.price, item.currency)}</span>
+            <span className="text-right text-[11px] font-bold text-success">{compareLabel}</span>
           </div>
-          <a href={item.source_url} target="_blank" rel="noreferrer" className="mt-3 inline-flex items-center gap-2 text-xs font-extrabold uppercase tracking-[0.12em] text-primary no-underline hover:text-sale">
+          <a href={item.source_url} target="_blank" rel="noreferrer" className="mt-2 inline-flex items-center gap-1.5 text-[11px] font-extrabold uppercase tracking-[0.12em] text-primary no-underline hover:text-sale">
             Retailer <ExternalLink size={14} />
           </a>
         </div>

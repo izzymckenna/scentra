@@ -1,28 +1,10 @@
+import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { notes, products } from "../data/products";
 import { ProductCard } from "./ProductCard";
-import scrapedPerfumes from "../data/scraped-perfumes.json";
 import heroBlue from "../assets/hero-oud-incense.png";
+import { fetchLatestPerfumeSnapshot, formatMoney, localPerfumeData, perfumeSlug, type PerfumeResponse } from "../lib/perfumes";
 import { priceLabel, retailerLabel } from "../lib/pricing";
-
-type ScrapedPerfume = {
-  brand: string;
-  name: string;
-  size?: string | null;
-  price?: number | null;
-  price_per_100ml?: number | null;
-  currency: string;
-  image_url?: string | null;
-  source_name: string;
-  source_url: string;
-  source_price?: number | null;
-  source_count: number;
-};
-
-const scrapedFragrances = ((scrapedPerfumes as { results: ScrapedPerfume[] }).results ?? [])
-  .slice()
-  .sort((a, b) => (a.price_per_100ml ?? a.price ?? Number.POSITIVE_INFINITY) - (b.price_per_100ml ?? b.price ?? Number.POSITIVE_INFINITY))
-  .slice(0, 6);
 
 const gourmandProducts = products.filter((product) => {
   const text = [product.category, product.description, ...product.notes, ...(product.badges ?? [])].join(" ").toLowerCase();
@@ -30,6 +12,28 @@ const gourmandProducts = products.filter((product) => {
 });
 
 export function LandingPage() {
+  const [perfumeData, setPerfumeData] = useState<PerfumeResponse>(() => localPerfumeData());
+
+  useEffect(() => {
+    let ignore = false;
+    fetchLatestPerfumeSnapshot()
+      .then((snapshot) => {
+        if (!ignore) setPerfumeData(snapshot);
+      })
+      .catch(() => {
+        // Keep bundled scrape data if the latest GitHub snapshot is unavailable.
+      });
+    return () => {
+      ignore = true;
+    };
+  }, []);
+
+  const scrapedFragrances = useMemo(() => {
+    return [...(perfumeData.results ?? [])]
+      .sort((a, b) => (a.price_per_100ml ?? a.price ?? Number.POSITIVE_INFINITY) - (b.price_per_100ml ?? b.price ?? Number.POSITIVE_INFINITY))
+      .slice(0, 8);
+  }, [perfumeData.results]);
+
   return (
     <>
       <section className="grid gap-5 border-b border-border px-6 py-6 md:grid-cols-[1.12fr_0.88fr] md:gap-12 md:px-12 md:py-12">
@@ -67,35 +71,35 @@ export function LandingPage() {
             <span className="mb-2 block text-[11px] uppercase tracking-[0.27em] text-muted">Live NZ Prices</span>
             <h2 className="font-display text-[32px] font-normal leading-tight text-primary">Scraped fragrances from NZ stores</h2>
           </div>
-          <Link to="/explore" className="hidden text-sm font-extrabold text-primary hover:text-accent sm:block">
+          <Link to="/perfumes" className="hidden text-sm font-extrabold text-primary hover:text-accent sm:block">
             View all fragrances
           </Link>
         </div>
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-6">
           {scrapedFragrances.map((item) => (
-              <article key={`${item.brand}-${item.name}-${item.source_url}`} className="border border-border bg-white p-4">
-                <div className="aspect-[4/5] overflow-hidden border border-border bg-surface-soft">
+            <article key={`${item.brand}-${item.name}-${item.source_url}`} className="border border-border bg-white p-3">
+              <Link to={`/perfumes/${perfumeSlug(item)}`} className="block text-inherit no-underline">
+                <div className="aspect-square overflow-hidden border border-border bg-surface-soft">
                   {item.image_url ? <img className="h-full w-full object-cover" src={item.image_url} alt={`${item.brand} ${item.name}`} /> : null}
                 </div>
-                <p className="mt-3 text-[11px] font-semibold uppercase tracking-[0.14em] text-muted">{item.brand}</p>
-                <h3 className="mt-1 font-display text-xl font-normal leading-tight text-primary">{item.name}</h3>
-                <p className="mt-2 text-sm text-muted">{item.size ?? "Unknown size"}</p>
-                <div className="mt-4 border-t border-border pt-4">
-                  <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-muted">{priceLabel(item.source_name, item.source_url)}</p>
-                  <div className="mt-1 flex flex-col gap-1">
-                    <p className="text-sm font-extrabold text-primary">
-                      {item.currency} {item.price?.toFixed(item.price != null && item.price % 1 !== 0 ? 2 : 0) ?? "—"}
-                    </p>
-                    <p className="text-[11px] uppercase tracking-[0.14em] text-muted">
-                      {item.price_per_100ml != null ? `${item.currency} ${item.price_per_100ml.toFixed(item.price_per_100ml % 1 === 0 ? 0 : 2)} / 100ml` : "100ml compare unavailable"}
-                    </p>
-                  </div>
-                  <p className="mt-2 text-[11px] font-semibold uppercase tracking-[0.12em] text-muted">{retailerLabel(item.source_name, item.source_url)}</p>
-                  <a href={item.source_url} target="_blank" rel="noreferrer" className="mt-2 inline-flex text-xs font-extrabold uppercase tracking-[0.12em] text-primary hover:text-accent">
-                    View source
-                  </a>
+                <p className="mt-2 truncate text-[10px] font-semibold uppercase tracking-[0.14em] text-muted">{item.brand}</p>
+                <h3 className="mt-1 line-clamp-2 font-display text-base font-normal leading-tight text-primary">{item.name}</h3>
+                <p className="mt-1 text-xs text-muted">{item.size ?? "Unknown size"}</p>
+              </Link>
+              <div className="mt-3 border-t border-border pt-3">
+                <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-muted">{priceLabel(item.source_name, item.source_url)}</p>
+                <div className="mt-1 flex flex-col gap-1">
+                  <p className="text-sm font-extrabold text-primary">{formatMoney(item.price, item.currency)}</p>
+                  <p className="text-[11px] uppercase tracking-[0.14em] text-muted">
+                    {item.price_per_100ml != null ? `${formatMoney(item.price_per_100ml, item.currency)} / 100ml` : "100ml compare unavailable"}
+                  </p>
                 </div>
-              </article>
+                <p className="mt-2 line-clamp-1 text-[10px] font-semibold uppercase tracking-[0.12em] text-muted">{retailerLabel(item.source_name, item.source_url)}</p>
+                <a href={item.source_url} target="_blank" rel="noreferrer" className="mt-2 inline-flex text-[11px] font-extrabold uppercase tracking-[0.12em] text-primary hover:text-accent">
+                  View source
+                </a>
+              </div>
+            </article>
           ))}
         </div>
       </section>
