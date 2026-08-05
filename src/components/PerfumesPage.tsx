@@ -3,6 +3,8 @@ import { AlertCircle, ArrowUpDown, ExternalLink, LoaderCircle, Search } from "lu
 import { Link, useSearchParams } from "react-router-dom";
 import { localApiUrls } from "../lib/api";
 import {
+  buildPerfumeComparisons,
+  comparisonSearchText,
   fetchLatestPerfumeSnapshot,
   formatMoney,
   localPerfumeData,
@@ -11,13 +13,15 @@ import {
   perfumeSlug,
   scentProfileLabels,
   scentProfileOptions,
+  sourcePricePer100ml,
   type LivePerfume,
+  type PerfumeComparisonGroup,
   type PerfumeResponse,
 } from "../lib/perfumes";
 import { priceLabel, retailerLabel } from "../lib/pricing";
 
 const LIVE_RETAILER_QUERY =
-  "retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=healthpost&retailer_slugs=the-warehouse&retailer_slugs=brand-outlet&retailer_slugs=perfume-nz&retailer_slugs=scent-boutique&retailer_slugs=miller-road";
+  "retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=healthpost&retailer_slugs=the-warehouse&retailer_slugs=brand-outlet&retailer_slugs=perfume-nz&retailer_slugs=scent-boutique&retailer_slugs=miller-road&retailer_slugs=unichem&retailer_slugs=flo-and-frankie";
 
 type SortOption = "value" | "price" | "brand";
 type LiveStatus = "snapshot" | "live" | "unavailable";
@@ -107,34 +111,39 @@ export function PerfumesPage() {
   const retailers = useMemo(() => {
     const names = new Set<string>();
     for (const item of data.results ?? []) {
-      names.add(retailerLabel(item.source_name, item.source_url));
+      for (const source of item.sources?.length ? item.sources : [{ source_name: item.source_name, source_url: item.source_url }]) {
+        names.add(retailerLabel(source.source_name, source.source_url));
+      }
     }
     return ["all", ...[...names].sort((a, b) => a.localeCompare(b))];
   }, [data.results]);
 
   const profiles = useMemo(() => ["all", ...scentProfileOptions(data.results ?? [])], [data.results]);
 
+  const comparisonGroups = useMemo(() => buildPerfumeComparisons(data.results ?? []), [data.results]);
+
   const results = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
-    const filtered = (data.results ?? []).filter((item) => {
-      const retailer = retailerLabel(item.source_name, item.source_url);
-      const profiles = scentProfileLabels(item);
-      const searchable = [perfumeSearchText(item), retailer].join(" ");
+    const filtered = comparisonGroups.filter((group) => {
+      const retailers = group.sources.map((item) => retailerLabel(item.source_name, item.source_url));
+      const profiles = new Set(group.items.flatMap((item) => scentProfileLabels(item)));
+      const searchable = [comparisonSearchText(group), retailers.join(" ")].join(" ");
       return (
         (!normalizedQuery || searchable.includes(normalizedQuery)) &&
-        (source === "all" || retailer === source) &&
-        (profile === "all" || profiles.includes(profile))
+        (source === "all" || retailers.includes(source)) &&
+        (profile === "all" || profiles.has(profile))
       );
     });
 
     return [...filtered].sort((a, b) => {
-      if (sort === "price") return (a.price ?? Number.POSITIVE_INFINITY) - (b.price ?? Number.POSITIVE_INFINITY);
+      if (sort === "price") return a.lowestPrice - b.lowestPrice;
       if (sort === "brand") return `${a.brand} ${a.name}`.localeCompare(`${b.brand} ${b.name}`);
-      return (a.price_per_100ml ?? Number.POSITIVE_INFINITY) - (b.price_per_100ml ?? Number.POSITIVE_INFINITY);
+      return (a.bestValue ?? Number.POSITIVE_INFINITY) - (b.bestValue ?? Number.POSITIVE_INFINITY);
     });
-  }, [data.results, query, sort, source, profile]);
+  }, [comparisonGroups, query, sort, source, profile]);
 
-  const comparisons = results.filter((item) => item.price_per_100ml != null).length;
+  const exactComparisons = results.filter((item) => item.sources.length > 1).length;
+  const sizeComparisons = results.filter((item) => item.bestValue != null).length;
 
   return (
     <main className="mx-auto max-w-7xl px-5 py-8 md:px-10 lg:px-12">
@@ -152,9 +161,9 @@ export function PerfumesPage() {
       </section>
 
       <section className="mt-5 grid gap-2 sm:grid-cols-3">
-        <Stat label="Showing" value={results.length} />
+        <Stat label="Matched perfumes" value={results.length} />
         <Stat label="Stored scrape" value={data.count ?? 0} />
-        <Stat label="Live scrape" value={liveStatus === "live" ? "Available" : liveStatus === "unavailable" ? "Snapshot only" : "Checking"} />
+        <Stat label="Retailer compares" value={exactComparisons} />
       </section>
 
       <section className="sticky top-0 z-20 mt-5 border border-border bg-bg/95 p-3 backdrop-blur">
@@ -199,21 +208,21 @@ export function PerfumesPage() {
         </div>
       </section>
 
-      <StatusMessage loading={loading} error={error} sourceErrors={data.errors ?? []} liveStatus={liveStatus} liveSource={liveSource} comparisons={comparisons} />
+      <StatusMessage loading={loading} error={error} sourceErrors={data.errors ?? []} liveStatus={liveStatus} liveSource={liveSource} comparisons={sizeComparisons} exactComparisons={exactComparisons} />
 
       <section className="mt-6">
         <div className="mb-4 flex flex-wrap items-end justify-between gap-3 border-b border-border pb-3">
           <div>
             <span className="block text-[11px] font-bold uppercase tracking-[0.2em] text-muted">Results</span>
-            <h2 className="mt-1 font-display text-2xl font-normal text-primary sm:text-3xl">{results.length} perfumes matched</h2>
+            <h2 className="mt-1 font-display text-2xl font-normal text-primary sm:text-3xl">{results.length} perfumes grouped for price comparison</h2>
           </div>
-          <p className="text-xs font-bold uppercase tracking-[0.12em] text-muted">Stored GitHub scrape loaded: {data.count ?? 0}</p>
+          <p className="text-xs font-bold uppercase tracking-[0.12em] text-muted">{exactComparisons} with 2+ retailer listings</p>
         </div>
 
         {results.length ? (
-          <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
-            {results.map((item) => (
-              <PerfumeCard key={`${item.brand}-${item.name}-${item.size}-${item.source_url}`} item={item} />
+          <div className="grid gap-3 lg:grid-cols-2">
+            {results.map((group) => (
+              <PerfumeCard key={group.key} group={group} />
             ))}
           </div>
         ) : (
@@ -265,6 +274,7 @@ function StatusMessage({
   liveStatus,
   liveSource,
   comparisons,
+  exactComparisons,
 }: {
   loading: boolean;
   error: string | null;
@@ -272,6 +282,7 @@ function StatusMessage({
   liveStatus: LiveStatus;
   liveSource: string | null;
   comparisons: number;
+  exactComparisons: number;
 }) {
   if (loading) {
     return (
@@ -296,7 +307,7 @@ function StatusMessage({
       <div className="mt-4 flex items-start gap-3 border border-border bg-white px-4 py-3 text-sm text-muted">
         <span className="mt-1 h-2.5 w-2.5 shrink-0 bg-success" />
         <span>
-          Live scrape available from {liveSource ?? "local API"}; displaying {comparisons} size-normalized comparisons.
+          Live scrape available from {liveSource ?? "local API"}; displaying {exactComparisons} same-perfume retailer comparisons and {comparisons} size-normalized value comparisons.
         </span>
       </div>
     );
@@ -323,53 +334,82 @@ function StatusMessage({
   return null;
 }
 
-function PerfumeCard({ item }: { item: LivePerfume }) {
-  const retailer = retailerLabel(item.source_name, item.source_url);
-  const compareLabel = item.price_per_100ml != null ? `${formatMoney(item.price_per_100ml, item.currency)} / 100ml` : "No 100ml comparison";
-  const profiles = scentProfileLabels(item).slice(0, 1);
-  const notes = perfumeNotes(item).all.slice(0, 2);
+function PerfumeCard({ group }: { group: PerfumeComparisonGroup }) {
+  const item = group.items[0];
+  const compareLabel = group.bestValue != null ? `${formatMoney(group.bestValue, group.currency)} / 100ml` : "No 100ml comparison";
+  const profiles = [...new Set(group.items.flatMap((candidate) => scentProfileLabels(candidate)))].slice(0, 2);
+  const notes = [...new Set(group.items.flatMap((candidate) => perfumeNotes(candidate).all))].slice(0, 3);
+  const retailerCount = new Set(group.sources.map((source) => retailerLabel(source.source_name, source.source_url))).size;
 
   return (
-    <article className="group grid min-h-[116px] grid-cols-[62px_1fr] border border-border bg-white text-inherit transition hover:-translate-y-0.5 hover:shadow-hover">
-      <div className="h-full min-h-[116px] border-r border-border bg-surface-soft">
-        {item.image_url ? (
-          <img src={item.image_url} alt={`${item.brand} ${item.name}`} className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.02]" loading="lazy" />
+    <article className="group grid min-h-[214px] border border-border bg-white text-inherit transition hover:-translate-y-0.5 hover:shadow-hover sm:grid-cols-[116px_1fr]">
+      <div className="min-h-[150px] border-b border-border bg-surface-soft sm:min-h-[214px] sm:border-b-0 sm:border-r">
+        {group.image_url ? (
+          <img src={group.image_url} alt={`${group.brand} ${group.name}`} className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.02]" loading="lazy" />
         ) : (
           <div className="flex h-full items-center justify-center px-3 text-center text-[10px] font-bold uppercase tracking-[0.12em] text-muted">No image</div>
         )}
       </div>
-      <div className="flex min-w-0 flex-col p-2.5">
+      <div className="flex min-w-0 flex-col p-3">
         <Link to={`/perfumes/${perfumeSlug(item)}`} className="flex items-start justify-between gap-2 text-inherit no-underline">
           <div className="min-w-0">
-            <p className="truncate text-[9px] font-extrabold uppercase tracking-[0.12em] text-muted">{item.brand}</p>
-            <h3 className="mt-0.5 line-clamp-2 font-display text-sm font-normal leading-tight text-primary">{item.name}</h3>
+            <p className="truncate text-[10px] font-extrabold uppercase tracking-[0.12em] text-muted">{group.brand}</p>
+            <h3 className="mt-0.5 line-clamp-2 font-display text-lg font-normal leading-tight text-primary">{group.name}</h3>
           </div>
-          <span className="mt-0.5 shrink-0 border border-border px-1 py-0.5 text-[8px] font-extrabold uppercase tracking-[0.1em] text-primary">Open</span>
+          <span className="mt-0.5 shrink-0 border border-border px-2 py-1 text-[9px] font-extrabold uppercase tracking-[0.1em] text-primary">Open</span>
         </Link>
 
-        <div className="mt-1.5 flex flex-wrap gap-1">
-          <span className="border border-border bg-surface-soft px-1 py-0.5 text-[9px] font-bold text-muted">{item.size ?? "Unknown size"}</span>
-          <span className="max-w-[120px] truncate border border-border bg-surface-soft px-1 py-0.5 text-[9px] font-bold text-muted">{retailer}</span>
+        <div className="mt-2 flex flex-wrap gap-1">
+          <span className="border border-border bg-surface-soft px-2 py-1 text-[10px] font-bold text-muted">{group.size ?? "Unknown size"}</span>
+          <span className="border border-border bg-surface-soft px-2 py-1 text-[10px] font-bold text-muted">
+            {retailerCount} retailer{retailerCount === 1 ? "" : "s"}
+          </span>
           {profiles.map((profile) => (
-            <span key={profile} className="border border-border bg-white px-1 py-0.5 text-[9px] font-bold text-muted">
+            <span key={profile} className="border border-border bg-white px-2 py-1 text-[10px] font-bold text-muted">
               {profile}
             </span>
           ))}
           {notes.map((note) => (
-            <span key={note} className="border border-border bg-white px-1 py-0.5 text-[9px] font-bold text-muted">
+            <span key={note} className="border border-border bg-white px-2 py-1 text-[10px] font-bold text-muted">
               {note}
             </span>
           ))}
         </div>
 
-        <div className="mt-auto pt-2">
-          <p className="text-[8px] font-extrabold uppercase tracking-[0.12em] text-muted">{priceLabel(item.source_name, item.source_url)}</p>
-          <div className="mt-0.5 flex items-end justify-between gap-2">
-            <span className="text-base font-extrabold leading-none text-primary">{formatMoney(item.price, item.currency)}</span>
-            <span className="text-right text-[9px] font-bold text-success">{compareLabel}</span>
+        <div className="mt-3 grid gap-2">
+          {group.sources.slice(0, 4).map((source, index) => {
+            const value = sourcePricePer100ml(source);
+            return (
+              <a
+                key={`${source.source_url}-${index}`}
+                href={source.source_url}
+                target="_blank"
+                rel="noreferrer"
+                className="grid grid-cols-[minmax(0,1fr)_auto] items-center gap-3 border border-border bg-surface-soft px-2.5 py-2 text-inherit no-underline hover:bg-white"
+              >
+                <span className="min-w-0">
+                  <span className="block truncate text-[10px] font-extrabold uppercase tracking-[0.1em] text-muted">{retailerLabel(source.source_name, source.source_url).replace(" · NZ retailer", "")}</span>
+                  <span className="block truncate text-[10px] font-semibold text-muted">{source.size ?? group.size ?? "Unknown size"}</span>
+                </span>
+                <span className="text-right">
+                  <span className="block text-sm font-extrabold leading-none text-primary">{formatMoney(source.price, source.currency)}</span>
+                  <span className="mt-1 block text-[9px] font-bold text-success">{value != null ? `${formatMoney(value, source.currency)} / 100ml` : "No value"}</span>
+                </span>
+              </a>
+            );
+          })}
+          {group.sources.length > 4 ? <p className="text-[10px] font-bold text-muted">+ {group.sources.length - 4} more listings on the detail page</p> : null}
+        </div>
+
+        <div className="mt-auto pt-3">
+          <p className="text-[9px] font-extrabold uppercase tracking-[0.12em] text-muted">{priceLabel(group.bestSource.source_name, group.bestSource.source_url)}</p>
+          <div className="mt-1 flex flex-wrap items-end justify-between gap-2">
+            <span className="text-xl font-extrabold leading-none text-primary">{formatMoney(group.lowestPrice, group.currency)}</span>
+            <span className="text-right text-xs font-bold text-success">{compareLabel}</span>
           </div>
-          <a href={item.source_url} target="_blank" rel="noreferrer" className="mt-1.5 inline-flex items-center gap-1 text-[9px] font-extrabold uppercase tracking-[0.1em] text-primary no-underline hover:text-sale">
-            Retailer <ExternalLink size={14} />
+          {group.sources.length > 1 ? <p className="mt-1 text-[10px] font-bold text-sale">Save up to {formatMoney(group.savings, group.currency)} vs highest matched listing</p> : null}
+          <a href={group.bestSource.source_url} target="_blank" rel="noreferrer" className="mt-2 inline-flex items-center gap-1 text-[10px] font-extrabold uppercase tracking-[0.1em] text-primary no-underline hover:text-sale">
+            Best retailer <ExternalLink size={14} />
           </a>
         </div>
       </div>

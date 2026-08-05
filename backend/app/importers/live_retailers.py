@@ -38,11 +38,13 @@ DEFAULT_PERFUME_RETAILERS = [
     "perfume-nz",
     "scent-boutique",
     "miller-road",
+    "unichem",
+    "flo-and-frankie",
 ]
 USER_AGENT = "ScentraBot/0.1 (+https://scentra.local; price comparison import)"
 PERFUME_INCLUDE_RE = re.compile(r"\b(perfume|fragrance|parfum|eau de parfum|eau de toilette|edp|edt|body mist|perfume mist|cologne|extrait)\b", re.IGNORECASE)
 PERFUME_EXCLUDE_RE = re.compile(
-    r"\b(atomiser|atomizer|accessory|case|travel spray|sample|tester|refill|set|gift set|gift pack|"
+    r"\b(accessory|case|travel spray|sample|tester|refill|set|gift set|gift pack|"
     r"fragrance free|lotion|moisturiser|moisturizer|cream|soap|body wash|shampoo|conditioner|workshop|"
     r"deodorant|candle|diffuser)\b",
     re.IGNORECASE,
@@ -470,10 +472,14 @@ class PerfumeNZImporter(RetailerImporter):
 
 
 class ShopifyPerfumeSuggestImporter(RetailerImporter):
+    search_terms: list[str] | None = None
+    include_product_type_in_filter = True
+
     async def fetch_rows(self, terms: list[str] | None = None, limit: int = 100) -> list[dict[str, Any]]:
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
-        for term in terms or PERFUME_TERMS:
+        search_terms = self.search_terms if self.search_terms and (terms is None or terms == PERFUME_TERMS) else terms or PERFUME_TERMS
+        for term in search_terms:
             try:
                 response = await self._get_with_retry(
                     f"{self.base_url}/search/suggest.json",
@@ -495,7 +501,8 @@ class ShopifyPerfumeSuggestImporter(RetailerImporter):
                 name = item.get("title") or item.get("name")
                 if not name:
                     continue
-                if not is_perfume_row(name, item.get("body"), item.get("type"), item.get("vendor"), item.get("tags")):
+                product_type_for_filter = item.get("type") if self.include_product_type_in_filter else None
+                if not is_perfume_row(name, item.get("body"), product_type_for_filter, item.get("vendor"), item.get("tags")):
                     continue
                 price = first_positive_money(
                     item.get("price_min"),
@@ -538,6 +545,20 @@ class MillerRoadImporter(ShopifyPerfumeSuggestImporter):
     slug = "miller-road"
     source_name = "miller-road-shopify-suggest"
     base_url = "https://millerroad.co.nz"
+
+
+class UnichemImporter(ShopifyPerfumeSuggestImporter):
+    slug = "unichem"
+    source_name = "unichem-shopify-suggest"
+    base_url = "https://www.unichem.co.nz"
+
+
+class FloAndFrankieImporter(ShopifyPerfumeSuggestImporter):
+    slug = "flo-and-frankie"
+    source_name = "flo-and-frankie-shopify-suggest"
+    base_url = "https://www.floandfrankie.com"
+    search_terms = ["roll on perfume", "eau de parfum", "perfume oil", "body mist"]
+    include_product_type_in_filter = False
 
 
 class LushImporter(RetailerImporter):
@@ -737,6 +758,8 @@ def live_importer_for_slug(slug: str) -> RetailerImporter:
         PerfumeNZImporter.slug: PerfumeNZImporter,
         ScentBoutiqueImporter.slug: ScentBoutiqueImporter,
         MillerRoadImporter.slug: MillerRoadImporter,
+        UnichemImporter.slug: UnichemImporter,
+        FloAndFrankieImporter.slug: FloAndFrankieImporter,
         LushImporter.slug: LushImporter,
         FarmersImporter.slug: FarmersImporter,
     }

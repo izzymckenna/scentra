@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from decimal import Decimal, InvalidOperation
+from difflib import SequenceMatcher
 from typing import Any
 
 from app.importers import live_importer_for_slug
@@ -9,12 +10,42 @@ from app.utils.normalization import extract_size, normalize_product_name, size_t
 
 
 class PerfumeScrapeService:
+    def _normalized_brand(self, value: str | None) -> str:
+        return normalize_product_name(clean_text(value or "") or "")
+
+    def _normalized_name(self, name: str, brand: str) -> str:
+        return normalize_product_name(name, brand)
+
     def _row_key(self, row: dict[str, Any]) -> str:
         brand = clean_text(str(row.get("brand") or "")) or ""
         name = clean_text(str(row.get("name") or "")) or ""
         size = clean_text(str(row.get("size") or "")) or extract_size(f"{name} {row.get('description') or ''} {row.get('url') or ''}") or ""
-        normalized_name = normalize_product_name(name, brand)
-        return "|".join(part for part in [brand.lower(), normalized_name, size.lower()] if part)
+        normalized_name = self._normalized_name(name, brand)
+        return "|".join(part for part in [self._normalized_brand(brand), normalized_name, size.lower()] if part)
+
+    def _match_key(self, grouped: dict[str, dict[str, Any]], row: dict[str, Any]) -> str:
+        exact_key = self._row_key(row)
+        if exact_key in grouped:
+            return exact_key
+
+        brand = self._normalized_brand(str(row.get("brand") or ""))
+        name = self._normalized_name(str(row.get("name") or ""), str(row.get("brand") or ""))
+        size = clean_text(str(row.get("size") or "")) or ""
+        best_key = exact_key
+        best_score = 0.0
+
+        for key, entry in grouped.items():
+            if self._normalized_brand(str(entry.get("brand") or "")) != brand:
+                continue
+            if (entry.get("size") or "") != size:
+                continue
+            candidate_name = self._normalized_name(str(entry.get("name") or ""), str(entry.get("brand") or ""))
+            score = SequenceMatcher(None, name, candidate_name).ratio()
+            if score > best_score:
+                best_key = key
+                best_score = score
+
+        return best_key if best_score >= 0.9 else exact_key
 
     def _price_decimal(self, value: Any) -> Decimal | None:
         price = parse_money_or_none(value)
@@ -54,7 +85,7 @@ class PerfumeScrapeService:
                 if not name or not brand:
                     continue
                 size = clean_text(str(row.get("size") or "")) or extract_size(f"{name} {row.get('description') or ''} {row.get('url') or ''}")
-                key = self._row_key({**row, "size": size})
+                key = self._match_key(grouped, {**row, "size": size})
                 price = self._price_decimal(row.get("price"))
                 source_price = self._price_decimal(row.get("original_price") or row.get("price"))
                 source = {

@@ -36,6 +36,23 @@ export type PerfumeResponse = {
   errors?: { retailer_slug: string; error: string }[];
 };
 
+export type PerfumeComparisonGroup = {
+  key: string;
+  brand: string;
+  name: string;
+  size?: string | null;
+  currency: string;
+  image_url?: string | null;
+  description?: string | null;
+  items: LivePerfume[];
+  sources: LivePerfumeSource[];
+  bestSource: LivePerfumeSource;
+  lowestPrice: number;
+  highestPrice: number;
+  bestValue: number | null;
+  savings: number;
+};
+
 type ScentProfile = {
   label: string;
   keywords: string[];
@@ -103,6 +120,14 @@ export function perfumeSearchText(item: LivePerfume) {
   const profiles = scentProfileLabels(item).join(" ");
   const notes = perfumeNotes(item).all.join(" ");
   return [item.brand, item.name, item.size, item.description, item.source_name, profiles, notes, sourceText].filter(Boolean).join(" ").toLowerCase();
+}
+
+export function comparisonSearchText(group: PerfumeComparisonGroup) {
+  const sourceText = group.sources
+    .map((source) => [source.brand, source.name, source.size, source.source_name].filter(Boolean).join(" "))
+    .join(" ");
+  const itemText = group.items.map(perfumeSearchText).join(" ");
+  return [group.brand, group.name, group.size, group.description, sourceText, itemText].filter(Boolean).join(" ").toLowerCase();
 }
 
 export function scentProfileLabels(item: LivePerfume) {
@@ -250,6 +275,127 @@ export function comparableSources(item: LivePerfume) {
       ];
 
   return [...sources].sort((a, b) => (a.price ?? Number.POSITIVE_INFINITY) - (b.price ?? Number.POSITIVE_INFINITY));
+}
+
+export function bestRetailerSources(item: LivePerfume) {
+  return uniqueRetailerSources(comparableSources(item));
+}
+
+export function buildPerfumeComparisons(items: LivePerfume[]) {
+  const grouped = new Map<string, LivePerfume[]>();
+
+  for (const item of items) {
+    const key = perfumeComparisonKey(item);
+    const existing = grouped.get(key) ?? [];
+    existing.push(item);
+    grouped.set(key, existing);
+  }
+
+  return [...grouped.entries()]
+    .map((([key, groupItems]): PerfumeComparisonGroup | null => {
+      const sources = uniqueRetailerSources(uniqueSources(groupItems.flatMap(comparableSources)));
+      const sortedSources = sources.sort((a, b) => {
+        const aValue = sourcePricePer100ml(a);
+        const bValue = sourcePricePer100ml(b);
+        return (
+          (a.price ?? Number.POSITIVE_INFINITY) - (b.price ?? Number.POSITIVE_INFINITY) ||
+          (aValue ?? Number.POSITIVE_INFINITY) - (bValue ?? Number.POSITIVE_INFINITY)
+        );
+      });
+      const bestSource = sortedSources[0];
+      if (!bestSource || bestSource.price == null) return null;
+      const priceValues = sortedSources.map((source) => source.price).filter((price): price is number => price != null && Number.isFinite(price));
+      const valueValues = sortedSources.map(sourcePricePer100ml).filter((price): price is number => price != null && Number.isFinite(price));
+      const representative = groupItems
+        .slice()
+        .sort((a, b) => (a.price ?? Number.POSITIVE_INFINITY) - (b.price ?? Number.POSITIVE_INFINITY))[0];
+      const highestPrice = priceValues.length ? Math.max(...priceValues) : bestSource.price;
+
+      return {
+        key,
+        brand: representative.brand,
+        name: representative.name,
+        size: representative.size,
+        currency: representative.currency,
+        image_url: representative.image_url,
+        description: representative.description,
+        items: groupItems,
+        sources: sortedSources,
+        bestSource,
+        lowestPrice: bestSource.price,
+        highestPrice,
+        bestValue: valueValues.length ? Math.min(...valueValues) : null,
+        savings: Math.max(0, highestPrice - bestSource.price),
+      };
+    }))
+    .filter((group): group is PerfumeComparisonGroup => Boolean(group))
+    .sort((a, b) => {
+      const comparisonCount = b.sources.length - a.sources.length;
+      if (comparisonCount !== 0) return comparisonCount;
+      return (a.bestValue ?? a.lowestPrice) - (b.bestValue ?? b.lowestPrice);
+    });
+}
+
+export function perfumeComparisonKey(item: LivePerfume) {
+  const brand = normalizeComparableText(item.brand);
+  const name = normalizeComparableName(item.name, item.brand);
+  const ml = item.size_ml ?? sizeMl(item.size);
+  return [brand, name, ml ? `${ml}ml` : normalizeComparableText(item.size ?? "")].filter(Boolean).join("|");
+}
+
+function uniqueSources(sources: LivePerfumeSource[]) {
+  const seen = new Set<string>();
+  return sources.filter((source) => {
+    const key = source.source_url || [source.source_name, source.brand, source.name, source.size, source.price].join("|");
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+function uniqueRetailerSources(sources: LivePerfumeSource[]) {
+  const byRetailer = new Map<string, LivePerfumeSource>();
+  for (const source of sources) {
+    const key = sourceRetailerKey(source);
+    const existing = byRetailer.get(key);
+    if (!existing || compareSourceValue(source, existing) < 0) {
+      byRetailer.set(key, source);
+    }
+  }
+  return [...byRetailer.values()].sort(compareSourceValue);
+}
+
+function compareSourceValue(a: LivePerfumeSource, b: LivePerfumeSource) {
+  return (
+    (a.price ?? Number.POSITIVE_INFINITY) - (b.price ?? Number.POSITIVE_INFINITY) ||
+    (sourcePricePer100ml(a) ?? Number.POSITIVE_INFINITY) - (sourcePricePer100ml(b) ?? Number.POSITIVE_INFINITY)
+  );
+}
+
+function sourceRetailerKey(source: LivePerfumeSource) {
+  return (source.retailer_slug || source.source_name)
+    .toLowerCase()
+    .replace(/-shopify-suggest|-search-suggest/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
+}
+
+function normalizeComparableName(name: string, brand: string) {
+  return normalizeComparableText(name)
+    .replace(new RegExp(`\\b${escapeRegExp(normalizeComparableText(brand))}\\b`, "g"), " ")
+    .replace(/\b(eau de parfum|eau de toilette|edp|edt|parfum|perfume|fragrance|cologne|body mist|spray|for women|for men|women|men|unisex|by)\b/g, " ")
+    .replace(/\b\d+(?:\.\d+)?\s*(ml|l|oz)\b/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function normalizeComparableText(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9.\s]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 export function sizeMl(size: string | null | undefined) {

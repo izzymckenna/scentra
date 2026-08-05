@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { ArrowLeft, ExternalLink, Search } from "lucide-react";
 import { Link, useParams } from "react-router-dom";
 import {
-  comparableSources,
+  bestRetailerSources,
   fetchLatestPerfumeSnapshot,
   findPerfumeBySlug,
   formatMoney,
@@ -51,7 +51,7 @@ export function PerfumeDetailPage() {
     );
   }
 
-  const sources = comparableSources(item);
+  const sources = bestRetailerSources(item);
   const profiles = scentProfileLabels(item);
   const notes = perfumeNotes(item);
   const related = similarPerfumes(item, data.results);

@@ -113,7 +113,7 @@ Or call:
 ```bash
 curl -X POST http://127.0.0.1:8000/api/admin/imports/live \
   -H 'Content-Type: application/json' \
-  -d '{"retailer_slugs":["life-pharmacy","chemist-warehouse-nz","healthpost","the-warehouse","brand-outlet","perfume-nz","scent-boutique","miller-road"],"terms":["perfume","fragrance"],"limit_per_retailer":100}'
+  -d '{"retailer_slugs":["life-pharmacy","chemist-warehouse-nz","healthpost","the-warehouse","brand-outlet","perfume-nz","scent-boutique","miller-road","unichem","flo-and-frankie"],"terms":["perfume","fragrance"],"limit_per_retailer":100}'
 ```
 
 Use `/api/admin/imports/live/preview` with the same payload to fetch live rows without a database write.

@@ -4,6 +4,7 @@ from app.importers.live_retailers import (
     BrandOutletImporter,
     ChemistWarehouseImporter,
     FarmersImporter,
+    FloAndFrankieImporter,
     HealthPostImporter,
     LifePharmacyImporter,
     LiveRetailerImportError,
@@ -12,6 +13,7 @@ from app.importers.live_retailers import (
     PerfumeNZImporter,
     ScentBoutiqueImporter,
     TheWarehouseImporter,
+    UnichemImporter,
     live_importer_for_slug,
 )
 
@@ -19,6 +21,7 @@ __all__ = [
     "BrandOutletImporter",
     "ChemistWarehouseImporter",
     "FarmersImporter",
+    "FloAndFrankieImporter",
     "HealthPostImporter",
     "LifePharmacyImporter",
     "LiveRetailerImportError",
@@ -27,5 +30,6 @@ __all__ = [
     "PerfumeNZImporter",
     "ScentBoutiqueImporter",
     "TheWarehouseImporter",
+    "UnichemImporter",
     "live_importer_for_slug",
 ]
