@@ -12,7 +12,7 @@ router = APIRouter(tags=["perfumes"])
 async def live_perfumes(
     retailer_slugs: list[str] = Query(default=DEFAULT_PERFUME_RETAILERS),
     terms: list[str] | None = Query(default=None),
-    limit_per_retailer: int = Query(default=100, ge=1, le=200),
+    limit_per_retailer: int = Query(default=100, ge=1, le=1000),
 ):
     payload = await PerfumeScrapeService().scrape(
         retailer_slugs=retailer_slugs,
