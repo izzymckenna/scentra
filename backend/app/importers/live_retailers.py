@@ -89,10 +89,25 @@ DEFAULT_PERFUME_RETAILERS = [
 ]
 USER_AGENT = "ScentraBot/0.1 (+https://scentra.local; price comparison import)"
 PERFUME_INCLUDE_RE = re.compile(r"\b(perfume|fragrance|parfum|eau de parfum|eau de toilette|edp|edt|body mist|perfume mist|cologne|extrait)\b", re.IGNORECASE)
-PERFUME_EXCLUDE_RE = re.compile(
-    r"\b(accessory|case|travel spray|sample|tester|refill|set|gift set|gift pack|"
-    r"fragrance free|home perfume|hair perfume|room spray|lotion|moisturiser|moisturizer|cream|soap|"
-    r"body wash|shampoo|conditioner|workshop|deodorant|candle|diffuser)\b",
+PERFUME_TITLE_SIGNAL_RE = re.compile(
+    r"\b(eau de parfum|eau de toilette|eau de cologne|edp|edt|edc|parfum|perfume|"
+    r"extrait|cologne|body mist|body spray|fragrance mist|perfume mist|perfume oil|solid perfume|aftershave)\b",
+    re.IGNORECASE,
+)
+PERFUME_CATEGORY_RE = re.compile(r"\b(perfume|fragrance|parfum|cologne)\b", re.IGNORECASE)
+NON_WEARABLE_PRODUCT_RE = re.compile(
+    r"\b(accessor(?:y|ies)|case|travel spray|sample|tester|refill|gift set|gift pack|display stand|"
+    r"fragrance[ -]?free|home perfume|home fragrance|hair perfume|room spray|linen spray|pillow spray|"
+    r"laundry|detergent|fabric softener|fabric freshener|dryer balls?|washing[ -]?up|washing liquid|"
+    r"dish[ -]?wash(?:er|ing)?|surface spray|cleaning spray|multi[ -]?purpose spray|floor cleaner|floor wipes?|air freshener|"
+    r"toilet|rimblock|cleaner|cleanser|cleansing|hand wash|face wash|body wash|shower gel|bubble bath|"
+    r"bath oil|bath bomb|bath fizzer|shower bomb|soap|shampoo|conditioner|moisturiser|moisturizer|lotion|"
+    r"hand cream|hand creme|body cream|face cream|serum|sunscreen|spf\s*\d+|make[ -]?up|makeup|lipstick|"
+    r"lip gloss|eyeliner|mascara|foundation|concealer|primer|nail polish|nail colour|sheet mask|face mask|"
+    r"makeup remover|wipes?|sanitiser|sanitizer|disinfect(?:ant)?|deodorant|antiperspirant|toothpaste|"
+    r"essential oil|massage oil|body oil|diffuser|candle|incense|scent stems?|aroma stone|pot[ -]?pourri|"
+    r"body scrub|face scrub|lip balm|hand balm|bikini|workshop|apparel|clothing|t[ -]?shirt|shirt|tee|"
+    r"cleaning spray|cleaning powder|washing powder|fragrance booster)\b",
     re.IGNORECASE,
 )
 
@@ -1089,11 +1104,23 @@ def category_from_type(value: str | None) -> str:
     return "beauty"
 
 
-def is_perfume_row(*values: Any) -> bool:
-    text = " ".join(clean_text(str(value)) for value in values if value)
-    if PERFUME_EXCLUDE_RE.search(text):
+def is_perfume_row(
+    name: Any,
+    description: Any = None,
+    product_type: Any = None,
+    vendor: Any = None,
+    tags: Any = None,
+) -> bool:
+    title = clean_text(str(name)) if name else ""
+    classification = clean_text(str(product_type)) if product_type else ""
+    identity = " ".join(clean_text(str(value)) for value in (title, classification, tags) if value)
+    if NON_WEARABLE_PRODUCT_RE.search(identity):
         return False
-    return bool(PERFUME_INCLUDE_RE.search(text))
+    if PERFUME_TITLE_SIGNAL_RE.search(title):
+        return True
+    # A storefront's explicit product type/category is trusted, but marketing
+    # descriptions and tags are never sufficient evidence on their own.
+    return bool(PERFUME_CATEGORY_RE.search(classification))
 
 
 def chemist_category(item: dict[str, Any]) -> str:

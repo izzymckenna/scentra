@@ -101,6 +101,16 @@ export function localPerfumeData(): PerfumeResponse {
   return filterPerfumeData(scrapedPerfumes as PerfumeResponse);
 }
 
+export async function fetchLatestPerfumeSnapshot() {
+  const configuredUrl = import.meta.env.VITE_SCRAPED_PERFUMES_URL as string | undefined;
+  const snapshotUrl = configuredUrl || "https://raw.githubusercontent.com/izzymckenna/scentra/main/src/data/scraped-perfumes.json";
+  const url = new URL(snapshotUrl);
+  url.searchParams.set("v", Date.now().toString());
+  const response = await fetch(url.toString(), { cache: "no-store" });
+  if (!response.ok) throw new Error(`Snapshot request failed with ${response.status}`);
+  return filterPerfumeData((await response.json()) as PerfumeResponse);
+}
+
 function filterPerfumeData(data: PerfumeResponse): PerfumeResponse {
   const results = (data.results ?? [])
     .map(filterPerfumeItem)
