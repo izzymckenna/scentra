@@ -8,7 +8,6 @@ const navItems = [
   { label: "Deals", to: "/explore?category=deals" },
   { label: "Fragrance", to: "/explore?category=fragrance" },
   { label: "Brands", to: "/explore?category=brands" },
-  { label: "Notes Guide", to: "/notes" },
   { label: "About", to: "/about" },
 ];
 

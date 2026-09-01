@@ -2,7 +2,7 @@ import { Instagram, Twitter, Youtube } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const groups = [
-  { title: "Explore", links: ["Perfumes", "Notes", "About", "Forum"] },
+  { title: "Explore", links: ["Perfumes", "About", "Forum"] },
   { title: "Browse", links: ["Explore", "Fragrance", "Deals"] },
   { title: "Account", links: ["Sign in"] },
 ];
@@ -34,9 +34,7 @@ export function Footer() {
                         ? "/perfumes"
                         : link === "About"
                           ? "/about"
-                          : link === "Notes"
-                            ? "/notes"
-                            : link === "Forum"
+                          : link === "Forum"
                               ? "/forum"
                               : link === "Sign in"
                                 ? "/sign-in"
