@@ -81,18 +81,65 @@ const scentProfiles: ScentProfile[] = [
   { label: "Sweet", keywords: ["sweet", "candy", "cotton candy", "syrup"] },
 ];
 
+export const approvedNzRetailerSlugs = new Set([
+  "life-pharmacy",
+  "chemist-warehouse-nz",
+  "bargain-chemist",
+  "healthpost",
+  "perfume-nz",
+  "scent-boutique",
+  "miller-road",
+  "unichem",
+  "flo-and-frankie",
+  "gadgets-online",
+  "wally",
+  "world",
+  "sisters-and-co",
+]);
+
 export function localPerfumeData(): PerfumeResponse {
-  return scrapedPerfumes as PerfumeResponse;
+  return filterPerfumeData(scrapedPerfumes as PerfumeResponse);
 }
 
-export async function fetchLatestPerfumeSnapshot() {
-  const configuredUrl = import.meta.env.VITE_SCRAPED_PERFUMES_URL as string | undefined;
-  const snapshotUrl = configuredUrl || "https://raw.githubusercontent.com/izzymckenna/scentra/main/src/data/scraped-perfumes.json";
-  const url = new URL(snapshotUrl);
-  url.searchParams.set("v", Date.now().toString());
-  const response = await fetch(url.toString(), { cache: "no-store" });
-  if (!response.ok) throw new Error(`Snapshot request failed with ${response.status}`);
-  return (await response.json()) as PerfumeResponse;
+function filterPerfumeData(data: PerfumeResponse): PerfumeResponse {
+  const results = (data.results ?? [])
+    .map(filterPerfumeItem)
+    .filter((item): item is LivePerfume => Boolean(item))
+    .sort((a, b) => (a.price_per_100ml ?? a.price ?? Number.POSITIVE_INFINITY) - (b.price_per_100ml ?? b.price ?? Number.POSITIVE_INFINITY));
+
+  return {
+    ...data,
+    count: results.length,
+    cheapest: results[0] ?? null,
+    results,
+  };
+}
+
+function filterPerfumeItem(item: LivePerfume): LivePerfume | null {
+  const sources = comparableSources(item).filter(isApprovedPerfumeSource);
+  const bestSource = sources[0];
+  if (!bestSource) return null;
+  const value = sourcePricePer100ml(bestSource);
+
+  return {
+    ...item,
+    source_name: bestSource.source_name,
+    source_url: bestSource.source_url,
+    source_price: bestSource.price ?? item.source_price,
+    price: bestSource.price ?? item.price,
+    price_per_100ml: value ?? item.price_per_100ml,
+    currency: bestSource.currency || item.currency,
+    image_url: bestSource.image_url || item.image_url,
+    size: bestSource.size ?? item.size,
+    size_ml: sizeMl(bestSource.size) ?? item.size_ml,
+    source_count: sources.length,
+    sources,
+  };
+}
+
+function isApprovedPerfumeSource(source: Pick<LivePerfumeSource, "retailer_slug" | "source_name" | "source_url">) {
+  const retailerKey = sourceRetailerKey(source);
+  return approvedNzRetailerSlugs.has(retailerKey);
 }
 
 export function formatMoney(amount: number | null | undefined, currency: string) {
@@ -325,7 +372,7 @@ export function buildPerfumeComparisons(items: LivePerfume[]) {
         lowestPrice: bestSource.price,
         highestPrice,
         bestValue: valueValues.length ? Math.min(...valueValues) : null,
-        savings: Math.max(0, highestPrice - bestSource.price),
+        savings: Math.max(0, Math.round((highestPrice - bestSource.price) * 100) / 100),
       };
     }))
     .filter((group): group is PerfumeComparisonGroup => Boolean(group))
@@ -372,7 +419,7 @@ function compareSourceValue(a: LivePerfumeSource, b: LivePerfumeSource) {
   );
 }
 
-function sourceRetailerKey(source: LivePerfumeSource) {
+function sourceRetailerKey(source: Pick<LivePerfumeSource, "retailer_slug" | "source_name">) {
   return (source.retailer_slug || source.source_name)
     .toLowerCase()
     .replace(/-shopify-suggest|-search-suggest/g, "")

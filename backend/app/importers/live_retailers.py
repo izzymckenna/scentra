@@ -8,7 +8,7 @@ from abc import ABC, abstractmethod
 from decimal import Decimal, InvalidOperation
 from html.parser import HTMLParser
 from typing import Any
-from urllib.parse import urljoin
+from urllib.parse import quote, urljoin
 
 import httpx
 
@@ -29,24 +29,70 @@ PERFUME_TERMS = [
     "cologne",
     "extrait",
 ]
+PERFUME_BRAND_SEARCHES = [
+    ("Ariana Grande", "Ariana Grande"),
+    ("Britney Spears", "Britney Spears"),
+    ("Burberry", "Burberry"),
+    ("Chanel", "Chanel"),
+    ("Chloé", "Chloé"),
+    ("Calvin Klein", "Calvin Klein"),
+    ("Carolina Herrera", "Carolina Herrera"),
+    ("Clinique", "Clinique"),
+    ("Davidoff", "Davidoff"),
+    ("David Beckham", "David Beckham"),
+    ("Dolce & Gabbana", "Dolce & Gabbana"),
+    ("Elizabeth Arden", "Elizabeth Arden"),
+    ("Giorgio Armani", "Giorgio Armani"),
+    ("Gucci", "Gucci"),
+    ("Guess", "Guess"),
+    ("Hugo Boss", "Hugo Boss"),
+    ("Issey Miyake", "Issey Miyake"),
+    ("Jean Paul Gaultier", "Jean Paul Gaultier"),
+    ("Jimmy Choo", "Jimmy Choo"),
+    ("Jo Malone", "Jo Malone"),
+    ("Joop", "Joop"),
+    ("Juicy Couture", "Juicy Couture"),
+    ("Katy Perry", "Katy Perry"),
+    ("Kenzo", "Kenzo"),
+    ("Lancôme", "Lancôme"),
+    ("Lattafa", "Lattafa"),
+    ("Maison Margiela", "Maison Margiela"),
+    ("Marc Jacobs", "Marc Jacobs"),
+    ("Montblanc", "Montblanc"),
+    ("Mugler", "Mugler"),
+    ("Moschino", "Moschino"),
+    ("Narciso Rodriguez", "Narciso Rodriguez"),
+    ("Paco Rabanne", "Paco Rabanne"),
+    ("Paris Hilton", "Paris Hilton"),
+    ("Ralph Lauren", "Ralph Lauren"),
+    ("Rihanna", "Rihanna"),
+    ("Sabrina Carpenter", "Sabrina Carpenter"),
+    ("Tommy Hilfiger", "Tommy Hilfiger"),
+    ("Vera Wang", "Vera Wang"),
+    ("Versace", "Versace"),
+    ("Yves Saint Laurent", "Yves Saint Laurent"),
+]
 DEFAULT_PERFUME_RETAILERS = [
     "life-pharmacy",
     "chemist-warehouse-nz",
+    "bargain-chemist",
     "healthpost",
-    "the-warehouse",
-    "brand-outlet",
     "perfume-nz",
     "scent-boutique",
     "miller-road",
     "unichem",
     "flo-and-frankie",
+    "gadgets-online",
+    "wally",
+    "world",
+    "sisters-and-co",
 ]
 USER_AGENT = "ScentraBot/0.1 (+https://scentra.local; price comparison import)"
 PERFUME_INCLUDE_RE = re.compile(r"\b(perfume|fragrance|parfum|eau de parfum|eau de toilette|edp|edt|body mist|perfume mist|cologne|extrait)\b", re.IGNORECASE)
 PERFUME_EXCLUDE_RE = re.compile(
     r"\b(accessory|case|travel spray|sample|tester|refill|set|gift set|gift pack|"
-    r"fragrance free|lotion|moisturiser|moisturizer|cream|soap|body wash|shampoo|conditioner|workshop|"
-    r"deodorant|candle|diffuser)\b",
+    r"fragrance free|home perfume|hair perfume|room spray|lotion|moisturiser|moisturizer|cream|soap|"
+    r"body wash|shampoo|conditioner|workshop|deodorant|candle|diffuser)\b",
     re.IGNORECASE,
 )
 
@@ -137,20 +183,26 @@ class LifePharmacyImporter(RetailerImporter):
     async def fetch_rows(self, terms: list[str] | None = None, limit: int = 100) -> list[dict[str, Any]]:
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
-        for term in terms or DEFAULT_TERMS:
-            try:
-                response = await self._get_with_retry(
-                    f"{self.base_url}/search/suggest.json",
-                    params={
-                        "q": term,
-                        "resources[type]": "product",
-                        "resources[limit]": min(limit, 50),
-                    },
-                )
-                ensure_json_response(response, self.slug)
-            except (httpx.HTTPError, LiveRetailerImportError):
-                continue
-            products = response.json().get("resources", {}).get("results", {}).get("products", [])
+        catalog_products = await fetch_shopify_catalog_products(self, limit)
+        search_terms = expanded_perfume_terms(terms or DEFAULT_TERMS)
+        for term in [None] if catalog_products is not None else search_terms:
+            if catalog_products is not None:
+                products = catalog_products
+            else:
+                assert term is not None
+                try:
+                    response = await self._get_with_retry(
+                        f"{self.base_url}/search/suggest.json",
+                        params={
+                            "q": term,
+                            "resources[type]": "product",
+                            "resources[limit]": min(limit, 50),
+                        },
+                    )
+                    ensure_json_response(response, self.slug)
+                except (httpx.HTTPError, LiveRetailerImportError):
+                    continue
+                products = response.json().get("resources", {}).get("results", {}).get("products", [])
             for item in products:
                 sku = str(item.get("id") or item.get("handle") or item.get("url"))
                 if not sku or sku in seen:
@@ -197,17 +249,27 @@ class ChemistWarehouseImporter(RetailerImporter):
     async def fetch_rows(self, terms: list[str] | None = None, limit: int = 100) -> list[dict[str, Any]]:
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
-        for term in terms or DEFAULT_TERMS:
+        request_errors: list[str] = []
+        successful_requests = 0
+        requested_terms = terms or DEFAULT_TERMS
+        search_terms = list(requested_terms)
+        if any(term.lower() in PERFUME_TERMS for term in requested_terms):
+            search_terms.extend(query for query, _brand in PERFUME_BRAND_SEARCHES)
+        search_terms = list(dict.fromkeys(search_terms))
+        for term in search_terms:
+            encoded_term = quote(term, safe="")
             try:
                 response = await self._get_with_retry(
-                    f"{self.base_url}/searchapiv2/suggest?&identifier=nz&search={term}",
+                    f"{self.base_url}/searchapiv2/suggest?&identifier=nz&search={encoded_term}",
                     headers={
-                        "Referer": f"{self.base_url}/search?searchtext={term}",
+                        "Referer": f"{self.base_url}/search?searchtext={encoded_term}",
                         "User-Agent": "Mozilla/5.0 ScentraBot/0.1",
                     },
                 )
                 ensure_json_response(response, self.slug)
-            except (httpx.HTTPError, LiveRetailerImportError):
+                successful_requests += 1
+            except (httpx.HTTPError, LiveRetailerImportError) as exc:
+                request_errors.append(summarize_request_error(exc))
                 continue
             groups = response.json().get("suggestionGroups", [])
             products = next((group.get("suggestions", []) for group in groups if group.get("indexName") == "3products"), [])
@@ -216,9 +278,11 @@ class ChemistWarehouseImporter(RetailerImporter):
                 if not sku or sku in seen:
                     continue
                 seen.add(sku)
+                if not is_perfume_row(item.get("name"), chemist_category(item)):
+                    continue
                 brand = item.get("brand")
                 if brand and brand.lower().startswith("cw nz"):
-                    brand = None
+                    brand = infer_chemist_brand(item.get("name"))
                 price = item.get("price")
                 if not has_positive_money(price):
                     continue
@@ -238,6 +302,10 @@ class ChemistWarehouseImporter(RetailerImporter):
                 )
                 if len(rows) >= limit:
                     return rows
+        if successful_requests == 0 and request_errors:
+            raise LiveRetailerImportError(
+                f"{self.slug} returned no usable product responses. Last error: {request_errors[-1]}"
+            )
         return rows
 
 
@@ -249,21 +317,27 @@ class HealthPostImporter(RetailerImporter):
     async def fetch_rows(self, terms: list[str] | None = None, limit: int = 100) -> list[dict[str, Any]]:
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
-        for term in terms or PERFUME_TERMS:
-            try:
-                response = await self._get_with_retry(
-                    f"{self.base_url}/search/suggest.json",
-                    params={
-                        "q": term,
-                        "resources[type]": "product",
-                        "resources[options][unavailable_products]": "last",
-                        "resources[limit]": min(limit, 50),
-                    },
-                )
-                ensure_json_response(response, self.slug)
-            except (httpx.HTTPError, LiveRetailerImportError):
-                continue
-            products = response.json().get("resources", {}).get("results", {}).get("products", [])
+        catalog_products = await fetch_shopify_catalog_products(self, limit)
+        search_terms = expanded_perfume_terms(terms or PERFUME_TERMS)
+        for term in [None] if catalog_products is not None else search_terms:
+            if catalog_products is not None:
+                products = catalog_products
+            else:
+                assert term is not None
+                try:
+                    response = await self._get_with_retry(
+                        f"{self.base_url}/search/suggest.json",
+                        params={
+                            "q": term,
+                            "resources[type]": "product",
+                            "resources[options][unavailable_products]": "last",
+                            "resources[limit]": min(limit, 50),
+                        },
+                    )
+                    ensure_json_response(response, self.slug)
+                except (httpx.HTTPError, LiveRetailerImportError):
+                    continue
+                products = response.json().get("resources", {}).get("results", {}).get("products", [])
             for item in products:
                 sku = str(item.get("id") or item.get("handle") or item.get("url"))
                 if not sku or sku in seen:
@@ -419,20 +493,26 @@ class PerfumeNZImporter(RetailerImporter):
     async def fetch_rows(self, terms: list[str] | None = None, limit: int = 100) -> list[dict[str, Any]]:
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
-        for term in terms or PERFUME_TERMS:
-            try:
-                response = await self._get_with_retry(
-                    f"{self.base_url}/search/suggest.json",
-                    params={
-                        "q": term,
-                        "resources[type]": "product",
-                        "resources[limit]": min(limit, 50),
-                    },
-                )
-                ensure_json_response(response, self.slug)
-            except (httpx.HTTPError, LiveRetailerImportError):
-                continue
-            products = response.json().get("resources", {}).get("results", {}).get("products", [])
+        catalog_products = await fetch_shopify_catalog_products(self, limit)
+        search_terms = expanded_perfume_terms(terms or PERFUME_TERMS)
+        for term in [None] if catalog_products is not None else search_terms:
+            if catalog_products is not None:
+                products = catalog_products
+            else:
+                assert term is not None
+                try:
+                    response = await self._get_with_retry(
+                        f"{self.base_url}/search/suggest.json",
+                        params={
+                            "q": term,
+                            "resources[type]": "product",
+                            "resources[limit]": min(limit, 50),
+                        },
+                    )
+                    ensure_json_response(response, self.slug)
+                except (httpx.HTTPError, LiveRetailerImportError):
+                    continue
+                products = response.json().get("resources", {}).get("results", {}).get("products", [])
             for item in products:
                 sku = str(item.get("id") or item.get("handle") or item.get("url"))
                 if not sku or sku in seen:
@@ -478,21 +558,32 @@ class ShopifyPerfumeSuggestImporter(RetailerImporter):
     async def fetch_rows(self, terms: list[str] | None = None, limit: int = 100) -> list[dict[str, Any]]:
         rows: list[dict[str, Any]] = []
         seen: set[str] = set()
-        search_terms = self.search_terms if self.search_terms and (terms is None or terms == PERFUME_TERMS) else terms or PERFUME_TERMS
-        for term in search_terms:
-            try:
-                response = await self._get_with_retry(
-                    f"{self.base_url}/search/suggest.json",
-                    params={
-                        "q": term,
-                        "resources[type]": "product",
-                        "resources[limit]": min(limit, 50),
-                    },
-                )
-                ensure_json_response(response, self.slug)
-            except (httpx.HTTPError, LiveRetailerImportError):
-                continue
-            products = response.json().get("resources", {}).get("results", {}).get("products", [])
+        request_errors: list[str] = []
+        successful_requests = 0
+        base_terms = self.search_terms if self.search_terms and (terms is None or terms == PERFUME_TERMS) else terms or PERFUME_TERMS
+        search_terms = expanded_perfume_terms(base_terms)
+        catalog_products = await fetch_shopify_catalog_products(self, limit)
+        for term in [None] if catalog_products is not None else search_terms:
+            if catalog_products is not None:
+                products = catalog_products
+                successful_requests += 1
+            else:
+                assert term is not None
+                try:
+                    response = await self._get_with_retry(
+                        f"{self.base_url}/search/suggest.json",
+                        params={
+                            "q": term,
+                            "resources[type]": "product",
+                            "resources[limit]": min(limit, 50),
+                        },
+                    )
+                    ensure_json_response(response, self.slug)
+                    successful_requests += 1
+                except (httpx.HTTPError, LiveRetailerImportError) as exc:
+                    request_errors.append(summarize_request_error(exc))
+                    continue
+                products = response.json().get("resources", {}).get("results", {}).get("products", [])
             for item in products:
                 sku = str(item.get("id") or item.get("handle") or item.get("url"))
                 if not sku or sku in seen:
@@ -532,6 +623,10 @@ class ShopifyPerfumeSuggestImporter(RetailerImporter):
                 )
                 if len(rows) >= limit:
                     return rows
+        if successful_requests == 0 and request_errors:
+            raise LiveRetailerImportError(
+                f"{self.slug} returned no usable product responses. Last error: {request_errors[-1]}"
+            )
         return rows
 
 
@@ -553,12 +648,42 @@ class UnichemImporter(ShopifyPerfumeSuggestImporter):
     base_url = "https://www.unichem.co.nz"
 
 
+class BargainChemistImporter(ShopifyPerfumeSuggestImporter):
+    slug = "bargain-chemist"
+    source_name = "bargain-chemist-shopify-suggest"
+    base_url = "https://www.bargainchemist.co.nz"
+
+
 class FloAndFrankieImporter(ShopifyPerfumeSuggestImporter):
     slug = "flo-and-frankie"
     source_name = "flo-and-frankie-shopify-suggest"
     base_url = "https://www.floandfrankie.com"
     search_terms = ["roll on perfume", "eau de parfum", "perfume oil", "body mist"]
     include_product_type_in_filter = False
+
+
+class GadgetsOnlineImporter(ShopifyPerfumeSuggestImporter):
+    slug = "gadgets-online"
+    source_name = "gadgets-online-shopify-suggest"
+    base_url = "https://www.gadgetsonline.co.nz"
+
+
+class WallyImporter(ShopifyPerfumeSuggestImporter):
+    slug = "wally"
+    source_name = "wally-shopify-suggest"
+    base_url = "https://wally.co.nz"
+
+
+class WorldImporter(ShopifyPerfumeSuggestImporter):
+    slug = "world"
+    source_name = "world-shopify-suggest"
+    base_url = "https://worldbrand.co.nz"
+
+
+class SistersAndCoImporter(ShopifyPerfumeSuggestImporter):
+    slug = "sisters-and-co"
+    source_name = "sisters-and-co-shopify-suggest"
+    base_url = "https://www.sistersandco.com"
 
 
 class LushImporter(RetailerImporter):
@@ -759,7 +884,12 @@ def live_importer_for_slug(slug: str) -> RetailerImporter:
         ScentBoutiqueImporter.slug: ScentBoutiqueImporter,
         MillerRoadImporter.slug: MillerRoadImporter,
         UnichemImporter.slug: UnichemImporter,
+        BargainChemistImporter.slug: BargainChemistImporter,
         FloAndFrankieImporter.slug: FloAndFrankieImporter,
+        GadgetsOnlineImporter.slug: GadgetsOnlineImporter,
+        WallyImporter.slug: WallyImporter,
+        WorldImporter.slug: WorldImporter,
+        SistersAndCoImporter.slug: SistersAndCoImporter,
         LushImporter.slug: LushImporter,
         FarmersImporter.slug: FarmersImporter,
     }
@@ -767,6 +897,95 @@ def live_importer_for_slug(slug: str) -> RetailerImporter:
         return importers[slug]()
     except KeyError as exc:
         raise LiveRetailerImportError(f"No live importer configured for retailer slug '{slug}'.") from exc
+
+
+def expanded_perfume_terms(terms: list[str]) -> list[str]:
+    expanded = list(terms)
+    if any(PERFUME_INCLUDE_RE.search(term) for term in terms):
+        expanded.extend(query for query, _brand in PERFUME_BRAND_SEARCHES)
+    return list(dict.fromkeys(expanded))
+
+
+async def fetch_shopify_catalog_products(
+    importer: RetailerImporter,
+    limit: int,
+    *,
+    max_pages: int = 40,
+) -> list[dict[str, Any]] | None:
+    """Return fragrance products from Shopify's catalogue, or None if unavailable."""
+    matches: list[dict[str, Any]] = []
+    page_size = 250
+    for page in range(1, max_pages + 1):
+        try:
+            response = await importer._get_with_retry(
+                f"{importer.base_url}/products.json",
+                params={"limit": page_size, "page": page},
+            )
+            ensure_json_response(response, importer.slug)
+        except (httpx.HTTPError, LiveRetailerImportError):
+            return None
+
+        products = response.json().get("products", [])
+        if not isinstance(products, list):
+            return None
+        for product in products:
+            normalized = normalize_shopify_catalog_product(product)
+            if not normalized or not is_perfume_row(
+                normalized.get("title"),
+                normalized.get("body"),
+                normalized.get("type"),
+                normalized.get("vendor"),
+                normalized.get("tags"),
+            ):
+                continue
+            matches.append(normalized)
+            if len(matches) >= limit:
+                return matches
+        if len(products) < page_size:
+            break
+    return matches
+
+
+def normalize_shopify_catalog_product(product: dict[str, Any]) -> dict[str, Any] | None:
+    handle = product.get("handle")
+    if not handle or not product.get("title"):
+        return None
+    variants = product.get("variants") if isinstance(product.get("variants"), list) else []
+    priced_variants = [
+        (price, variant)
+        for variant in variants
+        if (price := parse_money_or_none(variant.get("price"))) is not None and price > 0
+    ]
+    if not priced_variants:
+        return None
+    price, cheapest_variant = min(priced_variants, key=lambda entry: entry[0])
+    compare_at_prices = [
+        compare_at
+        for variant in variants
+        if (compare_at := parse_money_or_none(variant.get("compare_at_price"))) is not None and compare_at > 0
+    ]
+    image = product.get("image") if isinstance(product.get("image"), dict) else {}
+    images = product.get("images") if isinstance(product.get("images"), list) else []
+    image_url = image.get("src") or (images[0].get("src") if images and isinstance(images[0], dict) else None)
+    return {
+        "id": product.get("id") or handle,
+        "handle": handle,
+        "title": product.get("title"),
+        "vendor": product.get("vendor"),
+        "type": product.get("product_type"),
+        "body": product.get("body_html"),
+        "tags": product.get("tags"),
+        "price": str(price),
+        "price_min": str(price),
+        "price_max": str(max(entry[0] for entry in priced_variants)),
+        "compare_at_price_min": str(min(compare_at_prices)) if compare_at_prices else None,
+        "compare_at_price_max": str(max(compare_at_prices)) if compare_at_prices else None,
+        "url": f"/products/{handle}",
+        "image": image_url,
+        "featured_image": {"url": image_url},
+        "available": any(bool(variant.get("available", True)) for variant in variants),
+        "variant_id": cheapest_variant.get("id"),
+    }
 
 
 def ensure_json_response(response: httpx.Response, retailer_slug: str) -> None:
@@ -781,6 +1000,12 @@ def ensure_json_response(response: httpx.Response, retailer_slug: str) -> None:
         if is_waf_deny(response.text) or "Something went wrong" in response.text:
             raise LiveRetailerImportError(f"{retailer_slug} returned a block/error page instead of product JSON.")
         raise LiveRetailerImportError(f"{retailer_slug} returned non-JSON content: {content_type}")
+
+
+def summarize_request_error(exc: Exception) -> str:
+    if isinstance(exc, httpx.HTTPStatusError):
+        return f"HTTP {exc.response.status_code} from {exc.response.url.host}"
+    return clean_text(str(exc)) or type(exc).__name__
 
 
 def is_waf_deny(html: str) -> bool:
@@ -843,6 +1068,14 @@ def infer_brand(name: str) -> str:
     return words[0]
 
 
+def infer_chemist_brand(name: str | None) -> str | None:
+    normalized_name = clean_text(name).casefold() if clean_text(name) else ""
+    for query, brand in sorted(PERFUME_BRAND_SEARCHES, key=lambda item: len(item[0]), reverse=True):
+        if query.casefold() in normalized_name:
+            return brand
+    return None
+
+
 def category_from_type(value: str | None) -> str:
     normalized = (value or "beauty").lower()
     if "fragrance" in normalized or "perfume" in normalized or "cologne" in normalized:
@@ -865,7 +1098,7 @@ def is_perfume_row(*values: Any) -> bool:
 
 def chemist_category(item: dict[str, Any]) -> str:
     l2 = str(item.get("l2_category") or "")
-    if l2 == "542":
+    if l2 in {"542", "5070"}:
         return "fragrance"
     name = str(item.get("name") or "")
     return category_from_type(name)

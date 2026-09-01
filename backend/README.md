@@ -50,7 +50,7 @@ API docs: `http://localhost:8000/docs`
 
 Stores are restricted to `country_code = 'NZ'`, include suburb/city/region/postcode fields, and store a PostGIS `geography(Point, 4326)` for accurate distance queries in metres. Offers can be online-only (`store_id = null`) or store-specific for click-and-collect and local stock.
 
-Seed retailers include Chemist Warehouse NZ, Life Pharmacy, Lush, Farmers, Sephora NZ, and The Warehouse as approved starter sources.
+Seed retailers include Chemist Warehouse NZ, Life Pharmacy, Lush, Farmers, and Sephora NZ as approved starter sources.
 
 ## Daily Import Pipeline
 
@@ -87,14 +87,11 @@ Set `NIGHTLY_CRON_TOKEN` in the backend environment and send it as `X-Cron-Token
 
 Live importers are configured for:
 
-- Life Pharmacy: Shopify `search/suggest.json` product endpoint.
-- Chemist Warehouse NZ: public `searchapiv2/suggest` product suggestions.
-- HealthPost: Shopify `search/suggest.json` product endpoint.
-- The Warehouse: public fragrance category product tiles.
-- The Brand Outlet: Shopify `search/suggest.json` product endpoint.
-- Perfume NZ: Shopify `search/suggest.json` product endpoint.
+- Life Pharmacy: full public Shopify product catalogue, with brand-by-brand predictive search as a fallback.
+- Chemist Warehouse NZ: public `searchapiv2/suggest` product suggestions, expanded with brand-level fragrance searches so ranges are not limited to the first generic autocomplete results.
+- Bargain Chemist, HealthPost, Perfume NZ, Scent Boutique, Miller Road, Unichem, Flo & Frankie, Gadgets Online, Wally, WORLD, and Sisters & Co: full public Shopify product catalogues, with brand-by-brand predictive search as a fallback.
 - Lush NZ: configured but not used by default; the current storefront blocks or does not expose the product suggest endpoint this importer expects.
-- Farmers: public search page JSON-LD parser, with explicit failure reporting when Akamai/WAF blocks the request.
+- Farmers: public search page JSON-LD parser, with explicit failure reporting when Akamai/WAF blocks the request. Farmers currently returns its WAF deny page to this scraper network, so it remains available as an opt-in importer rather than a default source.
 
 Run all three:
 
@@ -113,7 +110,7 @@ Or call:
 ```bash
 curl -X POST http://127.0.0.1:8000/api/admin/imports/live \
   -H 'Content-Type: application/json' \
-  -d '{"retailer_slugs":["life-pharmacy","chemist-warehouse-nz","healthpost","the-warehouse","brand-outlet","perfume-nz","scent-boutique","miller-road","unichem","flo-and-frankie"],"terms":["perfume","fragrance"],"limit_per_retailer":100}'
+  -d '{"retailer_slugs":["life-pharmacy","chemist-warehouse-nz","bargain-chemist","healthpost","perfume-nz","scent-boutique","miller-road","unichem","flo-and-frankie","gadgets-online","wally","world","sisters-and-co"],"terms":["perfume","fragrance"],"limit_per_retailer":100}'
 ```
 
 Use `/api/admin/imports/live/preview` with the same payload to fetch live rows without a database write.

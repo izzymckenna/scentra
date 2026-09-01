@@ -1,11 +1,9 @@
-import { useEffect, useMemo, useState } from "react";
-import { AlertCircle, ArrowUpDown, ExternalLink, LoaderCircle, Search } from "lucide-react";
+import { useMemo, useState } from "react";
+import { AlertCircle, ArrowUpDown, ExternalLink, Search } from "lucide-react";
 import { Link, useSearchParams } from "react-router-dom";
-import { localApiUrls } from "../lib/api";
 import {
   buildPerfumeComparisons,
   comparisonSearchText,
-  fetchLatestPerfumeSnapshot,
   formatMoney,
   localPerfumeData,
   perfumeNotes,
@@ -14,99 +12,20 @@ import {
   scentProfileLabels,
   scentProfileOptions,
   sourcePricePer100ml,
-  type LivePerfume,
   type PerfumeComparisonGroup,
-  type PerfumeResponse,
 } from "../lib/perfumes";
 import { priceLabel, retailerLabel } from "../lib/pricing";
 
-const LIVE_RETAILER_QUERY =
-  "retailer_slugs=life-pharmacy&retailer_slugs=chemist-warehouse-nz&retailer_slugs=healthpost&retailer_slugs=the-warehouse&retailer_slugs=brand-outlet&retailer_slugs=perfume-nz&retailer_slugs=scent-boutique&retailer_slugs=miller-road&retailer_slugs=unichem&retailer_slugs=flo-and-frankie";
-
 type SortOption = "value" | "price" | "brand";
-type LiveStatus = "snapshot" | "live" | "unavailable";
-
-function mergePerfumeData(base: PerfumeResponse, incoming: PerfumeResponse): PerfumeResponse {
-  const combined = new Map<string, LivePerfume>();
-
-  for (const item of [...base.results, ...incoming.results]) {
-    const key = [item.brand, item.name, item.size ?? ""].map((value) => value.toLowerCase()).join("|");
-    const existing = combined.get(key);
-    if (!existing) {
-      combined.set(key, item);
-      continue;
-    }
-    const existingScore = existing.price_per_100ml ?? existing.price ?? Number.POSITIVE_INFINITY;
-    const incomingScore = item.price_per_100ml ?? item.price ?? Number.POSITIVE_INFINITY;
-    const sources = [...(existing.sources ?? []), ...(item.sources ?? [])].filter(
-      (source, index, all) => all.findIndex((candidate) => candidate.source_url === source.source_url) === index,
-    );
-    if (incomingScore < existingScore) {
-      combined.set(key, { ...item, sources, source_count: sources.length || item.source_count });
-    } else {
-      combined.set(key, { ...existing, sources, source_count: sources.length || existing.source_count });
-    }
-  }
-
-  const results = [...combined.values()].sort((a, b) => (a.price_per_100ml ?? a.price ?? 0) - (b.price_per_100ml ?? b.price ?? 0));
-  return {
-    count: results.length,
-    cheapest: results[0] ?? null,
-    results,
-    errors: incoming.errors,
-  };
-}
+const storedPerfumeData = localPerfumeData();
 
 export function PerfumesPage() {
   const [searchParams] = useSearchParams();
-  const [data, setData] = useState<PerfumeResponse>(localPerfumeData());
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-  const [liveStatus, setLiveStatus] = useState<LiveStatus>("snapshot");
-  const [liveSource, setLiveSource] = useState<string | null>(null);
+  const data = storedPerfumeData;
   const [query, setQuery] = useState(searchParams.get("q") ?? "");
   const [source, setSource] = useState("all");
   const [profile, setProfile] = useState(searchParams.get("profile") ?? "all");
   const [sort, setSort] = useState<SortOption>("value");
-
-  useEffect(() => {
-    const controller = new AbortController();
-
-    async function load() {
-      let refreshed = false;
-      let snapshotData: PerfumeResponse | null = null;
-      try {
-        setLoading(true);
-        setError(null);
-        setLiveStatus("snapshot");
-        setLiveSource(null);
-        const snapshot = await fetchLatestPerfumeSnapshot();
-        if (controller.signal.aborted) return;
-        snapshotData = snapshot;
-        setData(snapshot);
-        refreshed = true;
-      } catch (err) {
-        if (controller.signal.aborted) return;
-      }
-
-      try {
-        const { response, url } = await fetchFirstLiveResponse(`/perfumes/live?${LIVE_RETAILER_QUERY}&limit_per_retailer=80`, controller.signal);
-        const json = (await response.json()) as PerfumeResponse;
-        setData((current) => mergePerfumeData(snapshotData ?? current, json));
-        setLiveStatus("live");
-        setLiveSource(new URL(url, window.location.href).origin);
-      } catch (err) {
-        if (controller.signal.aborted) return;
-        setLiveStatus("unavailable");
-        if (!refreshed) setError(err instanceof Error ? err.message : "Unable to load perfumes");
-      } finally {
-        if (!controller.signal.aborted) setLoading(false);
-      }
-    }
-
-    void load();
-    return () => controller.abort();
-  }, []);
 
   const retailers = useMemo(() => {
     const names = new Set<string>();
@@ -149,10 +68,10 @@ export function PerfumesPage() {
     <main className="mx-auto max-w-7xl px-5 py-8 md:px-10 lg:px-12">
       <section className="grid gap-6 border-b border-border pb-6 lg:grid-cols-[1fr_auto] lg:items-end">
         <div>
-          <span className="block text-[11px] font-bold uppercase tracking-[0.24em] text-muted">Live retailer prices</span>
-          <h1 className="mt-3 font-display text-4xl font-normal leading-tight text-primary sm:text-5xl">Scraped perfumes</h1>
+          <span className="block text-[11px] font-bold uppercase tracking-[0.24em] text-muted">Stored NZ retailer prices</span>
+          <h1 className="mt-3 font-display text-4xl font-normal leading-tight text-primary sm:text-5xl">Current fragrance scrape</h1>
           <p className="mt-3 max-w-2xl text-base leading-7 text-muted">
-            A cleaned-up price board from NZ retailer and perfume outlet sources, sorted for quick value comparison.
+            Only saved fragrance listings from approved New Zealand retailers, sorted for quick value comparison.
           </p>
         </div>
         <Link to="/explore" className="inline-flex w-fit border border-primary bg-primary px-5 py-3 text-xs font-extrabold uppercase tracking-[0.12em] text-white hover:bg-primary-2">
@@ -162,7 +81,7 @@ export function PerfumesPage() {
 
       <section className="mt-5 grid gap-2 sm:grid-cols-3">
         <Stat label="Matched perfumes" value={results.length} />
-        <Stat label="Stored scrape" value={data.count ?? 0} />
+        <Stat label="Stored NZ listings" value={data.count ?? 0} />
         <Stat label="Retailer compares" value={exactComparisons} />
       </section>
 
@@ -208,7 +127,7 @@ export function PerfumesPage() {
         </div>
       </section>
 
-      <StatusMessage loading={loading} error={error} sourceErrors={data.errors ?? []} liveStatus={liveStatus} liveSource={liveSource} comparisons={sizeComparisons} exactComparisons={exactComparisons} />
+      <StatusMessage sourceErrors={data.errors ?? []} comparisons={sizeComparisons} exactComparisons={exactComparisons} />
 
       <section className="mt-6">
         <div className="mb-4 flex flex-wrap items-end justify-between gap-3 border-b border-border pb-3">
@@ -238,26 +157,6 @@ export function PerfumesPage() {
   );
 }
 
-async function fetchFirstLiveResponse(path: string, signal: AbortSignal) {
-  const errors: string[] = [];
-  for (const url of localApiUrls(path)) {
-    const timeout = AbortSignal.timeout(75000);
-    const combinedSignal = AbortSignal.any([signal, timeout]);
-    try {
-      const response = await fetch(url, {
-        signal: combinedSignal,
-        cache: "no-store",
-      });
-      if (response.ok) return { response, url };
-      errors.push(`${url}: ${response.status}`);
-    } catch (err) {
-      if (signal.aborted) throw err;
-      errors.push(`${url}: ${err instanceof Error ? err.message : "failed"}`);
-    }
-  }
-  throw new Error(`Live scrape unavailable (${errors.join("; ")})`);
-}
-
 function Stat({ label, value }: { label: string; value: string | number }) {
   return (
     <div className="border border-border bg-white px-3 py-2">
@@ -268,60 +167,14 @@ function Stat({ label, value }: { label: string; value: string | number }) {
 }
 
 function StatusMessage({
-  loading,
-  error,
   sourceErrors,
-  liveStatus,
-  liveSource,
   comparisons,
   exactComparisons,
 }: {
-  loading: boolean;
-  error: string | null;
   sourceErrors: { retailer_slug: string; error: string }[];
-  liveStatus: LiveStatus;
-  liveSource: string | null;
   comparisons: number;
   exactComparisons: number;
 }) {
-  if (loading) {
-    return (
-      <div className="mt-4 flex items-center gap-3 border border-border bg-white px-4 py-3 text-sm font-semibold text-muted">
-        <LoaderCircle className="animate-spin" size={18} />
-        Refreshing live prices...
-      </div>
-    );
-  }
-
-  if (error) {
-    return (
-      <div className="mt-4 flex items-start gap-3 border border-border bg-surface-soft px-4 py-3 text-sm text-muted">
-        <AlertCircle className="mt-0.5 shrink-0 text-sale" size={18} />
-        <span>Live scrape unavailable, showing the latest saved snapshot.</span>
-      </div>
-    );
-  }
-
-  if (liveStatus === "live") {
-    return (
-      <div className="mt-4 flex items-start gap-3 border border-border bg-white px-4 py-3 text-sm text-muted">
-        <span className="mt-1 h-2.5 w-2.5 shrink-0 bg-success" />
-        <span>
-          Live scrape available from {liveSource ?? "local API"}; displaying {exactComparisons} same-perfume retailer comparisons and {comparisons} size-normalized value comparisons.
-        </span>
-      </div>
-    );
-  }
-
-  if (liveStatus === "unavailable") {
-    return (
-      <div className="mt-4 flex items-start gap-3 border border-border bg-surface-soft px-4 py-3 text-sm text-muted">
-        <AlertCircle className="mt-0.5 shrink-0 text-sale" size={18} />
-        <span>Displaying the latest stored GitHub scrape. Local live scrape is unavailable.</span>
-      </div>
-    );
-  }
-
   if (sourceErrors.length) {
     return (
       <div className="mt-4 flex items-start gap-3 border border-border bg-surface-soft px-4 py-3 text-sm text-muted">
@@ -331,12 +184,18 @@ function StatusMessage({
     );
   }
 
-  return null;
+  return (
+    <div className="mt-4 flex items-start gap-3 border border-border bg-white px-4 py-3 text-sm text-muted">
+      <span className="mt-1 h-2.5 w-2.5 shrink-0 bg-success" />
+      <span>Using the stored NZ-only scrape: {exactComparisons} same-fragrance retailer comparisons and {comparisons} size-normalized value comparisons.</span>
+    </div>
+  );
 }
 
 function PerfumeCard({ group }: { group: PerfumeComparisonGroup }) {
   const item = group.items[0];
   const compareLabel = group.bestValue != null ? `${formatMoney(group.bestValue, group.currency)} / 100ml` : "No 100ml comparison";
+  const hasMeaningfulSavings = group.sources.length > 1 && group.savings >= 0.01;
   const profiles = [...new Set(group.items.flatMap((candidate) => scentProfileLabels(candidate)))].slice(0, 2);
   const notes = [...new Set(group.items.flatMap((candidate) => perfumeNotes(candidate).all))].slice(0, 3);
   const retailerCount = new Set(group.sources.map((source) => retailerLabel(source.source_name, source.source_url))).size;
@@ -393,7 +252,7 @@ function PerfumeCard({ group }: { group: PerfumeComparisonGroup }) {
                 </span>
                 <span className="text-right">
                   <span className="block text-sm font-extrabold leading-none text-primary">{formatMoney(source.price, source.currency)}</span>
-                  <span className="mt-1 block text-[9px] font-bold text-success">{value != null ? `${formatMoney(value, source.currency)} / 100ml` : "No value"}</span>
+                  <span className="mt-1 block text-[9px] font-bold text-success">{value != null ? `${formatMoney(value, source.currency)} / 100ml` : "Size unavailable"}</span>
                 </span>
               </a>
             );
@@ -407,9 +266,9 @@ function PerfumeCard({ group }: { group: PerfumeComparisonGroup }) {
             <span className="text-xl font-extrabold leading-none text-primary">{formatMoney(group.lowestPrice, group.currency)}</span>
             <span className="text-right text-xs font-bold text-success">{compareLabel}</span>
           </div>
-          {group.sources.length > 1 ? <p className="mt-1 text-[10px] font-bold text-sale">Save up to {formatMoney(group.savings, group.currency)} vs highest matched listing</p> : null}
+          {hasMeaningfulSavings ? <p className="mt-1 text-[10px] font-bold text-sale">Save {formatMoney(group.savings, group.currency)} against the highest matched price</p> : null}
           <a href={group.bestSource.source_url} target="_blank" rel="noreferrer" className="mt-2 inline-flex items-center gap-1 text-[10px] font-extrabold uppercase tracking-[0.1em] text-primary no-underline hover:text-sale">
-            Best retailer <ExternalLink size={14} />
+            {hasMeaningfulSavings ? "View lowest price" : "View retailer"} <ExternalLink size={14} />
           </a>
         </div>
       </div>
