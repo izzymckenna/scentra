@@ -86,6 +86,7 @@ export const approvedNzRetailerSlugs = new Set([
   "chemist-warehouse-nz",
   "bargain-chemist",
   "healthpost",
+  "the-warehouse",
   "perfume-nz",
   "scent-boutique",
   "miller-road",
