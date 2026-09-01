@@ -17,6 +17,19 @@ import {
 import { priceLabel, retailerLabel } from "../lib/pricing";
 
 type SortOption = "value" | "price" | "brand";
+type ConcentrationOption = "all" | "edp" | "edt" | "parfum" | "cologne" | "mist" | "oil" | "other";
+
+const concentrationOptions: { value: ConcentrationOption; label: string }[] = [
+  { value: "all", label: "All concentrations" },
+  { value: "edp", label: "EDP · Eau de Parfum" },
+  { value: "edt", label: "EDT · Eau de Toilette" },
+  { value: "parfum", label: "Parfum · Extrait" },
+  { value: "cologne", label: "Cologne · EDC" },
+  { value: "mist", label: "Mist · Body Spray" },
+  { value: "oil", label: "Perfume Oil · Solid" },
+  { value: "other", label: "Other / Unspecified" },
+];
+
 const storedPerfumeData = localPerfumeData();
 
 export function PerfumesPage() {
@@ -25,6 +38,7 @@ export function PerfumesPage() {
   const [query, setQuery] = useState(searchParams.get("q") ?? "");
   const [source, setSource] = useState("all");
   const [profile, setProfile] = useState(searchParams.get("profile") ?? "all");
+  const [concentration, setConcentration] = useState<ConcentrationOption>("all");
   const [sort, setSort] = useState<SortOption>("value");
 
   const retailers = useMemo(() => {
@@ -46,11 +60,15 @@ export function PerfumesPage() {
     const filtered = comparisonGroups.filter((group) => {
       const retailers = group.sources.map((item) => retailerLabel(item.source_name, item.source_url));
       const profiles = new Set(group.items.flatMap((item) => scentProfileLabels(item)));
+      const concentrations = new Set(
+        [...group.items.map((item) => item.name), ...group.sources.map((item) => item.name)].map(perfumeConcentration),
+      );
       const searchable = [comparisonSearchText(group), retailers.join(" ")].join(" ");
       return (
         (!normalizedQuery || searchable.includes(normalizedQuery)) &&
         (source === "all" || retailers.includes(source)) &&
-        (profile === "all" || profiles.has(profile))
+        (profile === "all" || profiles.has(profile)) &&
+        (concentration === "all" || concentrations.has(concentration))
       );
     });
 
@@ -59,7 +77,7 @@ export function PerfumesPage() {
       if (sort === "brand") return `${a.brand} ${a.name}`.localeCompare(`${b.brand} ${b.name}`);
       return (a.bestValue ?? Number.POSITIVE_INFINITY) - (b.bestValue ?? Number.POSITIVE_INFINITY);
     });
-  }, [comparisonGroups, query, sort, source, profile]);
+  }, [comparisonGroups, concentration, query, sort, source, profile]);
 
   const exactComparisons = results.filter((item) => item.sources.length > 1).length;
   const sizeComparisons = results.filter((item) => item.bestValue != null).length;
@@ -86,7 +104,7 @@ export function PerfumesPage() {
       </section>
 
       <section className="sticky top-0 z-20 mt-5 border border-border bg-bg/95 p-3 backdrop-blur">
-        <div className="grid gap-3 xl:grid-cols-[1fr_220px_190px_220px]">
+        <div className="grid gap-3 xl:grid-cols-[minmax(260px,1fr)_190px_180px_200px_210px]">
           <label className="flex min-h-12 items-center gap-3 border border-border bg-white px-4">
             <Search size={18} className="shrink-0 text-muted" />
             <input
@@ -112,6 +130,20 @@ export function PerfumesPage() {
               {profiles.map((item) => (
                 <option key={item} value={item}>
                   {item === "all" ? "All profiles" : item}
+                </option>
+              ))}
+            </select>
+          </label>
+          <label className="flex min-h-12 items-center gap-3 border border-border bg-white px-4">
+            <span className="text-[10px] font-extrabold uppercase tracking-[0.14em] text-muted">Type</span>
+            <select
+              value={concentration}
+              onChange={(event) => setConcentration(event.target.value as ConcentrationOption)}
+              className="min-w-0 flex-1 bg-transparent text-sm font-bold text-primary outline-none"
+            >
+              {concentrationOptions.map((item) => (
+                <option key={item.value} value={item.value}>
+                  {item.label}
                 </option>
               ))}
             </select>
@@ -164,6 +196,17 @@ function Stat({ label, value }: { label: string; value: string | number }) {
       <p className="mt-1 font-display text-xl font-normal leading-none text-primary">{value}</p>
     </div>
   );
+}
+
+function perfumeConcentration(name: string): Exclude<ConcentrationOption, "all"> {
+  const normalized = name.toLowerCase();
+  if (/\b(eau de parfum|edp)\b/.test(normalized)) return "edp";
+  if (/\b(eau de toilette|edt)\b/.test(normalized)) return "edt";
+  if (/\b(extrait|parfum|pure perfume)\b/.test(normalized)) return "parfum";
+  if (/\b(eau de cologne|edc|cologne)\b/.test(normalized)) return "cologne";
+  if (/\b(body mist|fragrance mist|perfume mist|body spray)\b/.test(normalized)) return "mist";
+  if (/\b(perfume oil|solid perfume)\b/.test(normalized)) return "oil";
+  return "other";
 }
 
 function StatusMessage({
