@@ -18,9 +18,6 @@ export function AboutPage() {
             <Link to="/explore" className="inline-flex items-center justify-center border border-border bg-primary px-6 py-3 text-xs font-extrabold uppercase tracking-[0.14em] text-white no-underline transition hover:bg-primary-2">
               Browse fragrances
             </Link>
-            <Link to="/notes" className="inline-flex items-center justify-center border border-border bg-white px-6 py-3 text-xs font-extrabold uppercase tracking-[0.14em] text-primary no-underline transition hover:bg-surface-soft">
-              View note guide
-            </Link>
           </div>
         </div>
 

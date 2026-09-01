@@ -5,7 +5,6 @@ import { LandingPage } from "./components/LandingPage";
 import { ExplorePage } from "./components/ExplorePage";
 import { ProductPage } from "./components/ProductPage";
 import { AboutPage } from "./components/AboutPage";
-import { NotesPage } from "./components/NotesPage";
 import { ForumPage } from "./components/ForumPage";
 import { PerfumeDetailPage } from "./components/PerfumeDetailPage";
 import { PerfumesPage } from "./components/PerfumesPage";
@@ -22,7 +21,6 @@ export default function App() {
         <Routes location={location}>
           <Route path="/" element={<LandingPage />} />
           <Route path="/about" element={<AboutPage />} />
-          <Route path="/notes" element={<NotesPage />} />
           <Route path="/perfumes" element={<PerfumesPage />} />
           <Route path="/perfumes/:slug" element={<PerfumeDetailPage />} />
           <Route path="/explore" element={<ExplorePage />} />

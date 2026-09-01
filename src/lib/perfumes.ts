@@ -229,8 +229,48 @@ function extractLabeledNotes(description: string, labels: string[]) {
     "base notes?",
     "accords?",
     "notes?",
+    "scent profile",
+    "performance(?: & character)?",
+    "who is it for",
+    "when to wear",
+    "season",
+    "occasion",
+    "longevity(?: & sillage)?",
+    "how to wear",
+    "how to use",
+    "directions?",
+    "layering suggestions?",
+    "more .{0,40} fragrances?",
+    "similar .{0,30} fragrances?",
+    "premium & niche alternatives?",
+    "explore more fragrances?",
+    "why buy from .{0,40}",
+    "product details",
+    "fragrance care tips?",
+    "ingredients?",
+    "safety",
+    "warnings?",
+    "cautions?",
+    "disclaimer",
+    "specifications?",
+    "about .{0,40}",
+    "brand",
+    "fragrance",
+    "size",
+    "concentration",
+    "gender",
+    "format",
+    "formulation",
+    "packaging",
+    "what['’]s included",
+    "product type",
+    "condition",
+    "launch year",
+    "perfumers?",
   ].join("|");
-  const match = description.match(new RegExp(`(?:${labelPattern})\\s*:\\s*(.*?)(?=(?:${boundaryLabels})\\s*:|$)`, "i"));
+  const match = description.match(
+    new RegExp(`\\b(?:${labelPattern})\\b\\s*(?::|[-–—])\\s*(.*?)(?=\\b(?:${boundaryLabels})\\b\\s*(?::|[-–—])?|$)`, "i"),
+  );
   if (!match?.[1]) return [];
   return splitNotes(match[1]);
 }
@@ -278,10 +318,27 @@ function splitNotes(value: string) {
     value
       .replace(/\b(and|with)\b/gi, ",")
       .split(/[,;/|]+/)
-      .map((part) => part.replace(/\baccord\b/gi, "").trim())
-      .filter((part) => part.length >= 3 && part.length <= 42)
+      .map(cleanNoteCandidate)
+      .filter((part): part is string => Boolean(part))
       .slice(0, 10),
   );
+}
+
+const instructionLikeNotePattern =
+  /\b(store|keep|apply|spray|avoid|use|hold|shake|twist|place|sunlight|humidity|heat|flammable|external|contact|warning|caution|safety|ingredient|packaging|bottle|product|delivery|invoice|retailer|available|disclaimer)\b/i;
+
+function cleanNoteCandidate(value: string) {
+  const candidate = value
+    .replace(/\baccord\b/gi, "")
+    .replace(/^[\s:.'"`-]+|[\s:.'"`-]+$/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+  if (candidate.length < 3 || candidate.length > 36) return null;
+  if (!/^\p{L}/u.test(candidate)) return null;
+  if (candidate.split(/\s+/).length > 5) return null;
+  if (instructionLikeNotePattern.test(candidate)) return null;
+  if (/https?:|www\.|\d{2,}|[.!?].+\w/.test(candidate)) return null;
+  return candidate;
 }
 
 function uniqueNotes(notes: string[]) {
@@ -289,12 +346,26 @@ function uniqueNotes(notes: string[]) {
   return notes
     .map((note) => note.replace(/\s+/g, " ").trim())
     .filter(Boolean)
+    .map(formatNoteLabel)
     .filter((note) => {
       const key = note.toLowerCase();
       if (seen.has(key)) return false;
       seen.add(key);
       return true;
     });
+}
+
+function formatNoteLabel(note: string) {
+  const minorWords = new Set(["and", "of", "the", "with"]);
+  return note
+    .toLowerCase()
+    .split(/(\s+|-)/)
+    .map((part, index) => {
+      if (/^\s+$/.test(part) || part === "-") return part;
+      if (index > 0 && minorWords.has(part)) return part;
+      return part.charAt(0).toUpperCase() + part.slice(1);
+    })
+    .join("");
 }
 
 function escapeRegExp(value: string) {
