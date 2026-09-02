@@ -32,6 +32,8 @@ const approvedNzRetailers = new Set([
   "world",
   "sisters-and-co",
 ]);
+const wearableTitlePattern = /\b(eau de parfum|eau de toilette|eau de cologne|edp|edt|edc|parfum|perfume|extrait|cologne|body mist|body spray|fragrance mist|perfume mist|perfume oil|solid perfume|fragrance roll[ -]?on|aftershave)\b/i;
+const nonWearableProductPattern = /\b(home perfume|home fragrance|home scent|hair perfume|room spray|room fragrance|linen spray|linen fragrance|pillow spray|laundry|detergent|fabric softener|fabric freshener|washing powder|surface spray|cleaning spray|cleaning powder|air freshener|fragrance booster|cleaner|cleanser|hand wash|face wash|body wash|shower gel|soap|shampoo|conditioner|moisturiser|moisturizer|lotion|cream|serum|sunscreen|make[ -]?up|makeup|cosmetics?|lipstick|lip gloss|eyeliner|eyeshadow|eye shadow|mascara|foundation|concealer|primer|palette|bronzer|brow|lashes?|highlighter|setting spray|pressed powder|loose powder|nail polish|nail colour|makeup remover|sanitiser|sanitizer|disinfectant|deodorant|antiperspirant|toothpaste|essential oil|massage oil|body oil|diffuser|candle|incense|pot[ -]?pourri|body scrub|face scrub|lip balm|apparel|clothing|t[ -]?shirt|shirt|tee)\b/i;
 const freshResults = (Array.isArray(data.results) ? data.results : []).flatMap(normalizePerfume);
 const existingData = await readExistingSnapshot();
 const existingResults = (Array.isArray(existingData?.results) ? existingData.results : []).flatMap(normalizePerfume);
@@ -51,7 +53,9 @@ await fs.writeFile(outPath, JSON.stringify(payload, null, 2));
 console.log(`Wrote ${outPath} with ${results.length} perfumes (${freshResults.length} refreshed, ${existingResults.length} preserved)`);
 
 function normalizePerfume(item) {
-  const sources = (Array.isArray(item.sources) ? item.sources : []).filter((source) => approvedNzRetailers.has(source.retailer_slug));
+  const sources = (Array.isArray(item.sources) ? item.sources : []).filter(
+    (source) => approvedNzRetailers.has(source.retailer_slug) && isWearableSource(source),
+  );
   if (!sources.length) return [];
   sources.sort((a, b) => (a.price ?? Number.POSITIVE_INFINITY) - (b.price ?? Number.POSITIVE_INFINITY));
   const bestSource = sources[0];
@@ -71,6 +75,12 @@ function normalizePerfume(item) {
     source_count: sources.length,
     sources,
   }];
+}
+
+function isWearableSource(source) {
+  const name = String(source.name || "");
+  const identity = [source.brand, name].filter(Boolean).join(" ");
+  return wearableTitlePattern.test(name) && !nonWearableProductPattern.test(identity);
 }
 
 function mergePerfumes(existingResults, freshResults) {

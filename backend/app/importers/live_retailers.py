@@ -97,12 +97,13 @@ PERFUME_TITLE_SIGNAL_RE = re.compile(
 PERFUME_CATEGORY_RE = re.compile(r"\b(perfume|fragrance|parfum|cologne)\b", re.IGNORECASE)
 NON_WEARABLE_PRODUCT_RE = re.compile(
     r"\b(accessor(?:y|ies)|case|travel spray|sample|tester|refill|gift set|gift pack|display stand|"
-    r"fragrance[ -]?free|home perfume|home fragrance|hair perfume|room spray|linen spray|pillow spray|"
+    r"fragrance[ -]?free|home perfume|home fragrance|home scent|hair perfume|room spray|room fragrance|"
+    r"linen spray|linen fragrance|pillow spray|"
     r"laundry|detergent|fabric softener|fabric freshener|dryer balls?|washing[ -]?up|washing liquid|"
     r"dish[ -]?wash(?:er|ing)?|surface spray|cleaning spray|multi[ -]?purpose spray|floor cleaner|floor wipes?|air freshener|"
     r"toilet|rimblock|cleaner|cleanser|cleansing|hand wash|face wash|body wash|shower gel|bubble bath|"
     r"bath oil|bath bomb|bath fizzer|shower bomb|soap|shampoo|conditioner|moisturiser|moisturizer|lotion|"
-    r"hand cream|hand creme|body cream|face cream|serum|sunscreen|spf\s*\d+|make[ -]?up|makeup|lipstick|"
+    r"hand cream|hand creme|body cream|face cream|serum|sunscreen|spf\s*\d+|make[ -]?up|makeup|cosmetics?|lipstick|"
     r"lip gloss|eyeliner|eyeshadow|eye shadow|mascara|foundation|concealer|primer|palette|bronzer|brow|"
     r"lashes?|highlighter|setting spray|pressed powder|loose powder|nail polish|nail colour|sheet mask|face mask|"
     r"makeup remover|wipes?|sanitiser|sanitizer|disinfect(?:ant)?|deodorant|antiperspirant|toothpaste|"
@@ -294,7 +295,8 @@ class ChemistWarehouseImporter(RetailerImporter):
                 if not sku or sku in seen:
                     continue
                 seen.add(sku)
-                if not is_perfume_row(item.get("name"), chemist_category(item)):
+                category = chemist_category(item)
+                if category != "fragrance" or not is_perfume_row(item.get("name"), product_type=category):
                     continue
                 brand = item.get("brand")
                 if brand and brand.lower().startswith("cw nz"):
@@ -309,8 +311,8 @@ class ChemistWarehouseImporter(RetailerImporter):
                         price=price,
                         original_price=item.get("rrp"),
                         url=item["producturl"],
-                        category=chemist_category(item),
-                        product_type=chemist_category(item),
+                        category=category,
+                        product_type=category,
                         image_url=item.get("_thumburl"),
                         retailer_sku=sku,
                         in_stock=not bool(item.get("is_marketplace") == "1"),
@@ -1128,8 +1130,7 @@ def chemist_category(item: dict[str, Any]) -> str:
     l2 = str(item.get("l2_category") or "")
     if l2 in {"542", "5070"}:
         return "fragrance"
-    name = str(item.get("name") or "")
-    return category_from_type(name)
+    return "beauty"
 
 
 def flatten_json_ld(payload: Any) -> list[dict[str, Any]]:
