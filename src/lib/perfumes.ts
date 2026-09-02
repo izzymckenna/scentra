@@ -81,6 +81,9 @@ const scentProfiles: ScentProfile[] = [
   { label: "Sweet", keywords: ["sweet", "candy", "cotton candy", "syrup"] },
 ];
 
+const wearableTitlePattern = /\b(eau de parfum|eau de toilette|eau de cologne|edp|edt|edc|parfum|perfume|extrait|cologne|body mist|body spray|fragrance mist|perfume mist|perfume oil|solid perfume|fragrance roll[ -]?on|aftershave)\b/i;
+const nonWearableProductPattern = /\b(accessor(?:y|ies)|case|sample|tester|refill|gift set|gift pack|display stand|fragrance[ -]?free|home perfume|home fragrance|hair perfume|room spray|linen spray|pillow spray|laundry|detergent|fabric softener|fabric freshener|dryer balls?|washing[ -]?up|washing liquid|washing powder|dish[ -]?wash(?:er|ing)?|surface spray|cleaning spray|cleaning powder|multi[ -]?purpose spray|floor cleaner|floor wipes?|air freshener|fragrance booster|toilet|rimblock|cleaner|cleanser|cleansing|hand wash|face wash|body wash|shower gel|bubble bath|bath oil|bath bomb|bath fizzer|shower bomb|soap|shampoo|conditioner|moisturiser|moisturizer|lotion|hand cream|hand creme|body cream|face cream|serum|sunscreen|spf\s*\d+|make[ -]?up|makeup|cosmetic|lipstick|lip gloss|eyeliner|eyeshadow|eye shadow|mascara|foundation|concealer|primer|palette|bronzer|brow|lashes?|highlighter|setting spray|pressed powder|loose powder|nail polish|nail colour|sheet mask|face mask|makeup remover|wipes?|sanitiser|sanitizer|disinfect(?:ant)?|deodorant|antiperspirant|toothpaste|essential oil|massage oil|body oil|diffuser|candle|incense|scent stems?|aroma stone|pot[ -]?pourri|body scrub|face scrub|lip balm|hand balm|bikini|workshop|apparel|clothing|t[ -]?shirt|shirt|tee)\b/i;
+
 export const approvedNzRetailerSlugs = new Set([
   "life-pharmacy",
   "chemist-warehouse-nz",
@@ -127,7 +130,7 @@ function filterPerfumeData(data: PerfumeResponse): PerfumeResponse {
 }
 
 function filterPerfumeItem(item: LivePerfume): LivePerfume | null {
-  const sources = comparableSources(item).filter(isApprovedPerfumeSource);
+  const sources = comparableSources(item).filter((source) => isApprovedPerfumeSource(source) && isWearableFragranceSource(source));
   const bestSource = sources[0];
   if (!bestSource) return null;
   const value = sourcePricePer100ml(bestSource);
@@ -146,6 +149,11 @@ function filterPerfumeItem(item: LivePerfume): LivePerfume | null {
     source_count: sources.length,
     sources,
   };
+}
+
+function isWearableFragranceSource(source: Pick<LivePerfumeSource, "brand" | "name">) {
+  const identity = [source.brand, source.name].filter(Boolean).join(" ");
+  return wearableTitlePattern.test(source.name) && !nonWearableProductPattern.test(identity);
 }
 
 function isApprovedPerfumeSource(source: Pick<LivePerfumeSource, "retailer_slug" | "source_name" | "source_url">) {
