@@ -30,6 +30,7 @@ API docs are available at `http://localhost:8000/docs`.
 
 Live NZ retailer imports are available through `POST /api/admin/imports/live` and `backend/scripts_live_import.py` for Life Pharmacy, Chemist Warehouse NZ, and Farmers.
 
+View at https://scentra-eta.vercel.app/
 ## Build
 
 ```bash
