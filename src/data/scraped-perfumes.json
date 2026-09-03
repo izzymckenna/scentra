@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:40:20.351Z",
+  "generated_at": "2026-09-03T07:49:35.844Z",
   "count": 2384,
   "cheapest": {
     "brand": "Dear Body",
@@ -70036,6 +70036,10 @@
     {
       "retailer_slug": "bargain-chemist",
       "error": "bargain-chemist returned no usable product responses. Last error: HTTP 429 from www.bargainchemist.co.nz"
+    },
+    {
+      "retailer_slug": "the-warehouse",
+      "error": "Client error '403 Forbidden' for url 'https://www.thewarehouse.co.nz/c/health-beauty/fragrances?sr=perfume&sz=48'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
     },
     {
       "retailer_slug": "scent-boutique",
