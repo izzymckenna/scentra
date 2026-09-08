@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T07:58:57.236Z",
-  "count": 2384,
+  "generated_at": "2026-09-08T07:51:29.792Z",
+  "count": 2391,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Angel Bitten Fragrance Mist 250ml",
@@ -1240,6 +1240,34 @@
       ]
     },
     {
+      "brand": "VV Love",
+      "name": "VV Love Body Mist Plum & Orchid 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 8.99,
+      "price_per_100ml": 5.99,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw93d157bd/images/hi-res/69/68/R2935371_40.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-plum-orchid-150ml/R2935371.html",
+      "source_price": 8.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-plum-orchid-150ml/R2935371.html",
+          "brand": "VV Love",
+          "name": "VV Love Body Mist Plum & Orchid 150ml",
+          "size": "150ml",
+          "price": 8.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw93d157bd/images/hi-res/69/68/R2935371_40.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Vera",
       "name": "Vera Wang Princess Body Mist 250ml",
       "size": "250ml",
@@ -2168,6 +2196,62 @@
       ]
     },
     {
+      "brand": "VV Love",
+      "name": "VV Love Fragrance Mist Fruity Symphony 40ml",
+      "size": "40ml",
+      "size_ml": 40,
+      "price": 3.99,
+      "price_per_100ml": 9.98,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc0dd5e6d/images/hi-res/62/28/R3008619_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-fragrance-mist-fruity-symphony-40ml/R3008619.html",
+      "source_price": 3.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-fragrance-mist-fruity-symphony-40ml/R3008619.html",
+          "brand": "VV Love",
+          "name": "VV Love Fragrance Mist Fruity Symphony 40ml",
+          "size": "40ml",
+          "price": 3.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc0dd5e6d/images/hi-res/62/28/R3008619_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Fragrance Mist Luminous Bloom 40ml",
+      "size": "40ml",
+      "size_ml": 40,
+      "price": 3.99,
+      "price_per_100ml": 9.98,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw0edb7d3d/images/hi-res/29/C2/R3008617_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-fragrance-mist-luminous-bloom-40ml/R3008617.html",
+      "source_price": 3.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-fragrance-mist-luminous-bloom-40ml/R3008617.html",
+          "brand": "VV Love",
+          "name": "VV Love Fragrance Mist Luminous Bloom 40ml",
+          "size": "40ml",
+          "price": 3.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw0edb7d3d/images/hi-res/29/C2/R3008617_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Daise",
       "name": "DAISE Oh So Body Mist 100ml",
       "size": "100ml",
@@ -2762,7 +2846,7 @@
       "source_name": "the-warehouse-fragrance-page",
       "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-4-pack/R3030297.html",
       "source_price": 11.99,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "retailer_slug": "the-warehouse",
@@ -2774,6 +2858,17 @@
           "price": 11.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw9720d183/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-6-pack/R3030288.html",
+          "brand": "VV Love",
+          "name": "VV Love Summer Island Fragrance Mist Set 6 Pack",
+          "size": null,
+          "price": 16.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwaca97523/images/hi-res/4B/6C/R3030288_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -2886,6 +2981,34 @@
           "price": 29.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret New Edition Coconut Passion Fragrance Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 29.99,
+      "price_per_100ml": 12,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-new-edition-coconut-passion-fragrance-mist-250ml/R2200643.html",
+      "source_price": 29.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-new-edition-coconut-passion-fragrance-mist-250ml/R2200643.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret New Edition Coconut Passion Fragrance Mist 250ml",
+          "size": "250ml",
+          "price": 29.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -3572,6 +3695,34 @@
       ]
     },
     {
+      "brand": "So...?",
+      "name": "So...? Unique Vanilla Candy Body Mist",
+      "size": null,
+      "size_ml": null,
+      "price": 14.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwdb12a07c/images/hi-res/C0/AD/R3023690_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-vanilla-candy-body-mist/R3023690.html",
+      "source_price": 14.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-vanilla-candy-body-mist/R3023690.html",
+          "brand": "So...?",
+          "name": "So...? Unique Vanilla Candy Body Mist",
+          "size": null,
+          "price": 14.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwdb12a07c/images/hi-res/C0/AD/R3023690_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Tabac",
       "name": "Tabac Eau De Cologne 300ml",
       "size": "300ml",
@@ -4234,6 +4385,34 @@
           "price": 9.49,
           "currency": "NZD",
           "image_url": null
+        }
+      ]
+    },
+    {
+      "brand": "Designer Brands",
+      "name": "Designer Brands Fragrance Vanille Intense Eau de Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 18.99,
+      "price_per_100ml": 18.99,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw979dc26a/images/hi-res/2B/E4/R3026573_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/designer-brands-fragrance-vanille-intense-eau-de-parfum-100ml/R3026573.html",
+      "source_price": 18.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/designer-brands-fragrance-vanille-intense-eau-de-parfum-100ml/R3026573.html",
+          "brand": "Designer Brands",
+          "name": "Designer Brands Fragrance Vanille Intense Eau de Parfum 100ml",
+          "size": "100ml",
+          "price": 18.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw979dc26a/images/hi-res/2B/E4/R3026573_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -5944,6 +6123,34 @@
           "price": 9.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe5574ddc/images/hi-res/E2/DC/R3067226_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Ladies Modern 35ml EDT Giftset",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 9.99,
+      "price_per_100ml": 28.54,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe616214f/images/hi-res/7B/32/R3067225_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-modern-35ml-edt-giftset/R3067225.html",
+      "source_price": 9.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-modern-35ml-edt-giftset/R3067225.html",
+          "brand": "VV Love",
+          "name": "VV Love Ladies Modern 35ml EDT Giftset",
+          "size": "35ml",
+          "price": 9.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe616214f/images/hi-res/7B/32/R3067225_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -70036,10 +70243,6 @@
     {
       "retailer_slug": "bargain-chemist",
       "error": "bargain-chemist returned no usable product responses. Last error: HTTP 429 from www.bargainchemist.co.nz"
-    },
-    {
-      "retailer_slug": "the-warehouse",
-      "error": "Client error '403 Forbidden' for url 'https://www.thewarehouse.co.nz/c/health-beauty/fragrances?sr=perfume&sz=48'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
     },
     {
       "retailer_slug": "scent-boutique",
