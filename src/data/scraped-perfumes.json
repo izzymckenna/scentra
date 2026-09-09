@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T07:51:29.792Z",
-  "count": 2391,
+  "generated_at": "2026-09-09T07:54:41.164Z",
+  "count": 2394,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Angel Bitten Fragrance Mist 250ml",
@@ -1699,6 +1699,34 @@
       ]
     },
     {
+      "brand": "Daise",
+      "name": "Daise Body Mist Hello 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 7,
+      "price_per_100ml": 7,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
+      "source_price": 7,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Hello 100ml",
+          "size": "100ml",
+          "price": 7,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Disney",
       "name": "Disney Body Mist Frozen 2 250ml",
       "size": "250ml",
@@ -2420,6 +2448,62 @@
       ]
     },
     {
+      "brand": "VV Love",
+      "name": "VV Love Amazing Pink EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 9.99,
+      "price_per_100ml": 9.99,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6a39f33d/images/hi-res/2C/C1/R3054373_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-amazing-pink-edt-100ml/R3054373.html",
+      "source_price": 9.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-amazing-pink-edt-100ml/R3054373.html",
+          "brand": "VV Love",
+          "name": "VV Love Amazing Pink EDT 100ml",
+          "size": "100ml",
+          "price": 9.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6a39f33d/images/hi-res/2C/C1/R3054373_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Royal Sweety EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 9.99,
+      "price_per_100ml": 9.99,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw7836eb1e/images/hi-res/2D/31/R3054370_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-royal-sweety-edt-100ml/R3054370.html",
+      "source_price": 9.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-royal-sweety-edt-100ml/R3054370.html",
+          "brand": "VV Love",
+          "name": "VV Love Royal Sweety EDT 100ml",
+          "size": "100ml",
+          "price": 9.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw7836eb1e/images/hi-res/2D/31/R3054370_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Daise",
       "name": "Daise Body Mist Happy 100ml",
       "size": "100ml",
@@ -2444,34 +2528,6 @@
           "price": 10,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb0fbb87b/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
-      "name": "Daise Body Mist Hello 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 10,
-      "price_per_100ml": 10,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
-      "source_price": 10,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Hello 100ml",
-          "size": "100ml",
-          "price": 10,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -3009,6 +3065,34 @@
           "price": 29.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret Velvet Petal Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 29.99,
+      "price_per_100ml": 12,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
+      "source_price": 29.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret Velvet Petal Body Mist 250ml",
+          "size": "250ml",
+          "price": 29.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -70267,10 +70351,6 @@
     {
       "retailer_slug": "wally",
       "error": "wally returned no usable product responses. Last error: HTTP 429 from wally.co.nz"
-    },
-    {
-      "retailer_slug": "world",
-      "error": "world returned no usable product responses. Last error: HTTP 429 from worldbrand.co.nz"
     },
     {
       "retailer_slug": "sisters-and-co",
