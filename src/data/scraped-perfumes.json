@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T07:55:40.350Z",
-  "count": 2542,
+  "generated_at": "2026-09-11T07:52:04.302Z",
+  "count": 2555,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Angel Bitten Fragrance Mist 250ml",
@@ -2616,6 +2616,34 @@
       ]
     },
     {
+      "brand": "Dear Body",
+      "name": "Dear Body Rocking Fantasy Body Mist 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 3,
+      "price_per_100ml": 10,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/7M001-31.jpg?v=1749520439",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/dear-body-summer-freshes-bmist-30ml",
+      "source_price": 3,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/dear-body-summer-freshes-bmist-30ml",
+          "brand": "Dear Body",
+          "name": "Dear Body Rocking Fantasy Body Mist 30ml",
+          "size": "30ml",
+          "price": 3,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/7M001-31.jpg?v=1749520439"
+        }
+      ]
+    },
+    {
       "brand": "Jovan",
       "name": "Jovan Black Musk For Women Cologne 96ml",
       "size": "96ml",
@@ -2790,7 +2818,7 @@
       "source_name": "the-warehouse-fragrance-page",
       "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.2/R2919953.html",
       "source_price": 10.99,
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
         {
           "retailer_slug": "the-warehouse",
@@ -2806,6 +2834,17 @@
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.1/R2919952.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.1",
+          "size": null,
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw08fc29dd/images/hi-res/4A/01/R2919952_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
           "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.4/R2919955.html",
           "brand": "MCoBeauty",
           "name": "MCoBeauty Fragrance Mist No.4",
@@ -2817,13 +2856,41 @@
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.1/R2919952.html",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.3/R2919954.html",
           "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.1",
+          "name": "MCoBeauty Fragrance Mist No.3",
           "size": null,
           "price": 10.99,
           "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw08fc29dd/images/hi-res/4A/01/R2919952_30.jpg?sw=292&sh=292"
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa88724dc/images/hi-res/1C/32/R2919954_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist Vanilla Crystal",
+      "size": null,
+      "size_ml": null,
+      "price": 10.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe5e1bbef/images/hi-res/BB/F9/R3064363_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-vanilla-crystal/R3064363.html",
+      "source_price": 10.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-vanilla-crystal/R3064363.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist Vanilla Crystal",
+          "size": null,
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe5e1bbef/images/hi-res/BB/F9/R3064363_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -3249,13 +3316,24 @@
       "price": 10.99,
       "price_per_100ml": 12.21,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd354113d/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6b75a6de/images/hi-res/F0/37/R3032448_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-9-90ml/R3032448.html",
       "source_price": 10.99,
-      "source_count": 10,
+      "source_count": 12,
       "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-9-90ml/R3032448.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No. 9 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6b75a6de/images/hi-res/F0/37/R3032448_30.jpg?sw=292&sh=292"
+        },
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
@@ -3266,6 +3344,17 @@
           "price": 10.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd354113d/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.7-90ml/R2984875.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.7 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwff590ddf/images/hi-res/81/D7/R2984875_40.jpg?sw=292&sh=292"
         },
         {
           "retailer_slug": "bargain-chemist",
@@ -4019,34 +4108,6 @@
           "price": 4.49,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/20250723_014828363_iOS_jpg.jpg?v=1753822511"
-        }
-      ]
-    },
-    {
-      "brand": "Dear Body",
-      "name": "Dear Body Rocking Fantasy Body Mist 30ml",
-      "size": "30ml",
-      "size_ml": 30,
-      "price": 4.49,
-      "price_per_100ml": 14.97,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/7M001-31.jpg?v=1749520439",
-      "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/dear-body-summer-freshes-bmist-30ml",
-      "source_price": 4.49,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/dear-body-summer-freshes-bmist-30ml",
-          "brand": "Dear Body",
-          "name": "Dear Body Rocking Fantasy Body Mist 30ml",
-          "size": "30ml",
-          "price": 4.49,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/7M001-31.jpg?v=1749520439"
         }
       ]
     },
@@ -5782,34 +5843,6 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw0a4ebc2a/images/hi-res/F7/0E/R2919953_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist Vanilla Crystal",
-      "size": null,
-      "size_ml": null,
-      "price": 21.99,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe5e1bbef/images/hi-res/BB/F9/R3064363_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-vanilla-crystal/R3064363.html",
-      "source_price": 21.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-vanilla-crystal/R3064363.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist Vanilla Crystal",
-          "size": null,
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe5e1bbef/images/hi-res/BB/F9/R3064363_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -12659,6 +12692,34 @@
       ]
     },
     {
+      "brand": "Lattafa",
+      "name": "Avant Silk by Alhambra 100ml EDP for Women",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 59.99,
+      "price_per_100ml": 59.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/alhambra-avant-silk.png?v=1789090877",
+      "description": "Avant Silk by Alhambra 100ml Eau De Parfum Spray for Women Avant Silk is designed to evoke the smooth, rich texture and attractive allure of silk, much like its muse. It unfolds with a radiant blend of notes, creating a perfume that is both refined and memorable. Elegant, sensual, and effortlessly refined, Avant Silk is a fragrance that drapes you in luxurious warmth and sophistication. Designer: Alhambra Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: The scent opens with a radiant blend of citrus, saffron, and myrrh, creating a luminous yet slightly spicy introduction. As it unfolds, the heart reveals an intoxicating mix of tuberose, orange flower, cypriol, and patchouli, adding depth, floral richness, and a touch of earthiness. Finally, the fragrance settles into a velvety base of amber, vanilla, musk, and cedarwood, leaving a trail of soft, creamy warmth and lasting allure. Avant Silk is the perfect balance of opulence and grace, a signature scent for those who appreciate timeless sophistication with a modern twist. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/avant-silk-by-alhambra-100ml-edp-for-women",
+      "source_price": 59.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/avant-silk-by-alhambra-100ml-edp-for-women",
+          "brand": "Lattafa",
+          "name": "Avant Silk by Alhambra 100ml EDP for Women",
+          "size": "100ml",
+          "price": 59.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/alhambra-avant-silk.png?v=1789090877"
+        }
+      ]
+    },
+    {
       "brand": "Elizabeth Arden",
       "name": "Elizabeth Arden 5th Avenue EDP Spray 75ml",
       "size": "75ml",
@@ -13957,6 +14018,34 @@
       ]
     },
     {
+      "brand": "Dumont",
+      "name": "Axon Ultimate by Dumont 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 64.99,
+      "price_per_100ml": 64.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dumont-axon-ultimate.png?v=1784608034",
+      "description": "Axon Ultimate by Dumont 100ml Eau De Parfum Spray Axon Ultimate is a captivating men's fragrance that exudes power and sophistication. Its unique blend of notes creates an invigorating and refreshing scent that will leave a lasting impression. Designer: Dumont Year Introduced: 2024 Type: EDP Category: Men Fragrance Notes: Axon Ultimate is a captivating men's fragrance that exudes power and sophistication. With its blend of citrus, fruity, and spicy top notes, floral, fruity, and woody heart notes, and ambery, floral, and mossy base notes, it creates a scent profile that is bold, charismatic, and irresistible. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/axon-ultimate-by-dumont-100ml-edp",
+      "source_price": 64.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/axon-ultimate-by-dumont-100ml-edp",
+          "brand": "Dumont",
+          "name": "Axon Ultimate by Dumont 100ml EDP",
+          "size": "100ml",
+          "price": 64.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dumont-axon-ultimate.png?v=1784608034"
+        }
+      ]
+    },
+    {
       "brand": "Fragrance Story",
       "name": "Fragrance Story Envy EDP 100ml",
       "size": "100ml",
@@ -15084,34 +15173,6 @@
           "price": 67.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-v-luxe---3.png?v=1783550883"
-        }
-      ]
-    },
-    {
-      "brand": "Dumont",
-      "name": "Axon Ultimate by Dumont 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 67.99,
-      "price_per_100ml": 67.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dumont-axon-ultimate.png?v=1784608034",
-      "description": "Axon Ultimate by Dumont 100ml Eau De Parfum Spray Axon Ultimate is a captivating men's fragrance that exudes power and sophistication. Its unique blend of notes creates an invigorating and refreshing scent that will leave a lasting impression. Designer: Dumont Year Introduced: 2024 Type: EDP Category: Men Fragrance Notes: Axon Ultimate is a captivating men's fragrance that exudes power and sophistication. With its blend of citrus, fruity, and spicy top notes, floral, fruity, and woody heart notes, and ambery, floral, and mossy base notes, it creates a scent profile that is bold, charismatic, and irresistible. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/axon-ultimate-by-dumont-100ml-edp",
-      "source_price": 67.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/axon-ultimate-by-dumont-100ml-edp",
-          "brand": "Dumont",
-          "name": "Axon Ultimate by Dumont 100ml EDP",
-          "size": "100ml",
-          "price": 67.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dumont-axon-ultimate.png?v=1784608034"
         }
       ]
     },
@@ -17501,6 +17562,34 @@
       ]
     },
     {
+      "brand": "Elizabeth Arden",
+      "name": "White Tea Eau Lilac by Elizabeth Arden 100ml EDT",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/arden-white-tea-lilac---2.png?v=1789085899",
+      "description": "White Tea Eau Lilac by Elizabeth Arden 100ml Eau De Toilette Spray for Women Tailor the world to your own private pleasure. Bottle the spirit, add a touch of serenity, and enjoy. White Tea invites you to share in the beauty that surrounds you every day. The whimsical charm of purple flowers meets the cocooning, serene allure of White Tea. Designer: Elizabeth Arden Year Introduced: 2025 Type: EDT Category: Women Fragrance Notes: Our new White Tea Eau Lilac is a floral aroma that blends the whimsical charm of purple lilac with White Tea allure to capture the essence of tranquility and elegance. The fragrance opens with refreshing Italian Mandarin and delicate Jasmine Sambac. It evolves with the romantic blend of Purple French Lilac and Southern Wisteria. Finally, it leaves a lasting impression with the warm, comforting notes of White Woods, Tonka Bean, and Musk. Ideal for those who appreciate timeless, serene scents. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/white-tea-eau-lilac-by-elizabeth-arden-100ml-edt",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/white-tea-eau-lilac-by-elizabeth-arden-100ml-edt",
+          "brand": "Elizabeth Arden",
+          "name": "White Tea Eau Lilac by Elizabeth Arden 100ml EDT",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/arden-white-tea-lilac---2.png?v=1789085899"
+        }
+      ]
+    },
+    {
       "brand": "Ralph Lauren",
       "name": "RALPH Polo Red Mens EDP 200ml",
       "size": "200ml",
@@ -17525,6 +17614,34 @@
           "price": 139.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/15885510639646.jpg?v=1778268014"
+        }
+      ]
+    },
+    {
+      "brand": "Coach",
+      "name": "Coach Green by Coach 200ml EDT for Men",
+      "size": "200ml",
+      "size_ml": 200,
+      "price": 139.99,
+      "price_per_100ml": 70,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/coach-green-200ml.png?v=1789090595",
+      "description": "Coach Green by Coach 200ml Eau De Toilette Spray for Men Coach Green is inspired by the relaxing feeling of vivid green escapes amidst the dynamic energy of the city. Coach captured this feeling with a signature scent that offers the perfect balance between a lively urban spirit and a natural, out-of-time feeling. Designer: Coach Year Introduced: 2023 Type: EDT Category: Men Fragrance Notes: The woody fruity green fragrance opens with a refreshing top note of juicy Kiwi and crisp Bergamot, accentuated by aromatic notes of Rosemary and Geranium, before drying down to earthy Crystal Moss and masculine Cedarwood. The bottle features a sophisticated green gradient inspired by the rich, earthy hues found in nature and Coach leathercraft. It is finished with a gunmetal cap inspired by the house’s iconic turnlock hardware, and features an engraved Horse and Carriage, a nod to Coach’s first-ever house symbol. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/coach-green-by-coach-200ml-edt-for-men",
+      "source_price": 139.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/coach-green-by-coach-200ml-edt-for-men",
+          "brand": "Coach",
+          "name": "Coach Green by Coach 200ml EDT for Men",
+          "size": "200ml",
+          "price": 139.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/coach-green-200ml.png?v=1789090595"
         }
       ]
     },
@@ -19650,6 +19767,62 @@
       ]
     },
     {
+      "brand": "Roberto Cavalli",
+      "name": "Just Cavalli Wild Blue by Roberto Cavalli 90ml EDT",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 69.99,
+      "price_per_100ml": 77.77,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/roberto-cavalli-just-cavalli-wild-blue.png?v=1789083117",
+      "description": "Just Cavalli Wild Blue by Roberto Cavalli 90ml Eau De Toilette Spray Wild Pink and Wild Blue celebrate the fearless energy of those who express themselves without hesitation. Together, they embody the neon-charged spirit of Just Cavalli: bold, modern, and unapologetically free. Two distinct scents, united by the same wild instinct, made to ignite confidence day and night. Designer: Roberto Cavalli Year Introduced: 2026 Type: EDT Category: Unisex Fragrance Notes: Discover the bold style of Roberto Cavalli Just Cavalli Wild Blue, a fresh and modern fragrance that brings a clean, confident edge to your daily routine. The scent opens with crisp bergamot, then moves into a cool and energetic heart of mint, lychee, and pepper. As it settles, hyacinth and artemisia add a refined finish that feels fresh, modern, and well-balanced. The result is a fragrance that is both vibrant and polished. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/just-cavalli-wild-blue-by-roberto-cavalli-90ml-edt",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/just-cavalli-wild-blue-by-roberto-cavalli-90ml-edt",
+          "brand": "Roberto Cavalli",
+          "name": "Just Cavalli Wild Blue by Roberto Cavalli 90ml EDT",
+          "size": "90ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/roberto-cavalli-just-cavalli-wild-blue.png?v=1789083117"
+        }
+      ]
+    },
+    {
+      "brand": "Roberto Cavalli",
+      "name": "Just Cavalli Wild Pink by Roberto Cavalli 90ml EDP",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 69.99,
+      "price_per_100ml": 77.77,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/roberto-cavalli-just-cavalli-wild-pink.png?v=1789083640",
+      "description": "Just Cavalli Wild Blue by Roberto Cavalli 90ml Eau De Parfum Spray Wild Pink and Wild Blue celebrate the fearless energy of those who express themselves without hesitation. Together, they embody the neon-charged spirit of Just Cavalli: bold, modern, and unapologetically free. Two distinct scents, united by the same wild instinct, made to ignite confidence day and night. Designer: Roberto Cavalli Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Discover the playful charm of Roberto Cavalli Just Cavalli Wild Pink, a fragrance that brings together bright floral notes and juicy fruit accents in one stylish scent. This Eau de Parfum opens with hibiscus, lily, and peach for a fresh and lively first impression, then moves into a soft heart of peony, Bulgarian rose, and tiare. As the scent settles, warm musk, ambergris, and palisander rosewood add depth and a smooth, lasting finish. The result is a fragrance that feels feminine, radiant, and full of energy. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/just-cavalli-wild-pink-by-roberto-cavalli-90ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/just-cavalli-wild-pink-by-roberto-cavalli-90ml-edp",
+          "brand": "Roberto Cavalli",
+          "name": "Just Cavalli Wild Pink by Roberto Cavalli 90ml EDP",
+          "size": "90ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/roberto-cavalli-just-cavalli-wild-pink.png?v=1789083640"
+        }
+      ]
+    },
+    {
       "brand": "Anfar",
       "name": "Amber d'Orient by Anfar 115ml Extrait De Parfum",
       "size": "115ml",
@@ -20575,7 +20748,7 @@
       "price": 79.99,
       "price_per_100ml": 79.99,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/french-avenue-firestorm.png?v=1787263644",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/french-avenue-firestorm---2.png?v=1789088228",
       "description": "Firestorm by French Avenue 100ml Eau De Parfum Spray A fiery gourmand-amber, Firestorm by French Avenue ignites the senses with spice, warmth, and smoldering sweetness. Both daring and refined, it is a fragrance made for those who embrace intensity and passion — leaving behind a trail that is impossible to ignore. Designer: Fragrance World Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: Firestorm erupts with the spicy allure of cardamom, lifted by the herbal richness of davana and the crisp juiciness of red apple. At its heart, mystical olibanum blends with a touch of velvety rose, weaving smoky depth into soft floral elegance. The base smolders with creamy vanilla, resinous myrrh, and glowing dry amber — creating a warm, intoxicating finish that lingers like embers in the night. Firestorm — Passion set ablaze. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
       "source_name": "perfume-nz-shopify-suggest",
       "source_url": "https://www.perfumenz.co.nz/products/firestorm-by-french-avenue-100ml-edp",
@@ -20591,7 +20764,7 @@
           "size": "100ml",
           "price": 79.99,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/french-avenue-firestorm.png?v=1787263644"
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/french-avenue-firestorm---2.png?v=1789088228"
         }
       ]
     },
@@ -21902,6 +22075,34 @@
           "price": 99.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/68d4b35a-839f-4848-9a50-8b73133488d6.jpg?v=1779025892"
+        }
+      ]
+    },
+    {
+      "brand": "Others",
+      "name": "Absolute Chill by Atralia 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 79.99,
+      "price_per_100ml": 79.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/atralia-absolute-chill.png?v=1789101253",
+      "description": "Absolute Chill by Atralia 100ml Eau De Parfum Spray Discover a breath of revitalizing freshness with Atralia Absolute Chill, an Eau de Parfum that channels the serene energy and sun-kissed allure of California’s coastal lifestyle. Fresh, crisp, and effortlessly clean, Absolute Chill is a cool aromatic-citrus fragrance with a smooth finish. Designer: Atralia Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: Atralia Absolute Chill opens with a lively fusion of orange, green lemon, mint, and blackcurrant, delivering a crisp, cooling freshness that instantly awakens the senses. At the heart, basil, coriander, and delicate white tea leaves unfold, adding aromatic depth with herbal sophistication and a gentle earthy nuance. As the fragrance settles, soft musk, moss, and ambergris create a smooth, lingering base, leaving behind a refined trail that is fresh and vibrant. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/absolute-chill-by-atralia-100ml-edp",
+      "source_price": 79.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/absolute-chill-by-atralia-100ml-edp",
+          "brand": "Others",
+          "name": "Absolute Chill by Atralia 100ml EDP",
+          "size": "100ml",
+          "price": 79.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/atralia-absolute-chill.png?v=1789101253"
         }
       ]
     },
@@ -24840,6 +25041,62 @@
       ]
     },
     {
+      "brand": "Lattafa",
+      "name": "Badee Al Oud Amethyst Fusion by Lattafa 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 89.99,
+      "price_per_100ml": 89.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-badee-al-oud-amethyst-fusion.png?v=1789104854",
+      "description": "Bade'e Al Oud Amethyst Fusion by Lattafa 100ml Eau De Parfum Spray A luxurious eau de parfum that masterfully blends rich gourmand accords, warm amber, and creamy woods into an irresistibly indulgent fragrance. Bold yet refined, Badee Al Oud Amethyst Fusion is a sophisticated scent that envelops the senses with warmth, depth, and lasting elegance. Designer: Lattafa Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: It opens with the intoxicating richness of smooth rum and almond-like amaretto, brightened by the juicy freshness of mandarin for a bold introduction that feels warm, elegant, and instantly captivating. As it unfolds, glowing amber blends seamlessly with earthy patchouli and golden caramel, creating a luxurious heart that balances resinous warmth with indulgent sweetness. The fragrance settles into a sumptuous base of resinous benzoin, creamy sandalwood, and rich vanilla, leaving behind a velvety trail that is comforting, sophisticated, and beautifully long-lasting. Boozy yet refined, sweet yet deeply sophisticated, this scent masterfully blends warm liqueurs, creamy gourmand notes, and luxurious woods into an unforgettable signature. Rich, smooth, and effortlessly elegant, it is crafted for those who appreciate fragrances with warmth, depth, and timeless allure. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/badee-al-oud-amethyst-fusion-by-lattafa-100ml-edp",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/badee-al-oud-amethyst-fusion-by-lattafa-100ml-edp",
+          "brand": "Lattafa",
+          "name": "Badee Al Oud Amethyst Fusion by Lattafa 100ml EDP",
+          "size": "100ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-badee-al-oud-amethyst-fusion.png?v=1789104854"
+        }
+      ]
+    },
+    {
+      "brand": "Lattafa",
+      "name": "Raghad by Lattafa 100ml EDP for Women",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 89.99,
+      "price_per_100ml": 89.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-raghad.png?v=1789105469",
+      "description": "Raghad by Lattafa 100ml Eau De Parfum Spray for Women Raghad by Lattafa is a soft and captivating fragrance that blends juicy peach and sparkling citrus with romantic florals and a warm, creamy base. Sweet and feminine, it delivers an elegant scent profile that feels playful, graceful, and effortlessly charming. Designer: Lattafa Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Opening with a gentle burst of soft citrus and velvety peach, the fragrance immediately feels luminous, juicy, and effortlessly inviting. The citrus lends a delicate sparkle rather than sharp freshness, while the peach introduces a smooth, sun-ripened sweetness that softens the composition from the very first moments. At its heart, an elegant rose blooms among sweet floral notes, creating a romantic and airy bouquet. Rather than feeling overly powdery or opulent, the florals remain silky and radiant, adding a graceful femininity that seamlessly bridges the fresh opening and the warm base. As it settles, creamy vanilla melts into golden amber and soft musk, wrapping the skin in a comforting, velvety embrace. The dry down is smooth, warm, and subtly sensual, leaving behind a delicate trail of creamy sweetness and gentle warmth. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/raghad-by-lattafa-100ml-edp",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/raghad-by-lattafa-100ml-edp",
+          "brand": "Lattafa",
+          "name": "Raghad by Lattafa 100ml EDP for Women",
+          "size": "100ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-raghad.png?v=1789105469"
+        }
+      ]
+    },
+    {
       "brand": "Delta Goodrem",
       "name": "Delta By Delta Goodrem EDP 30ml for Women",
       "size": "30ml",
@@ -25512,6 +25769,34 @@
       ]
     },
     {
+      "brand": "Mont Blanc",
+      "name": "Montblanc Legend Spirit EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 95,
+      "price_per_100ml": 95,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Mont_Blanc_Legend_Spirit_EDT_100ml.jpg?v=1786338732",
+      "description": "Montblanc Legend Spirit EDT 100ml for Men Montblanc Legend Spirit EDT 100ml for Men is a fresh woody-aromatic Eau de Toilette built around grapefruit, bergamot and pink pepper, followed by lavender, cardamom and an aquatic accord over white musk, white woods, cashmere wood and oakmoss. The composition feels crisp and energetic at first, then becomes airy, clean and smoothly musky. The 100ml bottle is a practical regular-wear size for work, daytime plans, travel and warm-weather fragrance use. It offers enough volume for frequent application while maintaining the light, versatile character that makes Legend Spirit easy to place in an everyday rotation. Buy Montblanc fragrances from Gadgets Online NZ, a New Zealand-owned retailer operating since 2008. Shop online with NZ-wide delivery or visit our physical retail store in Mount Eden, Auckland, with Auckland pickup available when stock and order status allow. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Grapefruit, bergamot and pink pepper. Heart Notes: Aquatic accord, lavender and cardamom. Base Notes: White musk, white woods, cashmere wood and oakmoss. Scent Profile Grapefruit and bergamot create a lively citrus opening, while pink pepper adds lift and mild spice without making the fragrance warm or heavy. Lavender and cardamom bring an aromatic centre, and the aquatic accord introduces a cool, airy impression that works particularly well in mild or warm conditions. White musk, white woods, cashmere wood and oakmoss form a smooth, clean dry-down with a soft woody texture. The overall scent is bright, uncomplicated and approachable, offering freshness and polish rather than sweetness, density or strong gourmand character. Who Is It For? This Montblanc men’s fragrance suits customers who enjoy fresh citrus, aquatic aromatics, lavender, clean musk and light woods. It is an accessible choice for office wear, daily use, travel and customers who want a scent that feels freshly groomed without dominating the room. The 100ml size is well suited to regular users and anyone selecting Legend Spirit as a warm-weather or daytime signature. Fragrance preferences are personal, and anyone who enjoys the crisp aquatic-musky profile can wear it; the men’s positioning reflects the brand’s presentation and common customer search intent. When to Wear Daytime: Work, study, errands, travel, weekends and casual plans. Evening: Relaxed dinners and understated social occasions where a clean scent is preferred. Season: Especially suitable for spring, summer and mild New Zealand weather. Occasion: Everyday wear, daytime signature-scent use, travel and gifting. Longevity & Sillage Legend Spirit is designed to offer a bright citrus and aromatic opening followed by a softer white-musk, oakmoss and woody trail. Its character is intentionally clean and moderate rather than dense, intensely sweet or highly projecting. Longevity and sillage vary with skin chemistry, spray count, weather, clothing, activity, application area and storage conditions. Applying to moisturised skin or clothing may alter performance, but individual results cannot be guaranteed. More Montblanc Fresh Fragrances to Explore Montblanc Legend EDT 100ml — a more classic lavender, pineapple leaf, fruit, moss and tonka aromatic fougère. Montblanc Legend Blue EDP 100ml — a mint, lavender, cedarwood, sandalwood and ambroxan interpretation with more modern woody depth. Montblanc Explorer Ultra Blue EDP 100ml — a brighter citrus, marine and patchouli direction with a more mineral, earthy finish. Similar Designer Fragrances Versace Pour Homme EDT 100ml — a citrus, neroli, floral and woody fragrance with similarly easy daytime appeal. Giorgio Armani Acqua di Giò EDT 100ml — a more distinctly marine citrus fragrance with aromatic herbs and woods. Prada Luna Rossa Ocean EDT 100ml — a polished modern aromatic alternative with a clean and slightly mineral character. Premium & Niche Alternatives Chanel Allure Homme Sport Cologne EDT 100ml — a refined premium citrus scent with an elegant warm-weather presentation. Tom Ford Grey Vetiver EDP 100ml — grapefruit, spice and vetiver offer a drier and more tailored fresh-woody direction. Creed Silver Mountain Water EDP 100ml — a cool niche citrus-aromatic musk fragrance with a distinctive mineral and tea-like style. Explore More Fragrances Browse more Montblanc perfumes , men’s perfumes , perfumes and fragrances and Montblanc gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? New Zealand-owned retailer operating since 2008. Physical retail store in Mount Eden, Auckland. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Montblanc Fragrance: Legend Spirit Size: 100ml Concentration: Eau de Toilette Gender: Men Fragrance Family: Fresh Woody Aromatic Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Montblanc Legend Spirit EDT 100ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists, starting with a lighter spray count that suits the temperature and setting. Avoid rubbing after spraying, as friction can affect the citrus opening and smooth musky dry-down. Store the bottle upright in a cool, dry place away from direct sunlight, heat, humidity and prolonged temperature changes. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/mont-blanc-legend-spirit-edt-100ml-for-men",
+      "source_price": 95,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/mont-blanc-legend-spirit-edt-100ml-for-men",
+          "brand": "Mont Blanc",
+          "name": "Montblanc Legend Spirit EDT 100ml",
+          "size": "100ml",
+          "price": 95,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Mont_Blanc_Legend_Spirit_EDT_100ml.jpg?v=1786338732"
+        }
+      ]
+    },
+    {
       "brand": "Bargain Chemist",
       "name": "POLO Black EDT 125ml",
       "size": "125ml",
@@ -26073,6 +26358,62 @@
           "price": 97.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-queen-of-roses.jpg?v=1783998309"
+        }
+      ]
+    },
+    {
+      "brand": "Dumont",
+      "name": "Soprano Ice by Dumont 100ml EDP for Men",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 97.99,
+      "price_per_100ml": 97.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dumont-soprano-ice.png?v=1789090204",
+      "description": "Soprano Ice by Dumont 100ml Eau De Parfum Spray for Men Soprano Ice presents a sophisticated juxtaposition of freshness and amber warmth, creating a complex olfactory profile with multiple dimensions. Designer: Dumont Year Introduced: 2025 Type: EDP Category: Men Fragrance Notes: This composition is ideally suited for individuals who project composure externally while harboring intensity beneath—a fragrance that establishes presence through its subtle yet authoritative character rather than overt projection. A fragrance of crisp elegance and quiet strength. Opening with a burst of ginger, bergamot, and grapefruit, it melts into a smooth heart of apple, incense, and lavender. Grounded by musk, vanilla, and sandalwood, it is a fragrance that whispers refinement with a lasting embrace. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/soprano-ice-by-dumont-100ml-edp-for-men",
+      "source_price": 97.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/soprano-ice-by-dumont-100ml-edp-for-men",
+          "brand": "Dumont",
+          "name": "Soprano Ice by Dumont 100ml EDP for Men",
+          "size": "100ml",
+          "price": 97.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dumont-soprano-ice.png?v=1789090204"
+        }
+      ]
+    },
+    {
+      "brand": "Lattafa",
+      "name": "Khamrah Waha by Lattafa 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 97.99,
+      "price_per_100ml": 97.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-khamrah-waha.png?v=1789107354",
+      "description": "Khamrah Waha by Lattafa 100ml Eau De Parfum Spray Discover the captivating contrast of warmth and freshness with Lattafa Khamrah Waha, a fragrance crafted for those who embrace bold sophistication. Inspired by the intensity of desert heat and the invigorating sensation of a cool breeze, Khamrah Waha delivers a modern scent experience that is both powerful and refreshing. Designer: Lattafa Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: It opens with a striking burst of bergamot, yuzu, and juniper, energized by the sharp freshness of ginger — crisp, vibrant, and instantly invigorating. As it unfolds, the heart introduces an unexpected contrast where powdery iris meets cool cucumber, aromatic sage, and a mineral sea salt accord, creating a refreshing breeze-like sensation balanced with refined depth. The fragrance settles into a smooth, modern base of Akigalawood, creamy tonka bean, vanilla, musk, and Ambrofix, leaving behind a warm, woody trail with a sensual, long-lasting finish. Fresh yet intense, clean yet addictive, this scent captures the perfect balance between cooling freshness and sophisticated warmth. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/khamrah-waha-by-lattafa-100ml-edp",
+      "source_price": 97.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/khamrah-waha-by-lattafa-100ml-edp",
+          "brand": "Lattafa",
+          "name": "Khamrah Waha by Lattafa 100ml EDP",
+          "size": "100ml",
+          "price": 97.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-khamrah-waha.png?v=1789107354"
         }
       ]
     },
@@ -27638,6 +27979,34 @@
       ]
     },
     {
+      "brand": "Coach",
+      "name": "Coach Dreams Sunset by Coach 150ml EDP",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 159.99,
+      "price_per_100ml": 106.66,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/coach-dreams-sunset-150ml.png?v=1789086310",
+      "description": "Coach Dreams Sunset by Coach 150ml Eau De Parfum Spray for Women Coach Dreams Sunset is playful, nostalgic and inspired by the spirit of possibility and adventure. Inspired by golden hours and one-of-a-kind journeys with friends, Coach Dreams Sunset evokes the warmth of memories in the making and the magic of possibilities on the horizon. Designer: Coach Year Introduced: 2021 Type: EDP Category: Women Fragrance Notes: This seductive floral-gourmand fragrance opens with the fruity freshness of pear sorbet and bergamot , revealing a floral heart of white jasmine flowers before melting into an edible, creamy base of creamy tonka bean and vanilla. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/coach-dreams-sunset-by-coach-150ml-edp",
+      "source_price": 159.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/coach-dreams-sunset-by-coach-150ml-edp",
+          "brand": "Coach",
+          "name": "Coach Dreams Sunset by Coach 150ml EDP",
+          "size": "150ml",
+          "price": 159.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/coach-dreams-sunset-150ml.png?v=1789086310"
+        }
+      ]
+    },
+    {
       "brand": "Dolce & Gabbana",
       "name": "Light Blue by Dolce & Gabbana 200ml EDP for Men",
       "size": "200ml",
@@ -28535,6 +28904,34 @@
           "price": 55,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jimmy-Choo-Blossom-40ML-EDP-for-Women-3386460066297.jpg?v=1781827655"
+        }
+      ]
+    },
+    {
+      "brand": "Lattafa",
+      "name": "Ana Abiyedh Passion by Lattafa 60ml EDP",
+      "size": "60ml",
+      "size_ml": 60,
+      "price": 67.99,
+      "price_per_100ml": 113.32,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-ana-abiyedh-passion.png?v=1789104397",
+      "description": "Ana Abiyedh Passion by Lattafa 60ml Eau De Parfum Spray Playful yet sensual, fresh yet comforting, Ana Abiyedh Passion is an expression of effortless confidence and feel-good energy. A modern and addictive fragrance that blends bright citrus with exotic fruits and a smooth, creamy base. Designer: Lattafa Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: It opens with a luminous blend of bergamot and passion fruit — bright, juicy, and instantly uplifting, creating a sparkling sense of joy and energy. As it unfolds, the heart reveals a modern floral touch with airy Mahonial and soft Rosyfolia, enriched by the smooth, musky-woody feel of cashmeran, adding elegance and depth. The fragrance settles into a warm, enveloping base of vanilla, Ambrofix, tonka bean, and musk, leaving behind a soft, addictive trail that feels both comforting and sensual. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/ana-abiyedh-passion-by-lattafa-60ml-edp",
+      "source_price": 67.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/ana-abiyedh-passion-by-lattafa-60ml-edp",
+          "brand": "Lattafa",
+          "name": "Ana Abiyedh Passion by Lattafa 60ml EDP",
+          "size": "60ml",
+          "price": 67.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-ana-abiyedh-passion.png?v=1789104397"
         }
       ]
     },
@@ -37695,34 +38092,6 @@
       ]
     },
     {
-      "brand": "Jean Paul Gaultier",
-      "name": "Scandal Elixir by Jean Paul Gaultier 100ml Parfum for Men",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 179.99,
-      "price_per_100ml": 179.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-scandal-elixir-100ml.png?v=1785800483",
-      "description": "Scandal Elixir by Jean Paul Gaultier 100ml Parfum Spray for Men On the Gaultier train, whispers circulate about the most scandalous passenger on board. The one whose trail everyone craves to follow: Scandal Pour Homme Elixir. A presence that commands attention, a tempting look — everything about him spills over. The attitude, the boldness, the scent. Zero discretion. Pure swagger. Designer: Jean Paul Gaultier Year Introduced: 2026 Type: Parfum Category: Men Fragrance Notes: To find him, step into first class of excess. That secret space where pleasures are amplified. Here, everything shines brighter, feels stronger, goes further — like the trail of the man so desperately desired. Black cherry, juicy and provocative. Vibrant patchouli. Tonka, outrageously sensual. A fragrance bursting with intensity, reserved for the few who know. With Scandal pour Homme Elixir, intensity takes command. A fragrance designed to cause a scandal in full regalia. Black cherry opens the ball, juicy and insolent, seizing the senses without hesitation. At its heart, patchouli asserts itself with immediate power. Finally, tonka bean settles in, smooth and outrageously elegant. A trail steeped in excess, for a mastered subversion. A lacquered frame made to surrender in style. Silver glass, amber reflections, a glittering crown: luxury at full power. No restraint. Only excess. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/scandal-elixir-by-jean-paul-gaultier-100ml-parfum-for-men",
-      "source_price": 179.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/scandal-elixir-by-jean-paul-gaultier-100ml-parfum-for-men",
-          "brand": "Jean Paul Gaultier",
-          "name": "Scandal Elixir by Jean Paul Gaultier 100ml Parfum for Men",
-          "size": "100ml",
-          "price": 179.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-scandal-elixir-100ml.png?v=1785800483"
-        }
-      ]
-    },
-    {
       "brand": "Jimmy Choo",
       "name": "I Want Choo Collector Edition by Jimmy Choo 100ml EDP",
       "size": "100ml",
@@ -40231,6 +40600,34 @@
           "price": 174.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/77228/2DF_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Jean Paul Gaultier",
+      "name": "Scandal Elixir by Jean Paul Gaultier 100ml Parfum for Men",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 194.99,
+      "price_per_100ml": 194.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-scandal-elixir-100ml.png?v=1785800483",
+      "description": "Scandal Elixir by Jean Paul Gaultier 100ml Parfum Spray for Men On the Gaultier train, whispers circulate about the most scandalous passenger on board. The one whose trail everyone craves to follow: Scandal Pour Homme Elixir. A presence that commands attention, a tempting look — everything about him spills over. The attitude, the boldness, the scent. Zero discretion. Pure swagger. Designer: Jean Paul Gaultier Year Introduced: 2026 Type: Parfum Category: Men Fragrance Notes: To find him, step into first class of excess. That secret space where pleasures are amplified. Here, everything shines brighter, feels stronger, goes further — like the trail of the man so desperately desired. Black cherry, juicy and provocative. Vibrant patchouli. Tonka, outrageously sensual. A fragrance bursting with intensity, reserved for the few who know. With Scandal pour Homme Elixir, intensity takes command. A fragrance designed to cause a scandal in full regalia. Black cherry opens the ball, juicy and insolent, seizing the senses without hesitation. At its heart, patchouli asserts itself with immediate power. Finally, tonka bean settles in, smooth and outrageously elegant. A trail steeped in excess, for a mastered subversion. A lacquered frame made to surrender in style. Silver glass, amber reflections, a glittering crown: luxury at full power. No restraint. Only excess. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/scandal-elixir-by-jean-paul-gaultier-100ml-parfum-for-men",
+      "source_price": 194.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/scandal-elixir-by-jean-paul-gaultier-100ml-parfum-for-men",
+          "brand": "Jean Paul Gaultier",
+          "name": "Scandal Elixir by Jean Paul Gaultier 100ml Parfum for Men",
+          "size": "100ml",
+          "price": 194.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-scandal-elixir-100ml.png?v=1785800483"
         }
       ]
     },
