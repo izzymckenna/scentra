@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T08:25:17.252Z",
-  "count": 2903,
+  "generated_at": "2026-09-16T08:19:26.013Z",
+  "count": 2904,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Angel Bitten Fragrance Mist 250ml",
@@ -2494,30 +2494,58 @@
       ]
     },
     {
-      "brand": "Daise",
-      "name": "Daise Fragrance Body Mist Rose & Amber",
-      "size": null,
-      "size_ml": null,
-      "price": 8.4,
-      "price_per_100ml": null,
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret New Edition Coconut Passion Fragrance Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 20.99,
+      "price_per_100ml": 8.4,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw345f4c52/images/hi-res/5B/86/R3067046_30.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-fragrance-body-mist-rose-amber/R3067046.html",
-      "source_price": 8.4,
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-new-edition-coconut-passion-fragrance-mist-250ml/R2200643.html",
+      "source_price": 20.99,
       "source_count": 1,
       "sources": [
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-fragrance-body-mist-rose-amber/R3067046.html",
-          "brand": "Daise",
-          "name": "Daise Fragrance Body Mist Rose & Amber",
-          "size": null,
-          "price": 8.4,
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-new-edition-coconut-passion-fragrance-mist-250ml/R2200643.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret New Edition Coconut Passion Fragrance Mist 250ml",
+          "size": "250ml",
+          "price": 20.99,
           "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw345f4c52/images/hi-res/5B/86/R3067046_30.jpg?sw=292&sh=292"
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret Velvet Petal Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 20.99,
+      "price_per_100ml": 8.4,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
+      "source_price": 20.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret Velvet Petal Body Mist 250ml",
+          "size": "250ml",
+          "price": 20.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -3706,6 +3734,34 @@
       ]
     },
     {
+      "brand": "Daise",
+      "name": "Daise Fragrance Body Mist Rose & Amber",
+      "size": null,
+      "size_ml": null,
+      "price": 12,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw345f4c52/images/hi-res/5B/86/R3067046_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-fragrance-body-mist-rose-amber/R3067046.html",
+      "source_price": 12,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-fragrance-body-mist-rose-amber/R3067046.html",
+          "brand": "Daise",
+          "name": "Daise Fragrance Body Mist Rose & Amber",
+          "size": null,
+          "price": 12,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw345f4c52/images/hi-res/5B/86/R3067046_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Designer Brands",
       "name": "DB Fragrance Chaos EDP 100ml",
       "size": "100ml",
@@ -3814,62 +3870,6 @@
           "price": 29.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria's Secret New Edition Coconut Passion Fragrance Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 29.99,
-      "price_per_100ml": 12,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-new-edition-coconut-passion-fragrance-mist-250ml/R2200643.html",
-      "source_price": 29.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-new-edition-coconut-passion-fragrance-mist-250ml/R2200643.html",
-          "brand": "Victoria's Secret",
-          "name": "Victoria's Secret New Edition Coconut Passion Fragrance Mist 250ml",
-          "size": "250ml",
-          "price": 29.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria's Secret Velvet Petal Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 29.99,
-      "price_per_100ml": 12,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
-      "source_price": 29.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
-          "brand": "Victoria's Secret",
-          "name": "Victoria's Secret Velvet Petal Body Mist 250ml",
-          "size": "250ml",
-          "price": 29.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -4302,6 +4302,117 @@
           "price": 11,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd0377ae5/images/hi-res/D1/12/R2984884_40.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist No.0 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 10.99,
+      "price_per_100ml": 12.21,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd354113d/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
+      "source_price": 10.99,
+      "source_count": 6,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.0 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd354113d/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.7-90ml/R2984875.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.7 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwff590ddf/images/hi-res/81/D7/R2984875_40.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.8-90ml/R3032442.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.8 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8056f3b3/images/hi-res/0A/65/R3032442_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-11-90ml/R3032446.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No. 11 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb1968064/images/hi-res/C9/2C/R3032446_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-9-90ml/R3032448.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No. 9 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6b75a6de/images/hi-res/F0/37/R3032448_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.6-90ml/R2984884.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.6 90ml",
+          "size": "90ml",
+          "price": 11,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd0377ae5/images/hi-res/D1/12/R2984884_40.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist Rose Garden 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 10.99,
+      "price_per_100ml": 12.21,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw24dc0527/images/hi-res/78/8E/R3032456_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-rose-garden-90ml/R3032456.html",
+      "source_price": 10.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-rose-garden-90ml/R3032456.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist Rose Garden 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw24dc0527/images/hi-res/78/8E/R3032456_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -7465,34 +7576,6 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6e5da1f2/images/hi-res/10/19/R3032459_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist No.0 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 21.99,
-      "price_per_100ml": 24.43,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd354113d/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
-      "source_price": 21.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.0 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd354113d/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
         }
       ]
     },
