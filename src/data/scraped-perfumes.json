@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T08:19:26.013Z",
-  "count": 2904,
+  "generated_at": "2026-09-17T08:25:22.802Z",
+  "count": 2906,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Angel Bitten Fragrance Mist 250ml",
@@ -1954,34 +1954,6 @@
       ]
     },
     {
-      "brand": "Daise",
-      "name": "Daise Body Mist Hello 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 7,
-      "price_per_100ml": 7,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
-      "source_price": 7,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Hello 100ml",
-          "size": "100ml",
-          "price": 7,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
       "brand": "Disney",
       "name": "Disney Body Mist Frozen 2 250ml",
       "size": "250ml",
@@ -3093,6 +3065,34 @@
     },
     {
       "brand": "Daise",
+      "name": "Daise Body Mist Hello 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 10,
+      "price_per_100ml": 10,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
+      "source_price": 10,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Hello 100ml",
+          "size": "100ml",
+          "price": 10,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
       "name": "Daise Body Mist Happy 100ml",
       "size": "100ml",
       "size_ml": 100,
@@ -3484,6 +3484,34 @@
           "price": 10.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw7d574c9a/images/hi-res/AD/04/R3064368_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist Ocean Stroll",
+      "size": null,
+      "size_ml": null,
+      "price": 10.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa123b127/images/hi-res/AF/02/R3064370_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-ocean-stroll/R3064370.html",
+      "source_price": 10.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-ocean-stroll/R3064370.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist Ocean Stroll",
+          "size": null,
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa123b127/images/hi-res/AF/02/R3064370_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -4413,6 +4441,34 @@
           "price": 10.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw24dc0527/images/hi-res/78/8E/R3032456_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist Pistachio Crush 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 10.99,
+      "price_per_100ml": 12.21,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwca144656/images/hi-res/55/06/R3032457_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-pistachio-crush-90ml/R3032457.html",
+      "source_price": 10.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-pistachio-crush-90ml/R3032457.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist Pistachio Crush 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwca144656/images/hi-res/55/06/R3032457_30.jpg?sw=292&sh=292"
         }
       ]
     },
