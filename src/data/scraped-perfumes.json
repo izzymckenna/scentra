@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T08:01:17.641Z",
-  "count": 3330,
+  "generated_at": "2026-09-19T07:50:49.541Z",
+  "count": 3332,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Angel Bitten Fragrance Mist 250ml",
@@ -4279,6 +4279,34 @@
           "price": 29.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Fragrance Body Mist Violet & Berry",
+      "size": null,
+      "size_ml": null,
+      "price": 12,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa285a671/images/hi-res/1A/FC/R3067045_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-fragrance-body-mist-violet-berry/R3067045.html",
+      "source_price": 12,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-fragrance-body-mist-violet-berry/R3067045.html",
+          "brand": "Daise",
+          "name": "Daise Fragrance Body Mist Violet & Berry",
+          "size": null,
+          "price": 12,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa285a671/images/hi-res/1A/FC/R3067045_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -15671,6 +15699,34 @@
           "price": 49,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20012731-1.jpg?v=1758675878"
+        }
+      ]
+    },
+    {
+      "brand": "Viktor & Rolf",
+      "name": "Viktor & Rolf Flowerbomb EDP 3 Piece Giftset",
+      "size": null,
+      "size_ml": null,
+      "price": 49,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw12e7fd6a/images/hi-res/A5/6C/R3071012_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/viktor-rolf-flowerbomb-edp-3-piece-giftset/R3071012.html",
+      "source_price": 49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/viktor-rolf-flowerbomb-edp-3-piece-giftset/R3071012.html",
+          "brand": "Viktor & Rolf",
+          "name": "Viktor & Rolf Flowerbomb EDP 3 Piece Giftset",
+          "size": null,
+          "price": 49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw12e7fd6a/images/hi-res/A5/6C/R3071012_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -110842,6 +110898,18 @@
     {
       "retailer_slug": "chemist-warehouse-nz",
       "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
+    },
+    {
+      "retailer_slug": "bargain-chemist",
+      "error": "bargain-chemist returned no usable product responses. Last error: HTTP 429 from www.bargainchemist.co.nz"
+    },
+    {
+      "retailer_slug": "scent-boutique",
+      "error": "scent-boutique returned no usable product responses. Last error: HTTP 429 from scentboutique.co.nz"
+    },
+    {
+      "retailer_slug": "miller-road",
+      "error": "miller-road returned no usable product responses. Last error: HTTP 429 from millerroad.co.nz"
     },
     {
       "retailer_slug": "unichem",
