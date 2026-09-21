@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T08:20:27.399Z",
-  "count": 3346,
+  "generated_at": "2026-09-21T08:37:14.806Z",
+  "count": 3347,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Angel Bitten Fragrance Mist 250ml",
@@ -4264,6 +4264,34 @@
       ]
     },
     {
+      "brand": "So...?",
+      "name": "So...? Bossa Nova Copacabana Body Mist 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 17.99,
+      "price_per_100ml": 11.99,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw33fd2f1f/images/hi-res/36/B5/R3060050_40.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-bossa-nova-copacabana-body-mist-150ml/R3060050.html",
+      "source_price": 17.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-bossa-nova-copacabana-body-mist-150ml/R3060050.html",
+          "brand": "So...?",
+          "name": "So...? Bossa Nova Copacabana Body Mist 150ml",
+          "size": "150ml",
+          "price": 17.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw33fd2f1f/images/hi-res/36/B5/R3060050_40.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Daise",
       "name": "Daise Fragrance Body Mist Rose & Amber",
       "size": null,
@@ -4892,17 +4920,6 @@
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.7-90ml/R2984875.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.7 90ml",
-          "size": "90ml",
-          "price": 10.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwff590ddf/images/hi-res/81/D7/R2984875_40.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
           "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.8-90ml/R3032442.html",
           "brand": "MCoBeauty",
           "name": "MCoBeauty Fragrance Mist No.8 90ml",
@@ -4910,6 +4927,17 @@
           "price": 10.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8056f3b3/images/hi-res/0A/65/R3032442_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.7-90ml/R2984875.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.7 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwff590ddf/images/hi-res/81/D7/R2984875_40.jpg?sw=292&sh=292"
         },
         {
           "retailer_slug": "the-warehouse",
