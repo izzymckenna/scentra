@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T08:10:50.384Z",
+  "generated_at": "2026-09-25T08:34:04.013Z",
   "count": 3349,
   "cheapest": {
     "brand": "Dear Body",
@@ -4664,100 +4664,6 @@
     },
     {
       "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist No.0 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 10.99,
-      "price_per_100ml": 12.21,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6b75a6de/images/hi-res/F0/37/R3032448_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-9-90ml/R3032448.html",
-      "source_price": 10.99,
-      "source_count": 7,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-9-90ml/R3032448.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No. 9 90ml",
-          "size": "90ml",
-          "price": 10.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6b75a6de/images/hi-res/F0/37/R3032448_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.0 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd354113d/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.8-90ml/R3032442.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.8 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8056f3b3/images/hi-res/0A/65/R3032442_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.7-90ml/R2984875.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.7 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwff590ddf/images/hi-res/81/D7/R2984875_40.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-10-90ml/R3032450.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No. 10 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw017755d8/images/hi-res/19/47/R3032450_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-11-90ml/R3032446.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No. 11 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb1968064/images/hi-res/C9/2C/R3032446_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.6-90ml/R2984884.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.6 90ml",
-          "size": "90ml",
-          "price": 22,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd0377ae5/images/hi-res/D1/12/R2984884_40.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
       "name": "MCoBeauty Fragrance Mist Rose Garden 90ml",
       "size": "90ml",
       "size_ml": 90,
@@ -9046,6 +8952,100 @@
           "price": 24,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_9_27797db9-0e7b-40e4-aa29-15d523350bfb.jpg?v=1683858586"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist No.0 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 21.99,
+      "price_per_100ml": 24.43,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd354113d/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
+      "source_price": 21.99,
+      "source_count": 7,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.0 90ml",
+          "size": "90ml",
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd354113d/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.8-90ml/R3032442.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.8 90ml",
+          "size": "90ml",
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8056f3b3/images/hi-res/0A/65/R3032442_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-9-90ml/R3032448.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No. 9 90ml",
+          "size": "90ml",
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6b75a6de/images/hi-res/F0/37/R3032448_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-10-90ml/R3032450.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No. 10 90ml",
+          "size": "90ml",
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw017755d8/images/hi-res/19/47/R3032450_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-11-90ml/R3032446.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No. 11 90ml",
+          "size": "90ml",
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb1968064/images/hi-res/C9/2C/R3032446_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.7-90ml/R2984875.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.7 90ml",
+          "size": "90ml",
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwff590ddf/images/hi-res/81/D7/R2984875_40.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.6-90ml/R2984884.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.6 90ml",
+          "size": "90ml",
+          "price": 22,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd0377ae5/images/hi-res/D1/12/R2984884_40.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -114216,10 +114216,6 @@
     {
       "retailer_slug": "bargain-chemist",
       "error": "bargain-chemist returned no usable product responses. Last error: HTTP 429 from www.bargainchemist.co.nz"
-    },
-    {
-      "retailer_slug": "scent-boutique",
-      "error": "scent-boutique returned no usable product responses. Last error: HTTP 429 from scentboutique.co.nz"
     },
     {
       "retailer_slug": "miller-road",
