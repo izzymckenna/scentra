@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T08:59:43.986Z",
-  "count": 3436,
+  "generated_at": "2026-09-28T09:26:45.902Z",
+  "count": 3451,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Angel Bitten Fragrance Mist 250ml",
@@ -2808,6 +2808,34 @@
       ]
     },
     {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret Midnight Bloom Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 20.99,
+      "price_per_100ml": 8.4,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-midnight-bloom-body-mist-250ml/R2766560.html",
+      "source_price": 20.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-midnight-bloom-body-mist-250ml/R2766560.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret Midnight Bloom Body Mist 250ml",
+          "size": "250ml",
+          "price": 20.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Ariana Grande",
       "name": "Ariana Grande Thank U Next Body Mist 236ml",
       "size": "236ml",
@@ -3455,6 +3483,34 @@
       ]
     },
     {
+      "brand": "VV Love",
+      "name": "VV Love Exotic EDP",
+      "size": null,
+      "size_ml": null,
+      "price": 9.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw34edb320/images/hi-res/B6/A2/R3103663_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-exotic-edp/R3103663.html",
+      "source_price": 9.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-exotic-edp/R3103663.html",
+          "brand": "VV Love",
+          "name": "VV Love Exotic EDP",
+          "size": null,
+          "price": 9.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw34edb320/images/hi-res/B6/A2/R3103663_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Daise",
       "name": "Daise Body Mist Hello 100ml",
       "size": "100ml",
@@ -3985,6 +4041,34 @@
       ]
     },
     {
+      "brand": "Adidas",
+      "name": "Adidas Aftershave Ice Drive 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 11.49,
+      "price_per_100ml": 11.49,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3DF_800_4eddefd3-2361-492c-9c65-50af74646a74.jpg?v=1759800839",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/adidas-aftershave-ice-drive-100ml",
+      "source_price": 11.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/adidas-aftershave-ice-drive-100ml",
+          "brand": "Adidas",
+          "name": "Adidas Aftershave Ice Drive 100ml",
+          "size": "100ml",
+          "price": 11.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3DF_800_4eddefd3-2361-492c-9c65-50af74646a74.jpg?v=1759800839"
+        }
+      ]
+    },
+    {
       "brand": "So...?",
       "name": "So...? Bossa Nova Rock In Rio Body Mist 150ml",
       "size": "150ml",
@@ -4231,34 +4315,6 @@
       ]
     },
     {
-      "brand": "Victoria's Secret",
-      "name": "Victoria's Secret Midnight Bloom Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 29.99,
-      "price_per_100ml": 12,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-midnight-bloom-body-mist-250ml/R2766560.html",
-      "source_price": 29.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-midnight-bloom-body-mist-250ml/R2766560.html",
-          "brand": "Victoria's Secret",
-          "name": "Victoria's Secret Midnight Bloom Body Mist 250ml",
-          "size": "250ml",
-          "price": 29.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
       "brand": "Daise",
       "name": "Daise Fragrance Body Mist Violet & Berry",
       "size": null,
@@ -4370,6 +4426,17 @@
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.6-90ml/R2984884.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.6 90ml",
+          "size": "90ml",
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd0377ae5/images/hi-res/D1/12/R2984884_40.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
           "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-9-90ml/R3032448.html",
           "brand": "MCoBeauty",
           "name": "MCoBeauty Fragrance Mist No. 9 90ml",
@@ -4421,17 +4488,6 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw017755d8/images/hi-res/19/47/R3032450_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.6-90ml/R2984884.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.6 90ml",
-          "size": "90ml",
-          "price": 22,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd0377ae5/images/hi-res/D1/12/R2984884_40.jpg?sw=292&sh=292"
         },
         {
           "retailer_slug": "unichem",
@@ -8441,10 +8497,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/17649993005_FULL_700x_b2165462-408b-4a56-96a9-b63ded862c2c.jpg?v=1759800983",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/adidas-ice-dive-edp-50ml?_pos=8&_psq=edp&_psid=81b95c442&_ss=e",
+      "source_url": "https://www.bargainchemist.co.nz/products/adidas-ice-dive-edp-50ml",
       "source_price": 10.49,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/adidas-ice-dive-edp-50ml",
+          "brand": "Adidas",
+          "name": "Adidas Ice Dive EDP 50ml",
+          "size": "50ml",
+          "price": 10.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/17649993005_FULL_700x_b2165462-408b-4a56-96a9-b63ded862c2c.jpg?v=1759800983"
+        },
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
@@ -8840,6 +8907,56 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5473a159/images/hi-res/16/69/R2919955_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist No.3",
+      "size": null,
+      "size_ml": null,
+      "price": 21.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa88724dc/images/hi-res/1C/32/R2919954_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.3/R2919954.html",
+      "source_price": 21.99,
+      "source_count": 3,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.3/R2919954.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.3",
+          "size": null,
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa88724dc/images/hi-res/1C/32/R2919954_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.1/R2919952.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.1",
+          "size": null,
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw08fc29dd/images/hi-res/4A/01/R2919952_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.2/R2919953.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.2",
+          "size": null,
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw0a4ebc2a/images/hi-res/F7/0E/R2919953_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -15984,6 +16101,17 @@
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/joop-homme-le-parfum-edp-125ml",
+          "brand": "Joop",
+          "name": "Joop Homme Le Parfum EDP 125ml",
+          "size": "125ml",
+          "price": 81,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20020825-1.jpg?v=1723599903"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
           "source_url": "https://www.lifepharmacy.co.nz/products/joop-homme-le-parfum-edp-125ml?_pos=5&_psq=Joop&_psid=3f327cbf8&_ss=e",
           "brand": "Joop",
           "name": "Joop Homme Le Parfum EDP 125ml",
@@ -16018,17 +16146,6 @@
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
           "source_url": "https://www.lifepharmacy.co.nz/products/joop-homme-le-parfum-edp-125ml?_pos=5&_psq=Joop&_psid=5fa23fa30&_ss=e",
-          "brand": "Joop",
-          "name": "Joop Homme Le Parfum EDP 125ml",
-          "size": "125ml",
-          "price": 81,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20020825-1.jpg?v=1723599903"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/joop-homme-le-parfum-edp-125ml",
           "brand": "Joop",
           "name": "Joop Homme Le Parfum EDP 125ml",
           "size": "125ml",
@@ -23811,10 +23928,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/088300603404obsession-calvin-klein-edp-spray-34-oz-w-088300603404.jpg?v=1772748285",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/ck-obession-w-edp-100ml?_pos=3&_psq=Calvin+Klein&_psid=5ba5d3dd9&_ss=e",
+      "source_url": "https://www.bargainchemist.co.nz/products/ck-obession-w-edp-100ml",
       "source_price": 65.99,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ck-obession-w-edp-100ml",
+          "brand": "Calvin Klein",
+          "name": "Calvin Klein Obession Women EDP 100ml",
+          "size": "100ml",
+          "price": 65.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/088300603404obsession-calvin-klein-edp-spray-34-oz-w-088300603404.jpg?v=1772748285"
+        },
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
@@ -40527,7 +40655,7 @@
       "price_per_100ml": 97.99,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/armaf-shk-ii.png?v=1782965157",
-      "description": "SHK II by Saoud Al Kaabi x Armaf 100ml Eau De Parfum Spray Experience the bold and captivating essence of Armaf SHK II, a masterfully crafted fragrance that blends elegance with intensity. This Floral Fruity Gourmand scent is designed for those who appreciate sophistication with a touch of mystery. Designer: Armaf Year Introduced: 2024 Type: EDP Category: Unisex Fragrance Notes: The journey begins with a vibrant burst of bergamot, peach, and rose, creating a fresh yet refined opening. As the fragrance unfolds, the heart reveals a rich blend of saffron, jasmine, caramel, and oud, adding a warm and luxurious depth. Finally, the base lingers with a bold fusion of patchouli, labdanum, vanilla, benzoin, leather, musk, and woody notes, leaving a lasting impression of strength and confidence. Indulge in the luxury of Armaf SHK II, a fragrance that speaks to boldness, charisma, and timeless elegance. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "description": "SHK III by Saoud Al Kaabi x Armaf 100ml Eau De Parfum Spray Experience the bold allure of Shk III by Saoud Alkaabi x Armaf, a premium fragrance crafted for those who appreciate sophistication and strength. This Extrait de Parfum blends rich, vibrant notes to create a scent that leaves a lasting impression wherever you go. Designer: Armaf Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: The fragrance opens with a fresh burst of bergamot and juicy berry, giving it an energizing and magnetic start. At its heart lies a refined mix of lily and spicy ginger, adding a smooth yet invigorating layer of warmth. Finally, the base unfolds with deep notes of patchouli, oak, and the unique woody depth of Akigalawood — creating a powerful, masculine foundation that lingers throughout the day. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
       "source_name": "perfume-nz-shopify-suggest",
       "source_url": "https://www.perfumenz.co.nz/products/shk-ii-by-armaf-100ml-edp",
       "source_price": 97.99,
@@ -47432,10 +47560,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/F2D_800_f01315b4-0918-435b-96d9-89e39796e5da.jpg?v=1759799453",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/narciso-her-edp-spray-100ml?_pos=8&_psq=Narciso+Rodriguez&_psid=0e33b7314&_ss=e",
+      "source_url": "https://www.bargainchemist.co.nz/products/narciso-her-edp-spray-100ml",
       "source_price": 123.99,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/narciso-her-edp-spray-100ml",
+          "brand": "Online",
+          "name": "Narciso Rodriguez For Her EDP Spray 100ml",
+          "size": "100ml",
+          "price": 123.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/F2D_800_f01315b4-0918-435b-96d9-89e39796e5da.jpg?v=1759799453"
+        },
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
@@ -63181,7 +63320,7 @@
           "brand": "Emporio Armani",
           "name": "Emporio Armani Stronger With You Powerfully EDP 100ml",
           "size": "100ml",
-          "price": 200,
+          "price": 226,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041303-0.jpg?v=1770933415"
         }
@@ -64443,21 +64582,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036018-0.jpg?v=1754604156",
       "description": "Forged from ambition, Ralph Lauren Polo 67 Eau de Parfum is an explosive fusion of invigorating freshness and smoldering sensuality. The scent bursts open with pineapple, with its juicy sweetness instantly captivating the senses. The bright note surrenders to a heart of warm cedarwood. This rugged, masculine core is ignited by a rich base of luxurious benzoin resin that lingers on the skin, creating an intoxicating impression of desire. Polo 67 Eau de Parfum is more than a scent, it’s a statement: Design your dreams",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/ralph-lauren-polo-67-edp-spray-125ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/ralph-lauren-polo-67-edp-spray-125ml?_pos=7&_psq=Ralph+Lauren&_psid=7b16b8ece&_ss=e",
       "source_price": 239,
       "source_count": 4,
       "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ralph-lauren-polo-67-edp-spray-125ml",
-          "brand": "Ralph Lauren",
-          "name": "Ralph Lauren Polo 67 EDP Spray 125ml",
-          "size": "125ml",
-          "price": 239,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036018-0.jpg?v=1754604156"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -64488,6 +64616,17 @@
           "name": "Ralph Lauren Polo 67 EDP Spray 125ml",
           "size": "125ml",
           "price": 239,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036018-0.jpg?v=1754604156"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ralph-lauren-polo-67-edp-spray-125ml",
+          "brand": "Ralph Lauren",
+          "name": "Ralph Lauren Polo 67 EDP Spray 125ml",
+          "size": "125ml",
+          "price": 245,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036018-0.jpg?v=1754604156"
         }
@@ -65676,7 +65815,7 @@
           "brand": "Giorgio Armani",
           "name": "Giorgio Armani SÌ Passione EDP Red Musk 100ml",
           "size": "100ml",
-          "price": 335,
+          "price": 345,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037527-0_6dc516cf-a08e-4aae-9068-185a7a1483d2.jpg?v=1770246595"
         }
@@ -68637,7 +68776,7 @@
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-acqua-di-gio-edp-intense-100ml",
+          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-acqua-di-gio-edp-intense-100ml?_pos=7&_psq=Giorgio+Armani&_psid=9574f476d&_ss=e",
           "brand": "Giorgio Armani",
           "name": "Giorgio Armani Acqua Di Gio EDP Intense 100ml",
           "size": "100ml",
@@ -68648,11 +68787,11 @@
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-acqua-di-gio-edp-intense-100ml?_pos=7&_psq=Giorgio+Armani&_psid=9574f476d&_ss=e",
+          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-acqua-di-gio-edp-intense-100ml",
           "brand": "Giorgio Armani",
           "name": "Giorgio Armani Acqua Di Gio EDP Intense 100ml",
           "size": "100ml",
-          "price": 260,
+          "price": 270,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043340-0.jpg?v=1783805361"
         }
@@ -68861,6 +69000,34 @@
           "price": 204.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jo-malone-wild-bluebell.png?v=1728267075"
+        }
+      ]
+    },
+    {
+      "brand": "Atelier Cologne",
+      "name": "Rose Cuiree by Atelier Cologne 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 204.99,
+      "price_per_100ml": 204.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/atelier-cologne-rose-cuiree.png?v=1790558765",
+      "description": "Rose Cuiree by Atelier Cologne 100ml Eau De Parfum Spray An ode to the Rose Damascena, a fascinating and unpredictable wild rose that blooms in a passionate love. An escape to a borderland where dream meets reality, where darkness meets light, where seduction meets danger. Designer: Atelier Cologne Year Introduced: 2022 Type: PEDP Category: Unisex Fragrance Notes: The Rose Damascena reveals its natural facets in a fragrance that balances radiant blooming sensuality with a darker, carnal side. With at least 600 hand-picked petals from the high plateau of Isparta, this absolute captures its purest essence, encapsulating passionate contradictions. The Italian's Bergamot high concentration, reflecting the Cologne heritage, forms a luminous halo, transmuting the usually darker Damascena Rose expression into a positive, passionate energy. The Oud accord crafted exclusively for 'Rose Cuirée' interprets the precious wood with a leathery nuance, unveiling its most carnal and profound facets. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/rose-cuiree-by-atelier-cologne-100ml-edp",
+      "source_price": 204.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/rose-cuiree-by-atelier-cologne-100ml-edp",
+          "brand": "Atelier Cologne",
+          "name": "Rose Cuiree by Atelier Cologne 100ml EDP",
+          "size": "100ml",
+          "price": 204.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/atelier-cologne-rose-cuiree.png?v=1790558765"
         }
       ]
     },
@@ -71883,7 +72050,7 @@
           "brand": "Viktor & Rolf",
           "name": "Viktor & Rolf Spicebomb Metallic Musk EDP 90ml",
           "size": "90ml",
-          "price": 250,
+          "price": 259,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037867-0.jpg?v=1756516067"
         }
@@ -73891,21 +74058,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037858-0.png?v=1758322826",
       "description": "In 1996, in the trail of Angel’s gourmand revolution, Mugler disrupted masculine codes with a radical new indulgence for men. Matching the power of the brand’s signature patchouli with the vigor of a coffee absolute, the ambery woody gourmand A*Men Eau de Toilette evokes the essence of a hero. A timeless yet futuristic vision of man, free from conventional codes of seduction. Today, Mugler is proud to present a glamorous new cobalt blue star, shining boldly in the A*Men galaxy: A*Men Stellar Eau de Parfum lumineuse. Mighty, magnetic, magnificent, the A*Men man attracts the universe’s cosmic forces. Augmented through the fantasy of metamorphosis, he radiates captivating masculinity, transforming into the most glamorous version of himself. Reflecting his transfiguration, the new ambery gourmand aromatic reinvents A*Men’s signature gourmandise. A yummy, creamy, mouthwatering pistachio accord collides with sparks of dazzling bergamot, radiant lavandin, and mighty woods to create a luminous galactic delight. Supercharge the glam in you with A*Men Stellar Eau de Parfum lumineuse.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-a-men-stellar-edp-100ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-a-men-stellar-edp-100ml?_pos=7&_psq=Mugler&_psid=b15f13b19&_ss=e",
       "source_price": 230,
       "source_count": 5,
       "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-a-men-stellar-edp-100ml",
-          "brand": "Thierry Mugler",
-          "name": "Thierry Mugler A-Men Stellar EDP 100ml",
-          "size": "100ml",
-          "price": 230,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037858-0.png?v=1758322826"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -73947,6 +74103,17 @@
           "name": "Thierry Mugler A-Men Stellar EDP 100ml",
           "size": "100ml",
           "price": 230,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037858-0.png?v=1758322826"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-a-men-stellar-edp-100ml",
+          "brand": "Thierry Mugler",
+          "name": "Thierry Mugler A-Men Stellar EDP 100ml",
+          "size": "100ml",
+          "price": 264,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037858-0.png?v=1758322826"
         }
@@ -74417,34 +74584,6 @@
           "price": 174.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/61iSNPMzItL.jpg?v=1763925279"
-        }
-      ]
-    },
-    {
-      "brand": "Ralph Lauren",
-      "name": "Ralph Lauren Polo 67 EDP Spray 75ml",
-      "size": "75ml",
-      "size_ml": 75,
-      "price": 175,
-      "price_per_100ml": 233.33,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036019-0.jpg?v=1754604152",
-      "description": "Forged from ambition, Ralph Lauren Polo 67 Eau de Parfum is an explosive fusion of invigorating freshness and smoldering sensuality. The scent bursts open with pineapple, with its juicy sweetness instantly captivating the senses. The bright note surrenders to a heart of warm cedarwood. This rugged, masculine core is ignited by a rich base of luxurious benzoin resin that lingers on the skin, creating an intoxicating impression of desire. Polo 67 Eau de Parfum is more than a scent, it’s a statement: Design your dreams",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/ralph-lauren-polo-67-edp-spray-75ml",
-      "source_price": 175,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ralph-lauren-polo-67-edp-spray-75ml",
-          "brand": "Ralph Lauren",
-          "name": "Ralph Lauren Polo 67 EDP Spray 75ml",
-          "size": "75ml",
-          "price": 175,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036019-0.jpg?v=1754604152"
         }
       ]
     },
@@ -76206,6 +76345,34 @@
     },
     {
       "brand": "Ralph Lauren",
+      "name": "Ralph Lauren Polo 67 EDP Spray 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 182,
+      "price_per_100ml": 242.67,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036019-0.jpg?v=1754604152",
+      "description": "Forged from ambition, Ralph Lauren Polo 67 Eau de Parfum is an explosive fusion of invigorating freshness and smoldering sensuality. The scent bursts open with pineapple, with its juicy sweetness instantly captivating the senses. The bright note surrenders to a heart of warm cedarwood. This rugged, masculine core is ignited by a rich base of luxurious benzoin resin that lingers on the skin, creating an intoxicating impression of desire. Polo 67 Eau de Parfum is more than a scent, it’s a statement: Design your dreams",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/ralph-lauren-polo-67-edp-spray-75ml",
+      "source_price": 182,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ralph-lauren-polo-67-edp-spray-75ml",
+          "brand": "Ralph Lauren",
+          "name": "Ralph Lauren Polo 67 EDP Spray 75ml",
+          "size": "75ml",
+          "price": 182,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036019-0.jpg?v=1754604152"
+        }
+      ]
+    },
+    {
+      "brand": "Ralph Lauren",
       "name": "Ralph Lauren Polo Blue EDP 75ml",
       "size": "75ml",
       "size_ml": 75,
@@ -77679,7 +77846,7 @@
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-power-of-you-edp-90ml",
+          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-power-of-you-edp-90ml?_pos=4&_psq=edp&_psid=b8d1b3761&_ss=e",
           "brand": "Emporio Armani",
           "name": "Emporio Armani Power of You EDP 90ml",
           "size": "90ml",
@@ -77690,11 +77857,11 @@
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-power-of-you-edp-90ml?_pos=4&_psq=edp&_psid=b8d1b3761&_ss=e",
+          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-power-of-you-edp-90ml",
           "brand": "Emporio Armani",
           "name": "Emporio Armani Power of You EDP 90ml",
           "size": "90ml",
-          "price": 253,
+          "price": 270,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041306-0.jpg?v=1770933390"
         }
@@ -78670,7 +78837,7 @@
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-stronger-with-you-powerfully-edp-50ml",
+          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-stronger-with-you-powerfully-edp-50ml?_pos=10&_psq=edp&_psid=cf2da19d3&_ss=e",
           "brand": "Emporio Armani",
           "name": "Emporio Armani Stronger With You Powerfully EDP 50ml",
           "size": "50ml",
@@ -78681,11 +78848,11 @@
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-stronger-with-you-powerfully-edp-50ml?_pos=10&_psq=edp&_psid=cf2da19d3&_ss=e",
+          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-stronger-with-you-powerfully-edp-50ml",
           "brand": "Emporio Armani",
           "name": "Emporio Armani Stronger With You Powerfully EDP 50ml",
           "size": "50ml",
-          "price": 145,
+          "price": 160,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041304-0.jpg?v=1770933428"
         }
@@ -79555,7 +79722,7 @@
           "brand": "Ralph Lauren",
           "name": "Ralph Lauren Ralph's Club New York EDP 60ml",
           "size": "60ml",
-          "price": 185,
+          "price": 190,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039961-0.jpg?v=1769994077"
         }
@@ -80014,34 +80181,6 @@
       ]
     },
     {
-      "brand": "Valentino",
-      "name": "Valentino Born in Roma Uomo Extradose EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 270,
-      "price_per_100ml": 270,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034923-0.png?v=1758319985",
-      "description": "As night falls on the eternal city, let yourself be whisked away to a Roman palazzo, discover a new chapter of Born in Roma story with Born in Roma Extradose. Born in Roma Extradose pushes the boundaries, experience the highest concentration of Born In Roma and pursue the addiction of Born in Roma fragrances. Born from the intensity of a night in the eternal city, this fougère woody ambery fragrance opens the door of an extravagant world, amplified by an extradose of vetiver, captivating spicy notes and lavandin, for an extra-seduction. Deep dive into a magnetic dream, unleash your personalities, live excessively, and explore the vibrant ways to be you. Dare to be extra-you, dare to be Extra-ordinary.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-extradose-edp-100ml",
-      "source_price": 270,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-extradose-edp-100ml",
-          "brand": "Valentino",
-          "name": "Valentino Born in Roma Uomo Extradose EDP 100ml",
-          "size": "100ml",
-          "price": 270,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034923-0.png?v=1758319985"
-        }
-      ]
-    },
-    {
       "brand": "Giorgio Armani",
       "name": "Giorgio Armani Acqua Di Gio Homme EDP 100ml",
       "size": "100ml",
@@ -80194,6 +80333,34 @@
           "price": 136,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11274827-1.jpg?v=1758675319"
+        }
+      ]
+    },
+    {
+      "brand": "Valentino",
+      "name": "Valentino Born in Roma Uomo Extradose EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 274,
+      "price_per_100ml": 274,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034923-0.png?v=1758319985",
+      "description": "As night falls on the eternal city, let yourself be whisked away to a Roman palazzo, discover a new chapter of Born in Roma story with Born in Roma Extradose. Born in Roma Extradose pushes the boundaries, experience the highest concentration of Born In Roma and pursue the addiction of Born in Roma fragrances. Born from the intensity of a night in the eternal city, this fougère woody ambery fragrance opens the door of an extravagant world, amplified by an extradose of vetiver, captivating spicy notes and lavandin, for an extra-seduction. Deep dive into a magnetic dream, unleash your personalities, live excessively, and explore the vibrant ways to be you. Dare to be extra-you, dare to be Extra-ordinary.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-extradose-edp-100ml",
+      "source_price": 274,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-extradose-edp-100ml",
+          "brand": "Valentino",
+          "name": "Valentino Born in Roma Uomo Extradose EDP 100ml",
+          "size": "100ml",
+          "price": 274,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034923-0.png?v=1758319985"
         }
       ]
     },
@@ -82332,7 +82499,7 @@
           "brand": "Viktor & Rolf",
           "name": "Viktor & Rolf Flowerbomb Pretty Peony EDP 100ml",
           "size": "100ml",
-          "price": 335,
+          "price": 341,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041677-0.jpg?v=1776202329"
         }
@@ -82510,7 +82677,7 @@
           "brand": "Viktor & Rolf",
           "name": "Viktor & Rolf Spicebomb Metallic Musk EDP 50ml",
           "size": "50ml",
-          "price": 180,
+          "price": 186,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037868-0.jpg?v=1756516064"
         }
@@ -82634,17 +82801,6 @@
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-nude-bloom-edp-100ml",
-          "brand": "Giorgio Armani",
-          "name": "Giorgio Armani Si Nude Bloom EDP 100ml",
-          "size": "100ml",
-          "price": 335,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041156-0.jpg?v=1772834218"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
           "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-nude-bloom-edp-100ml?_pos=5&_psq=Giorgio+Armani&_psid=2fe252ffa&_ss=e",
           "brand": "Giorgio Armani",
           "name": "Giorgio Armani Si Nude Bloom EDP 100ml",
@@ -82683,6 +82839,17 @@
           "name": "Giorgio Armani Si Nude Bloom EDP 100ml",
           "size": "100ml",
           "price": 335,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041156-0.jpg?v=1772834218"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-nude-bloom-edp-100ml",
+          "brand": "Giorgio Armani",
+          "name": "Giorgio Armani Si Nude Bloom EDP 100ml",
+          "size": "100ml",
+          "price": 341,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041156-0.jpg?v=1772834218"
         }
@@ -83490,17 +83657,6 @@
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-myslf-labsolu-parfum-100ml",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Myslf L'Absolu Parfum 100ml",
-          "size": "100ml",
-          "price": 350,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037679-0.png?v=1756516074"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
           "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-myslf-labsolu-parfum-100ml?_pos=8&_psq=Lattafa&_psid=f78f8b0e0&_ss=e",
           "brand": "Yves Saint Laurent",
           "name": "Yves Saint Laurent Myslf L'Absolu Parfum 100ml",
@@ -83517,6 +83673,17 @@
           "name": "Yves Saint Laurent Myslf L'Absolu Parfum 100ml",
           "size": "100ml",
           "price": 350,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037679-0.png?v=1756516074"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-myslf-labsolu-parfum-100ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Myslf L'Absolu Parfum 100ml",
+          "size": "100ml",
+          "price": 358,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037679-0.png?v=1756516074"
         }
@@ -86153,21 +86320,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035511-0_6b6d782f-910c-43f4-8cdc-3a865b473198.jpg?v=1756515995",
       "description": "SHOW YOUR POWER. SHOW Y. Y LE PARFUM, the new scent of the self-accomplished man, embodying the intense blue night. A sensual freshness expressed by the tension between the white and dark accords of this unique fougere scent crafted by master perfumer Dominique Ropion. HIGHLY INVIGORATING. INTENSELY HOT. The new le parfum twists the iconic fresh Y signature in an ambery-woody take. A new juice, more concentrated than the old Y LE PARFUM. The ultra-fresh white accord: A deeply invigorating midnight pine accord, and a geranium accord captured in the Ourika Community Gardens in Morocco precisely at 9:40 AM for its unique freshness. The ultra-sensual dark accord: A resinous fir balsam from the Canadian pine forests and a sensuous woody patchouli. THE PITCH BLUE BOTTLE. The iconic bottle created by Suzanne Dalton for YSL takes on an intense night blue shade. Masculine and elegant, the new LE PARFUM bottle is as intense as the juice it holds. The bright silver Y slashes through the square-shouldered bottle accents the V-shaped notch in the glass – a technical feat that turns the Yconic bottle into covetable piece of design.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-y-le-parfum-100ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-y-le-parfum-100ml?_pos=7&_psq=Yves+Saint+Laurent&_psid=bf0391458&_ss=e",
       "source_price": 314,
       "source_count": 4,
       "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-y-le-parfum-100ml",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Y Le Parfum 100ml",
-          "size": "100ml",
-          "price": 314,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035511-0_6b6d782f-910c-43f4-8cdc-3a865b473198.jpg?v=1756515995"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -86198,6 +86354,17 @@
           "name": "Yves Saint Laurent Y Le Parfum 100ml",
           "size": "100ml",
           "price": 314,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035511-0_6b6d782f-910c-43f4-8cdc-3a865b473198.jpg?v=1756515995"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-y-le-parfum-100ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Y Le Parfum 100ml",
+          "size": "100ml",
+          "price": 315,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035511-0_6b6d782f-910c-43f4-8cdc-3a865b473198.jpg?v=1756515995"
         }
@@ -88630,7 +88797,7 @@
           "brand": "Emporio Armani",
           "name": "Emporio Armani Power of You EDP 50ml",
           "size": "50ml",
-          "price": 187,
+          "price": 198,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041307-0.jpg?v=1770933401"
         }
@@ -88766,34 +88933,6 @@
           "price": 165,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20011320-1.jpg?v=1758675838"
-        }
-      ]
-    },
-    {
-      "brand": "Thierry Mugler",
-      "name": "Thierry Mugler A-Men Stellar EDP 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 165,
-      "price_per_100ml": 330,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037859-0.png?v=1758322821",
-      "description": "In 1996, in the trail of Angel’s gourmand revolution, Mugler disrupted masculine codes with a radical new indulgence for men. Matching the power of the brand’s signature patchouli with the vigor of a coffee absolute, the ambery woody gourmand A*Men Eau de Toilette evokes the essence of a hero. A timeless yet futuristic vision of man, free from conventional codes of seduction. Today, Mugler is proud to present a glamorous new cobalt blue star, shining boldly in the A*Men galaxy: A*Men Stellar Eau de Parfum lumineuse. Mighty, magnetic, magnificent, the A*Men man attracts the universe’s cosmic forces. Augmented through the fantasy of metamorphosis, he radiates captivating masculinity, transforming into the most glamorous version of himself. Reflecting his transfiguration, the new ambery gourmand aromatic reinvents A*Men’s signature gourmandise. A yummy, creamy, mouthwatering pistachio accord collides with sparks of dazzling bergamot, radiant lavandin, and mighty woods to create a luminous galactic delight. Supercharge the glam in you with A*Men Stellar Eau de Parfum lumineuse.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-a-menstellar-edp-50ml",
-      "source_price": 165,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-a-menstellar-edp-50ml",
-          "brand": "Thierry Mugler",
-          "name": "Thierry Mugler A-Men Stellar EDP 50ml",
-          "size": "50ml",
-          "price": 165,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037859-0.png?v=1758322821"
         }
       ]
     },
@@ -89364,21 +89503,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037860-0.png?v=1758322815",
       "description": "In 1992, Mugler revolutionized perfumery by introducing the first ever gourmand fragrance, poured into what would become one of the most trailblazing perfume bottles in history: Angel’s blue star. Today, Mugler is proud to unveil the most glamorous Angel ever: Angel Stellar Eau de Parfum lumineuse. Radiating dazzling, delectable femininity. Transfiguring Angel’s groundbreaking gourmandise, the new ambery gourmand powdery fragrance magnifies one of the most delightful olfactory notes: the pistachio. Yummy, creamy, mouthwatering pistachio notes collides with sparks of dazzling bergamot and captivating woods to create a luminous galactic delight. A new dazzling universe of resplendent glamour and radiant femininity.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-angel-stellar-edp-100ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-angel-stellar-edp-100ml?_pos=1&_psq=Mugler&_psid=b15f13b19&_ss=e",
       "source_price": 335,
       "source_count": 5,
       "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-angel-stellar-edp-100ml",
-          "brand": "Thierry Mugler",
-          "name": "Thierry Mugler Angel Stellar EDP 100ml",
-          "size": "100ml",
-          "price": 335,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037860-0.png?v=1758322815"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -89422,34 +89550,17 @@
           "price": 335,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037860-0.png?v=1758322815"
-        }
-      ]
-    },
-    {
-      "brand": "Valentino",
-      "name": "Valentino Valentina EDP Spray 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 335,
-      "price_per_100ml": 335,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036020-0.jpg?v=1769992373",
-      "description": "Valentina, the fragrance for joyful, rebellious and romantic dreamers. Inspired by summer mornings in Roman gardens, and the rebirth of the Italian Renaissance, to tell a story of irreverent beauty. A flirtatious fragrance to express your free minded femininity. A playful balance between delicious sweetness and unbridled opulence. The vivid fruitiness of Bergamot Essence and Strawberry Accord dances with the bold sensuality of Jasmine notes and Patchouli essence.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-valentina-edp-spray-100ml",
-      "source_price": 335,
-      "source_count": 1,
-      "sources": [
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-valentina-edp-spray-100ml",
-          "brand": "Valentino",
-          "name": "Valentino Valentina EDP Spray 100ml",
+          "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-angel-stellar-edp-100ml",
+          "brand": "Thierry Mugler",
+          "name": "Thierry Mugler Angel Stellar EDP 100ml",
           "size": "100ml",
-          "price": 335,
+          "price": 358,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036020-0.jpg?v=1769992373"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037860-0.png?v=1758322815"
         }
       ]
     },
@@ -90035,34 +90146,6 @@
       ]
     },
     {
-      "brand": "Lancôme",
-      "name": "Lancôme La Vie Est Belle Vanille Nude EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 340,
-      "price_per_100ml": 340,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037689-0_1fd382f4-16ff-458f-a197-3fc5ef324ce3.jpg?v=1769992893",
-      "description": "Embark on a love affair with yourself - a triumphant story of liberation begins with embracing your most authentic and intimate side. This sensual and powerful feeling inspires you to seize life's every pleasure. Indulge your senses and let happiness become your second skin. La vie est belle Vanille Nude, our first musky vanilla. The fragrance of choosing yourseld and savoring life's most irresistible pleasures. Ready to reveal your most authentic self ? La vie est belle Vanille Nude enhances your unique scent with delectable accords? creating a fragrance that's truly you. Solar jasmine and Glazed Vanilla, melt onto your skin, culminating in an overdose of creamy white musk, inspired from the French patisserie. A powerful fragrance that lasts all-day long* on your skin, including an exceptional 5-hour intensity nacked by consumer tests. Be ready for compliments ! *Self assessment test, 69 women.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/lancome-la-vie-est-belle-vanille-nude-edp-100ml",
-      "source_price": 340,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/lancome-la-vie-est-belle-vanille-nude-edp-100ml",
-          "brand": "Lancôme",
-          "name": "Lancôme La Vie Est Belle Vanille Nude EDP 100ml",
-          "size": "100ml",
-          "price": 340,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037689-0_1fd382f4-16ff-458f-a197-3fc5ef324ce3.jpg?v=1769992893"
-        }
-      ]
-    },
-    {
       "brand": "Ralph Lauren",
       "name": "Ralph Lauren Club New York Parfum 60ml",
       "size": "60ml",
@@ -90087,6 +90170,34 @@
           "price": 204,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20044932-0.jpg?v=1790209174"
+        }
+      ]
+    },
+    {
+      "brand": "Lancôme",
+      "name": "Lancôme La Vie Est Belle Vanille Nude EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 341,
+      "price_per_100ml": 341,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037689-0_1fd382f4-16ff-458f-a197-3fc5ef324ce3.jpg?v=1769992893",
+      "description": "Embark on a love affair with yourself - a triumphant story of liberation begins with embracing your most authentic and intimate side. This sensual and powerful feeling inspires you to seize life's every pleasure. Indulge your senses and let happiness become your second skin. La vie est belle Vanille Nude, our first musky vanilla. The fragrance of choosing yourseld and savoring life's most irresistible pleasures. Ready to reveal your most authentic self ? La vie est belle Vanille Nude enhances your unique scent with delectable accords? creating a fragrance that's truly you. Solar jasmine and Glazed Vanilla, melt onto your skin, culminating in an overdose of creamy white musk, inspired from the French patisserie. A powerful fragrance that lasts all-day long* on your skin, including an exceptional 5-hour intensity nacked by consumer tests. Be ready for compliments ! *Self assessment test, 69 women.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/lancome-la-vie-est-belle-vanille-nude-edp-100ml",
+      "source_price": 341,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/lancome-la-vie-est-belle-vanille-nude-edp-100ml",
+          "brand": "Lancôme",
+          "name": "Lancôme La Vie Est Belle Vanille Nude EDP 100ml",
+          "size": "100ml",
+          "price": 341,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037689-0_1fd382f4-16ff-458f-a197-3fc5ef324ce3.jpg?v=1769992893"
         }
       ]
     },
@@ -90410,6 +90521,34 @@
           "price": 310,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20029456-0.jpg?v=1769555375"
+        }
+      ]
+    },
+    {
+      "brand": "Valentino",
+      "name": "Valentino Valentina EDP Spray 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 345,
+      "price_per_100ml": 345,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036020-0.jpg?v=1769992373",
+      "description": "Valentina, the fragrance for joyful, rebellious and romantic dreamers. Inspired by summer mornings in Roman gardens, and the rebirth of the Italian Renaissance, to tell a story of irreverent beauty. A flirtatious fragrance to express your free minded femininity. A playful balance between delicious sweetness and unbridled opulence. The vivid fruitiness of Bergamot Essence and Strawberry Accord dances with the bold sensuality of Jasmine notes and Patchouli essence.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-valentina-edp-spray-100ml",
+      "source_price": 345,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-valentina-edp-spray-100ml",
+          "brand": "Valentino",
+          "name": "Valentino Valentina EDP Spray 100ml",
+          "size": "100ml",
+          "price": 345,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036020-0.jpg?v=1769992373"
         }
       ]
     },
@@ -90975,6 +91114,62 @@
           "price": 349.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/francesca-libertine-neroli-100ml.png?v=1789593152"
+        }
+      ]
+    },
+    {
+      "brand": "BDK Parfums",
+      "name": "Vanille Caviar by BDK Parfums 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 349.99,
+      "price_per_100ml": 349.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bdk-vanille-caviar.png?v=1790560518",
+      "description": "Vanille Caviar by BDK Parfums 100ml Eau De Parfum Spray In the manner of a monochrome, BDK Parfums’ new fragrance explores the mysterious power of black, no longer seen as a shadow but revealed as a source of light. The sixth creation of the Collection Matières, Vanille Caviar is a perfume where the material itself becomes brilliance, through a vanilla worked to the utmost, elevated to the status of a noble substance. Designer: BDK Parfums Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: Here, vanilla, creamy and gourmand, becomes dark, dense, textured, and yet pierced with luminosity. Originating from an orchid, vanilla comes from a majestic flower with an almost unreal beauty. Its sensuality and addictive, suave aroma find a deep resonance in this composition. The seeds, a deep black, appear with a subtle sheen. The fragrance is structured around a single olfactory raw material: vanilla, revealed in all its nuances through CO₂ extract and absolute. Cocoa and resinous materials, Peru balsam and labdanum cistus, unfold its full richness and depth. At the heart lies a unique vanilla caviar accord with salty, mineral facets, as precious as it is distinctive. Surrounding it, subtle contrasts: the freshness of cardamom, the fruity brightness of blackcurrant, and the warmth of cocoa beans. Here, light no longer comes from a golden shimmer or a solar accord, it radiates from the very heart of the vanilla and the notes that accompany it. This is a Outrenoir vanilla, dark in appearance yet vibrant and alive, like artworks that change throughout the day depending on the light, shadow, or gaze. A sensual and enveloping composition, at once singular, modern, and timeless. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/vanille-caviar-by-bdk-parfums-100ml-edp",
+      "source_price": 349.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/vanille-caviar-by-bdk-parfums-100ml-edp",
+          "brand": "BDK Parfums",
+          "name": "Vanille Caviar by BDK Parfums 100ml EDP",
+          "size": "100ml",
+          "price": 349.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bdk-vanille-caviar.png?v=1790560518"
+        }
+      ]
+    },
+    {
+      "brand": "Others",
+      "name": "Overdose by Omanluxury 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 349.99,
+      "price_per_100ml": 349.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/omanluxury-overdose.png?v=1790555027",
+      "description": "Overdose by Omanluxury 100ml Eau De Parfum Spray Overdose is an exquisite fusion of rich, intoxicating notes, designed to evoke sensory overload in the most sophisticated way. This fragrance masterfully blends deep, resinous, and spicy accords with warm, sensual undertones, creating an aura of mystery and allure. Designer: Omanluxury Year Introduced: 2020 Type: EDP Category: Unisex Fragrance Notes: Inspired to evoke an uplifting vibe of extreme bliss. The fragrance starts off with an overdosed freshness of citruses enriched with spices. Followed by a floral heart featuring jasmine, lily and orange flower to an overwhelming rich base composed of vetiver, ambergis, musk and patchouli. Top notes: Lemon, orange, bergamot, black pepper, saffron, cardamom, grapefruit and mandarin. Heart notes: Jasmine, orris, lilly, orange flower, sage and fig. Base notes: Cedarwood, musk, sandalwood, vetiver, ambergris, tonka, patchouli and plum. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/overdose-by-omanluxury-100ml-edp",
+      "source_price": 349.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/overdose-by-omanluxury-100ml-edp",
+          "brand": "Others",
+          "name": "Overdose by Omanluxury 100ml EDP",
+          "size": "100ml",
+          "price": 349.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/omanluxury-overdose.png?v=1790555027"
         }
       ]
     },
@@ -91958,7 +92153,7 @@
           "brand": "Yves Saint Laurent",
           "name": "Yves Saint Laurent Myslf L'Absolu Parfum 60ml",
           "size": "60ml",
-          "price": 255,
+          "price": 259,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037680-0.png?v=1756516082"
         }
@@ -92874,21 +93069,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034924-0.png?v=1758319963",
       "description": "As night falls on the eternal city, let yourself be whisked away to a Roman palazzo, discover a new chapter of Born in Roma story with Born in Roma Extradose. Born in Roma Extradose pushes the boundaries, experience the highest concentration of Born In Roma and pursue the addiction of Born in Roma fragrances. Born from the intensity of a night in the eternal city, this fougère woody ambery fragrance opens the door of an extravagant world, amplified by an extradose of vetiver, captivating spicy notes and lavandin, for an extra-seduction. Deep dive into a magnetic dream, unleash your personalities, live excessively, and explore the vibrant ways to be you. Dare to be extra-you, dare to be Extra-ordinary.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-extradose-edp-50ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-extradose-edp-50ml?_pos=4&_psq=edp&_psid=af2307433&_ss=e",
       "source_price": 180,
       "source_count": 3,
       "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-extradose-edp-50ml",
-          "brand": "Valentino",
-          "name": "Valentino Born in Roma Uomo Extradose EDP 50ml",
-          "size": "50ml",
-          "price": 180,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034924-0.png?v=1758319963"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -92908,6 +93092,17 @@
           "name": "Valentino Born in Roma Uomo Extradose EDP 50ml",
           "size": "50ml",
           "price": 180,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034924-0.png?v=1758319963"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-extradose-edp-50ml",
+          "brand": "Valentino",
+          "name": "Valentino Born in Roma Uomo Extradose EDP 50ml",
+          "size": "50ml",
+          "price": 182,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034924-0.png?v=1758319963"
         }
@@ -93328,6 +93523,34 @@
           "price": 123,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045412-0.jpg?v=1789421607"
+        }
+      ]
+    },
+    {
+      "brand": "Thierry Mugler",
+      "name": "Thierry Mugler A-Men Stellar EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 182,
+      "price_per_100ml": 364,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037859-0.png?v=1758322821",
+      "description": "In 1996, in the trail of Angel’s gourmand revolution, Mugler disrupted masculine codes with a radical new indulgence for men. Matching the power of the brand’s signature patchouli with the vigor of a coffee absolute, the ambery woody gourmand A*Men Eau de Toilette evokes the essence of a hero. A timeless yet futuristic vision of man, free from conventional codes of seduction. Today, Mugler is proud to present a glamorous new cobalt blue star, shining boldly in the A*Men galaxy: A*Men Stellar Eau de Parfum lumineuse. Mighty, magnetic, magnificent, the A*Men man attracts the universe’s cosmic forces. Augmented through the fantasy of metamorphosis, he radiates captivating masculinity, transforming into the most glamorous version of himself. Reflecting his transfiguration, the new ambery gourmand aromatic reinvents A*Men’s signature gourmandise. A yummy, creamy, mouthwatering pistachio accord collides with sparks of dazzling bergamot, radiant lavandin, and mighty woods to create a luminous galactic delight. Supercharge the glam in you with A*Men Stellar Eau de Parfum lumineuse.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-a-menstellar-edp-50ml",
+      "source_price": 182,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-a-menstellar-edp-50ml",
+          "brand": "Thierry Mugler",
+          "name": "Thierry Mugler A-Men Stellar EDP 50ml",
+          "size": "50ml",
+          "price": 182,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037859-0.png?v=1758322821"
         }
       ]
     },
@@ -94302,21 +94525,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043341-0.jpg?v=1783805362",
       "description": "Conjuring an invigorating sensation of freshness, this new fragrance reinterprets Acqua Di Giò’s signature blend, amplifying the sensual intensity of woods and surge of aquatic freshness. The result is an olfactive journey that’s more powerful, enduring, and captivating than ever before. Fusing a vibrant bergamot heart, an invigorating aquatic accord, and powerful woody and ambery notes, this new fragrance delivers an enduringly intense sillage. Its potent depth is reflected in a flacon encased in deep black lacquering.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-acqua-di-gio-edp-intense-50ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-acqua-di-gio-edp-intense-50ml?_pos=2&_psq=Giorgio+Armani&_psid=cd80dfc6f&_ss=e",
       "source_price": 185,
       "source_count": 3,
       "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-acqua-di-gio-edp-intense-50ml",
-          "brand": "Giorgio Armani",
-          "name": "Giorgio Armani Acqua Di Gio EDP Intense 50ml",
-          "size": "50ml",
-          "price": 185,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043341-0.jpg?v=1783805362"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -94338,34 +94550,17 @@
           "price": 185,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043341-0.jpg?v=1783805362"
-        }
-      ]
-    },
-    {
-      "brand": "Valentino",
-      "name": "Valentino Born in Roma Donna Extradose EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 370,
-      "price_per_100ml": 370,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034921-0.png?v=1758319901",
-      "description": "As night falls on the eternal city, let yourself be whisked away to a Roman palazzo, discover a new chapter of Born in Roma story with Born in Roma Extradose. Born in Roma Extradose pushes the boundaries, experience the highest concentration of Born In Roma and pursue the addiction of Born in Roma fragrances. Born from the intensity of a night in the eternal city, this floral-ambery fragrance opens the door of an extravagant world, amplified by an extradose of vanilla and captivating liquor-like notes, created by rhum and cassis accords, for an extra-addiction. Deep dive into a magnetic dream, unleash your personalities, live excessively, and explore the vibrant ways to be you. Dare to be extra-you, dare to be Extra-ordinary.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-donna-extradose-edp-100ml",
-      "source_price": 370,
-      "source_count": 1,
-      "sources": [
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-donna-extradose-edp-100ml",
-          "brand": "Valentino",
-          "name": "Valentino Born in Roma Donna Extradose EDP 100ml",
-          "size": "100ml",
-          "price": 370,
+          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-acqua-di-gio-edp-intense-50ml",
+          "brand": "Giorgio Armani",
+          "name": "Giorgio Armani Acqua Di Gio EDP Intense 50ml",
+          "size": "50ml",
+          "price": 190,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034921-0.png?v=1758319901"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043341-0.jpg?v=1783805362"
         }
       ]
     },
@@ -94506,6 +94701,34 @@
           "price": 112,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20019196-0.png?v=1744062606"
+        }
+      ]
+    },
+    {
+      "brand": "Valentino",
+      "name": "Valentino Born in Roma Donna Extradose EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 374,
+      "price_per_100ml": 374,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034921-0.png?v=1758319901",
+      "description": "As night falls on the eternal city, let yourself be whisked away to a Roman palazzo, discover a new chapter of Born in Roma story with Born in Roma Extradose. Born in Roma Extradose pushes the boundaries, experience the highest concentration of Born In Roma and pursue the addiction of Born in Roma fragrances. Born from the intensity of a night in the eternal city, this floral-ambery fragrance opens the door of an extravagant world, amplified by an extradose of vanilla and captivating liquor-like notes, created by rhum and cassis accords, for an extra-addiction. Deep dive into a magnetic dream, unleash your personalities, live excessively, and explore the vibrant ways to be you. Dare to be extra-you, dare to be Extra-ordinary.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-donna-extradose-edp-100ml",
+      "source_price": 374,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-donna-extradose-edp-100ml",
+          "brand": "Valentino",
+          "name": "Valentino Born in Roma Donna Extradose EDP 100ml",
+          "size": "100ml",
+          "price": 374,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034921-0.png?v=1758319901"
         }
       ]
     },
@@ -96214,6 +96437,34 @@
       ]
     },
     {
+      "brand": "Others",
+      "name": "Wanderlust by Omanluxury 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 379.99,
+      "price_per_100ml": 379.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/omanluxury-wanderlust.png?v=1790561938",
+      "description": "Wanderlust by Omanluxury 100ml Eau De Parfum Spray Wanderlust is a captivating perfume that encapsulates the essence of nature in a green olfactive direction, taking you on a journey through lush landscapes and serene wilderness. This fragrance artfully combines fresh, aromatic Fougère notes with an embrace of woody undertones, creating an enchanting symphony of scents that stir the soul. Designer: Omanluxury Year Introduced: 2020 Type: EDP Category: Unisex Fragrance Notes: The new version of Wanderlust – a transformation that preserves the essence of the original while delivering an even more captivating olfactory experience. The heart and soul of Wanderlust remain unchanged, representing the green spirit that defined the fragrance. However, we have meticulously fine-tuned the olfactive pyramid to create an appealing, more vibrant blend that will leave a lasting impression. Top Notes: Black Currant, Bergamot, Green Apple, Orange, and Black Pepper. Heart Notes: Clary Sage, Tea, Jasmine, and Fig. Base Notes: Cedarwood, Amber, Sandalwood, and Musk. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/wanderlust-by-omanluxury-100ml-edp",
+      "source_price": 379.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/wanderlust-by-omanluxury-100ml-edp",
+          "brand": "Others",
+          "name": "Wanderlust by Omanluxury 100ml EDP",
+          "size": "100ml",
+          "price": 379.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/omanluxury-wanderlust.png?v=1790561938"
+        }
+      ]
+    },
+    {
       "brand": "Carolina Herrera",
       "name": "Carolina Herrera Bad Boy Cobalt EDP Absolute 50ml",
       "size": "50ml",
@@ -96777,21 +97028,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457",
       "description": "Sweet yet bold, indulgent yet exhilarating. The taste of freedom, freshly crushed. THE SCENT. FRESHLY CRUSHED BERRIES, GOOD ENOUGH TO DEVOUR LIBRE’s floral heart now bursts with fruity intensity, dripping in deliciousness. Tangy raspberry is crushed into LIBRE's bold floral signature between invigorating lavender from France and sensual orange blossom from Morocco. This vibrant blend effortlessly melts into a creamy coconut accord, balancing freshness with irresistible warmth and addictive indulgence. A new fragrance good enough to devour. A reflection of the LIBRE woman's insatiable hunger for freedom. THE BOTTLE. A VIBRANT JEWEL, TINTED IN BERRY-RED HUES. The iconic LIBRE bottle is more daring than ever, embracing the vibrancy of juicy berries. Its sleek, tuxedo-inspired silhouette now radiates with scarlet hues, reminiscent of pulpy raspberries. Gold chains, an asymmetrical black cap and the iconic Cassandre logo seal this statement of unapologetic femininity.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml?_pos=6&_psq=Yves+Saint+Laurent&_psid=75d6fff17&_ss=e",
       "source_price": 345,
       "source_count": 3,
       "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Libre Berry Crush EDP 90ml",
-          "size": "90ml",
-          "price": 345,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -96813,34 +97053,17 @@
           "price": 345,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457"
-        }
-      ]
-    },
-    {
-      "brand": "Yves Saint Laurent",
-      "name": "Yves Saint Laurent Y Le Parfum 60ml",
-      "size": "60ml",
-      "size_ml": 60,
-      "price": 231,
-      "price_per_100ml": 385,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035512-0_7d74087d-583a-4ff3-8528-c7564f6b6839.jpg?v=1769992763",
-      "description": "SHOW YOUR POWER. SHOW Y. Y LE PARFUM, the new scent of the self-accomplished man, embodying the intense blue night. A sensual freshness expressed by the tension between the white and dark accords of this unique fougere scent crafted by master perfumer Dominique Ropion. HIGHLY INVIGORATING. INTENSELY HOT. The new le parfum twists the iconic fresh Y signature in an ambery-woody take. A new juice, more concentrated than the old Y LE PARFUM. The ultra-fresh white accord: A deeply invigorating midnight pine accord, and a geranium accord captured in the Ourika Community Gardens in Morocco precisely at 9:40 AM for its unique freshness. The ultra-sensual dark accord: A resinous fir balsam from the Canadian pine forests and a sensuous woody patchouli. THE PITCH BLUE BOTTLE. The iconic bottle created by Suzanne Dalton for YSL takes on an intense night blue shade. Masculine and elegant, the new LE PARFUM bottle is as intense as the juice it holds. The bright silver Y slashes through the square-shouldered bottle accents the V-shaped notch in the glass – a technical feat that turns the Yconic bottle into covetable piece of design.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-y-le-parfum-60ml",
-      "source_price": 231,
-      "source_count": 1,
-      "sources": [
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-y-le-parfum-60ml",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml",
           "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Y Le Parfum 60ml",
-          "size": "60ml",
-          "price": 231,
+          "name": "Yves Saint Laurent Libre Berry Crush EDP 90ml",
+          "size": "90ml",
+          "price": 358,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035512-0_7d74087d-583a-4ff3-8528-c7564f6b6839.jpg?v=1769992763"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457"
         }
       ]
     },
@@ -97634,17 +97857,6 @@
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-nude-bloom-edp-50ml",
-          "brand": "Giorgio Armani",
-          "name": "Giorgio Armani Si Nude Bloom EDP 50ml",
-          "size": "50ml",
-          "price": 225,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041157-0.jpg?v=1772834226"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
           "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-nude-bloom-edp-50ml?_pos=10&_psq=Giorgio+Armani&_psid=cd80dfc6f&_ss=e",
           "brand": "Giorgio Armani",
           "name": "Giorgio Armani Si Nude Bloom EDP 50ml",
@@ -97661,6 +97873,17 @@
           "name": "Giorgio Armani Si Nude Bloom EDP 50ml",
           "size": "50ml",
           "price": 225,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041157-0.jpg?v=1772834226"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-nude-bloom-edp-50ml",
+          "brand": "Giorgio Armani",
+          "name": "Giorgio Armani Si Nude Bloom EDP 50ml",
+          "size": "50ml",
+          "price": 226,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041157-0.jpg?v=1772834226"
         }
@@ -97730,6 +97953,34 @@
           "price": 195,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035978-0.jpg?v=1769484766"
+        }
+      ]
+    },
+    {
+      "brand": "Yves Saint Laurent",
+      "name": "Yves Saint Laurent Y Le Parfum 60ml",
+      "size": "60ml",
+      "size_ml": 60,
+      "price": 235,
+      "price_per_100ml": 391.67,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035512-0_7d74087d-583a-4ff3-8528-c7564f6b6839.jpg?v=1769992763",
+      "description": "SHOW YOUR POWER. SHOW Y. Y LE PARFUM, the new scent of the self-accomplished man, embodying the intense blue night. A sensual freshness expressed by the tension between the white and dark accords of this unique fougere scent crafted by master perfumer Dominique Ropion. HIGHLY INVIGORATING. INTENSELY HOT. The new le parfum twists the iconic fresh Y signature in an ambery-woody take. A new juice, more concentrated than the old Y LE PARFUM. The ultra-fresh white accord: A deeply invigorating midnight pine accord, and a geranium accord captured in the Ourika Community Gardens in Morocco precisely at 9:40 AM for its unique freshness. The ultra-sensual dark accord: A resinous fir balsam from the Canadian pine forests and a sensuous woody patchouli. THE PITCH BLUE BOTTLE. The iconic bottle created by Suzanne Dalton for YSL takes on an intense night blue shade. Masculine and elegant, the new LE PARFUM bottle is as intense as the juice it holds. The bright silver Y slashes through the square-shouldered bottle accents the V-shaped notch in the glass – a technical feat that turns the Yconic bottle into covetable piece of design.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-y-le-parfum-60ml",
+      "source_price": 235,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-y-le-parfum-60ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Y Le Parfum 60ml",
+          "size": "60ml",
+          "price": 235,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035512-0_7d74087d-583a-4ff3-8528-c7564f6b6839.jpg?v=1769992763"
         }
       ]
     },
@@ -97892,6 +98143,34 @@
           "price": 394.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/penhaligon_s-bold-blend.png?v=1785300308"
+        }
+      ]
+    },
+    {
+      "brand": "Giorgio Armani",
+      "name": "Armani Prive Noir Kogane by Giorgio Armani 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 394.99,
+      "price_per_100ml": 394.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/armani-noir-kogane.png?v=1790557067",
+      "description": "Armani Prive Noir Kogane by Giorgio Armani 100ml Eau De Parfum Spray A sensual, smoky and woody scent, Armani/Privé Noir Kogane is shaped around warm and spicy notes of Saffron for an elegant, aromatic fragrance. Crafted in ebony tones, the bottle is adorned with gold patterns which mirror the majesty of Kintsugi pottery, paying tribute to this time-honoured Japanese art form. Designer: Giorgio Armani Year Introduced: 2024 Type: EDP Category: Unisex Fragrance Notes: Darkly mysterious and enigmatic, Armani/Privé Noir Kogane is an opulent homage to sophistication and sensuality, encapsulated in a graceful bottle inspired by a contemporary interpretation of the ancestral art of Kintsugi. A dominant Leather accord and fresh Elemi meld into its earthy heart of Vetiver. Highlighted by the bold and singular fragrance notes of Saffron, this haute couture olfactory creation is underscored by Olibanum and Cistus Absolute notes that leave a smoky and mysterious imprint. The Vetiver heart from Haiti is specially crafted to comprise Armani/Privé Noir Kogane's unique scent. The ingredient is hand-picked and extracted via an exclusive process to obtain the purest extract that softens its earthy notes and delicately enhances its richness. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/armani-prive-noir-kogane-by-giorgio-armani-100ml-edp",
+      "source_price": 394.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/armani-prive-noir-kogane-by-giorgio-armani-100ml-edp",
+          "brand": "Giorgio Armani",
+          "name": "Armani Prive Noir Kogane by Giorgio Armani 100ml EDP",
+          "size": "100ml",
+          "price": 394.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/armani-noir-kogane.png?v=1790557067"
         }
       ]
     },
@@ -100481,34 +100760,6 @@
       ]
     },
     {
-      "brand": "Estée Lauder",
-      "name": "Estée Lauder Beautiful Magnolia Fleur EDP 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 210,
-      "price_per_100ml": 420,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040506-0.jpg?v=1771280880",
-      "description": "I AM BEAUTIFUL My world is defined by my own passions. I am a force writing my own rules. Sensual and strong. Vulnerable and invincible. A woman of my own making but connected to my roots. Because of my story, my beauty reflects all that I am. All that I am becoming. All those I love. Beautiful Magnolia Fleur embraces and magnifies the radiant light within you. Brightly exuberant. Unapologetically vibrant. Share your light. With an optimistic rush, it blooms on your skin with signature notes of lush Magnolia, solar Gardenia Accord and serene Cedarwood. A joyful white floral fragrance. Radiant. Bright. Inspiring.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/estee-lauder-beautiful-magnolia-fleur-edp-50ml",
-      "source_price": 210,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/estee-lauder-beautiful-magnolia-fleur-edp-50ml",
-          "brand": "Estée Lauder",
-          "name": "Estée Lauder Beautiful Magnolia Fleur EDP 50ml",
-          "size": "50ml",
-          "price": 210,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040506-0.jpg?v=1771280880"
-        }
-      ]
-    },
-    {
       "brand": "Versace",
       "name": "Versace Eau Fraiche EDT 30ml",
       "size": "30ml",
@@ -100806,6 +101057,34 @@
           "price": 424.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jo-malone-violet-amber-absolu---2.png?v=1785107163"
+        }
+      ]
+    },
+    {
+      "brand": "Others",
+      "name": "Balle Rouge by Mes Bisous 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 424.99,
+      "price_per_100ml": 424.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mes-bisous-balle-rouge.png?v=1790551931",
+      "description": "Balle Rouge by Mes Bisous 100ml Extrait De Parfum Spray Always the bell of the ball, Balle Rouge souls follow their heart wherever it may take them. They live for the excitement, the pleasure and the fun. Their red lipstick is their most enticing weapon. Seeming buoyant at all times is their trait, but never – ending nostalgia is their strength. They may fall in love in a heartbeat and forget you the next morning. A little heartbreak is always in the cards, but it’s worth all the rapture. Designer: Mes Bisous Year Introduced: 2023 Type: Extrait De Parfum Category: Unisex Fragrance Notes: Let Balle Rouge unleash your feminine energy and and get yourself in trouble. Tangy lemon is the young, frivolous soul who seeks excitement in this beautifully crafted perfume. Inspired by the alluring scent of good old nostalgic lipsticks, the iris notes with powdery, floral profile add the nostalgia this free-spirited soul needs when seeking refuge. Top: Lemon, Bergamote, Pink Pepper. Heart: Iris, Rose, Amber Base: Vanilla, Tonka Bean, Musk, Cedarwood, Patchouli. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/balle-rouge-by-mes-bisous-100ml-extrait-de-parfum",
+      "source_price": 424.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/balle-rouge-by-mes-bisous-100ml-extrait-de-parfum",
+          "brand": "Others",
+          "name": "Balle Rouge by Mes Bisous 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 424.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mes-bisous-balle-rouge.png?v=1790551931"
         }
       ]
     },
@@ -101581,6 +101860,34 @@
       ]
     },
     {
+      "brand": "Estée Lauder",
+      "name": "Estée Lauder Beautiful Magnolia Fleur EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 220,
+      "price_per_100ml": 440,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040506-0.jpg?v=1771280880",
+      "description": "I AM BEAUTIFUL My world is defined by my own passions. I am a force writing my own rules. Sensual and strong. Vulnerable and invincible. A woman of my own making but connected to my roots. Because of my story, my beauty reflects all that I am. All that I am becoming. All those I love. Beautiful Magnolia Fleur embraces and magnifies the radiant light within you. Brightly exuberant. Unapologetically vibrant. Share your light. With an optimistic rush, it blooms on your skin with signature notes of lush Magnolia, solar Gardenia Accord and serene Cedarwood. A joyful white floral fragrance. Radiant. Bright. Inspiring.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/estee-lauder-beautiful-magnolia-fleur-edp-50ml",
+      "source_price": 220,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/estee-lauder-beautiful-magnolia-fleur-edp-50ml",
+          "brand": "Estée Lauder",
+          "name": "Estée Lauder Beautiful Magnolia Fleur EDP 50ml",
+          "size": "50ml",
+          "price": 220,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040506-0.jpg?v=1771280880"
+        }
+      ]
+    },
+    {
       "brand": "Emporio Armani",
       "name": "Emporio Armani Power of You EDP 30ml",
       "size": "30ml",
@@ -101591,21 +101898,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041308-0.jpg?v=1770933378",
       "description": "As the fragrance opens, it unveils the vibrant, captivating maracuja-passion fruit accord, evoking the fruit's purest essence. At the very heart of the composition, the fragrance finds its radiant soul, a transparent frangipani accord reverberates through the fragrance. A profound, sensual depth then emerges. Creamy, addictive vanilla absolute from Madagascar, is beautifully woven with the nuanced, caramel-like sweetness of benzoin resinoid. More than a scent, a fragrance that instantly owns the space of its radiant halo, inspiring others to embrace their own power to light up the room. Power of You, a day to night Exotic Radiance.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-power-of-you-edp-30ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-power-of-you-edp-30ml?_pos=6&_psq=edp&_psid=af2307433&_ss=e",
       "source_price": 132,
       "source_count": 4,
       "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-power-of-you-edp-30ml",
-          "brand": "Emporio Armani",
-          "name": "Emporio Armani Power of You EDP 30ml",
-          "size": "30ml",
-          "price": 132,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041308-0.jpg?v=1770933378"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -101636,6 +101932,17 @@
           "name": "Emporio Armani Power of You EDP 30ml",
           "size": "30ml",
           "price": 132,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041308-0.jpg?v=1770933378"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-power-of-you-edp-30ml",
+          "brand": "Emporio Armani",
+          "name": "Emporio Armani Power of You EDP 30ml",
+          "size": "30ml",
+          "price": 138,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041308-0.jpg?v=1770933378"
         }
@@ -102811,6 +103118,34 @@
           "price": 449.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/borntostandout-drunk-lovers_88647e52-0e70-449e-a58c-d5dcb7813381.png?v=1789534224"
+        }
+      ]
+    },
+    {
+      "brand": "Giorgio Armani",
+      "name": "Armani Prive Sable Nuit by Giorgio Armani 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 449.99,
+      "price_per_100ml": 449.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/armani-sable-nuit.png?v=1790557514",
+      "description": "Armani Prive Sable Nuit by Giorgio Armani 100ml Eau De Parfum Intense Spray Discover Armani Privé's new fragrance, Sable Nuit. This contrasted Oriental, spicy eau de parfum intense celebrates the contrasted meeting of the freshness of majestic clear nights and the warmth of burning desert sand. Sable Nuit is encapsulated in the iconic Armani Privé opaque and mysterious onyx-colored glass bottle, topped by a golden cap. Designer: Giorgio Armani Year Introduced: 2021 Type: EDP Category: Unisex Fragrance Notes: This long-lasting sensual fragrance opens with bright, fresh top notes of Olibanum enlightened by Pink Pepper. While Benzoin and Labdanum fuse at its heart to create a balmy, ambery warmth, Cedar and Patchouli woods generate a deep, magnetic aura. At the base of the fragrance, the Olibanum resinoid takes a mysterious and mineral smoky turn, as it meets Ambroxan and a voluptuous, carnal and woody Vanilla base. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/armani-prive-sable-nuit-by-giorgio-armani-100ml-edp",
+      "source_price": 449.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/armani-prive-sable-nuit-by-giorgio-armani-100ml-edp",
+          "brand": "Giorgio Armani",
+          "name": "Armani Prive Sable Nuit by Giorgio Armani 100ml EDP",
+          "size": "100ml",
+          "price": 449.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/armani-sable-nuit.png?v=1790557514"
         }
       ]
     },
@@ -105384,21 +105719,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037861-0.png?v=1758322833",
       "description": "In 1992, Mugler revolutionized perfumery by introducing the first ever gourmand fragrance, poured into what would become one of the most trailblazing perfume bottles in history: Angel’s blue star. Today, Mugler is proud to unveil the most glamorous Angel ever: Angel Stellar Eau de Parfum lumineuse. Radiating dazzling, delectable femininity. Transfiguring Angel’s groundbreaking gourmandise, the new ambery gourmand powdery fragrance magnifies one of the most delightful olfactory notes: the pistachio. Yummy, creamy, mouthwatering pistachio notes collides with sparks of dazzling bergamot and captivating woods to create a luminous galactic delight. A new dazzling universe of resplendent glamour and radiant femininity.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-angel-stellar-edp-50ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-angel-stellar-edp-50ml?_pos=3&_psq=Mugler&_psid=b15f13b19&_ss=e",
       "source_price": 240,
       "source_count": 5,
       "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-angel-stellar-edp-50ml",
-          "brand": "Thierry Mugler",
-          "name": "Thierry Mugler Angel Stellar EDP 50ml",
-          "size": "50ml",
-          "price": 240,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037861-0.png?v=1758322833"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -105440,6 +105764,17 @@
           "name": "Thierry Mugler Angel Stellar EDP 50ml",
           "size": "50ml",
           "price": 240,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037861-0.png?v=1758322833"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/thierry-mugler-angel-stellar-edp-50ml",
+          "brand": "Thierry Mugler",
+          "name": "Thierry Mugler Angel Stellar EDP 50ml",
+          "size": "50ml",
+          "price": 263,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037861-0.png?v=1758322833"
         }
@@ -107729,21 +108064,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041317-0.jpg?v=1771879301",
       "description": "Sweet yet bold, indulgent yet exhilarating. The taste of freedom, freshly crushed. THE SCENT. FRESHLY CRUSHED BERRIES, GOOD ENOUGH TO DEVOUR LIBRE’s floral heart now bursts with fruity intensity, dripping in deliciousness. Tangy raspberry is crushed into LIBRE's bold floral signature between invigorating lavender from France and sensual orange blossom from Morocco. This vibrant blend effortlessly melts into a creamy coconut accord, balancing freshness with irresistible warmth and addictive indulgence. A new fragrance good enough to devour. A reflection of the LIBRE woman's insatiable hunger for freedom. THE BOTTLE. A VIBRANT JEWEL, TINTED IN BERRY-RED HUES. The iconic LIBRE bottle is more daring than ever, embracing the vibrancy of juicy berries. Its sleek, tuxedo-inspired silhouette now radiates with scarlet hues, reminiscent of pulpy raspberries. Gold chains, an asymmetrical black cap and the iconic Cassandre logo seal this statement of unapologetic femininity.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-50ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-50ml?_pos=1&_psq=Yves+Saint+Laurent&_psid=bf0391458&_ss=e",
       "source_price": 255,
       "source_count": 4,
       "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-50ml",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Libre Berry Crush EDP 50ml",
-          "size": "50ml",
-          "price": 255,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041317-0.jpg?v=1771879301"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -107774,6 +108098,17 @@
           "name": "Yves Saint Laurent Libre Berry Crush EDP 50ml",
           "size": "50ml",
           "price": 255,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041317-0.jpg?v=1771879301"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-50ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Libre Berry Crush EDP 50ml",
+          "size": "50ml",
+          "price": 259,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041317-0.jpg?v=1771879301"
         }
@@ -109828,6 +110163,34 @@
       ]
     },
     {
+      "brand": "Giorgio Armani",
+      "name": "Armani Prive Oud Nacre by Giorgio Armani 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 549.99,
+      "price_per_100ml": 549.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/armani-oud-nacre.png?v=1790561109",
+      "description": "Armani Prive Oud Nacre by Giorgio Armani 100ml Eau De Parfum Intense Spray A modern vision of oud, capturing its most exceptional facets. Oud Nacre embodies the pearl, a signature of Armani/Privé Haute Couture, through a luminous interpretation of oud. Oud Nacre is encapsulated in a luminous bottle inspired by mother-of-pearl, which shimmers like an iridescent jewel. Designer: Giorgio Armani Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: Oud Nacre is born from a spontaneous proposition of maestro perfumer Alberto Morillas to Mr. Armani to embody the pearl in a scent. The fragrance opens with the grounding warmth of a spicy saffron accord. In a masterful play of contrasts, the white-petaled luminosity of jasmine grandiflorum harmonizes with the powerful warmth of a precious oud accord. As the scent unfolds, the oud accord is textured with an essence of patchouli from Guatemala with exceptional chocolate facets, exclusively crafted for Armani. At the base, Ambrox adds an addictive depth and intensity. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/armani-prive-oud-nacre-by-giorgio-armani-100ml-edp",
+      "source_price": 549.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/armani-prive-oud-nacre-by-giorgio-armani-100ml-edp",
+          "brand": "Giorgio Armani",
+          "name": "Armani Prive Oud Nacre by Giorgio Armani 100ml EDP",
+          "size": "100ml",
+          "price": 549.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/armani-oud-nacre.png?v=1790561109"
+        }
+      ]
+    },
+    {
       "brand": "Miller Road Fragrances",
       "name": "Fig 10ml Perfume",
       "size": "10ml",
@@ -110549,34 +110912,6 @@
       ]
     },
     {
-      "brand": "Giorgio Armani",
-      "name": "Giorgio Armani My Way Sunny Vanilla EDP 30ml",
-      "size": "30ml",
-      "size_ml": 30,
-      "price": 170,
-      "price_per_100ml": 566.67,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041160-0_a579004a-1e79-4c85-a731-3e3c9d9bc1ee.jpg?v=1773191177",
-      "description": "A delicious floral fruity fragrance that opens with a bright Pineapple accord. Lending a solar, floral sensuality to the heart is Tuberose Heart – one of the elegant signatures of My Way - while a Jasmine Grandiflorum Superinfusion captures a radiant freshness. The soft, sunny warmth of a Vanilla Infusion emerges at the base. My Way Sunny Vanilla’s signature ingredients contain natural and sustainably sourced jasmine and vanilla. From Madagascar’s Sava region , the Vanilla Infusion is both crafted for Giorgio Armani and sustainably sourced , as part of the brand's solidarity sourcing program with NGO Fanamby. This program is supported by Giorgio Armani to protect the environment and empower the local community . The vanilla extract is obtained from hand-pollinated vanilla pods that are steamed and dried, before being treated at a precise temperature and pressure, to conjure the exact scent of the raw vanilla pod. A final step of gently heating the vanilla extract creates its powerful concentration and intensely warm, balsamic tones.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-my-way-sunny-vanilla-edp-30ml",
-      "source_price": 170,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-my-way-sunny-vanilla-edp-30ml",
-          "brand": "Giorgio Armani",
-          "name": "Giorgio Armani My Way Sunny Vanilla EDP 30ml",
-          "size": "30ml",
-          "price": 170,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041160-0_a579004a-1e79-4c85-a731-3e3c9d9bc1ee.jpg?v=1773191177"
-        }
-      ]
-    },
-    {
       "brand": "Jean Paul Gaultier",
       "name": "Jean Paul Gaultier Scandal Intense Parfum 30ml",
       "size": "30ml",
@@ -110774,6 +111109,34 @@
           "price": 85,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045071-0.jpg?v=1789594950"
+        }
+      ]
+    },
+    {
+      "brand": "Giorgio Armani",
+      "name": "Giorgio Armani My Way Sunny Vanilla EDP 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 171,
+      "price_per_100ml": 570,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041160-0_a579004a-1e79-4c85-a731-3e3c9d9bc1ee.jpg?v=1773191177",
+      "description": "A delicious floral fruity fragrance that opens with a bright Pineapple accord. Lending a solar, floral sensuality to the heart is Tuberose Heart – one of the elegant signatures of My Way - while a Jasmine Grandiflorum Superinfusion captures a radiant freshness. The soft, sunny warmth of a Vanilla Infusion emerges at the base. My Way Sunny Vanilla’s signature ingredients contain natural and sustainably sourced jasmine and vanilla. From Madagascar’s Sava region , the Vanilla Infusion is both crafted for Giorgio Armani and sustainably sourced , as part of the brand's solidarity sourcing program with NGO Fanamby. This program is supported by Giorgio Armani to protect the environment and empower the local community . The vanilla extract is obtained from hand-pollinated vanilla pods that are steamed and dried, before being treated at a precise temperature and pressure, to conjure the exact scent of the raw vanilla pod. A final step of gently heating the vanilla extract creates its powerful concentration and intensely warm, balsamic tones.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-my-way-sunny-vanilla-edp-30ml",
+      "source_price": 171,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-my-way-sunny-vanilla-edp-30ml",
+          "brand": "Giorgio Armani",
+          "name": "Giorgio Armani My Way Sunny Vanilla EDP 30ml",
+          "size": "30ml",
+          "price": 171,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041160-0_a579004a-1e79-4c85-a731-3e3c9d9bc1ee.jpg?v=1773191177"
         }
       ]
     },
@@ -111042,6 +111405,34 @@
           "price": 289.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lorenzo-pazzaglia-green-island.png?v=1789518359"
+        }
+      ]
+    },
+    {
+      "brand": "Lorenzo Pazzaglia",
+      "name": "Van Extasyx by Lorenzo Pazzaglia 50ml Extrait De Parfum",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 289.99,
+      "price_per_100ml": 579.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lorenzo-van-extasyx.png?v=1790547046",
+      "description": "Van Extasyx by Lorenzo Pazzaglia 50ml Extrait De Parfum Spray Combining similar olfactory notes with mastery and perfect balance is a rare art. In Van Exstasyx, vanilla is exalted in all its complexity: no less than seven different varieties intertwine, each with its own distinctive nuances, to create a unique, enveloping symphony. Accents of white flowers and touches of caramel amplify the sweetness, turning it into a true vanilla dessert all to be savored. Designer: Lorenzo Pazzaglia Year Introduced: 2022 Type: Extrait De Parfum Category: Unisex Fragrance Notes: Lorenzo Pazzaglia Van Exstasyx Extrait de Parfum is a unisex sweet perfume. Seven sweet maidens dance joyfully, their hair entwined with white flowers swaying mischievous thoughts as the caramel flows. And so it is that the air is tinged with delicious, persuasive notes. Van Exstasyx Extrait de Parfum is a sweet and sensual fragrance that will wrap you in a vanilla embrace. Top Notes: Bourbon Vanilla, Madagascar Vanilla, Tahitian Vanilla, Black Vanilla. Heart Notes: Island Vanilla, White Flowers, Caramel. Base Notes: Agarwood (Oud), Pure Vanilla Bean, Tonka Bean, Black Vanilla. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/van-extasyx-by-lorenzo-pazzaglia-50ml-extrait-de-parfum",
+      "source_price": 289.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/van-extasyx-by-lorenzo-pazzaglia-50ml-extrait-de-parfum",
+          "brand": "Lorenzo Pazzaglia",
+          "name": "Van Extasyx by Lorenzo Pazzaglia 50ml Extrait De Parfum",
+          "size": "50ml",
+          "price": 289.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lorenzo-van-extasyx.png?v=1790547046"
         }
       ]
     },
@@ -112485,34 +112876,6 @@
       ]
     },
     {
-      "brand": "Yves Saint Laurent",
-      "name": "Yves Saint Laurent Libre Berry Crush EDP 30ml",
-      "size": "30ml",
-      "size_ml": 30,
-      "price": 180,
-      "price_per_100ml": 600,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041316-0.jpg?v=1770933441",
-      "description": "Sweet yet bold, indulgent yet exhilarating. The taste of freedom, freshly crushed. THE SCENT. FRESHLY CRUSHED BERRIES, GOOD ENOUGH TO DEVOUR LIBRE’s floral heart now bursts with fruity intensity, dripping in deliciousness. Tangy raspberry is crushed into LIBRE's bold floral signature between invigorating lavender from France and sensual orange blossom from Morocco. This vibrant blend effortlessly melts into a creamy coconut accord, balancing freshness with irresistible warmth and addictive indulgence. A new fragrance good enough to devour. A reflection of the LIBRE woman's insatiable hunger for freedom. THE BOTTLE. A VIBRANT JEWEL, TINTED IN BERRY-RED HUES. The iconic LIBRE bottle is more daring than ever, embracing the vibrancy of juicy berries. Its sleek, tuxedo-inspired silhouette now radiates with scarlet hues, reminiscent of pulpy raspberries. Gold chains, an asymmetrical black cap and the iconic Cassandre logo seal this statement of unapologetic femininity.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-30ml",
-      "source_price": 180,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-30ml",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Libre Berry Crush EDP 30ml",
-          "size": "30ml",
-          "price": 180,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041316-0.jpg?v=1770933441"
-        }
-      ]
-    },
-    {
       "brand": "Giorgio Armani",
       "name": "Giorgio Armani Si EDP Intense Refillable 30ml",
       "size": "30ml",
@@ -112699,6 +113062,34 @@
           "price": 249,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Burberry_Hero_Elixir_de_Parfum_40ml.jpg?v=1786416951"
+        }
+      ]
+    },
+    {
+      "brand": "Yves Saint Laurent",
+      "name": "Yves Saint Laurent Libre Berry Crush EDP 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 187,
+      "price_per_100ml": 623.33,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041316-0.jpg?v=1770933441",
+      "description": "Sweet yet bold, indulgent yet exhilarating. The taste of freedom, freshly crushed. THE SCENT. FRESHLY CRUSHED BERRIES, GOOD ENOUGH TO DEVOUR LIBRE’s floral heart now bursts with fruity intensity, dripping in deliciousness. Tangy raspberry is crushed into LIBRE's bold floral signature between invigorating lavender from France and sensual orange blossom from Morocco. This vibrant blend effortlessly melts into a creamy coconut accord, balancing freshness with irresistible warmth and addictive indulgence. A new fragrance good enough to devour. A reflection of the LIBRE woman's insatiable hunger for freedom. THE BOTTLE. A VIBRANT JEWEL, TINTED IN BERRY-RED HUES. The iconic LIBRE bottle is more daring than ever, embracing the vibrancy of juicy berries. Its sleek, tuxedo-inspired silhouette now radiates with scarlet hues, reminiscent of pulpy raspberries. Gold chains, an asymmetrical black cap and the iconic Cassandre logo seal this statement of unapologetic femininity.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-30ml",
+      "source_price": 187,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-30ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Libre Berry Crush EDP 30ml",
+          "size": "30ml",
+          "price": 187,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041316-0.jpg?v=1770933441"
         }
       ]
     },
@@ -113693,6 +114084,34 @@
       ]
     },
     {
+      "brand": "Parfums De Marly",
+      "name": "Athenais by Parfums De Marly 75ml EDP",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 549.99,
+      "price_per_100ml": 733.32,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/parfums-de-marly-athenais.png?v=1790546388",
+      "description": "Athenais by Parfums De Marly 75ml Eau De Parfum Spray for Women In 18th-century France, Athénaïs, known as the favorite of Louis XIV and sometimes considered the true queen, symbolized an emerging form of feminine power, combining creativity, dynamism, femininity, and gentleness. This fragrance reflects her personality through vibrant orange and pink hues. An olfactory journey that captures the duality of Athénaïs. An energetic burst of bright citrus embodies her energy and charisma, while the warm, enveloping base notes reflect her softer, more intimate side. Designer: Parfums De Marly Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: An ambery floral fragrance with notes of neroli and yuzu that provide an immediate, stimulating dynamism. The heart unfolds with the elegance and generosity of orange blossom and jasmine. The base then intensifies with a modern duo of tonka bean and vanilla, which adds a powdery and addictive touch to the fragrance, balanced by the comforting note of amber, which adds warmth and depth. Each note works in harmony to capture the multifaceted nature of Athenais, from her bright and passionate energy to her soft and lasting grace. Athénaïs is an homage to the dazzling fusion of vivacity, vibrant energy, positivity, and sophistication. This fragrance is built as a reflection of the duality that characterizes Athénaïs, combining an exhilarating presence with radiant confidence. At the same time, it gently envelops the wearer in an aura of fearless individuality, allowing each note to reveal unique nuances that inspire and distinguish the wearer. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/athenais-by-parfums-de-marly-75ml-edp",
+      "source_price": 549.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/athenais-by-parfums-de-marly-75ml-edp",
+          "brand": "Parfums De Marly",
+          "name": "Athenais by Parfums De Marly 75ml EDP",
+          "size": "75ml",
+          "price": 549.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/parfums-de-marly-athenais.png?v=1790546388"
+        }
+      ]
+    },
+    {
       "brand": "Le Labo",
       "name": "Le Labo Eucalyptus 20 EDP 50ml",
       "size": "50ml",
@@ -114057,6 +114476,34 @@
       ]
     },
     {
+      "brand": "Amouage",
+      "name": "Outlands by Amouage 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 789.99,
+      "price_per_100ml": 789.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/amouage-outlands.jpg?v=1784255427",
+      "description": "Outlands by Amouage 100ml Eau De Parfum Spray An olfactory expression of the value of time. Crafted through a revolutionary process: a double-infusion with sandalwood and artisanal oakwood barrels. Each fragrance is highly concentrated, containing 30% pure perfume oils, and underwent a meticulous six-month aging process, including a double infusion with sandalwood chips and oakwood barrels, resulting in a deep, layered scent experience. Designer: Amouage Year Introduced: 2024 Type: EDP Category: Unisex Fragrance Notes: The edge of imagination. Uncharted mysteries. A dance with the unknown. Outlands is an invitation to journey into the beyond. The opening note of the composition is unexpectedly light-hearted: an invigorating array of bright citruses, emphasised by zesty lemon. However, as the voyage continues, the landscape becomes more remote and more extraordinary. A rich, multi-faceted patchouli – projecting heat, humidity and verdancy in equal measure – compels the intrepid traveller to move deeper into the cryptic landscape. Finally, an amber accord – reverberating with the potency of balsams and resins – entices a progression to the ultimate encounter, where we find ourselves reflected and remade. As indescribable as it is familiar, Outlands makes use of extraordinary contrasts between light and shade to capture the ever-shifting inevitability of the future. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/outlands-by-amouage-100ml-edp",
+      "source_price": 789.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/outlands-by-amouage-100ml-edp",
+          "brand": "Amouage",
+          "name": "Outlands by Amouage 100ml EDP",
+          "size": "100ml",
+          "price": 789.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/amouage-outlands.jpg?v=1784255427"
+        }
+      ]
+    },
+    {
       "brand": "Xerjoff",
       "name": "Xerjoff Blends Tony Iommi Monkey Special Parfum 50ml",
       "size": "50ml",
@@ -114165,34 +114612,6 @@
           "price": 409,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/BondNo.9LafayetteStreetEDP50mlUnisex.jpg?v=1781827843"
-        }
-      ]
-    },
-    {
-      "brand": "Amouage",
-      "name": "Outlands by Amouage 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 824.99,
-      "price_per_100ml": 824.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/amouage-outlands.jpg?v=1784255427",
-      "description": "Outlands by Amouage 100ml Eau De Parfum Spray An olfactory expression of the value of time. Crafted through a revolutionary process: a double-infusion with sandalwood and artisanal oakwood barrels. Each fragrance is highly concentrated, containing 30% pure perfume oils, and underwent a meticulous six-month aging process, including a double infusion with sandalwood chips and oakwood barrels, resulting in a deep, layered scent experience. Designer: Amouage Year Introduced: 2024 Type: EDP Category: Unisex Fragrance Notes: The edge of imagination. Uncharted mysteries. A dance with the unknown. Outlands is an invitation to journey into the beyond. The opening note of the composition is unexpectedly light-hearted: an invigorating array of bright citruses, emphasised by zesty lemon. However, as the voyage continues, the landscape becomes more remote and more extraordinary. A rich, multi-faceted patchouli – projecting heat, humidity and verdancy in equal measure – compels the intrepid traveller to move deeper into the cryptic landscape. Finally, an amber accord – reverberating with the potency of balsams and resins – entices a progression to the ultimate encounter, where we find ourselves reflected and remade. As indescribable as it is familiar, Outlands makes use of extraordinary contrasts between light and shade to capture the ever-shifting inevitability of the future. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/outlands-by-amouage-100ml-edp",
-      "source_price": 824.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/outlands-by-amouage-100ml-edp",
-          "brand": "Amouage",
-          "name": "Outlands by Amouage 100ml EDP",
-          "size": "100ml",
-          "price": 824.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/amouage-outlands.jpg?v=1784255427"
         }
       ]
     },
@@ -115546,6 +115965,34 @@
       ]
     },
     {
+      "brand": "Boadicea The Victorious",
+      "name": "Aqua Sapphire by Boadicea The Victorious 100ml Pure Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 1097.99,
+      "price_per_100ml": 1097.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/boadicea-aqua-sapphire.png?v=1790555559",
+      "description": "Aqua Sapphire by Boadicea The Victorious 100ml Pure Parfum Spray The Aqua Sapphire Pure Perfume from Boadicea The Victorious is inspired by the tempestuous and enticing nature of the sea. Alive with luxe floral accords that sit alongside waves of aquatic and citrus notes, it’s a scent that’s both tantalizing and contemporary. Designer: Boadicea The Victorious Year Introduced: 2021 Type: Pure Parfum Category: Unisex Fragrance Notes: Aqua Sapphire is a unique marine perfume, inspired by eternal seas and island nations. Head notes are awash with pineapple, rum, saffron and boozy davana. A briny seaweed with facets of iodine and salt is allied to classic Rose de Mai and soft cashmere woods and musks. The notes roll through the surf of Aqua Sapphire hinting at hidden depths. Cypriol has a bitter herbal quality and is used in the base notes suggesting beach fires glowing in the dark as flowers dream and the sea whispers. Soft mosses, vanilla and amber reinforce Aqua Sapphire’s stylish take on the ozonic fragrances, playing rich liqueur gourmand notes against the romance of roses and the freshness of coastal sea spray. All this housed in a glittering aquatic perfume and bottled in an aqua blue version of the Boadicea flask. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/aqua-sapphire-by-boadicea-the-victorious-100ml-pure-parfum",
+      "source_price": 1097.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/aqua-sapphire-by-boadicea-the-victorious-100ml-pure-parfum",
+          "brand": "Boadicea The Victorious",
+          "name": "Aqua Sapphire by Boadicea The Victorious 100ml Pure Parfum",
+          "size": "100ml",
+          "price": 1097.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/boadicea-aqua-sapphire.png?v=1790555559"
+        }
+      ]
+    },
+    {
       "brand": "Others",
       "name": "One Umbrella For Two by Floraiku 50ml + 10ml EDP",
       "size": "50ml",
@@ -115850,6 +116297,34 @@
           "price": 69,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/9_1080x_f99c5926-3e84-4ce7-b2db-c9e2ddcb522b.jpg?v=1660274762"
+        }
+      ]
+    },
+    {
+      "brand": "Roja Parfums",
+      "name": "Enigma by Roja Parfums 50ml Parfum for Men",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 579.99,
+      "price_per_100ml": 1159.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/roja-enigma-parfum-50ml-men.png?v=1790553286",
+      "description": "Enigma by Roja Parfums 50ml Parfum Spray for Men Shrouded in a swirl of Cognac and Tobacco, a suave figure sits cool and composed at the bar of a private members’ club - where the scent of Woods and Leather pervade. Dressed in a way that defies the club rules, this alluring presence is definitely unexpected. Designer: Roja Parfums Year Introduced: 2013 Type: Parfum Category: Men Fragrance Notes: A fragrance which expertly balances the balsamic sweetness of Benzoin and Vanilla with the dry masculinity of Tobacco and Cognac, Enigma is an enticing experience which transforms any who wear it into a man of mystery and intrigue. An unusual effect occurs in this Tobacco Parfum- Cologne where the slightly powdery and Cherry-like tones of Heliotrope mingle with the mouth-watering quality of the Vanilla and Benzoin and appear to fizz, as the boozy splash of Cognac creates a delicious cocktail. This is enjoyed alongside a fine Cuban cigar, as the smoky tones of Tobacco are given a hot spark by the gentle spice notes of Cardamom, Ginger and Pepper. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/enigma-by-roja-parfums-50ml-parfum-for-men",
+      "source_price": 579.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/enigma-by-roja-parfums-50ml-parfum-for-men",
+          "brand": "Roja Parfums",
+          "name": "Enigma by Roja Parfums 50ml Parfum for Men",
+          "size": "50ml",
+          "price": 579.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/roja-enigma-parfum-50ml-men.png?v=1790553286"
         }
       ]
     },
