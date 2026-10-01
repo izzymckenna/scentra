@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T09:22:50.343Z",
-  "count": 3465,
+  "generated_at": "2026-10-01T09:50:18.143Z",
+  "count": 3474,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
@@ -13215,6 +13215,34 @@
       ]
     },
     {
+      "brand": "Aigner",
+      "name": "X Limited by Aigner 250ml EDT",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 97.99,
+      "price_per_100ml": 39.2,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/aigner-x-limited-250ml.png?v=1790805335",
+      "description": "X Limited by Aigner 250ml Eau De Toilette Spray X Limited by Etienne Aigner is a Citrus Aromatic fragrance for women and men. Designer: Aigner Year Introduced: 1997 Type: EDT Category: Unisex Fragrance Notes: Bright notes of Amalfi lemon and orange make up the blend’s top notes. At the heart of the fragrance, floral notes of rose and jasmine give the blend a fresh, sweet quality. Notes of patchouli and sandalwood at the base of the scent provide warmth and ground the fragrance. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/x-limited-by-aigner-250ml-edt",
+      "source_price": 97.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/x-limited-by-aigner-250ml-edt",
+          "brand": "Aigner",
+          "name": "X Limited by Aigner 250ml EDT",
+          "size": "250ml",
+          "price": 97.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/aigner-x-limited-250ml.png?v=1790805335"
+        }
+      ]
+    },
+    {
       "brand": "Bargain Chemist",
       "name": "RV Fire Ice Women EDC Spray 50ml",
       "size": "50ml",
@@ -21528,7 +21556,7 @@
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/burberry-weekend-edp-100ml-for-women?_pos=4&_psq=Burberry&_psid=769af267a&_ss=e",
+          "source_url": "https://www.bargainchemist.co.nz/products/burberry-weekend-edp-100ml-for-women",
           "brand": "Burberry",
           "name": "Burberry Weekend EDP 100ml for Women",
           "size": "100ml",
@@ -21539,11 +21567,11 @@
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/burberry-weekend-edp-100ml-for-women",
+          "source_url": "https://www.bargainchemist.co.nz/products/burberry-weekend-edp-100ml-for-women?_pos=4&_psq=Burberry&_psid=769af267a&_ss=e",
           "brand": "Burberry",
           "name": "Burberry Weekend EDP 100ml for Women",
           "size": "100ml",
-          "price": 76.99,
+          "price": 69.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/14124604129310.jpg?v=1716470079"
         },
@@ -21557,6 +21585,34 @@
           "price": 79.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/14124570411038.jpg?v=1716470094"
+        }
+      ]
+    },
+    {
+      "brand": "Lattafa",
+      "name": "Your Touch Extrait by Alhambra 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 59.99,
+      "price_per_100ml": 59.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/alhambra-your-touch-extrait.png?v=1790202955",
+      "description": "Your Touch Extrait by Alhambra 100ml Eau De Parfum Spray for Men Your Touch Extrait is a bold and sensual fragrance crafted for those who want their presence to leave a lasting impression. Confident and magnetic, Your Touch Extrait is ideal for evening wear or special occasions, making it a signature scent for anyone who seeks sophistication with a touch of bold charm. Designer: Alhambra Year Introduced: 2025 Type: EDP Category: Men Fragrance Notes: It opens with a vibrant burst of cardamom, violet leaf, pink pepper, and mint, combining freshness with a subtle spice that immediately captures attention. The heart introduces an intriguing contrast of juicy pineapple and melon, blended seamlessly with the warmth of cinnamon and the aromatic elegance of lavender and sage. This fusion creates a dynamic and modern character—both energetic and refined. In the base, richness and depth unfold with vanilla, chestnut, amberwood, guaiac wood, and cedar, offering a warm, smoky-sweet trail that lingers beautifully on the skin. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/your-touch-extrait-by-alhambra-100ml-edp",
+      "source_price": 59.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/your-touch-extrait-by-alhambra-100ml-edp",
+          "brand": "Lattafa",
+          "name": "Your Touch Extrait by Alhambra 100ml EDP",
+          "size": "100ml",
+          "price": 59.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/alhambra-your-touch-extrait.png?v=1790202955"
         }
       ]
     },
@@ -23886,34 +23942,6 @@
     },
     {
       "brand": "Lattafa",
-      "name": "Your Touch Extrait by Alhambra 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 64.99,
-      "price_per_100ml": 64.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/alhambra-your-touch-extrait.png?v=1790202955",
-      "description": "Your Touch Extrait by Alhambra 100ml Eau De Parfum Spray for Men Your Touch Extrait is a bold and sensual fragrance crafted for those who want their presence to leave a lasting impression. Confident and magnetic, Your Touch Extrait is ideal for evening wear or special occasions, making it a signature scent for anyone who seeks sophistication with a touch of bold charm. Designer: Alhambra Year Introduced: 2025 Type: EDP Category: Men Fragrance Notes: It opens with a vibrant burst of cardamom, violet leaf, pink pepper, and mint, combining freshness with a subtle spice that immediately captures attention. The heart introduces an intriguing contrast of juicy pineapple and melon, blended seamlessly with the warmth of cinnamon and the aromatic elegance of lavender and sage. This fusion creates a dynamic and modern character—both energetic and refined. In the base, richness and depth unfold with vanilla, chestnut, amberwood, guaiac wood, and cedar, offering a warm, smoky-sweet trail that lingers beautifully on the skin. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/your-touch-extrait-by-alhambra-100ml-edp",
-      "source_price": 64.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/your-touch-extrait-by-alhambra-100ml-edp",
-          "brand": "Lattafa",
-          "name": "Your Touch Extrait by Alhambra 100ml EDP",
-          "size": "100ml",
-          "price": 64.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/alhambra-your-touch-extrait.png?v=1790202955"
-        }
-      ]
-    },
-    {
-      "brand": "Lattafa",
       "name": "Lattafa Pride Nebras EDP 100ml",
       "size": "100ml",
       "size_ml": 100,
@@ -25710,6 +25738,62 @@
           "price": 67.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/perry-ellis-18-women.png?v=1626764874"
+        }
+      ]
+    },
+    {
+      "brand": "Rayhaan",
+      "name": "Cedrus Blanc by Rayhaan 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 67.99,
+      "price_per_100ml": 67.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-cedrus-blanc.png?v=1786347023",
+      "description": "Cedrus Blanc by Rayhaan 100ml Eau De Parfum Spray In perfect rhythm, freshness finds its place. Bergamot sparks the moment, orange blossom keeps it flowing, cedarwood brings the subtle intensity. Cedrus Blanc swings the trail of freshness around you. Cedrus Blanc is an impeccable balance of freshness and intensity. Designer: Rayhaan Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Elegant, luminous, and effortlessly refined, this fragrance opens with the sparkling freshness of aldehydes and vibrant bergamot, creating a clean, airy introduction that feels crisp and sophisticated. At its heart, delicate orange blossom blooms with radiant floral sweetness, adding a soft, elegant character that captivates the senses. As it settles, a comforting blend of silky white musk, creamy vanilla, and smooth cedarwood leaves a warm, velvety trail that lingers beautifully throughout the day. Fresh yet comforting, this fragrance is a timeless expression of understated luxury and graceful charm. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/cedrus-blanc-by-rayhaan-100ml-edp",
+      "source_price": 67.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/cedrus-blanc-by-rayhaan-100ml-edp",
+          "brand": "Rayhaan",
+          "name": "Cedrus Blanc by Rayhaan 100ml EDP",
+          "size": "100ml",
+          "price": 67.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-cedrus-blanc.png?v=1786347023"
+        }
+      ]
+    },
+    {
+      "brand": "Rayhaan",
+      "name": "Nava Sol by Rayhaan 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 67.99,
+      "price_per_100ml": 67.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-nava-sol---2.png?v=1786346988",
+      "description": "Nava Sol by Rayhaan 100ml Eau De Parfum Spray Discover Nava Sol by Rayhaan, a captivating fragrance blending sapodilla, orange blossom, and violet notes for a scent that harmonizes like sun, earth, and sky. A presence that makes every room feel magical, a deep sweetness rises first, rich like sun-soaked fruit. It softens into the glow of orange blossom, before violet lingers. Nava Sol - A fragrance that exist between culture and class. Designer: Rayhaan Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Soft, radiant, and effortlessly elegant, this fragrance opens with the delicate muskiness of ambrette paired with the juicy sweetness of pear, creating a fresh and inviting first impression. At its heart, creamy magnolia, luminous jasmine, and smooth sandalwood bloom together in perfect harmony, adding a graceful floral warmth with a refined woody touch. As it settles, rich cedarwood, velvety musk, and glowing amber wrap the skin in a sensual, long-lasting embrace. Sophisticated and timeless, this fragrance is a beautiful balance of airy florals, soft woods, and comforting warmth that leaves an unforgettable trail. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/nava-sol-by-rayhaan-100ml-edp",
+      "source_price": 67.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/nava-sol-by-rayhaan-100ml-edp",
+          "brand": "Rayhaan",
+          "name": "Nava Sol by Rayhaan 100ml EDP",
+          "size": "100ml",
+          "price": 67.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-nava-sol---2.png?v=1786346988"
         }
       ]
     },
@@ -30422,62 +30506,6 @@
           "price": 74.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/paris-corner-oravea.png?v=1777512317"
-        }
-      ]
-    },
-    {
-      "brand": "Rayhaan",
-      "name": "Cedrus Blanc by Rayhaan 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 74.99,
-      "price_per_100ml": 74.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-cedrus-blanc.png?v=1786347023",
-      "description": "Cedrus Blanc by Rayhaan 100ml Eau De Parfum Spray In perfect rhythm, freshness finds its place. Bergamot sparks the moment, orange blossom keeps it flowing, cedarwood brings the subtle intensity. Cedrus Blanc swings the trail of freshness around you. Cedrus Blanc is an impeccable balance of freshness and intensity. Designer: Rayhaan Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Elegant, luminous, and effortlessly refined, this fragrance opens with the sparkling freshness of aldehydes and vibrant bergamot, creating a clean, airy introduction that feels crisp and sophisticated. At its heart, delicate orange blossom blooms with radiant floral sweetness, adding a soft, elegant character that captivates the senses. As it settles, a comforting blend of silky white musk, creamy vanilla, and smooth cedarwood leaves a warm, velvety trail that lingers beautifully throughout the day. Fresh yet comforting, this fragrance is a timeless expression of understated luxury and graceful charm. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/cedrus-blanc-by-rayhaan-100ml-edp",
-      "source_price": 74.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/cedrus-blanc-by-rayhaan-100ml-edp",
-          "brand": "Rayhaan",
-          "name": "Cedrus Blanc by Rayhaan 100ml EDP",
-          "size": "100ml",
-          "price": 74.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-cedrus-blanc.png?v=1786347023"
-        }
-      ]
-    },
-    {
-      "brand": "Rayhaan",
-      "name": "Nava Sol by Rayhaan 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 74.99,
-      "price_per_100ml": 74.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-nava-sol---2.png?v=1786346988",
-      "description": "Nava Sol by Rayhaan 100ml Eau De Parfum Spray Discover Nava Sol by Rayhaan, a captivating fragrance blending sapodilla, orange blossom, and violet notes for a scent that harmonizes like sun, earth, and sky. A presence that makes every room feel magical, a deep sweetness rises first, rich like sun-soaked fruit. It softens into the glow of orange blossom, before violet lingers. Nava Sol - A fragrance that exist between culture and class. Designer: Rayhaan Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Soft, radiant, and effortlessly elegant, this fragrance opens with the delicate muskiness of ambrette paired with the juicy sweetness of pear, creating a fresh and inviting first impression. At its heart, creamy magnolia, luminous jasmine, and smooth sandalwood bloom together in perfect harmony, adding a graceful floral warmth with a refined woody touch. As it settles, rich cedarwood, velvety musk, and glowing amber wrap the skin in a sensual, long-lasting embrace. Sophisticated and timeless, this fragrance is a beautiful balance of airy florals, soft woods, and comforting warmth that leaves an unforgettable trail. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/nava-sol-by-rayhaan-100ml-edp",
-      "source_price": 74.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/nava-sol-by-rayhaan-100ml-edp",
-          "brand": "Rayhaan",
-          "name": "Nava Sol by Rayhaan 100ml EDP",
-          "size": "100ml",
-          "price": 74.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-nava-sol---2.png?v=1786346988"
         }
       ]
     },
@@ -37150,21 +37178,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/719346262187.jpg?v=1772748376",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/britney-spears-jungle-fan-edt-30ml",
+      "source_url": "https://www.bargainchemist.co.nz/products/britney-spears-jungle-fan-edt-30ml?_pos=10&_psq=Britney+Spears&_psid=1f1189209&_ss=e",
       "source_price": 25.99,
       "source_count": 3,
       "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/britney-spears-jungle-fan-edt-30ml",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Jungle Fan. EDT 30ml",
-          "size": "30ml",
-          "price": 25.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/719346262187.jpg?v=1772748376"
-        },
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
@@ -37184,6 +37201,17 @@
           "name": "Britney Spears Jungle Fan. EDT 30ml",
           "size": "30ml",
           "price": 25.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/719346262187.jpg?v=1772748376"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/britney-spears-jungle-fan-edt-30ml",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Jungle Fan. EDT 30ml",
+          "size": "30ml",
+          "price": 27.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/719346262187.jpg?v=1772748376"
         }
@@ -37557,10 +37585,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/joop-wow-edt-fresh-perfume-cologne-527222.png?v=1759805079",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/joop-wow-fresh-for-men-edt-40ml?_pos=5&_psq=Joop&_psid=f37446942&_ss=e",
+      "source_url": "https://www.bargainchemist.co.nz/products/joop-wow-fresh-for-men-edt-40ml",
       "source_price": 34.99,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/joop-wow-fresh-for-men-edt-40ml",
+          "brand": "Joop",
+          "name": "Joop Wow Fresh For Men EDT 40ml",
+          "size": "40ml",
+          "price": 34.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/joop-wow-edt-fresh-perfume-cologne-527222.png?v=1759805079"
+        },
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
@@ -50995,6 +51034,34 @@
       ]
     },
     {
+      "brand": "Lattafa",
+      "name": "Fahad by Lattafa 80ml EDP for Men",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 109.99,
+      "price_per_100ml": 137.49,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-fahad.png?v=1790205059",
+      "description": "Fahad by Lattafa 80ml Eau De Parfum Spray for Men A bold and distinguished Eau de Parfum that blends vibrant fruits, aromatic herbs, and rich woody accords into a fragrance of modern sophistication. Confident and refined, Fahad is crafted for those who appreciate fresh elegance with a powerful, long-lasting presence. Designer: Lattafa Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Fahad opens with a refreshing burst of juicy mandarin and sweet pineapple, enhanced by the vibrant spice of black pepper. This energetic introduction is bright, invigorating, and effortlessly captivating. The heart unfolds into a refined blend of radiant orange blossom, aromatic lavender, and herbal artemisia, creating a sophisticated balance of freshness and floral elegance with an aromatic depth. As the fragrance settles, smoky incense intertwines with earthy patchouli, smooth cedarwood, and warm ambroxan, leaving a rich, woody trail that lingers beautifully with modern masculine sophistication. Fahad — a bold fragrance journey of vibrant fruits, aromatic florals, and smoky woody amber. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/fahad-by-lattafa-80ml-edp-for-men",
+      "source_price": 109.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/fahad-by-lattafa-80ml-edp-for-men",
+          "brand": "Lattafa",
+          "name": "Fahad by Lattafa 80ml EDP for Men",
+          "size": "80ml",
+          "price": 109.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-fahad.png?v=1790205059"
+        }
+      ]
+    },
+    {
       "brand": "Bvlgari",
       "name": "BVLGARI Goldea The Roman Night EDP 50ml for Women",
       "size": "50ml",
@@ -58537,34 +58604,6 @@
       ]
     },
     {
-      "brand": "Bulk Frag",
-      "name": "EL White Linen EDP Spray 60ml",
-      "size": "60ml",
-      "size_ml": 60,
-      "price": 100.99,
-      "price_per_100ml": 168.32,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/EsteeLauderWhiteLinen60ml_1_800x_9d2e610d-ee88-48c0-a7ed-26bcf13042be.webp?v=1765937609",
-      "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/el-white-linen-edp-spray-60ml",
-      "source_price": 100.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/el-white-linen-edp-spray-60ml",
-          "brand": "Bulk Frag",
-          "name": "EL White Linen EDP Spray 60ml",
-          "size": "60ml",
-          "price": 100.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/EsteeLauderWhiteLinen60ml_1_800x_9d2e610d-ee88-48c0-a7ed-26bcf13042be.webp?v=1765937609"
-        }
-      ]
-    },
-    {
       "brand": "Carolina Herrera",
       "name": "Carolina Herrera Good Girl Eau De Parfum 80ml",
       "size": "80ml",
@@ -59709,6 +59748,34 @@
           "price": 129.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/163956/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Bulk Frag",
+      "name": "EL White Linen EDP Spray 60ml",
+      "size": "60ml",
+      "size_ml": 60,
+      "price": 104.99,
+      "price_per_100ml": 174.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/EsteeLauderWhiteLinen60ml_1_800x_9d2e610d-ee88-48c0-a7ed-26bcf13042be.webp?v=1765937609",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/el-white-linen-edp-spray-60ml",
+      "source_price": 104.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/el-white-linen-edp-spray-60ml",
+          "brand": "Bulk Frag",
+          "name": "EL White Linen EDP Spray 60ml",
+          "size": "60ml",
+          "price": 104.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/EsteeLauderWhiteLinen60ml_1_800x_9d2e610d-ee88-48c0-a7ed-26bcf13042be.webp?v=1765937609"
         }
       ]
     },
@@ -64571,45 +64638,6 @@
       ]
     },
     {
-      "brand": "Lancôme",
-      "name": "Lancôme Idole Peach N Roses EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 189.99,
-      "price_per_100ml": 189.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lancome-idole-peach-n-roses-100ml.png?v=1788921650",
-      "description": "Idole Peach N Roses by Lancome 100ml Eau De Parfum Spray for Women Imagine sinking your teeth into a perfectly ripe peach, the juice dripping down your chin, its addictive tangy flavor exploding on your tongue. Just like your favorite song, this fragrance wraps you in a sweet, bold mood. It's pure \"peachy\" bliss on repeat. Designer: Lancome Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Hit play on this sensory symphony: The beat drops with a burst of sparkling notes of red berries, then the rhythm builds with the irresistible tang of natural peach extract - Peach Orpur , an innovation by Givaudan. The music swells with the velvety caress of Damascena Rose Absolute, rich, sensual, and totally addictive. Like that one song you can't stop playing, this fragrance hits different. It lingers on the skin, a constant pulse, a vibrant vibe. Idôle Peach'N Roses sits upon your vanity, embodying radiant confidence. Its smooth, peachy-orange lacquering glows like a captured sunset, radiating a warm, inner light. More than a fragrance, Idôle Peach'N Roses is an experience. A constant reminder to press repeat on those \"just peachy\" moments. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/idole-peach-n-roses-by-lancome-100ml-edp",
-      "source_price": 189.99,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/idole-peach-n-roses-by-lancome-100ml-edp",
-          "brand": "Lancome",
-          "name": "Idole Peach 'N Roses by Lancome 100ml EDP",
-          "size": "100ml",
-          "price": 189.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lancome-idole-peach-n-roses-100ml.png?v=1788921650"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/lancome-idole-peach-n-roses-edp-100ml",
-          "brand": "Lancôme",
-          "name": "Lancôme Idole Peach N Roses EDP 100ml",
-          "size": "100ml",
-          "price": 305,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041141-0.jpg?v=1769636029"
-        }
-      ]
-    },
-    {
       "brand": "Paco Rabanne",
       "name": "Paco Rabanne 1Million Elx Parfum Int100ml",
       "size": null,
@@ -65687,6 +65715,45 @@
           "price": 219.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
+        }
+      ]
+    },
+    {
+      "brand": "Lancôme",
+      "name": "Lancôme Idole Peach N Roses EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 194.99,
+      "price_per_100ml": 194.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lancome-idole-peach-n-roses-100ml.png?v=1788921650",
+      "description": "Idole Peach N Roses by Lancome 100ml Eau De Parfum Spray for Women Imagine sinking your teeth into a perfectly ripe peach, the juice dripping down your chin, its addictive tangy flavor exploding on your tongue. Just like your favorite song, this fragrance wraps you in a sweet, bold mood. It's pure \"peachy\" bliss on repeat. Designer: Lancome Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Hit play on this sensory symphony: The beat drops with a burst of sparkling notes of red berries, then the rhythm builds with the irresistible tang of natural peach extract - Peach Orpur , an innovation by Givaudan. The music swells with the velvety caress of Damascena Rose Absolute, rich, sensual, and totally addictive. Like that one song you can't stop playing, this fragrance hits different. It lingers on the skin, a constant pulse, a vibrant vibe. Idôle Peach'N Roses sits upon your vanity, embodying radiant confidence. Its smooth, peachy-orange lacquering glows like a captured sunset, radiating a warm, inner light. More than a fragrance, Idôle Peach'N Roses is an experience. A constant reminder to press repeat on those \"just peachy\" moments. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/idole-peach-n-roses-by-lancome-100ml-edp",
+      "source_price": 194.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/idole-peach-n-roses-by-lancome-100ml-edp",
+          "brand": "Lancome",
+          "name": "Idole Peach 'N Roses by Lancome 100ml EDP",
+          "size": "100ml",
+          "price": 194.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lancome-idole-peach-n-roses-100ml.png?v=1788921650"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/lancome-idole-peach-n-roses-edp-100ml",
+          "brand": "Lancôme",
+          "name": "Lancôme Idole Peach N Roses EDP 100ml",
+          "size": "100ml",
+          "price": 305,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041141-0.jpg?v=1769636029"
         }
       ]
     },
@@ -76873,10 +76940,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10295812456478.jpg?v=1778257163",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/elle-edp-spray-90ml?_pos=10&_psq=Ralph+Lauren&_psid=31dbe72fc&_ss=e",
+      "source_url": "https://www.bargainchemist.co.nz/products/elle-edp-spray-90ml",
       "source_price": 219.99,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/elle-edp-spray-90ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Elle EDP Spray 90ml",
+          "size": "90ml",
+          "price": 219.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10295812456478.jpg?v=1778257163"
+        },
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
@@ -83364,6 +83442,34 @@
       ]
     },
     {
+      "brand": "Prada",
+      "name": "Un Chant D'Amour by Prada 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 289.99,
+      "price_per_100ml": 289.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-un-chant-d_amour.png?v=1790558137",
+      "description": "Un Chant D'Amour by Prada 100ml Eau De Parfum Spray A pure white cloud dissolves into layers, revealing the complexity of weightlessness. A glimpse ignites a surge of emotion, giving way to tender immersion. Un Chant d’Amour is the scent of human touch, at once calming and carnal. Olfactories is the epitome of Prada's creative spirit, fragrances that open new olfactive imageries by unexpectedly associating textures, colors, and ingredients. Designer: Prada Year Introduced: 2015 Type: EDP Category: Unisex Fragrance Notes: Un Chant d'Amour is a floral-musky fragrance, an ode to the sense of touch that unmistakably expresses Prada's essence. The surprising opening with the green and vegetal freshness of luminous and slightly bitter Petitgrain is like the brisk movement of a green branch in the morning air. This liveliness is followed by Neroli Accord, enveloped in a warm, honeyed glow. Majestic and delicately radiant, the flower opens with a warmth that recalls sunlight on bare skin. Its brightness deepens through a thin veil of Musk that embraces the composition in a more intimate and enchanting dimension: caressing the skin, it is discreetly sensual and infinitely captivating. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/un-chant-damour-by-prada-100ml-edp",
+      "source_price": 289.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/un-chant-damour-by-prada-100ml-edp",
+          "brand": "Prada",
+          "name": "Un Chant D'Amour by Prada 100ml EDP",
+          "size": "100ml",
+          "price": 289.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-un-chant-d_amour.png?v=1790558137"
+        }
+      ]
+    },
+    {
       "brand": "Jimmy Choo",
       "name": "Jimmy Choo Man Parfum 50ml",
       "size": "50ml",
@@ -88420,6 +88526,118 @@
       ]
     },
     {
+      "brand": "Prada",
+      "name": "Dark Light by Prada 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 324.99,
+      "price_per_100ml": 324.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-olfactories-dark-light.png?v=1790807412",
+      "description": "Olfactories Dark Light by Prada 100ml Eau De Parfum Spray Night falls over a desert. Sand and sky merge into an immense blue darkness. The distant light of a fragrance fire carries the scent of myrrh and amber. Olfactories is the epitome of Prada's creative spirit: fragrances that open new olfactive imageries by unexpectedly associating textures, colors, and ingredients. Designer: Prada Year Introduced: 2017 Type: EDP Category: Unisex Fragrance Notes: An imperceptible glow in the darkness. Like the fulsome, suffused moments just before a massive storm cracks the sky, Dark Light creeps into consciousness. The components are older than memory, the elements of culture and adoration: Musk, real Madagascar vanilla, Myrrh, Angelique, and the deeply complex aura of opoponax gum. Transposing the warmth of amber with the cool cleanliness of aldehydes, Dark Light both defines and defies the orientalist fantasy – replete with ancient resins and priceless elixirs – and deconstructs the myth of the exotic. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/dark-light-by-prada-100ml-edp",
+      "source_price": 324.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/dark-light-by-prada-100ml-edp",
+          "brand": "Prada",
+          "name": "Dark Light by Prada 100ml EDP",
+          "size": "100ml",
+          "price": 324.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-olfactories-dark-light.png?v=1790807412"
+        }
+      ]
+    },
+    {
+      "brand": "Prada",
+      "name": "Marienbad by Prada 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 324.99,
+      "price_per_100ml": 324.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-olfactories-marienbad.png?v=1790809145",
+      "description": "Olfactories Marienbad by Prada 100ml Eau De Parfum Spray An escape to Marienbad, lost in a sprawling enigma of golden stucco palaces. The baroque doors of a hidden room sway, stirring whisps of amber and leather. Olfactories is the epitome of Prada's creative spirit: fragrances that open new olfactive imageries by unexpectedly associating textures, colors, and ingredients. Designer: Prada Year Introduced: 2015 Type: EDP Category: Unisex Fragrance Notes: Elegant and decadent, Marienbad is a baroque and distinguished fragrance, with vanilla top notes, an heart of Incense and Styrax and base notes of musky Amber. A hotel suspended between Western ease and Eastern ouds. Souvenirs of an elegantly crumbling empire: leather-bound volumes to be devoured with spiced tortes, black coffee, and a view of the Danube. Marienbad is the scent of a charming, baroque escape, otherworldly in its richness. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/marienbad-by-prada-100ml-edp",
+      "source_price": 324.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/marienbad-by-prada-100ml-edp",
+          "brand": "Prada",
+          "name": "Marienbad by Prada 100ml EDP",
+          "size": "100ml",
+          "price": 324.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-olfactories-marienbad.png?v=1790809145"
+        }
+      ]
+    },
+    {
+      "brand": "Prada",
+      "name": "Miracle Of The Rose by Prada 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 324.99,
+      "price_per_100ml": 324.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-olfactories-miracle-of-the-rose.png?v=1790810265",
+      "description": "Olfactories Miracle Of The Rose by Prada 100ml Eau De Parfum Spray In the middle of a saffron plain, beyond the smoke of oud lies a mythical labyrinth. At its heart, an untouched treasure: a red rose, in perpetual bloom. Olfactories is the epitome of Prada's creative spirit: fragrances that open new olfactive imageries by unexpectedly associating textures, colors, and ingredients. Designer: Prada Year Introduced: 2017 Type: EDP Category: Unisex Fragrance Notes: A rose in a thorny wreath. There is a sensation here of a passage through multiple, labyrinthine rooms, each is infused with a different scent. There is a deep architectural sensation – a physical volume of leather, agarwood, and tobacco – layers that build for decades, centuries. But nearby, perhaps an adjacent room, perhaps carried along in the turbulent air of a passing figure, the delicate yet potent notes of Rose Absolute and Patchouli drift into focus. Miracle of the Rose surrounds the elegant flower with an almost unfathomable depth. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/miracle-of-the-rose-by-prada-100ml-edp",
+      "source_price": 324.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/miracle-of-the-rose-by-prada-100ml-edp",
+          "brand": "Prada",
+          "name": "Miracle Of The Rose by Prada 100ml EDP",
+          "size": "100ml",
+          "price": 324.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-olfactories-miracle-of-the-rose.png?v=1790810265"
+        }
+      ]
+    },
+    {
+      "brand": "Prada",
+      "name": "Some Velvet Morning by Prada 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 324.99,
+      "price_per_100ml": 324.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-olfactories-some-velvet-morning.png?v=1790811412",
+      "description": "Olfactories Some Velvet Morning by Prada 100ml Eau De Parfum Spray The sun rises over a citadel balanced on a desert mountain. The violet drapes of its palace floating in the dawn air with a velvety peach exhale. Olfactories is the epitome of Prada's creative spirit: fragrances that open new olfactive imageries by unexpectedly associating textures, colors, and ingredients. Designer: Prada Year Introduced: 2018 Type: EDP Category: Unisex Fragrance Notes: A duet between one sultry, masculine voice and the dreamy chant of hyper-femininity, “Some Velvet Morning” tells the story of coiled harmony. The sounds start off starkly separate, but steadily thread together: The stomping tempo of Musk and Benzoin is plucked with Vanilla, Peach, and Patchouli, gentle strings floating in from the liquid-hot desert air. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/some-velvet-morning-by-prada-100ml-edp",
+      "source_price": 324.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/some-velvet-morning-by-prada-100ml-edp",
+          "brand": "Prada",
+          "name": "Some Velvet Morning by Prada 100ml EDP",
+          "size": "100ml",
+          "price": 324.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-olfactories-some-velvet-morning.png?v=1790811412"
+        }
+      ]
+    },
+    {
       "brand": "Yves Saint Laurent",
       "name": "Yves Saint Laurent MYSLF Le Parfum 60ml",
       "size": "60ml",
@@ -91589,6 +91807,34 @@
           "price": 349.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/omanluxury-overdose.png?v=1790555027"
+        }
+      ]
+    },
+    {
+      "brand": "Tom Ford",
+      "name": "Soleil Neige by Tom Ford 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 349.99,
+      "price_per_100ml": 349.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/tom-ford-soleil-neige-100ml.png?v=1790814796",
+      "description": "Soleil Neige by Tom Ford 100ml Eau De Parfum Spray Sun on Snow. A cool burst of bright and green citrus gives way to a bouquet of winter-white florals and rose absolute. Soleil Neige is a ray of solar light-a breath of winter air that conjures sun on fresh alpine snow. Designer: Tom Ford Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: Radiant and exhilarating, it captivates with bright citrus, white florals and musk. Tom Ford's winter world conjures the thrill of a day on the slopes that melts into the celebratory warmth of après-ski. The fluted flacon is glazed in a warm-white hue paired with the gleam of sliver-toned accents, evoking the luminosity of sun on snow. Key Notes: Bergamot Integrale, Musk Notes, Orange Blossom. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/soleil-neige-by-tom-ford-100ml-edp",
+      "source_price": 349.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/soleil-neige-by-tom-ford-100ml-edp",
+          "brand": "Tom Ford",
+          "name": "Soleil Neige by Tom Ford 100ml EDP",
+          "size": "100ml",
+          "price": 349.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/tom-ford-soleil-neige-100ml.png?v=1790814796"
         }
       ]
     },
@@ -113565,6 +113811,34 @@
           "price": 187,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20009396-0.jpg?v=1723591720"
+        }
+      ]
+    },
+    {
+      "brand": "Tom Ford",
+      "name": "Soleil Brulant by Tom Ford 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 624.99,
+      "price_per_100ml": 624.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/tom-ford-soleil-brulant_f8cdbe4d-5a4a-4d80-a5fd-751c6e9863c9.png?v=1790811917",
+      "description": "Soleil Brulant by Tom Ford 100ml Eau De Parfum Spray Soleil Brulant captures the high-shine brilliance of the golden sun beaming on a private oasis. \"The warmth of amber and mix of florals render this fragrance original. Soleil Brulant is addictive … the boldest version of Soleil.\" — Tom Ford Designer: Tom Ford Year Introduced: 2021 Type: EDP Category: Unisex Fragrance Notes: The sunkissed freshness of mandarin and bergamot mingles with spicy pink peppercorn – giving way to an ornate and regal floral heart – while orange flower absolute and a note of radiant black honey release a seductive vapor. The background brings the burnished warmth of decadent amber embellished with resins and woods. An air of vetiver and leather stokes the smokiness of extravagant incense. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/soleil-brulant-by-tom-ford-100ml-edp",
+      "source_price": 624.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/soleil-brulant-by-tom-ford-100ml-edp",
+          "brand": "Tom Ford",
+          "name": "Soleil Brulant by Tom Ford 100ml EDP",
+          "size": "100ml",
+          "price": 624.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/tom-ford-soleil-brulant_f8cdbe4d-5a4a-4d80-a5fd-751c6e9863c9.png?v=1790811917"
         }
       ]
     },
