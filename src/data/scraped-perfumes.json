@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T09:26:16.642Z",
-  "count": 3505,
+  "generated_at": "2026-10-03T08:55:32.660Z",
+  "count": 3510,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
@@ -2851,16 +2851,27 @@
       "name": "DAISE Oh So Body Mist 100ml",
       "size": "100ml",
       "size_ml": 100,
-      "price": 8.39,
-      "price_per_100ml": 8.39,
+      "price": 8,
+      "price_per_100ml": 8,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/59b8a285-aae2-40f3-b02c-caec30909463.jpg?v=1783607644",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc9e3405a/images/hi-res/33/0B/R2988271_30.jpg?sw=292&sh=292",
       "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/daise-oh-so-body-mist-100ml",
-      "source_price": 8.39,
-      "source_count": 1,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-oh-so-100ml/R2988271.html",
+      "source_price": 8,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-oh-so-100ml/R2988271.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Oh So 100ml",
+          "size": "100ml",
+          "price": 8,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc9e3405a/images/hi-res/33/0B/R2988271_30.jpg?sw=292&sh=292"
+        },
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
@@ -2871,6 +2882,146 @@
           "price": 8.39,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/59b8a285-aae2-40f3-b02c-caec30909463.jpg?v=1783607644"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Hello 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 8,
+      "price_per_100ml": 8,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
+      "source_price": 8,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Hello 100ml",
+          "size": "100ml",
+          "price": 8,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Happy 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 8,
+      "price_per_100ml": 8,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb0fbb87b/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-happy-100ml/R2988243.html",
+      "source_price": 8,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-happy-100ml/R2988243.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Happy 100ml",
+          "size": "100ml",
+          "price": 8,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb0fbb87b/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Sunny 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 8,
+      "price_per_100ml": 8,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw86db47e3/images/hi-res/53/B4/R2988272_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-sunny-100ml/R2988272.html",
+      "source_price": 8,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-sunny-100ml/R2988272.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Sunny 100ml",
+          "size": "100ml",
+          "price": 8,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw86db47e3/images/hi-res/53/B4/R2988272_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Lowkey 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 8,
+      "price_per_100ml": 8,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw13c6fac7/images/hi-res/B8/6C/R2988251_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-lowkey-100ml/R2988251.html",
+      "source_price": 8,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-lowkey-100ml/R2988251.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Lowkey 100ml",
+          "size": "100ml",
+          "price": 8,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw13c6fac7/images/hi-res/B8/6C/R2988251_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Peachy 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 8,
+      "price_per_100ml": 8,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw9c9fc809/images/hi-res/D3/9D/R2988250_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-peachy-100ml/R2988250.html",
+      "source_price": 8,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-peachy-100ml/R2988250.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Peachy 100ml",
+          "size": "100ml",
+          "price": 8,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw9c9fc809/images/hi-res/D3/9D/R2988250_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -2899,90 +3050,6 @@
           "price": 8.39,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/7e62cd4b-3e63-4cda-8475-0e5bcbd7cfdc.jpg?v=1781880040"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria's Secret New Edition Coconut Passion Fragrance Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 20.99,
-      "price_per_100ml": 8.4,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-new-edition-coconut-passion-fragrance-mist-250ml/R2200643.html",
-      "source_price": 20.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-new-edition-coconut-passion-fragrance-mist-250ml/R2200643.html",
-          "brand": "Victoria's Secret",
-          "name": "Victoria's Secret New Edition Coconut Passion Fragrance Mist 250ml",
-          "size": "250ml",
-          "price": 20.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria's Secret Velvet Petal Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 20.99,
-      "price_per_100ml": 8.4,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
-      "source_price": 20.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
-          "brand": "Victoria's Secret",
-          "name": "Victoria's Secret Velvet Petal Body Mist 250ml",
-          "size": "250ml",
-          "price": 20.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria's Secret Midnight Bloom Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 20.99,
-      "price_per_100ml": 8.4,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-midnight-bloom-body-mist-250ml/R2766560.html",
-      "source_price": 20.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-midnight-bloom-body-mist-250ml/R2766560.html",
-          "brand": "Victoria's Secret",
-          "name": "Victoria's Secret Midnight Bloom Body Mist 250ml",
-          "size": "250ml",
-          "price": 20.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -3634,58 +3701,30 @@
       ]
     },
     {
-      "brand": "Daise",
-      "name": "Daise Body Mist Hello 100ml",
+      "brand": "VV Love",
+      "name": "VV Love Missy GG EDT 100ml",
       "size": "100ml",
       "size_ml": 100,
-      "price": 10,
-      "price_per_100ml": 10,
+      "price": 9.99,
+      "price_per_100ml": 9.99,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2edc462f/images/hi-res/38/4F/R3054376_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
-      "source_price": 10,
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-missy-gg-edt-100ml/R3054376.html",
+      "source_price": 9.99,
       "source_count": 1,
       "sources": [
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Hello 100ml",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-missy-gg-edt-100ml/R3054376.html",
+          "brand": "VV Love",
+          "name": "VV Love Missy GG EDT 100ml",
           "size": "100ml",
-          "price": 10,
+          "price": 9.99,
           "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
-      "name": "Daise Body Mist Happy 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 10,
-      "price_per_100ml": 10,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb0fbb87b/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-happy-100ml/R2988243.html",
-      "source_price": 10,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-happy-100ml/R2988243.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Happy 100ml",
-          "size": "100ml",
-          "price": 10,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb0fbb87b/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292"
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2edc462f/images/hi-res/38/4F/R3054376_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -3714,34 +3753,6 @@
           "price": 10,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc9e3405a/images/hi-res/33/0B/R2988271_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
-      "name": "Daise Body Mist Sunny 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 10,
-      "price_per_100ml": 10,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw86db47e3/images/hi-res/53/B4/R2988272_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-sunny-100ml/R2988272.html",
-      "source_price": 10,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-sunny-100ml/R2988272.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Sunny 100ml",
-          "size": "100ml",
-          "price": 10,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw86db47e3/images/hi-res/53/B4/R2988272_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -4376,6 +4387,90 @@
       ]
     },
     {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret New Edition Coconut Passion Fragrance Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 29.99,
+      "price_per_100ml": 12,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-new-edition-coconut-passion-fragrance-mist-250ml/R2200643.html",
+      "source_price": 29.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-new-edition-coconut-passion-fragrance-mist-250ml/R2200643.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret New Edition Coconut Passion Fragrance Mist 250ml",
+          "size": "250ml",
+          "price": 29.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dweb7a2147/images/hi-res/B5/E9/R2200643_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret Velvet Petal Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 29.99,
+      "price_per_100ml": 12,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
+      "source_price": 29.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret Velvet Petal Body Mist 250ml",
+          "size": "250ml",
+          "price": 29.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret Midnight Bloom Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 29.99,
+      "price_per_100ml": 12,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-midnight-bloom-body-mist-250ml/R2766560.html",
+      "source_price": 29.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-midnight-bloom-body-mist-250ml/R2766560.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret Midnight Bloom Body Mist 250ml",
+          "size": "250ml",
+          "price": 29.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2d3750e7/images/hi-res/29/CE/R2766560_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Daise",
       "name": "Daise Fragrance Body Mist Rose & Amber",
       "size": null,
@@ -4512,6 +4607,62 @@
           "price": 12,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa285a671/images/hi-res/1A/FC/R3067045_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret Aqua Kiss Fragrance Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 29.99,
+      "price_per_100ml": 12,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb66b83b9/images/hi-res/6E/90/R1914438_40.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-aqua-kiss-fragrance-mist-250ml/R1914438.html",
+      "source_price": 29.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-aqua-kiss-fragrance-mist-250ml/R1914438.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret Aqua Kiss Fragrance Mist 250ml",
+          "size": "250ml",
+          "price": 29.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb66b83b9/images/hi-res/6E/90/R1914438_40.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret Bare Vanilla Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 29.99,
+      "price_per_100ml": 12,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw971885cd/images/hi-res/C7/46/R2559462_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-bare-vanilla-body-mist-250ml/R2559462.html",
+      "source_price": 29.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-bare-vanilla-body-mist-250ml/R2559462.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret Bare Vanilla Body Mist 250ml",
+          "size": "250ml",
+          "price": 29.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw971885cd/images/hi-res/C7/46/R2559462_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -49439,34 +49590,6 @@
       ]
     },
     {
-      "brand": "Victoria's Secret",
-      "name": "Victoria's Secret Bombshell EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 125,
-      "price_per_100ml": 125,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4ca77935/images/hi-res/F0/60/R3025165_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-bombshell-edp-100ml/R3025165.html",
-      "source_price": 125,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-bombshell-edp-100ml/R3025165.html",
-          "brand": "Victoria's Secret",
-          "name": "Victoria's Secret Bombshell EDP 100ml",
-          "size": "100ml",
-          "price": 125,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4ca77935/images/hi-res/F0/60/R3025165_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
       "brand": "Bargain Chemist",
       "name": "COACH EDP Natural Spray 90ml",
       "size": "90ml",
@@ -59478,6 +59601,34 @@
           "price": 202,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11206379-0.jpg?v=1769482714"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret Bombshell EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 169.99,
+      "price_per_100ml": 169.99,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4ca77935/images/hi-res/F0/60/R3025165_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-bombshell-edp-100ml/R3025165.html",
+      "source_price": 169.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-bombshell-edp-100ml/R3025165.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret Bombshell EDP 100ml",
+          "size": "100ml",
+          "price": 169.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4ca77935/images/hi-res/F0/60/R3025165_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -119097,10 +119248,6 @@
     {
       "retailer_slug": "chemist-warehouse-nz",
       "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
-    },
-    {
-      "retailer_slug": "the-warehouse",
-      "error": "Client error '403 Forbidden' for url 'https://www.thewarehouse.co.nz/c/health-beauty/fragrances?sr=perfume&sz=48'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
     }
   ]
 }
