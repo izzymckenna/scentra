@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T08:55:32.660Z",
-  "count": 3510,
+  "generated_at": "2026-10-04T09:24:29.442Z",
+  "count": 3513,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
@@ -16207,6 +16207,89 @@
       ]
     },
     {
+      "brand": "Vera Wang",
+      "name": "Vera Wang Lovestruck EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 45.99,
+      "price_per_100ml": 45.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9615714091038.jpg?v=1761995044",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vw-lovestruck-edp-100ml",
+      "source_price": 45.99,
+      "source_count": 6,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vw-lovestruck-edp-100ml",
+          "brand": "Vera Wang",
+          "name": "Vera Wang Lovestruck EDP 100ml",
+          "size": "100ml",
+          "price": 45.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9615714091038.jpg?v=1761995044"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vw-lovestruck-edp-100ml?_pos=3&_psq=Vera+Wang&_psid=796398cab&_ss=e",
+          "brand": "Vera Wang",
+          "name": "Vera Wang Lovestruck EDP 100ml",
+          "size": "100ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9615714091038.jpg?v=1761995044"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vw-lovestruck-edp-100ml?_pos=5&_psq=Vera+Wang&_psid=6b1d2ca28&_ss=e",
+          "brand": "Vera Wang",
+          "name": "Vera Wang Lovestruck EDP 100ml",
+          "size": "100ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9615714091038.jpg?v=1761995044"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/vera-wang-lovestruck-edp-100ml?_pos=2&_psq=Vera+Wang&_psid=24fb9a3bb&_ss=e",
+          "brand": "Vera Wang",
+          "name": "Vera Wang Lovestruck EDP 100ml",
+          "size": "100ml",
+          "price": 54,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025890-0.jpg?v=1741549509"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/vera-wang-lovestruck-edp-100ml?_pos=2&_psq=Vera+Wang&_psid=0c9b54e37&_ss=e",
+          "brand": "Vera Wang",
+          "name": "Vera Wang Lovestruck EDP 100ml",
+          "size": "100ml",
+          "price": 54,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025890-0.jpg?v=1741549509"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/vera-wang-lovestruck-edp-100ml?_pos=2&_psq=Vera+Wang&_psid=5bb019c00&_ss=e",
+          "brand": "Vera Wang",
+          "name": "Vera Wang Lovestruck EDP 100ml",
+          "size": "100ml",
+          "price": 54,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025890-0.jpg?v=1741549509"
+        }
+      ]
+    },
+    {
       "brand": "Sabrina",
       "name": "Sabrina Carpenter Caramel Dream Eau De Parfum 75ml Exclusive",
       "size": "75ml",
@@ -16675,10 +16758,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/1110359CALVINKLEINCKONE_U_EDT100ml.jpg?v=1760994491",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/ck-one-edt-100mi?_pos=10&_psq=Calvin+Klein&_psid=5ba5d3dd9&_ss=e",
+      "source_url": "https://www.bargainchemist.co.nz/products/ck-one-edt-100mi",
       "source_price": 47.99,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ck-one-edt-100mi",
+          "brand": "Bulk Frag",
+          "name": "Calvin Klein One EDT 100mI",
+          "size": null,
+          "price": 47.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/1110359CALVINKLEINCKONE_U_EDT100ml.jpg?v=1760994491"
+        },
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
@@ -17682,78 +17776,6 @@
           "price": 49.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/lattafa-ladies-mayar-edp-34-oz-fragrances-6291108732496.jpg?v=1763924637"
-        }
-      ]
-    },
-    {
-      "brand": "Vera Wang",
-      "name": "Vera Wang Lovestruck EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 49.99,
-      "price_per_100ml": 49.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9615714091038.jpg?v=1761995044",
-      "description": "You will find yourself completely mesmerized with the intoxicating and romantic scent of lovestruck, introduced by the design house of vera wang in 2011. Inspired by a modern day romeo and juliet type of love, lovestruck perfectly embodies the excitement, passion and hopeless abandon of new and unstoppable love. Opening top notes combine pink guava with sweet angelica blossom for a youthful and invigorating appeal. Middle notes of lotus flower and tuberose are at the heart of the fragrance, while musk and woody scents make up the closing base notes.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vw-lovestruck-edp-100ml?_pos=3&_psq=Vera+Wang&_psid=796398cab&_ss=e",
-      "source_price": 49.99,
-      "source_count": 5,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vw-lovestruck-edp-100ml?_pos=3&_psq=Vera+Wang&_psid=796398cab&_ss=e",
-          "brand": "Vera Wang",
-          "name": "Vera Wang Lovestruck EDP 100ml",
-          "size": "100ml",
-          "price": 49.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9615714091038.jpg?v=1761995044"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vw-lovestruck-edp-100ml?_pos=5&_psq=Vera+Wang&_psid=6b1d2ca28&_ss=e",
-          "brand": "Vera Wang",
-          "name": "Vera Wang Lovestruck EDP 100ml",
-          "size": "100ml",
-          "price": 49.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9615714091038.jpg?v=1761995044"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/vera-wang-lovestruck-edp-100ml?_pos=2&_psq=Vera+Wang&_psid=24fb9a3bb&_ss=e",
-          "brand": "Vera Wang",
-          "name": "Vera Wang Lovestruck EDP 100ml",
-          "size": "100ml",
-          "price": 54,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025890-0.jpg?v=1741549509"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/vera-wang-lovestruck-edp-100ml?_pos=2&_psq=Vera+Wang&_psid=0c9b54e37&_ss=e",
-          "brand": "Vera Wang",
-          "name": "Vera Wang Lovestruck EDP 100ml",
-          "size": "100ml",
-          "price": 54,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025890-0.jpg?v=1741549509"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/vera-wang-lovestruck-edp-100ml?_pos=2&_psq=Vera+Wang&_psid=5bb019c00&_ss=e",
-          "brand": "Vera Wang",
-          "name": "Vera Wang Lovestruck EDP 100ml",
-          "size": "100ml",
-          "price": 54,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025890-0.jpg?v=1741549509"
         }
       ]
     },
@@ -29216,6 +29238,34 @@
           "price": 69.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/volare-stardom-triumph.png?v=1790634278"
+        }
+      ]
+    },
+    {
+      "brand": "Bulk Frag",
+      "name": "Lanvin Eclat D'Arpege EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/F2D_800_fc00ee65-8396-4fd7-b649-7cd4cf022954.jpg?v=1759804827",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/lanvin-eclat-darpege-edp-100ml",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/lanvin-eclat-darpege-edp-100ml",
+          "brand": "Bulk Frag",
+          "name": "Lanvin Eclat D'Arpege EDP 100ml",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/F2D_800_fc00ee65-8396-4fd7-b649-7cd4cf022954.jpg?v=1759804827"
         }
       ]
     },
@@ -46015,6 +46065,34 @@
           "price": 109.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-fahad.png?v=1790205059"
+        }
+      ]
+    },
+    {
+      "brand": "Dolce & Gabbana",
+      "name": "Dolce & Gabbana Light Blue Eau Intense EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 109.99,
+      "price_per_100ml": 109.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/Screenshot2025-12-17at3.09.58PM.png?v=1765937407",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/dg-light-blue-eau-int-edpi-100ml",
+      "source_price": 109.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/dg-light-blue-eau-int-edpi-100ml",
+          "brand": "Dolce & Gabbana",
+          "name": "Dolce & Gabbana Light Blue Eau Intense EDP 100ml",
+          "size": "100ml",
+          "price": 109.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/Screenshot2025-12-17at3.09.58PM.png?v=1765937407"
         }
       ]
     },
@@ -69346,6 +69424,34 @@
       ]
     },
     {
+      "brand": "Yves Saint Laurent",
+      "name": "YSL Yvresse EDT Spray 80ml",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 159.99,
+      "price_per_100ml": 199.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459354038302.jpg?v=1778351761",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/ysl-yvresse-edt-spray-80ml",
+      "source_price": 159.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ysl-yvresse-edt-spray-80ml",
+          "brand": "Yves Saint Laurent",
+          "name": "YSL Yvresse EDT Spray 80ml",
+          "size": "80ml",
+          "price": 159.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459354038302.jpg?v=1778351761"
+        }
+      ]
+    },
+    {
       "brand": "Chloe",
       "name": "CHLOE Nomade EDP 30ml",
       "size": "30ml",
@@ -78268,7 +78374,7 @@
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-la-nuit-de-lhomme-edp-60ml",
       "source_price": 148,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "retailer_slug": "life-pharmacy",
@@ -78280,6 +78386,17 @@
           "price": 148,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20010352-0.jpg?v=1746481424"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ysl-la-nuit-de-lhomme-edt-60ml",
+          "brand": "Yves Saint Laurent",
+          "name": "YSL La Nuit de L'Homme EDT 60ml",
+          "size": "60ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/a34c6d28-280f-42d5-ba86-9c0c4bb01c86.jpg?v=1784126169"
         }
       ]
     },
