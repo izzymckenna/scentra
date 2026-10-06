@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T10:04:33.447Z",
-  "count": 3548,
+  "generated_at": "2026-10-06T09:50:21.853Z",
+  "count": 3560,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
@@ -16745,11 +16745,11 @@
       "price_per_100ml": 47.99,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9615707734046.jpg?v=1720785937",
-      "description": null,
+      "description": "Elegant and enchanting this feminine scent has among its notes. Mandarin Blossom Bulgarian Rose Gardenia Stephanotis Pure Musk.",
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/vw-signature-woman-edp-100ml?_pos=4&_psq=Vera+Wang&_psid=796398cab&_ss=e",
       "source_price": 47.99,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "retailer_slug": "bargain-chemist",
@@ -16772,6 +16772,17 @@
           "price": 47.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9615707734046.jpg?v=1720785937"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/vera-wang-signature-woman-edp-100ml",
+          "brand": "Vera Wang",
+          "name": "Vera Wang Signature Woman EDP 100ml",
+          "size": "100ml",
+          "price": 49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024727-0.jpg?v=1769484475"
         }
       ]
     },
@@ -64752,6 +64763,34 @@
       ]
     },
     {
+      "brand": "Histoires De Parfums",
+      "name": "Tubereuse Nuit Blanche by Histoires De Parfums 120ml EDP",
+      "size": "120ml",
+      "size_ml": 120,
+      "price": 224.99,
+      "price_per_100ml": 187.49,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/histoires-tubereuse-nuit-blanche.png?v=1791257888",
+      "description": "Tubereuse Nuit Blanche by Histoires De Parfums 120ml Eau De Parfum Spray In the world of Histoires de Parfums, each fragrance tells a unique story, blending tradition and modernity. Tubéreuse Nuit Blanche embodies this duality with boldness. Tubéreuse Nuit Blanche carries us between shadow and light. Radiant and hypnotic, as night falls, it awakens in full bloom, letting its fragrance unfurl in narcotic spirals. Fragile yet powerful, the tuberose invites surrender, daydreams. It is the echo of a sleepless night, where the senses stir and drift, where dreams transform into perfume. Designer: Histoires De Parfums Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: A sparkling and bold opening: bright ginger, crisp rhubarb, and dazzling elemi. Then, the tuberose, both capricious and sensual, melts into jasmine and orange blossom, elevated by a radiant touch of saffron. Finally, a rich and velvety base unfolds, where white musks, ambroxan, precious woods, vanilla, and caramel intertwine, leaving behind a warm and comforting trail. Tubéreuse Nuit Blanche is an endless night, a secret revealed with every breath, a fiery diva who lets night irresistible. Top Notes: Elemi, Ginger, Rhubarb. Heart Notes: Tuberose, Tiaré, White Jasmine, Clove. Base Notes: White Musk, Sandalwood, Vanilla. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/tubereuse-nuit-blanche-by-histoires-de-parfums-120ml-edp",
+      "source_price": 224.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/tubereuse-nuit-blanche-by-histoires-de-parfums-120ml-edp",
+          "brand": "Histoires De Parfums",
+          "name": "Tubereuse Nuit Blanche by Histoires De Parfums 120ml EDP",
+          "size": "120ml",
+          "price": 224.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/histoires-tubereuse-nuit-blanche.png?v=1791257888"
+        }
+      ]
+    },
+    {
       "brand": "Bargain Chemist",
       "name": "DIOR JADORE 1.7 EDP",
       "size": null,
@@ -67404,6 +67443,34 @@
           "price": 194.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/serge-lutens-gris-clair.png?v=1668458033"
+        }
+      ]
+    },
+    {
+      "brand": "Gisada",
+      "name": "Ambassadora Gold by Gisada 100ml EDP for Women",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 194.99,
+      "price_per_100ml": 194.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/gisada-ambassadora-gold.png?v=1791253192",
+      "description": "Ambassadora Gold by Gisada 100ml Eau De Parfum Spray for Women Ambassadora Gold Eau de Parfum is a luminously captivating fragrance that embodies radiant femininity in its most refined form. Bright yet warm. Bold yet refined A scent that captivates from the first impression and stays with you, embodying the confidence of the contemporary woman. Designer: Gisada Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Ambassadora Gold by Gisada opens with luminous notes of plum, orange, lemon and pear, creating an immediate burst of vibrant freshness. At its heart, an opulent bouquet of gardenia, frangipani, orange blossom and tuberose unfolds, revealing sensual femininity and depth. The fragrance settles into a warm and addictive base of musk, vanilla, benzoin, sugar candy and sandalwood, leaving a soft yet captivating trail of confidence, elegance and irresistible allure. This modern creation was composed like a precious elixir, balancing elegance with sensuality. The exceptional quality of raw materials, from delicate frangipani to rich benzoin, creates a fragrance as magnetic as it is timeless. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/ambassadora-gold-by-gisada-100ml-edp-for-women",
+      "source_price": 194.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/ambassadora-gold-by-gisada-100ml-edp-for-women",
+          "brand": "Gisada",
+          "name": "Ambassadora Gold by Gisada 100ml EDP for Women",
+          "size": "100ml",
+          "price": 194.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/gisada-ambassadora-gold.png?v=1791253192"
         }
       ]
     },
@@ -77919,24 +77986,13 @@
       "price": 121,
       "price_per_100ml": 242,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11182176-0.jpg?v=1769484706",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11182176-0.jpg?v=1769990315",
       "description": "'Viva La Juicy Gold Couture perfume indulges the senses with luscious wild berries, a kiss of honeysuckle, and a luxurious elixir of golden amber, melted caramel, and vanilla. The Viva La Juicy Gold Couture girl is couture all the way, spinning an addictive web of glamour at every A-list event.",
-      "source_name": "unichem-shopify-suggest",
-      "source_url": "https://www.unichem.co.nz/products/juicy-couture-viva-la-juicy-gold-couture-edp-spray-50ml",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/elizabeth-arden-viva-la-juicy-gold-couture-edp-spray-50ml?_pos=6&_psq=Juicy+Couture&_psid=089d83f51&_ss=e",
       "source_price": 121,
       "source_count": 5,
       "sources": [
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/juicy-couture-viva-la-juicy-gold-couture-edp-spray-50ml",
-          "brand": "Juicy Couture",
-          "name": "Juicy Couture Viva La Juicy Gold Couture EDP Spray 50ml",
-          "size": "50ml",
-          "price": 121,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11182176-0.jpg?v=1769484706"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -77980,6 +78036,17 @@
           "price": 121,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11182176-0.jpg?v=1769990315"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/juicy-couture-viva-la-juicy-gold-couture-edp-spray-50ml",
+          "brand": "Juicy Couture",
+          "name": "Juicy Couture Viva La Juicy Gold Couture EDP Spray 50ml",
+          "size": "50ml",
+          "price": 122,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11182176-0.jpg?v=1769484706"
         }
       ]
     },
@@ -77991,24 +78058,13 @@
       "price": 121,
       "price_per_100ml": 242,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024004-0.jpg?v=1769484474",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024004-0.jpg?v=1769484442",
       "description": "Dripping softly with creamy icing, the fragrance takes her to a decadent patisserie. She lives in the moment without holding back and never forgets to eat dessert first. This Vanillic Fruity Gourmand fragrance sparkles with Mandarin & Red Currant, while Peach Nectar flirtatiously drizzles over a nearly edible bouquet of Jasmine & Orange Flower Petals. The dry down floats in the cloud-like sweetness of Vanilla & Whipped Cream and is topped off with a dusting of Cocoa Powder for tantalizing allure. Viva La Juicy Sucré is sure to induce cravings!",
-      "source_name": "unichem-shopify-suggest",
-      "source_url": "https://www.unichem.co.nz/products/juicy-couture-viva-la-juicy-sucre-edp-50ml",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/juicy-couture-viva-la-juicy-sucre-edp-50ml?_pos=10&_psq=Juicy+Couture&_psid=089d83f51&_ss=e",
       "source_price": 121,
       "source_count": 5,
       "sources": [
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/juicy-couture-viva-la-juicy-sucre-edp-50ml",
-          "brand": "Juicy Couture",
-          "name": "Juicy Couture Viva La Juicy Sucre EDP 50ml",
-          "size": "50ml",
-          "price": 121,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024004-0.jpg?v=1769484474"
-        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -78052,6 +78108,17 @@
           "price": 121,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024004-0.jpg?v=1769484442"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/juicy-couture-viva-la-juicy-sucre-edp-50ml",
+          "brand": "Juicy Couture",
+          "name": "Juicy Couture Viva La Juicy Sucre EDP 50ml",
+          "size": "50ml",
+          "price": 122,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024004-0.jpg?v=1769484474"
         }
       ]
     },
@@ -79631,6 +79698,34 @@
           "price": 249.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/acqua-di-parma-fico-di-amalfi-la-riserva.png?v=1789524524"
+        }
+      ]
+    },
+    {
+      "brand": "Eight & Bob",
+      "name": "Serenite En Bourgogne by Eight & Bob 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 249.99,
+      "price_per_100ml": 249.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/eight-bob-serenite-en-bourgogne.png?v=1791252326",
+      "description": "Serenite En Bourgogne by Eight & Bob 100ml Eau De Parfum Spray For Albert Fouquet, September in Burgundy was a time of harmony and inspiration. He returned to his family’s château to personally oversee the grape harvest, a season that began with peaceful mornings overlooking the vineyards and ended with the bustling energy of the harvest. Every day was filled with rituals, from berry tasting to long walks in the serene countryside, all while crafting his next olfactory masterpiece. Designer: Eight & Bob Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: \"Sérénité en Bourgogne\" captures the tranquility of these moments. A vibrant opening of Saffron and Pink Pepper blends into the warmth of Myrrh, while a rich base of Madagascar Vanilla adds a sensual gourmand touch. This fragrance is an invitation to experience the sophistication and serenity of Burgundy’s vineyards. Top notes: Saffron Accord, Pink Peper CO2 Extract. Heart notes: Boya Vietnam, Myrrh Oil. Base notes: Patchouli Madagascar Oil, Vanilla Bourbon Madagascar Extract. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/serenite-en-bourgogne-by-eight-bob-100ml-edp",
+      "source_price": 249.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/serenite-en-bourgogne-by-eight-bob-100ml-edp",
+          "brand": "Eight & Bob",
+          "name": "Serenite En Bourgogne by Eight & Bob 100ml EDP",
+          "size": "100ml",
+          "price": 249.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/eight-bob-serenite-en-bourgogne.png?v=1791252326"
         }
       ]
     },
@@ -81814,6 +81909,34 @@
       ]
     },
     {
+      "brand": "Giorgio Armani",
+      "name": "Giorgio Armani I Will EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 265,
+      "price_per_100ml": 265,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045773-0.jpg?v=1791236776",
+      "description": "The first spray reveals a surge of freshness through vibrant Bergamot woven with aromatic Lavender Accords and bright Violet Leaf. A sensual addictive Bourbon Vanilla is then reimagined with an ensemble of smoky Woodleather notes, lending depth and magnetism. A true testament to endurance, master perfumers Alberto Morillas and Nathalie Lorson undertook over 2,800 trials and 4 years of craftsmanship to create a men’s fragrance like no other. A modern masculine tribute to strength and determination, reminding one it’s not about luck, it’s about will.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-i-will-edp-100ml",
+      "source_price": 265,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-i-will-edp-100ml",
+          "brand": "Giorgio Armani",
+          "name": "Giorgio Armani I Will EDP 100ml",
+          "size": "100ml",
+          "price": 265,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045773-0.jpg?v=1791236776"
+        }
+      ]
+    },
+    {
       "brand": "Narciso Rodriguez",
       "name": "Narciso Rodriguez Her Pure Musc EDP 100ml",
       "size": "100ml",
@@ -83785,7 +83908,7 @@
       "price": 253,
       "price_per_100ml": 281.11,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791173271",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714",
       "description": "This olfactive creation expresses a seductive femininity that captures the unapologetic attitude that defines the House. The scent opens with vibrant citrus freshness, where distinctive Calabrian bergamot weaves together with the velvety, juicy sweetness of peach essence – like fruit just picked from a sun-drenched orchard. A whisper of pink peppercorn adds bright sophistication. At the fragrance’s heart, the green rosebud slowly blooms – young and full of life, wrapped in spiced and fruity shadows that evoke the delicacy of a morning rose garden kissed by dew. Jasmine brings velvet softness, while raspberry sorbet adds a colourful, addictive note. Finally, the enveloping, lasting embrace of white musk blends with the warmth of Brazilian tonka bean and a hint of incense, creating a refined and unmistakable trail that seals a powerful yet elegant olfactory signature.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml",
@@ -83801,7 +83924,7 @@
           "size": "90ml",
           "price": 253,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791173271"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
         }
       ]
     },
@@ -84058,6 +84181,34 @@
           "price": 135,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/gxh_11064165-1.jpg?v=1758674794"
+        }
+      ]
+    },
+    {
+      "brand": "Histoires De Parfums",
+      "name": "Ambre 114 by Histoires De Parfums 60ml EDP",
+      "size": "60ml",
+      "size_ml": 60,
+      "price": 169.99,
+      "price_per_100ml": 283.32,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/histoires-ambre-114-60ml.png?v=1791255831",
+      "description": "Ambre 114 by Histoires De Parfums 60ml Eau De Parfum Spray This mythical raw material improves a 114-element composition. A caravanserai of scents for this hot oriental intensifying the natural sensuality of Ambergris, sweet perfume and tinted with exoticism. An enchanting fragrance of Amber-colored skin warmed by a balmy, aromatic breeze. An extremely erotic perfume. Designer: Histoires De Parfums Year Introduced: 2001 Type: EDP Category: Unisex Fragrance Notes: A tribute to the raw material of Amber which has evolved from one of the preliminary forms of fragrance into one of the most commonly-used ingredients in fragrances worldwide. This award-winning fragrance is composed of 114 ingredients, all centered around and enhanced by Amber. Top Notes: Thyme, Nutmeg. Heart Notes: Rose, Geranium, Patchouli, Sandalwood, Cedar, Vetiver. Base Notes: Amber, Vanilla, Tonka Bean, Benzoin, Musk. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/ambre-114-by-histoires-de-parfums-60ml-edp",
+      "source_price": 169.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/ambre-114-by-histoires-de-parfums-60ml-edp",
+          "brand": "Histoires De Parfums",
+          "name": "Ambre 114 by Histoires De Parfums 60ml EDP",
+          "size": "60ml",
+          "price": 169.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/histoires-ambre-114-60ml.png?v=1791255831"
         }
       ]
     },
@@ -87277,6 +87428,34 @@
       ]
     },
     {
+      "brand": "Jean Paul Gaultier",
+      "name": "Jean Paul Gaultier Scandal Intense EDP 80ml",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 241,
+      "price_per_100ml": 301.25,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean-Paul-Gaultier-Scandal-Intense-EDP-80ml-for-Women-8435415102704.jpg?v=1781827774",
+      "description": "Jean Paul Gaultier Scandal Intense EDP 80ml for Women Jean Paul Gaultier Scandal Intense EDP 80ml for Women is a warm floral gourmand fragrance built around aromatic cardamom, luminous ylang-ylang and creamy vanilla. The opening feels spicy and confident before the floral heart becomes smoother and more sensual, while vanilla creates a deep, enveloping finish. This generous 80ml Eau de Parfum is well suited to women who enjoy rich designer fragrances with aromatic spice, creamy florals and confident evening sweetness. Buy Jean Paul Gaultier perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Note: Cardamom. Heart Note: Ylang-ylang. Base Note: Vanilla. Scent Profile Scandal Intense opens with aromatic cardamom before ylang-ylang brings creamy floral radiance through the heart. Vanilla then settles into a warm, smooth and deeply sweet base. The overall profile is spicy, floral, creamy and gourmand. Who Is It For? This Jean Paul Gaultier women’s perfume is ideal for customers who enjoy cardamom, ylang-ylang, vanilla and warm floral-gourmand fragrances. The 80ml size suits regular evening and signature-scent wear. When to Wear Daytime: Cooler-day occasions with a moderate application. Evening: Dinners, date nights, celebrations, parties and social occasions. Season: Especially suited to autumn and winter, with versatility through cooler spring evenings. Occasion: Signature scent wear, regular evening rotation and gifting. Longevity & Sillage As an Eau de Parfum built around cardamom, ylang-ylang and vanilla, Scandal Intense is designed to create a noticeable spicy-floral impression followed by a warm and enveloping gourmand trail. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Jean Paul Gaultier Scandal Fragrances to Explore Jean Paul Gaultier Scandal Intense EDP 50ml — the same cardamom, ylang-ylang and vanilla fragrance in a smaller presentation. Jean Paul Gaultier Scandal Intense Parfum 50ml Gift Set — the intense fragrance paired with a matching body lotion. Jean Paul Gaultier Scandal Le Parfum EDP Intense 80ml — a jasmine, salted caramel and vanilla interpretation. Similar Designer Fragrances Carolina Herrera Good Girl Blush Elixir EDP 80ml — bergamot, ylang-ylang, rose, vanilla and patchouli closely echo the creamy floral-spicy warmth. Giorgio Armani My Way Intense EDP 50ml — tuberose, orange blossom, sandalwood and vanilla provide rich white-floral warmth and a creamy finish. Burberry Goddess EDP Intense 100ml — lavender, vanilla and patchouli create a concentrated aromatic gourmand alternative. Premium & Niche Alternatives Chanel Coco EDP 100ml — orange blossom, rose, warm spice, amber, sandalwood and vanilla offer a premium spicy amber-floral direction. Chanel Allure Sensuelle EDP 100ml — florals, spice, amber, patchouli, vanilla and woods provide a sophisticated warm floral alternative. Creed Delphinus EDP 100ml — iris, almond, incense, vanilla, tonka bean and leather offer a refined niche spicy-gourmand interpretation. Explore More Fragrances Browse more Jean Paul Gaultier perfumes , women’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Jean Paul Gaultier Fragrance: Scandal Intense Size: 80ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Gourmand Format: Spray EAN/Barcode: 8435415102759 Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Jean Paul Gaultier Scandal Intense EDP 80ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying. Store upright away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-scandal-intense-edp-80ml-for-women",
+      "source_price": 241,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-scandal-intense-edp-80ml-for-women",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Scandal Intense EDP 80ml",
+          "size": "80ml",
+          "price": 241,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean-Paul-Gaultier-Scandal-Intense-EDP-80ml-for-Women-8435415102704.jpg?v=1781827774"
+        }
+      ]
+    },
+    {
       "brand": "Issey Miyake",
       "name": "Issey Miyake Le Sel EDP 50ml",
       "size": "50ml",
@@ -88744,6 +88923,34 @@
           "price": 316,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035193-0.jpg?v=1769991943"
+        }
+      ]
+    },
+    {
+      "brand": "Histoires De Parfums",
+      "name": "Prolixe by Histoires De Parfums 60ml EDP",
+      "size": "60ml",
+      "size_ml": 60,
+      "price": 189.99,
+      "price_per_100ml": 316.65,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/histoires-de-parfums-prolixe-60ml.png?v=1791254870",
+      "description": "Prolixe by Histoires De Parfums 60ml Eau De Parfum Spray Prolixe by Histoires de Parfums is a sensory journey that celebrates the elegance and complexity of woody fragrances. This Eau de Parfum evolves into a rich and spicy heart, before revealing a warm and enveloping base. Each note tells a unique story, inviting the wearer to explore new dimensions of themselves. Designer: Histoires De Parfums Year Introduced: 2017 Type: EDP Category: Unisex Fragrance Notes: Filled with a wealth of details. Revealing distraction and wandering. Excessive, exuberant. Ginger, Cardamom, Cinnamon… clothe and envelop us while Rose's radiance, bolstered by Patchouli’s mysterious power and Oud’s obscure intensity, escalates into a great blaze, emitting wafts of Tobacco and Oliban. Spices' ardent meanderings captivate twirls of Rose and Oliban. Top Notes: Ginger, Cardamom. Hear Notes: Olibanum, Rose. Base Notes: Patchouli, Tobacco, Oud. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/prolixe-by-histoires-de-parfums-60ml-edp",
+      "source_price": 189.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/prolixe-by-histoires-de-parfums-60ml-edp",
+          "brand": "Histoires De Parfums",
+          "name": "Prolixe by Histoires De Parfums 60ml EDP",
+          "size": "60ml",
+          "price": 189.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/histoires-de-parfums-prolixe-60ml.png?v=1791254870"
         }
       ]
     },
@@ -99613,6 +99820,34 @@
       ]
     },
     {
+      "brand": "Yves Saint Laurent",
+      "name": "Yves Saint Laurent Black Opium Pink Glaze EDP 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 347,
+      "price_per_100ml": 385.56,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045761-0.jpg?v=1791237519",
+      "description": "The Iconic Sensual Coffee-Floral Fragrance Turns Pink With The Sexiest Ingredient, A Juicy Strawberry. The Scent That Makes You Unlock The Party. The Scent. New Strawberry Craze. A Sultry Strawberry, 100% Naturally Extracted Effortlessly Melts Into Head-Turning Sensual Jasmine. A Vibey Reinterpretation Of Black Opium’S Coffee-Floral Signature Notes. A True-To-Taste Smell, As Seductive As It Is Delicious. The Reflection Of The New Black Opium Woman: Magnetic, Confident, Main Character Energy. The Bottle. New Bolder &amp; Sexier It-Design. The Signature Black Opium Bottle Takes On New Daring Shape And Shade. A Dark Pink Lacquered Tone Contrasting With A Powerful Black Core. Cassandre At Heart. Sharp Lines, New Transparency, Modern And Unapologetically Cool. The Edgiest Confidence Booster Accessory. Pink Is The New Black.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-pink-glaze-edp-90ml",
+      "source_price": 347,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-pink-glaze-edp-90ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium Pink Glaze EDP 90ml",
+          "size": "90ml",
+          "price": 347,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045761-0.jpg?v=1791237519"
+        }
+      ]
+    },
+    {
       "brand": "Giorgio Armani",
       "name": "Giorgio Armani Si Passione (W) EDP 30ml",
       "size": "30ml",
@@ -102642,7 +102877,7 @@
       "price": 202,
       "price_per_100ml": 404,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046236-0.jpg?v=1791157519",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046236-0.jpg?v=1791235711",
       "description": "This olfactive creation expresses a seductive femininity that captures the unapologetic attitude that defines the House. The scent opens with vibrant citrus freshness, where distinctive Calabrian bergamot weaves together with the velvety, juicy sweetness of peach essence – like fruit just picked from a sun-drenched orchard. A whisper of pink peppercorn adds bright sophistication. At the fragrance’s heart, the green rosebud slowly blooms – young and full of life, wrapped in spiced and fruity shadows that evoke the delicacy of a morning rose garden kissed by dew. Jasmine brings velvet softness, while raspberry sorbet adds a colourful, addictive note. Finally, the enveloping, lasting embrace of white musk blends with the warmth of Brazilian tonka bean and a hint of incense, creating a refined and unmistakable trail that seals a powerful yet elegant olfactory signature.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-50ml",
@@ -102658,7 +102893,7 @@
           "size": "50ml",
           "price": 202,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046236-0.jpg?v=1791157519"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046236-0.jpg?v=1791235711"
         }
       ]
     },
@@ -103759,6 +103994,34 @@
           "price": 424.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/penhaligon_s-a-kiss-of-bliss---2.png?v=1790908085"
+        }
+      ]
+    },
+    {
+      "brand": "Others",
+      "name": "Camelia K by Ella K Parfums 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 424.99,
+      "price_per_100ml": 424.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ella-k-camelia-k.png?v=1791260871",
+      "description": "Camelia K by Ella K Parfums 100ml Eau De Parfum Spray Camelia K is an ode to temptation inspired by Wong Kar-Wai's film In the Mood for Love. I wanted to express the feeling of repressed desire, the heat of bodies that are consumed without ever being able to find each other, which is perfectly described in this film. Like Alexandre Dumas Fils in his book La Dame aux camélias, I was inspired by the Camellia japonica flower I discovered on a trip to Sapa in northern Vietnam. Designer: Ella K Parfums Year Introduced: 2023 Type: EDP Category: Unisex Fragrance Notes: The powerful union of ginger, dragon fruit and blood orange invites us to push open the doors to a luscious paradise. Created around an intense floral heart of red camellia, Sambac jasmine and orange blossom, this creation is an ode to temptation, immortalised by the sensuality of vanilla, vetiver and patchouli. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/camelia-k-by-ella-k-parfums-100ml-edp",
+      "source_price": 424.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/camelia-k-by-ella-k-parfums-100ml-edp",
+          "brand": "Others",
+          "name": "Camelia K by Ella K Parfums 100ml EDP",
+          "size": "100ml",
+          "price": 424.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ella-k-camelia-k.png?v=1791260871"
         }
       ]
     },
@@ -110695,6 +110958,34 @@
       ]
     },
     {
+      "brand": "Yves Saint Laurent",
+      "name": "Yves Saint Laurent Black Opium Pink Glaze EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 253,
+      "price_per_100ml": 506,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045760-0.jpg?v=1791237519",
+      "description": "The Iconic Sensual Coffee-Floral Fragrance Turns Pink With The Sexiest Ingredient, A Juicy Strawberry. The Scent That Makes You Unlock The Party. The Scent. New Strawberry Craze. A Sultry Strawberry, 100% Naturally Extracted Effortlessly Melts Into Head-Turning Sensual Jasmine. A Vibey Reinterpretation Of Black Opium’S Coffee-Floral Signature Notes. A True-To-Taste Smell, As Seductive As It Is Delicious. The Reflection Of The New Black Opium Woman: Magnetic, Confident, Main Character Energy. The Bottle. New Bolder &amp; Sexier It-Design. The Signature Black Opium Bottle Takes On New Daring Shape And Shade. A Dark Pink Lacquered Tone Contrasting With A Powerful Black Core. Cassandre At Heart. Sharp Lines, New Transparency, Modern And Unapologetically Cool. The Edgiest Confidence Booster Accessory. Pink Is The New Black.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-pink-glaze-edp-50ml",
+      "source_price": 253,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-pink-glaze-edp-50ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium Pink Glaze EDP 50ml",
+          "size": "50ml",
+          "price": 253,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045760-0.jpg?v=1791237519"
+        }
+      ]
+    },
+    {
       "brand": "Memo Paris",
       "name": "Cap Camarat x Olimpia Zagnoli by Memo Paris 75ml EDP",
       "size": "75ml",
@@ -115757,6 +116048,34 @@
       ]
     },
     {
+      "brand": "Yves Saint Laurent",
+      "name": "Yves Saint Laurent Black Opium Pink Glaze EDP 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 182,
+      "price_per_100ml": 606.67,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045759-0.jpg?v=1791237519",
+      "description": "The Iconic Sensual Coffee-Floral Fragrance Turns Pink With The Sexiest Ingredient, A Juicy Strawberry. The Scent That Makes You Unlock The Party. The Scent. New Strawberry Craze. A Sultry Strawberry, 100% Naturally Extracted Effortlessly Melts Into Head-Turning Sensual Jasmine. A Vibey Reinterpretation Of Black Opium’S Coffee-Floral Signature Notes. A True-To-Taste Smell, As Seductive As It Is Delicious. The Reflection Of The New Black Opium Woman: Magnetic, Confident, Main Character Energy. The Bottle. New Bolder &amp; Sexier It-Design. The Signature Black Opium Bottle Takes On New Daring Shape And Shade. A Dark Pink Lacquered Tone Contrasting With A Powerful Black Core. Cassandre At Heart. Sharp Lines, New Transparency, Modern And Unapologetically Cool. The Edgiest Confidence Booster Accessory. Pink Is The New Black.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-pink-glaze-edp-30ml",
+      "source_price": 182,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-pink-glaze-edp-30ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium Pink Glaze EDP 30ml",
+          "size": "30ml",
+          "price": 182,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045759-0.jpg?v=1791237519"
+        }
+      ]
+    },
+    {
       "brand": "Parfums De Marly",
       "name": "Parfums de Marly Haltane EDP 75ml",
       "size": "75ml",
@@ -117370,6 +117689,34 @@
           "price": 789.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/amouage-outlands.jpg?v=1784255427"
+        }
+      ]
+    },
+    {
+      "brand": "Parfums De Marly",
+      "name": "Eragon by Parfums De Marly 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 789.99,
+      "price_per_100ml": 789.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/parfums-de-marly-eragon.png?v=1791251640",
+      "description": "Eragon by Parfums De Marly 100ml Extrait De Parfum Spray Eragon Extrait de Parfum reveals an audacious olfactory signature where rich patchouli, vibrant cinnamon, and smooth vanilla blend into a deep, ambery, and spicy trail. The creative source. Intensely warm and sensual, the fragrance captures the rhythm of the skin with the grandeur of Haute Parfumerie — an olfactory tribute to power, creativity, and the enduring legacy of the Sun King, Louis XIV. Designer: Parfums De Marly Year Introduced: 2025 Type: Extrait De Parfum Category: Unisex Fragrance Notes: Eragon is an opulent amber spicy fragrance from the Les Extraits collection, where vibrant spices meet rich woods and sensual leather. Sparkling bergamot, mandarin and pink pepper create a bright opening before cinnamon and aromatic davana add warmth and intrigue. Bold yet refined, Eragon is crafted for those who appreciate depth and lasting sophistication. As the fragrance evolves, patchouli, vanilla and tonka bean create a smooth, luxurious foundation, while leather and cypriol add texture and intensity. Rich, elegant and unmistakably modern, Eragon leaves a powerful impression that lingers long after application. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/eragon-by-parfums-de-marly-100ml-extrait-de-parfum",
+      "source_price": 789.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/eragon-by-parfums-de-marly-100ml-extrait-de-parfum",
+          "brand": "Parfums De Marly",
+          "name": "Eragon by Parfums De Marly 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 789.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/parfums-de-marly-eragon.png?v=1791251640"
         }
       ]
     },
