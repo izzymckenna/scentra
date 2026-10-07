@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T09:50:21.853Z",
-  "count": 3560,
+  "generated_at": "2026-10-07T09:54:29.549Z",
+  "count": 3570,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
@@ -6286,6 +6286,34 @@
           "price": 34.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bbw-mist-if-you-musk.png?v=1752636651"
+        }
+      ]
+    },
+    {
+      "brand": "Christina Aguilera",
+      "name": "By Night by Christina Aguilera 236ml Fragrance Mist",
+      "size": "236ml",
+      "size_ml": 236,
+      "price": 34.99,
+      "price_per_100ml": 14.83,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/christina-aguilera-by-night-mist.png?v=1530226060",
+      "description": "By Night by Christina Aguilera 236ml Fine Fragrance Mist Spray for Women International recording artist Christina Aguilera introduces a new, seductive scent, Christina Aguilera 'By Night'. An expression of sensuality and femininity, the fragrance captures the experience of a woman pampering herself in anticipation of a special night. Designer: Christina Aguilera Year Introduced: 2009 Type: Fragrance Mist Category: Women Fragrance Notes: Christina Aguilera 'By Night' is a seductive fragrance with a hint of playfulness. An oriental fruity blend, the scent marries warmth and intensity for a sensual appeal, with sweetness for femininity. The fragrance opens with notes of tangerine, red apple and freesia, enhanced by sensual elements of aphrodisia like almond. The heart of the scent and sweet vanilla flower is punctuated by flirty peach and may blossom. The base exudes warmth through ambery notes and black vanilla, unleashing a provocative character. ** Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/by-night-by-christina-aguilera-236ml-fragrance-mist",
+      "source_price": 34.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/by-night-by-christina-aguilera-236ml-fragrance-mist",
+          "brand": "Christina Aguilera",
+          "name": "By Night by Christina Aguilera 236ml Fragrance Mist",
+          "size": "236ml",
+          "price": 34.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/christina-aguilera-by-night-mist.png?v=1530226060"
         }
       ]
     },
@@ -12635,46 +12663,18 @@
       ]
     },
     {
-      "brand": "Davidoff",
-      "name": "Davidoff Cool Water Reborn For Men Eau De Toilette 125ml",
-      "size": "125ml",
-      "size_ml": 125,
-      "price": 44.99,
-      "price_per_100ml": 35.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/115175/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/115175/davidoff-cool-water-reborn-for-men-eau-de-toilette-125ml",
-      "source_price": 44.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/115175/davidoff-cool-water-reborn-for-men-eau-de-toilette-125ml",
-          "brand": "Davidoff",
-          "name": "Davidoff Cool Water Reborn For Men Eau De Toilette 125ml",
-          "size": "125ml",
-          "price": 44.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/115175/F2D_200.jpg"
-        }
-      ]
-    },
-    {
       "brand": "Guess",
       "name": "Guess Dare Homme EDT Spray 100ml",
       "size": "100ml",
       "size_ml": 100,
-      "price": 36,
-      "price_per_100ml": 36,
+      "price": 35,
+      "price_per_100ml": 35,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/GUESSDAREHOMME100MLEDTSPRAY.png?v=1677116460",
       "description": "Guess Dare for Men by Guess is a Woody Spicy fragrance for men. Guess Dare for Men was launched in 2016. The nose behind this fragrance is Jacques Huclier. Top notes are Juniper Berries, White Pepper and Bergamot; Middle notes are Jasmine, Geranium and Cashmere Wood; Base notes are Cedar, Musk and Patchouli.",
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/guess-dare-homme-edt-spray-100ml",
-      "source_price": 36,
+      "source_price": 35,
       "source_count": 3,
       "sources": [
         {
@@ -12684,7 +12684,7 @@
           "brand": "Guess",
           "name": "Guess Dare Homme EDT Spray 100ml",
           "size": "100ml",
-          "price": 36,
+          "price": 35,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/GUESSDAREHOMME100MLEDTSPRAY.png?v=1677116460"
         },
@@ -12709,6 +12709,84 @@
           "price": 36,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/GUESSDAREHOMME100MLEDTSPRAY.png?v=1677116460"
+        }
+      ]
+    },
+    {
+      "brand": "Guess",
+      "name": "Guess Girl Belle EDT Spray 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 35,
+      "price_per_100ml": 35,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/Guess-Girl-Belle-100.png?v=1677116511",
+      "description": "Guess Girl Belle by Guess is a Floral Fruity fragrance for women. Guess Girl Belle was launched in 2013. Top notes are Wild berries and Champagne; Middle notes are Violet, Peony and Jasmine; Base notes are Musk, Vanilla and Australian Sandalwood.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/guess-girl-belle-edt-spray-100ml",
+      "source_price": 35,
+      "source_count": 3,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/guess-girl-belle-edt-spray-100ml",
+          "brand": "Guess",
+          "name": "Guess Girl Belle EDT Spray 100ml",
+          "size": "100ml",
+          "price": 35,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/Guess-Girl-Belle-100.png?v=1677116511"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/guess-girl-belle-edt-spray-100ml?_pos=5&_psq=Guess&_psid=86592b520&_ss=e",
+          "brand": "Guess",
+          "name": "Guess Girl Belle EDT Spray 100ml",
+          "size": "100ml",
+          "price": 38,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/Guess-Girl-Belle-100.png?v=1677116511"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/guess-girl-belle-edt-spray-100ml?_pos=4&_psq=Guess&_psid=dd3460ba1&_ss=e",
+          "brand": "Guess",
+          "name": "Guess Girl Belle EDT Spray 100ml",
+          "size": "100ml",
+          "price": 38,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/Guess-Girl-Belle-100.png?v=1677116511"
+        }
+      ]
+    },
+    {
+      "brand": "Davidoff",
+      "name": "Davidoff Cool Water Reborn For Men Eau De Toilette 125ml",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 44.99,
+      "price_per_100ml": 35.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/115175/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/115175/davidoff-cool-water-reborn-for-men-eau-de-toilette-125ml",
+      "source_price": 44.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/115175/davidoff-cool-water-reborn-for-men-eau-de-toilette-125ml",
+          "brand": "Davidoff",
+          "name": "Davidoff Cool Water Reborn For Men Eau De Toilette 125ml",
+          "size": "125ml",
+          "price": 44.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/115175/F2D_200.jpg"
         }
       ]
     },
@@ -13050,56 +13128,6 @@
           "price": 19,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/49915/F2D_200.jpg"
-        }
-      ]
-    },
-    {
-      "brand": "Guess",
-      "name": "Guess Girl Belle EDT Spray 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 38,
-      "price_per_100ml": 38,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/Guess-Girl-Belle-100.png?v=1677116511",
-      "description": "Guess Girl Belle by Guess is a Floral Fruity fragrance for women. Guess Girl Belle was launched in 2013. Top notes are Wild berries and Champagne; Middle notes are Violet, Peony and Jasmine; Base notes are Musk, Vanilla and Australian Sandalwood.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/guess-girl-belle-edt-spray-100ml",
-      "source_price": 38,
-      "source_count": 3,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/guess-girl-belle-edt-spray-100ml",
-          "brand": "Guess",
-          "name": "Guess Girl Belle EDT Spray 100ml",
-          "size": "100ml",
-          "price": 38,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/Guess-Girl-Belle-100.png?v=1677116511"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/guess-girl-belle-edt-spray-100ml?_pos=5&_psq=Guess&_psid=86592b520&_ss=e",
-          "brand": "Guess",
-          "name": "Guess Girl Belle EDT Spray 100ml",
-          "size": "100ml",
-          "price": 38,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/Guess-Girl-Belle-100.png?v=1677116511"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/guess-girl-belle-edt-spray-100ml?_pos=4&_psq=Guess&_psid=dd3460ba1&_ss=e",
-          "brand": "Guess",
-          "name": "Guess Girl Belle EDT Spray 100ml",
-          "size": "100ml",
-          "price": 38,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/Guess-Girl-Belle-100.png?v=1677116511"
         }
       ]
     },
@@ -16402,6 +16430,106 @@
       ]
     },
     {
+      "brand": "Guess",
+      "name": "Guess Gold Womens EDP 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 35,
+      "price_per_100ml": 46.67,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/guessgoldwomenwomanfemmeedp75ml.png?v=1677116494",
+      "description": "Guess Gold by Guess is a Floral Fruity fragrance for women. Guess Gold was launched in 2007. The nose behind this fragrance is Claudette Belnavis. Top notes are Pineapple, Apple and Lemon; Middle notes are Jasmine, Hyacinth, Water Lily and Rose; Base notes are Amber, Vetiver and Sandalwood.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/guess-gold-womens-edp-75ml",
+      "source_price": 35,
+      "source_count": 3,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/guess-gold-womens-edp-75ml",
+          "brand": "Guess",
+          "name": "Guess Gold Womens EDP 75ml",
+          "size": "75ml",
+          "price": 35,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/guessgoldwomenwomanfemmeedp75ml.png?v=1677116494"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/guess-gold-womens-edp-75ml?_pos=3&_psq=Guess&_psid=86592b520&_ss=e",
+          "brand": "Guess",
+          "name": "Guess Gold Womens EDP 75ml",
+          "size": "75ml",
+          "price": 38,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/guessgoldwomenwomanfemmeedp75ml.png?v=1677116494"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/guess-gold-womens-edp-75ml?_pos=2&_psq=Guess&_psid=dd3460ba1&_ss=e",
+          "brand": "Guess",
+          "name": "Guess Gold Womens EDP 75ml",
+          "size": "75ml",
+          "price": 38,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/guessgoldwomenwomanfemmeedp75ml.png?v=1677116494"
+        }
+      ]
+    },
+    {
+      "brand": "Guess",
+      "name": "Guess by Guess EDP 75ml for Women",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 35,
+      "price_per_100ml": 46.67,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/2_a8b5d44d-566a-4c72-a084-e73ac546ec6a.jpg?v=1655084017",
+      "description": "GUESS is all about a sexy, young, adventurous attitude that combines the free spirited playfulness of California with the sophistication and glamour of the Mediterranean. GUESS Woman captures the radiance of a glamorous free spirit with a sexy, feminine blend of juicy berries, flowers and musks. Fragrance Notes: GUESS Woman opens with luscious notes of green apple and citrus. The heart is an allluring bouquet of dewy freesia, lily of the valley and peach. Warm woods, amber and skin musks linger in the dry down.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/guess-by-guess-edp-75ml-for-women",
+      "source_price": 35,
+      "source_count": 3,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/guess-by-guess-edp-75ml-for-women",
+          "brand": "Guess",
+          "name": "Guess by Guess EDP 75ml for Women",
+          "size": "75ml",
+          "price": 35,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/2_a8b5d44d-566a-4c72-a084-e73ac546ec6a.jpg?v=1655084017"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/guess-by-guess-edp-75ml-for-women?_pos=4&_psq=Guess&_psid=86592b520&_ss=e",
+          "brand": "Guess",
+          "name": "Guess by Guess EDP 75ml for Women",
+          "size": "75ml",
+          "price": 43,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/2_a8b5d44d-566a-4c72-a084-e73ac546ec6a.jpg?v=1655084017"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/guess-by-guess-edp-75ml-for-women?_pos=3&_psq=Guess&_psid=dd3460ba1&_ss=e",
+          "brand": "Guess",
+          "name": "Guess by Guess EDP 75ml for Women",
+          "size": "75ml",
+          "price": 43,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/2_a8b5d44d-566a-4c72-a084-e73ac546ec6a.jpg?v=1655084017"
+        }
+      ]
+    },
+    {
       "brand": "Victoria's Secret",
       "name": "VS LOVE EDP SPRAY 50ml",
       "size": "50ml",
@@ -18333,56 +18461,6 @@
       ]
     },
     {
-      "brand": "Guess",
-      "name": "Guess Gold Womens EDP 75ml",
-      "size": "75ml",
-      "size_ml": 75,
-      "price": 38,
-      "price_per_100ml": 50.67,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/guessgoldwomenwomanfemmeedp75ml.png?v=1677116494",
-      "description": "Guess Gold by Guess is a Floral Fruity fragrance for women. Guess Gold was launched in 2007. The nose behind this fragrance is Claudette Belnavis. Top notes are Pineapple, Apple and Lemon; Middle notes are Jasmine, Hyacinth, Water Lily and Rose; Base notes are Amber, Vetiver and Sandalwood.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/guess-gold-womens-edp-75ml",
-      "source_price": 38,
-      "source_count": 3,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/guess-gold-womens-edp-75ml",
-          "brand": "Guess",
-          "name": "Guess Gold Womens EDP 75ml",
-          "size": "75ml",
-          "price": 38,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/guessgoldwomenwomanfemmeedp75ml.png?v=1677116494"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/guess-gold-womens-edp-75ml?_pos=3&_psq=Guess&_psid=86592b520&_ss=e",
-          "brand": "Guess",
-          "name": "Guess Gold Womens EDP 75ml",
-          "size": "75ml",
-          "price": 38,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/guessgoldwomenwomanfemmeedp75ml.png?v=1677116494"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/guess-gold-womens-edp-75ml?_pos=2&_psq=Guess&_psid=dd3460ba1&_ss=e",
-          "brand": "Guess",
-          "name": "Guess Gold Womens EDP 75ml",
-          "size": "75ml",
-          "price": 38,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/guessgoldwomenwomanfemmeedp75ml.png?v=1677116494"
-        }
-      ]
-    },
-    {
       "brand": "Victoria's Secret",
       "name": "VS LOVE IS HEAVENLY EDP Spr 50ml",
       "size": "50ml",
@@ -19771,56 +19849,6 @@
           "price": 59.99,
           "currency": "NZD",
           "image_url": null
-        }
-      ]
-    },
-    {
-      "brand": "Guess",
-      "name": "Guess by Guess EDP 75ml for Women",
-      "size": "75ml",
-      "size_ml": 75,
-      "price": 43,
-      "price_per_100ml": 57.33,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/2_a8b5d44d-566a-4c72-a084-e73ac546ec6a.jpg?v=1655084017",
-      "description": "GUESS is all about a sexy, young, adventurous attitude that combines the free spirited playfulness of California with the sophistication and glamour of the Mediterranean. GUESS Woman captures the radiance of a glamorous free spirit with a sexy, feminine blend of juicy berries, flowers and musks. Fragrance Notes: GUESS Woman opens with luscious notes of green apple and citrus. The heart is an allluring bouquet of dewy freesia, lily of the valley and peach. Warm woods, amber and skin musks linger in the dry down.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/guess-by-guess-edp-75ml-for-women",
-      "source_price": 43,
-      "source_count": 3,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/guess-by-guess-edp-75ml-for-women",
-          "brand": "Guess",
-          "name": "Guess by Guess EDP 75ml for Women",
-          "size": "75ml",
-          "price": 43,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/2_a8b5d44d-566a-4c72-a084-e73ac546ec6a.jpg?v=1655084017"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/guess-by-guess-edp-75ml-for-women?_pos=4&_psq=Guess&_psid=86592b520&_ss=e",
-          "brand": "Guess",
-          "name": "Guess by Guess EDP 75ml for Women",
-          "size": "75ml",
-          "price": 43,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/2_a8b5d44d-566a-4c72-a084-e73ac546ec6a.jpg?v=1655084017"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/guess-by-guess-edp-75ml-for-women?_pos=3&_psq=Guess&_psid=dd3460ba1&_ss=e",
-          "brand": "Guess",
-          "name": "Guess by Guess EDP 75ml for Women",
-          "size": "75ml",
-          "price": 43,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/2_a8b5d44d-566a-4c72-a084-e73ac546ec6a.jpg?v=1655084017"
         }
       ]
     },
@@ -29393,6 +29421,34 @@
       ]
     },
     {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret Tease Heartbreaker EDP Spray 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 70,
+      "price_per_100ml": 70,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaseheartbreakeredpspray100.png?v=1676603339",
+      "description": "Victoria’s Secret Tease Heartbreaker EDP Spray 100ml Discover irresistible charm with Victoria’s Secret Tease Heartbreaker Eau de Parfum Spray. Presented in a luxurious 100ml bottle, this fragrance captivates with playful elegance, perfect for the modern woman seeking a scent that’s fresh, confident, and unforgettable. Tease Heartbreaker opens with vibrant notes of electric star fruit, offering a juicy and refreshing sensation. At its heart lies an enchanting blend of purple lotus and delicate whipped cream, creating a soft, sensual touch. A base of warm tonka bean and exotic vanilla adds depth, ensuring a captivating trail that lasts throughout the day. Ideal for daytime wear, romantic evenings, or whenever you want to leave a dazzling impression, Tease Heartbreaker is your ultimate fragrance statement. Order online today and experience the flirty sophistication of Victoria’s Secret Tease Heartbreaker—a fragrance designed to turn heads and win hearts.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-heartbreaker-edp-spr-100ml-1",
+      "source_price": 70,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-heartbreaker-edp-spr-100ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Tease Heartbreaker EDP Spray 100ml",
+          "size": "100ml",
+          "price": 70,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaseheartbreakeredpspray100.png?v=1676603339"
+        }
+      ]
+    },
+    {
       "brand": "Calvin Klein",
       "name": "Calvin Klein Everyone EDP 100ml",
       "size": "100ml",
@@ -34435,34 +34491,6 @@
       ]
     },
     {
-      "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret Tease Heartbreaker EDP Spray 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 79.99,
-      "price_per_100ml": 79.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaseheartbreakeredpspray100.png?v=1676603339",
-      "description": "Victoria’s Secret Tease Heartbreaker EDP Spray 100ml Discover irresistible charm with Victoria’s Secret Tease Heartbreaker Eau de Parfum Spray. Presented in a luxurious 100ml bottle, this fragrance captivates with playful elegance, perfect for the modern woman seeking a scent that’s fresh, confident, and unforgettable. Tease Heartbreaker opens with vibrant notes of electric star fruit, offering a juicy and refreshing sensation. At its heart lies an enchanting blend of purple lotus and delicate whipped cream, creating a soft, sensual touch. A base of warm tonka bean and exotic vanilla adds depth, ensuring a captivating trail that lasts throughout the day. Ideal for daytime wear, romantic evenings, or whenever you want to leave a dazzling impression, Tease Heartbreaker is your ultimate fragrance statement. Order online today and experience the flirty sophistication of Victoria’s Secret Tease Heartbreaker—a fragrance designed to turn heads and win hearts.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-heartbreaker-edp-spr-100ml-1",
-      "source_price": 79.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-heartbreaker-edp-spr-100ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Tease Heartbreaker EDP Spray 100ml",
-          "size": "100ml",
-          "price": 79.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaseheartbreakeredpspray100.png?v=1676603339"
-        }
-      ]
-    },
-    {
       "brand": "Mykonos",
       "name": "Aphrodite by Mykonos 100ml Extrait De Parfum",
       "size": "100ml",
@@ -36342,6 +36370,90 @@
           "price": 80,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/download_8_12f449b4-c45e-4a54-8e77-532503109363.jpg?v=1728962962"
+        }
+      ]
+    },
+    {
+      "brand": "Miu Miu",
+      "name": "MIU MIU TWIST EDP Spray 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 80,
+      "price_per_100ml": 80,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_4_fe35a049-1db3-49b2-bd7d-a8428015f98b.jpg?v=1683844499",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/miu-miu-twist-edp-spray-100ml",
+      "source_price": 80,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/miu-miu-twist-edp-spray-100ml",
+          "brand": "Miu Miu",
+          "name": "MIU MIU TWIST EDP Spray 100ml",
+          "size": "100ml",
+          "price": 80,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_4_fe35a049-1db3-49b2-bd7d-a8428015f98b.jpg?v=1683844499"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret Bombshell Paris EDP Spray 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 80,
+      "price_per_100ml": 80,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretbombshellparisedpspray100.png?v=1676603178",
+      "description": "Victoria’s Secret Bombshell Paris EDP Spray 100ml Experience the captivating charm of Paris with Victoria’s Secret Bombshell Paris Eau de Parfum Spray 100ml. Designed for women who embrace elegance, confidence, and sophistication, this luxurious fragrance embodies the romance and glamour of the City of Lights. Opening with sparkling notes of French Cypress, luscious Night Blooming Jasmine, and enchanting White Cedarwood, Bombshell Paris creates an alluring, unforgettable scent trail. Ideal for both daytime elegance and evening allure, it seamlessly transitions from casual outings to special occasions. Presented in a chic, stylish bottle reminiscent of Parisian sophistication, it makes an exquisite addition to your perfume collection or a stunning gift for someone special. Order your Victoria’s Secret Bombshell Paris EDP Spray 100ml now and indulge in the irresistible essence of Parisian glamour and timeless femininity.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-bombshell-paris-edp-spr-100ml-1",
+      "source_price": 80,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-bombshell-paris-edp-spr-100ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Bombshell Paris EDP Spray 100ml",
+          "size": "100ml",
+          "price": 80,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretbombshellparisedpspray100.png?v=1676603178"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret Heavenly Summer EDP Spray 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 80,
+      "price_per_100ml": 80,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecret.heavenlysummeredp100.png?v=1676603160",
+      "description": "Victoria’s Secret Heavenly Summer EDP Spray 100ml Experience the essence of sunlit confidence with Victoria’s Secret Heavenly Summer EDP Spray 100ml. This limited-edition fragrance captures the vibrant spirit of summer, blending effortlessly into your daily routine while leaving a lasting impression. Heavenly Summer opens with fresh, uplifting notes of bergamot and sparkling citrus, complemented by a delicate heart of lush florals and sun-kissed jasmine petals. Subtle undertones of creamy sandalwood and warm musk lend a sensual depth, creating a fragrance that is both sophisticated and irresistibly feminine. Packaged in an elegant, travel-friendly 100ml bottle, this Eau de Parfum spray is ideal for day-to-night wear, offering a refreshing burst of summer elegance with every spritz. Embrace your inner glow and radiate confidence with Victoria’s Secret Heavenly Summer—your ultimate fragrance companion for the warm, carefree days ahead. Order yours today and indulge in the perfect summer fragrance experience.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-heavenly-summer-edp-spr-100ml",
+      "source_price": 80,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-heavenly-summer-edp-spr-100ml",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Heavenly Summer EDP Spray 100ml",
+          "size": "100ml",
+          "price": 80,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecret.heavenlysummeredp100.png?v=1676603160"
         }
       ]
     },
@@ -40643,6 +40755,34 @@
       ]
     },
     {
+      "brand": "Jimmy Choo",
+      "name": "Jimmy Choo Man Extreme 200ml EDP",
+      "size": "200ml",
+      "size_ml": 200,
+      "price": 179.99,
+      "price_per_100ml": 90,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jimmy-choo-man-extreme-200ml_988699dd-6992-4a53-b9e4-b169df7f83c3.png?v=1791340749",
+      "description": "Jimmy Choo Man Extreme by Jimmy Choo 200ml Eau De Parfum Spray for Men Jimmy Choo Man Extreme is a potent Eau de Parfum signifying adventure and freedom. A fragrance for men who are strong minded leaders, masters of their own destiny with a hunger for new experiences and the thrill of the great outdoors. Designer: Jimmy Choo Year Introduced: 2024 Type: EDP Category: Men Fragrance Notes: A bold, energetic and thrilling fougere that takes things to the next level. It is fiery at its core, with the intense piquancy of red thyme and black pepper making up its top notes, which are bolstered by a heart that combines an aromatic accord of fresh and crisp geranium fused with clary sage. Its dry down is made up of vibrant amber woods, tonka beans and punchy vetiver, resulting in a subtly alluring masculinity that lasts. This edition is an update to the iconic original square-shaped, silver capped flask, the new version is cast in a vibrant scarlet lacquer. Jimmy Choo Man Extreme is printed in a flash of silver writing, a sensual red printed leather lid houses the bold scent contained within. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/jimmy-choo-man-extreme-200ml-edp",
+      "source_price": 179.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/jimmy-choo-man-extreme-200ml-edp",
+          "brand": "Jimmy Choo",
+          "name": "Jimmy Choo Man Extreme 200ml EDP",
+          "size": "200ml",
+          "price": 179.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jimmy-choo-man-extreme-200ml_988699dd-6992-4a53-b9e4-b169df7f83c3.png?v=1791340749"
+        }
+      ]
+    },
+    {
       "brand": "Mont Blanc",
       "name": "Individuel by Mont Blanc 75ml EDT for Men",
       "size": "75ml",
@@ -43223,34 +43363,6 @@
     },
     {
       "brand": "Miu Miu",
-      "name": "MIU MIU TWIST EDP Spray 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 99,
-      "price_per_100ml": 99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_4_fe35a049-1db3-49b2-bd7d-a8428015f98b.jpg?v=1683844499",
-      "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/miu-miu-twist-edp-spray-100ml",
-      "source_price": 99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/miu-miu-twist-edp-spray-100ml",
-          "brand": "Miu Miu",
-          "name": "MIU MIU TWIST EDP Spray 100ml",
-          "size": "100ml",
-          "price": 99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_4_fe35a049-1db3-49b2-bd7d-a8428015f98b.jpg?v=1683844499"
-        }
-      ]
-    },
-    {
-      "brand": "Miu Miu",
       "name": "Miu Miu EDP 100ml",
       "size": "100ml",
       "size_ml": 100,
@@ -43279,34 +43391,6 @@
     },
     {
       "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret Bombshell Paris EDP Spray 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 99,
-      "price_per_100ml": 99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretbombshellparisedpspray100.png?v=1676603178",
-      "description": "Victoria’s Secret Bombshell Paris EDP Spray 100ml Experience the captivating charm of Paris with Victoria’s Secret Bombshell Paris Eau de Parfum Spray 100ml. Designed for women who embrace elegance, confidence, and sophistication, this luxurious fragrance embodies the romance and glamour of the City of Lights. Opening with sparkling notes of French Cypress, luscious Night Blooming Jasmine, and enchanting White Cedarwood, Bombshell Paris creates an alluring, unforgettable scent trail. Ideal for both daytime elegance and evening allure, it seamlessly transitions from casual outings to special occasions. Presented in a chic, stylish bottle reminiscent of Parisian sophistication, it makes an exquisite addition to your perfume collection or a stunning gift for someone special. Order your Victoria’s Secret Bombshell Paris EDP Spray 100ml now and indulge in the irresistible essence of Parisian glamour and timeless femininity.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-bombshell-paris-edp-spr-100ml-1",
-      "source_price": 99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-bombshell-paris-edp-spr-100ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Bombshell Paris EDP Spray 100ml",
-          "size": "100ml",
-          "price": 99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretbombshellparisedpspray100.png?v=1676603178"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
       "name": "Victoria’s Secret Bombshell Seduction EDP Spray 100ml",
       "size": "100ml",
       "size_ml": 100,
@@ -43330,34 +43414,6 @@
           "price": 99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretbombshellseductionedp100.png?v=1676603223"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret Heavenly Summer EDP Spray 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 99,
-      "price_per_100ml": 99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecret.heavenlysummeredp100.png?v=1676603160",
-      "description": "Victoria’s Secret Heavenly Summer EDP Spray 100ml Experience the essence of sunlit confidence with Victoria’s Secret Heavenly Summer EDP Spray 100ml. This limited-edition fragrance captures the vibrant spirit of summer, blending effortlessly into your daily routine while leaving a lasting impression. Heavenly Summer opens with fresh, uplifting notes of bergamot and sparkling citrus, complemented by a delicate heart of lush florals and sun-kissed jasmine petals. Subtle undertones of creamy sandalwood and warm musk lend a sensual depth, creating a fragrance that is both sophisticated and irresistibly feminine. Packaged in an elegant, travel-friendly 100ml bottle, this Eau de Parfum spray is ideal for day-to-night wear, offering a refreshing burst of summer elegance with every spritz. Embrace your inner glow and radiate confidence with Victoria’s Secret Heavenly Summer—your ultimate fragrance companion for the warm, carefree days ahead. Order yours today and indulge in the perfect summer fragrance experience.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-heavenly-summer-edp-spr-100ml",
-      "source_price": 99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-heavenly-summer-edp-spr-100ml",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Heavenly Summer EDP Spray 100ml",
-          "size": "100ml",
-          "price": 99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecret.heavenlysummeredp100.png?v=1676603160"
         }
       ]
     },
@@ -44496,6 +44552,168 @@
           "price": 50,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/oscaralibi_856x1284_0bca8d61-f46f-4751-8148-9cf8ccadddd6.jpg?v=1751499076"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret Love Is Heavenly EDP Spray 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 50,
+      "price_per_100ml": 100,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretloveisheavenlysprayedp50.png?v=1676603193",
+      "description": "Victoria’s Secret Love Is Heavenly EDP Spray 50ml Embrace pure romance and irresistible femininity with Victoria’s Secret Love Is Heavenly Eau de Parfum Spray 50ml. Crafted for the modern woman who cherishes elegance and confidence, this fragrance captures the essence of radiant love. Opening notes of sparkling mandarin, lush blackberry, and delicate kiwi blossom create an alluring first impression. At its heart, soft water lily, freesia, and orchid bloom harmoniously, enveloping you in a fresh, floral bouquet. Finally, sensual musk, creamy sandalwood, and warm amber linger gently on your skin, leaving an enticing and unforgettable impression. Encased in a beautifully designed 50ml spray bottle, this fragrance is perfect for daily wear, special occasions, or gifting to someone special. Elevate your fragrance collection today—experience the heavenly charm of Victoria’s Secret Love Is Heavenly EDP Spray and let your beauty blossom.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-love-is-heavenly-edp-spr-50ml-1",
+      "source_price": 50,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-love-is-heavenly-edp-spr-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Love Is Heavenly EDP Spray 50ml",
+          "size": "50ml",
+          "price": 50,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretloveisheavenlysprayedp50.png?v=1676603193"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret Love Me EDP Spray 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 50,
+      "price_per_100ml": 100,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretlovemeedp50spray.png?v=1676603265",
+      "description": "Victoria’s Secret Love Me EDP Spray 50ml – Captivating Fragrance for Every Occasion Indulge in the irresistible charm of Victoria’s Secret Love Me Eau de Parfum Spray, a fragrance designed to captivate and celebrate your femininity. Presented in an elegant 50ml bottle, this perfume is the perfect size for travel, gifting, or everyday indulgence. Love Me EDP opens with romantic notes of neroli and delicate French narcissus, unfolding into a sensual heart of sugared amber and creamy vanilla. Its sophisticated yet playful blend makes it versatile enough for daytime wear or glamorous evenings out. Crafted for women who love to express their individuality, this fragrance offers lasting freshness and allure. The stunning, luxurious bottle design also adds a touch of glamour to your fragrance collection. Order your Victoria’s Secret Love Me EDP Spray 50ml today and embrace a scent that whispers elegance, romance, and confidence.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-love-me-edp-spray-50ml-1",
+      "source_price": 50,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-love-me-edp-spray-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Love Me EDP Spray 50ml",
+          "size": "50ml",
+          "price": 50,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretlovemeedp50spray.png?v=1676603265"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-love-edp-spray-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Love EDP Spray 50ml",
+          "size": "50ml",
+          "price": 80,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretloveedpspray50.png?v=1676603146"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret Rapture Cologne Spray 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 50,
+      "price_per_100ml": 100,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretrapturecolognespray50.png?v=1676603281",
+      "description": "Victoria’s Secret Rapture Cologne Spray 50ml Indulge your senses with the luxurious and captivating scent of Victoria's Secret Rapture Cologne Spray. Available in a convenient 50ml bottle, this sophisticated fragrance is perfect for everyday elegance or special occasions. Rapture opens with enchanting notes of orange blossom and jasmine, blending seamlessly with warm amber, musk, and sultry vanilla undertones. The result is a timeless, sensual fragrance that subtly enhances your natural allure and confidence. Packaged in a stylish, travel-friendly spray bottle, it's an ideal choice for moments when elegance and lasting impression matter most. Gift yourself or someone special this irresistible scent, reflecting sophistication and femininity. Shop now to experience the classic charm and lasting freshness of Victoria's Secret Rapture Cologne Spray 50ml, and let this alluring fragrance become your signature scent today.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-rapture-cologne-spray-50ml-1",
+      "source_price": 50,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-rapture-cologne-spray-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Rapture Cologne Spray 50ml",
+          "size": "50ml",
+          "price": 50,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretrapturecolognespray50.png?v=1676603281"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret Very Sexy Now 2016 EDP Spray 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 50,
+      "price_per_100ml": 100,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretverysexynow2016edpspray50.png?v=1676602964",
+      "description": "Victoria's Secret Very Sexy Now 2016 EDP Spray 50ml Discover the allure of Victoria's Secret Very Sexy Now 2016 Eau de Parfum Spray, a fragrance designed to captivate and inspire confidence. Encased in a sleek 50ml bottle, this perfume perfectly blends tropical freshness with seductive sophistication, embodying the spirit of vibrant summer nights. Opening with refreshing notes of coconut water and tropical guava, it effortlessly transitions into lush florals of mariposa flower and exotic orchid petals. Warm base notes of sandalwood and vanilla add depth and irresistible sensuality, lingering softly on your skin throughout the day. Ideal for women seeking a fragrance that expresses femininity, elegance, and playful energy. Perfect for both daytime adventures and romantic evenings, this limited-edition scent remains a beloved collector's item. Enhance your fragrance collection with Victoria's Secret Very Sexy Now 2016—experience the luxury, charm, and confidence of this unforgettable perfume today.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-very-sexy-now-2016-edp-spr-50ml-1",
+      "source_price": 50,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-very-sexy-now-2016-edp-spr-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret Very Sexy Now 2016 EDP Spray 50ml",
+          "size": "50ml",
+          "price": 50,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretverysexynow2016edpspray50.png?v=1676602964"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret Tease Rebel EDP Spray 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 50,
+      "price_per_100ml": 100,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaserebeledpspray50.png?v=1676603383",
+      "description": "Victoria’s Secret Tease Rebel EDP Spray 50ml Discover your bold and rebellious side with Victoria’s Secret Tease Rebel Eau de Parfum Spray 50ml. This captivating fragrance combines sensuality, confidence, and playful allure, making it your ultimate accessory for any occasion. Tease Rebel opens with vibrant notes of violet leaf and wild rose, beautifully balanced with a tempting blend of white leather and musk. The result is a daring yet feminine fragrance that will empower you all day long. Perfectly sized at 50ml, this luxurious spray fits effortlessly into your handbag, ensuring you're always ready to refresh your scent. Whether you're heading out for a night on the town or enjoying a casual day, Tease Rebel delivers lasting freshness and irresistible charm. Indulge yourself or gift this iconic fragrance to someone special—experience the fearless spirit of Victoria’s Secret Tease Rebel today.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-rebel-edp-spray-50ml-1",
+      "source_price": 50,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-rebel-edp-spray-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Tease Rebel EDP Spray 50ml",
+          "size": "50ml",
+          "price": 50,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaserebeledpspray50.png?v=1676603383"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-edp-spray-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Tease EDP Spray 50ml",
+          "size": "50ml",
+          "price": 69,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaseedpspray50.png?v=1676603326"
         }
       ]
     },
@@ -45662,6 +45880,34 @@
           "price": 109,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036465-0.png?v=1758244450"
+        }
+      ]
+    },
+    {
+      "brand": "Versace",
+      "name": "Versace Eros Energy EDP 200ml",
+      "size": "200ml",
+      "size_ml": 200,
+      "price": 219,
+      "price_per_100ml": 109.5,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Versace-Eros-Energy-200ml-EDP-for-Men-8011003890811.jpg?v=1781827706",
+      "description": "Versace Eros Energy EDP 200ml for Men Versace Eros Energy EDP 200ml for Men is a bright woody-citrus Eau de Parfum inspired by Mediterranean energy. Versace’s current product information lists Italian bergamot, Italian red orange, Peruvian lime, Italian green mandarin, grapefruit and Italian lemon at the top; pink pepper, blackcurrant and white amber in the heart; and Indonesian patchouli, musk and oakmoss in the base. This 200ml Eau de Parfum is ideal for established Eros Energy wearers who enjoy vivid citrus-led fragrances with fruit, light spice, soft amber, musk and an earthy mossy base. The large-format bottle suits frequent wear. Buy Versace perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Italian bergamot, Italian red orange, Peruvian lime, Italian green mandarin, grapefruit and Italian lemon. Heart Notes: Pink pepper, blackcurrant and white amber. Base Notes: Indonesian patchouli, musk and oakmoss. Scent Profile Eros Energy opens with an energetic multi-citrus accord before pink pepper, blackcurrant and white amber add contrast. Patchouli, musk and oakmoss create a warm, earthy and clean base. Who Is It For? This Versace men’s fragrance is ideal for customers who enjoy citrus-driven scents with pepper, blackcurrant, amber, patchouli, musk and oakmoss. The 200ml bottle is best suited to frequent wearers and buyers who already know they enjoy Eros Energy. When to Wear Daytime: Work, university, appointments, shopping, travel and outdoor occasions. Evening: Warm-weather dinners, casual social events and relaxed celebrations. Season: Especially well suited to spring, summer and mild New Zealand weather. Occasion: Frequent use and signature fresh-scent wear. Longevity & Sillage As an Eau de Parfum, Eros Energy is designed to combine a vivid citrus opening with a warmer musky and mossy base. Bottle size does not change concentration or performance. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Versace Eros Energy Fragrances to Explore Versace Eros Energy EDP 50ml — the same fragrance in a compact full-size bottle. Versace Eros Energy EDP 100ml — the standard full-size bottle for regular wear. Versace Eros EDT 100ml — a fresh woody Eros interpretation with mint, citrus, apple, aromatic herbs, vanilla and woods. Versace Dylan Blue EDT 100ml — an aromatic Versace fragrance with aquatic notes, citrus, pepper, ambroxan, musk and incense. Similar Designer Fragrances Giorgio Armani Acqua Di Gio Profondo EDP 100ml — an aromatic aquatic alternative. Yves Saint Laurent Y EDT 60ml — a fresh aromatic designer option. Chanel Bleu De Chanel EDT 100ml — an aromatic-woody alternative with citrus, cedar and New Caledonian sandalwood. Explore More Fragrances Browse more Versace perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Versace Fragrance: Eros Energy Size: 200ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Woody / Citrusy Format: Large-format retail spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Versace Eros Energy EDP 200ml retail spray bottle Fragrance Care Tips Apply lightly to pulse points such as the neck, wrists and behind the ears. Avoid rubbing after spraying, as this can affect how the scent develops. Store the bottle upright in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/versace-eros-energy-200ml-edp-men",
+      "source_price": 219,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/versace-eros-energy-200ml-edp-men",
+          "brand": "Versace",
+          "name": "Versace Eros Energy EDP 200ml",
+          "size": "200ml",
+          "price": 219,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Versace-Eros-Energy-200ml-EDP-for-Men-8011003890811.jpg?v=1781827706"
         }
       ]
     },
@@ -47941,101 +48187,6 @@
       ]
     },
     {
-      "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret Love Is Heavenly EDP Spray 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 59,
-      "price_per_100ml": 118,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretloveisheavenlysprayedp50.png?v=1676603193",
-      "description": "Victoria’s Secret Love Is Heavenly EDP Spray 50ml Embrace pure romance and irresistible femininity with Victoria’s Secret Love Is Heavenly Eau de Parfum Spray 50ml. Crafted for the modern woman who cherishes elegance and confidence, this fragrance captures the essence of radiant love. Opening notes of sparkling mandarin, lush blackberry, and delicate kiwi blossom create an alluring first impression. At its heart, soft water lily, freesia, and orchid bloom harmoniously, enveloping you in a fresh, floral bouquet. Finally, sensual musk, creamy sandalwood, and warm amber linger gently on your skin, leaving an enticing and unforgettable impression. Encased in a beautifully designed 50ml spray bottle, this fragrance is perfect for daily wear, special occasions, or gifting to someone special. Elevate your fragrance collection today—experience the heavenly charm of Victoria’s Secret Love Is Heavenly EDP Spray and let your beauty blossom.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-love-is-heavenly-edp-spr-50ml-1",
-      "source_price": 59,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-love-is-heavenly-edp-spr-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Love Is Heavenly EDP Spray 50ml",
-          "size": "50ml",
-          "price": 59,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretloveisheavenlysprayedp50.png?v=1676603193"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret Love Me EDP Spray 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 59,
-      "price_per_100ml": 118,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretlovemeedp50spray.png?v=1676603265",
-      "description": "Victoria’s Secret Love Me EDP Spray 50ml – Captivating Fragrance for Every Occasion Indulge in the irresistible charm of Victoria’s Secret Love Me Eau de Parfum Spray, a fragrance designed to captivate and celebrate your femininity. Presented in an elegant 50ml bottle, this perfume is the perfect size for travel, gifting, or everyday indulgence. Love Me EDP opens with romantic notes of neroli and delicate French narcissus, unfolding into a sensual heart of sugared amber and creamy vanilla. Its sophisticated yet playful blend makes it versatile enough for daytime wear or glamorous evenings out. Crafted for women who love to express their individuality, this fragrance offers lasting freshness and allure. The stunning, luxurious bottle design also adds a touch of glamour to your fragrance collection. Order your Victoria’s Secret Love Me EDP Spray 50ml today and embrace a scent that whispers elegance, romance, and confidence.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-love-me-edp-spray-50ml-1",
-      "source_price": 59,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-love-me-edp-spray-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Love Me EDP Spray 50ml",
-          "size": "50ml",
-          "price": 59,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretlovemeedp50spray.png?v=1676603265"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-love-edp-spray-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Love EDP Spray 50ml",
-          "size": "50ml",
-          "price": 80,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretloveedpspray50.png?v=1676603146"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret Rapture Cologne Spray 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 59,
-      "price_per_100ml": 118,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretrapturecolognespray50.png?v=1676603281",
-      "description": "Victoria’s Secret Rapture Cologne Spray 50ml Indulge your senses with the luxurious and captivating scent of Victoria's Secret Rapture Cologne Spray. Available in a convenient 50ml bottle, this sophisticated fragrance is perfect for everyday elegance or special occasions. Rapture opens with enchanting notes of orange blossom and jasmine, blending seamlessly with warm amber, musk, and sultry vanilla undertones. The result is a timeless, sensual fragrance that subtly enhances your natural allure and confidence. Packaged in a stylish, travel-friendly spray bottle, it's an ideal choice for moments when elegance and lasting impression matter most. Gift yourself or someone special this irresistible scent, reflecting sophistication and femininity. Shop now to experience the classic charm and lasting freshness of Victoria's Secret Rapture Cologne Spray 50ml, and let this alluring fragrance become your signature scent today.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-rapture-cologne-spray-50ml-1",
-      "source_price": 59,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-rapture-cologne-spray-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Rapture Cologne Spray 50ml",
-          "size": "50ml",
-          "price": 59,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretrapturecolognespray50.png?v=1676603281"
-        }
-      ]
-    },
-    {
       "brand": "Vera Wang",
       "name": "Vera Wang Princess Noir Eau de Toilette 50ml",
       "size": "50ml",
@@ -48284,34 +48435,6 @@
           "price": 119,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/DSCN1782.jpg?v=1782691232"
-        }
-      ]
-    },
-    {
-      "brand": "Versace",
-      "name": "Versace Eros Energy EDP 200ml",
-      "size": "200ml",
-      "size_ml": 200,
-      "price": 239,
-      "price_per_100ml": 119.5,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Versace-Eros-Energy-200ml-EDP-for-Men-8011003890811.jpg?v=1781827706",
-      "description": "Versace Eros Energy EDP 200ml for Men Versace Eros Energy EDP 200ml for Men is a bright woody-citrus Eau de Parfum inspired by Mediterranean energy. Versace’s current product information lists Italian bergamot, Italian red orange, Peruvian lime, Italian green mandarin, grapefruit and Italian lemon at the top; pink pepper, blackcurrant and white amber in the heart; and Indonesian patchouli, musk and oakmoss in the base. This 200ml Eau de Parfum is ideal for established Eros Energy wearers who enjoy vivid citrus-led fragrances with fruit, light spice, soft amber, musk and an earthy mossy base. The large-format bottle suits frequent wear. Buy Versace perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Italian bergamot, Italian red orange, Peruvian lime, Italian green mandarin, grapefruit and Italian lemon. Heart Notes: Pink pepper, blackcurrant and white amber. Base Notes: Indonesian patchouli, musk and oakmoss. Scent Profile Eros Energy opens with an energetic multi-citrus accord before pink pepper, blackcurrant and white amber add contrast. Patchouli, musk and oakmoss create a warm, earthy and clean base. Who Is It For? This Versace men’s fragrance is ideal for customers who enjoy citrus-driven scents with pepper, blackcurrant, amber, patchouli, musk and oakmoss. The 200ml bottle is best suited to frequent wearers and buyers who already know they enjoy Eros Energy. When to Wear Daytime: Work, university, appointments, shopping, travel and outdoor occasions. Evening: Warm-weather dinners, casual social events and relaxed celebrations. Season: Especially well suited to spring, summer and mild New Zealand weather. Occasion: Frequent use and signature fresh-scent wear. Longevity & Sillage As an Eau de Parfum, Eros Energy is designed to combine a vivid citrus opening with a warmer musky and mossy base. Bottle size does not change concentration or performance. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Versace Eros Energy Fragrances to Explore Versace Eros Energy EDP 50ml — the same fragrance in a compact full-size bottle. Versace Eros Energy EDP 100ml — the standard full-size bottle for regular wear. Versace Eros EDT 100ml — a fresh woody Eros interpretation with mint, citrus, apple, aromatic herbs, vanilla and woods. Versace Dylan Blue EDT 100ml — an aromatic Versace fragrance with aquatic notes, citrus, pepper, ambroxan, musk and incense. Similar Designer Fragrances Giorgio Armani Acqua Di Gio Profondo EDP 100ml — an aromatic aquatic alternative. Yves Saint Laurent Y EDT 60ml — a fresh aromatic designer option. Chanel Bleu De Chanel EDT 100ml — an aromatic-woody alternative with citrus, cedar and New Caledonian sandalwood. Explore More Fragrances Browse more Versace perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Versace Fragrance: Eros Energy Size: 200ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Woody / Citrusy Format: Large-format retail spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Versace Eros Energy EDP 200ml retail spray bottle Fragrance Care Tips Apply lightly to pulse points such as the neck, wrists and behind the ears. Avoid rubbing after spraying, as this can affect how the scent develops. Store the bottle upright in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/versace-eros-energy-200ml-edp-men",
-      "source_price": 239,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/versace-eros-energy-200ml-edp-men",
-          "brand": "Versace",
-          "name": "Versace Eros Energy EDP 200ml",
-          "size": "200ml",
-          "price": 239,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Versace-Eros-Energy-200ml-EDP-for-Men-8011003890811.jpg?v=1781827706"
         }
       ]
     },
@@ -49025,6 +49148,129 @@
       ]
     },
     {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret Angel Gold EDP Spray 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 60,
+      "price_per_100ml": 120,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretangelgoldedp50.png?v=1676602911",
+      "description": "Victoria’s Secret Angel Gold EDP Spray 50ml Reveal your inner glow with Victoria’s Secret Angel Gold Eau de Parfum Spray 50ml, a fragrance that embodies luxury, femininity, and confidence. Angel Gold captivates with a radiant blend of sparkling bergamot, lush gardenia, and warm musk, creating an irresistible harmony designed to turn heads and leave lasting impressions. Perfect for day-to-night wear, its sophisticated yet playful scent enhances your natural charm and elegance. Packaged in an exquisite, gold-accented bottle that reflects its glamour, this 50ml spray fits conveniently into handbags or vanity tables, ensuring effortless elegance anytime, anywhere. Ideal as a personal indulgence or a thoughtful gift for someone special, Victoria’s Secret Angel Gold Eau de Parfum promises to elevate everyday moments into unforgettable experiences. Order yours today and step into luxury with a fragrance that radiates beauty, confidence, and allure.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-angel-gold-edp-spray-50ml-1",
+      "source_price": 60,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-angel-gold-edp-spray-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Angel Gold EDP Spray 50ml",
+          "size": "50ml",
+          "price": 60,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretangelgoldedp50.png?v=1676602911"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret So In Love EDP Spray 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 60,
+      "price_per_100ml": 120,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretsoinloveedpspray50.png?v=1676603304",
+      "description": "Victoria’s Secret So In Love EDP Spray 50ml – Elegant, Romantic, Timelessly Feminine Elevate your fragrance collection with Victoria’s Secret So In Love Eau de Parfum Spray 50ml, a sophisticated scent crafted for the modern woman who embraces romance and elegance. This luxurious fragrance captivates instantly with delicate floral notes of Moroccan rose, jasmine petals, and violet leaves, perfectly balanced to create a fresh, romantic, and irresistibly feminine aroma. Whether worn daily or reserved for special occasions, this timeless scent exudes confidence and grace, leaving an unforgettable impression. Encased in a beautifully designed 50ml bottle, Victoria’s Secret So In Love EDP Spray makes the perfect gift for yourself or a loved one. Indulge your senses and enhance your allure with a fragrance that symbolizes passion, sophistication, and romance. Order online now and experience the captivating charm of Victoria’s Secret So In Love Eau de Parfum Spray – your signature scent awaits.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-so-in-love-edp-spray-50ml-1",
+      "source_price": 60,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-so-in-love-edp-spray-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret So In Love EDP Spray 50ml",
+          "size": "50ml",
+          "price": 60,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretsoinloveedpspray50.png?v=1676603304"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret Tease Heartbreaker EDP Spray 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 60,
+      "price_per_100ml": 120,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaseheartbreakeredpspray50.png?v=1676603354",
+      "description": "Victoria’s Secret Tease Heartbreaker EDP Spray 50ml Unleash your playful, confident side with Victoria’s Secret Tease Heartbreaker Eau de Parfum Spray, a fragrance designed to capture attention and stir hearts. This irresistible scent opens with vibrant notes of Star Fruit, delivering a sparkling freshness. At its heart, delicate Purple Lotus adds feminine sophistication, while warm Vanilla Whipped Cream creates a deliciously tempting base, leaving an unforgettable trail wherever you go. Perfectly packaged in a chic, alluring 50ml bottle, Victoria’s Secret Tease Heartbreaker EDP Spray is ideal for everyday wear, romantic evenings, and special occasions. Compact and convenient, it fits effortlessly into your handbag, allowing you to refresh your scent anytime, anywhere. Experience long-lasting fragrance that embodies bold femininity and youthful charm. Buy Victoria’s Secret Tease Heartbreaker EDP Spray 50ml today and embrace your inner heartbreaker.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-heartbreaker-edp-spr-50ml-1",
+      "source_price": 60,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-heartbreaker-edp-spr-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Tease Heartbreaker EDP Spray 50ml",
+          "size": "50ml",
+          "price": 60,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaseheartbreakeredpspray50.png?v=1676603354"
+        }
+      ]
+    },
+    {
+      "brand": "Victoria's Secret",
+      "name": "Victoria’s Secret Bombshell Paris EDP Spray 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 60,
+      "price_per_100ml": 120,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/bop_ar_1_2000x_4d030c5f-d8b4-4bd7-9d7c-e766fc1961f4.webp?v=1730761248",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/vs-bombshell-paris-edp-spr-50ml-1",
+      "source_price": 60,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-bombshell-paris-edp-spr-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Bombshell Paris EDP Spray 50ml",
+          "size": "50ml",
+          "price": 60,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/bop_ar_1_2000x_4d030c5f-d8b4-4bd7-9d7c-e766fc1961f4.webp?v=1730761248"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/vs-bombshell-paradise-edp-spr-50ml-1",
+          "brand": "Victoria's Secret",
+          "name": "Victoria’s Secret Bombshell Paradise EDP Spray 50ml",
+          "size": "50ml",
+          "price": 80,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/secret-bombshell-paradise-50ml_1024x1024_3bf6a709-ebff-443d-9f30-f89765f64c3f.webp?v=1699823032"
+        }
+      ]
+    },
+    {
       "brand": "Hugo Boss",
       "name": "Hugo Boss Man Green EDT 125ml",
       "size": "125ml",
@@ -49675,6 +49921,34 @@
           "price": 124.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/reyane-insurrection-born-to-be-a-legend.png?v=1789430785"
+        }
+      ]
+    },
+    {
+      "brand": "Lacoste",
+      "name": "L.12.12 Bleu by Lacoste 100ml EDP for Men",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 124.99,
+      "price_per_100ml": 124.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lacoste-bleu-100ml-edp.png?v=1791342981",
+      "description": "L.12.12 Bleu by Lacoste 100ml Eau De Parfum Spray for Men Inspired by the iconic Lacoste polo, L.12.12 Bleu Eau de Parfum adds a timeless piece to the brand’s olfactory wardrobe, embodying effortless style in motion. L.12.12 Bleu Eau de Parfum unveils a fresh, zesty trail of iced yuzu, revealing an intensely deep aromatic heart where cedarwood and vetiver intertwine. Designer: Lacoste Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: L.12.12 Bleu opens with the zesty freshness of frozen yuzu. A vibrant aromatic heart of lavender & geranium follows before revealing long-lasting notes of cedarwood. A fougère woody citrus Eau de Parfum designed for every moment. The bottle features the iconic 'petit piqué' code and is dressed in deep blue, with a tone-on-tone embroidered crocodile in a nod to the elegance of the Lacoste polo shirt. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/l-12-12-bleu-by-lacoste-100ml-edp-for-men",
+      "source_price": 124.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/l-12-12-bleu-by-lacoste-100ml-edp-for-men",
+          "brand": "Lacoste",
+          "name": "L.12.12 Bleu by Lacoste 100ml EDP for Men",
+          "size": "100ml",
+          "price": 124.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lacoste-bleu-100ml-edp.png?v=1791342981"
         }
       ]
     },
@@ -52098,62 +52372,6 @@
     },
     {
       "brand": "Victoria's Secret",
-      "name": "Victoria's Secret Very Sexy Now 2016 EDP Spray 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 69,
-      "price_per_100ml": 138,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretverysexynow2016edpspray50.png?v=1676602964",
-      "description": "Victoria's Secret Very Sexy Now 2016 EDP Spray 50ml Discover the allure of Victoria's Secret Very Sexy Now 2016 Eau de Parfum Spray, a fragrance designed to captivate and inspire confidence. Encased in a sleek 50ml bottle, this perfume perfectly blends tropical freshness with seductive sophistication, embodying the spirit of vibrant summer nights. Opening with refreshing notes of coconut water and tropical guava, it effortlessly transitions into lush florals of mariposa flower and exotic orchid petals. Warm base notes of sandalwood and vanilla add depth and irresistible sensuality, lingering softly on your skin throughout the day. Ideal for women seeking a fragrance that expresses femininity, elegance, and playful energy. Perfect for both daytime adventures and romantic evenings, this limited-edition scent remains a beloved collector's item. Enhance your fragrance collection with Victoria's Secret Very Sexy Now 2016—experience the luxury, charm, and confidence of this unforgettable perfume today.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-very-sexy-now-2016-edp-spr-50ml-1",
-      "source_price": 69,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-very-sexy-now-2016-edp-spr-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria's Secret Very Sexy Now 2016 EDP Spray 50ml",
-          "size": "50ml",
-          "price": 69,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretverysexynow2016edpspray50.png?v=1676602964"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret Angel Gold EDP Spray 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 69,
-      "price_per_100ml": 138,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretangelgoldedp50.png?v=1676602911",
-      "description": "Victoria’s Secret Angel Gold EDP Spray 50ml Reveal your inner glow with Victoria’s Secret Angel Gold Eau de Parfum Spray 50ml, a fragrance that embodies luxury, femininity, and confidence. Angel Gold captivates with a radiant blend of sparkling bergamot, lush gardenia, and warm musk, creating an irresistible harmony designed to turn heads and leave lasting impressions. Perfect for day-to-night wear, its sophisticated yet playful scent enhances your natural charm and elegance. Packaged in an exquisite, gold-accented bottle that reflects its glamour, this 50ml spray fits conveniently into handbags or vanity tables, ensuring effortless elegance anytime, anywhere. Ideal as a personal indulgence or a thoughtful gift for someone special, Victoria’s Secret Angel Gold Eau de Parfum promises to elevate everyday moments into unforgettable experiences. Order yours today and step into luxury with a fragrance that radiates beauty, confidence, and allure.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-angel-gold-edp-spray-50ml-1",
-      "source_price": 69,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-angel-gold-edp-spray-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Angel Gold EDP Spray 50ml",
-          "size": "50ml",
-          "price": 69,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretangelgoldedp50.png?v=1676602911"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
       "name": "Victoria’s Secret Bombshell Holiday EDP 50ml",
       "size": "50ml",
       "size_ml": 50,
@@ -52205,101 +52423,6 @@
           "price": 69,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/OIP_1.jpg?v=1676603851"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret So In Love EDP Spray 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 69,
-      "price_per_100ml": 138,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretsoinloveedpspray50.png?v=1676603304",
-      "description": "Victoria’s Secret So In Love EDP Spray 50ml – Elegant, Romantic, Timelessly Feminine Elevate your fragrance collection with Victoria’s Secret So In Love Eau de Parfum Spray 50ml, a sophisticated scent crafted for the modern woman who embraces romance and elegance. This luxurious fragrance captivates instantly with delicate floral notes of Moroccan rose, jasmine petals, and violet leaves, perfectly balanced to create a fresh, romantic, and irresistibly feminine aroma. Whether worn daily or reserved for special occasions, this timeless scent exudes confidence and grace, leaving an unforgettable impression. Encased in a beautifully designed 50ml bottle, Victoria’s Secret So In Love EDP Spray makes the perfect gift for yourself or a loved one. Indulge your senses and enhance your allure with a fragrance that symbolizes passion, sophistication, and romance. Order online now and experience the captivating charm of Victoria’s Secret So In Love Eau de Parfum Spray – your signature scent awaits.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-so-in-love-edp-spray-50ml-1",
-      "source_price": 69,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-so-in-love-edp-spray-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret So In Love EDP Spray 50ml",
-          "size": "50ml",
-          "price": 69,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretsoinloveedpspray50.png?v=1676603304"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret Tease Heartbreaker EDP Spray 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 69,
-      "price_per_100ml": 138,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaseheartbreakeredpspray50.png?v=1676603354",
-      "description": "Victoria’s Secret Tease Heartbreaker EDP Spray 50ml Unleash your playful, confident side with Victoria’s Secret Tease Heartbreaker Eau de Parfum Spray, a fragrance designed to capture attention and stir hearts. This irresistible scent opens with vibrant notes of Star Fruit, delivering a sparkling freshness. At its heart, delicate Purple Lotus adds feminine sophistication, while warm Vanilla Whipped Cream creates a deliciously tempting base, leaving an unforgettable trail wherever you go. Perfectly packaged in a chic, alluring 50ml bottle, Victoria’s Secret Tease Heartbreaker EDP Spray is ideal for everyday wear, romantic evenings, and special occasions. Compact and convenient, it fits effortlessly into your handbag, allowing you to refresh your scent anytime, anywhere. Experience long-lasting fragrance that embodies bold femininity and youthful charm. Buy Victoria’s Secret Tease Heartbreaker EDP Spray 50ml today and embrace your inner heartbreaker.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-heartbreaker-edp-spr-50ml-1",
-      "source_price": 69,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-heartbreaker-edp-spr-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Tease Heartbreaker EDP Spray 50ml",
-          "size": "50ml",
-          "price": 69,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaseheartbreakeredpspray50.png?v=1676603354"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret Tease Rebel EDP Spray 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 69,
-      "price_per_100ml": 138,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaserebeledpspray50.png?v=1676603383",
-      "description": "Victoria’s Secret Tease Rebel EDP Spray 50ml Discover your bold and rebellious side with Victoria’s Secret Tease Rebel Eau de Parfum Spray 50ml. This captivating fragrance combines sensuality, confidence, and playful allure, making it your ultimate accessory for any occasion. Tease Rebel opens with vibrant notes of violet leaf and wild rose, beautifully balanced with a tempting blend of white leather and musk. The result is a daring yet feminine fragrance that will empower you all day long. Perfectly sized at 50ml, this luxurious spray fits effortlessly into your handbag, ensuring you're always ready to refresh your scent. Whether you're heading out for a night on the town or enjoying a casual day, Tease Rebel delivers lasting freshness and irresistible charm. Indulge yourself or gift this iconic fragrance to someone special—experience the fearless spirit of Victoria’s Secret Tease Rebel today.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-rebel-edp-spray-50ml-1",
-      "source_price": 69,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-rebel-edp-spray-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Tease Rebel EDP Spray 50ml",
-          "size": "50ml",
-          "price": 69,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaserebeledpspray50.png?v=1676603383"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-tease-edp-spray-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Tease EDP Spray 50ml",
-          "size": "50ml",
-          "price": 69,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretteaseedpspray50.png?v=1676603326"
         }
       ]
     },
@@ -55536,6 +55659,45 @@
       ]
     },
     {
+      "brand": "Moschino",
+      "name": "Toy 2 Yummy by Moschino 100ml EDP for Women",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 149.99,
+      "price_per_100ml": 149.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/moschino-toy-2-yummy_ab6837eb-206b-4d5e-b18d-d053b2dca6cb.png?v=1791345843",
+      "description": "Toy 2 Yummy by Moschino 100ml Eau De Parfum Spray for Women The Moschino Teddy Bear comes alive in a wave of color with Toy 2 Yummy, a bright and joyful fragrance that captures the spontaneous spirit of the Moschino woman. Energetic, radiant and full of optimism, this playful eau de parfum celebrates a world of color, lightness and modern femininity. Designer: Moschino Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Toy 2 Yummy is an energetic and radiant scent that blends citrus liveliness, floral elegance, and spicy sensuality, leaving a fresh, sparkling trail. From the first moment, awaken the senses with the juicy brightness of yellow mandarin and the vibrancy of bergamot, enhanced by the intangible touch of mystikal, a subtle note of incense that lends a refined spicy sparkle. At the heart, the luminous elegance of geranium meets the enveloping radiance of sambac jasmine and the sparkling energy of timut pepper, amplified by the warm embrace of black pepper. In the base notes, the velvety softness of Bulgarian rose blooms over an elegant base of Haitian vetiver, wrapped in the musky caress of serenolide , creating a fresh, energetic trail full of sophisticated femininity. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/toy-2-yummy-by-moschino-100ml-edp-for-women",
+      "source_price": 149.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/toy-2-yummy-by-moschino-100ml-edp-for-women",
+          "brand": "Moschino",
+          "name": "Toy 2 Yummy by Moschino 100ml EDP for Women",
+          "size": "100ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/moschino-toy-2-yummy_ab6837eb-206b-4d5e-b18d-d053b2dca6cb.png?v=1791345843"
+        },
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/toy-2-gummy-by-moschino-100ml-edp-for-women",
+          "brand": "Moschino",
+          "name": "Toy 2 Gummy by Moschino 100ml EDP for Women",
+          "size": "100ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/moschino-toy-2-gummy---2.png?v=1791345750"
+        }
+      ]
+    },
+    {
       "brand": "CARVEN",
       "name": "CARVEN Ma Griffe 100ml EDP",
       "size": "100ml",
@@ -57615,45 +57777,6 @@
           "price": 80,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/victoria_ssecretbombshellsinbloomedp50.png?v=1676603028"
-        }
-      ]
-    },
-    {
-      "brand": "Victoria's Secret",
-      "name": "Victoria’s Secret Bombshell Paris EDP Spray 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 80,
-      "price_per_100ml": 160,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/bop_ar_1_2000x_4d030c5f-d8b4-4bd7-9d7c-e766fc1961f4.webp?v=1730761248",
-      "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/vs-bombshell-paris-edp-spr-50ml-1",
-      "source_price": 80,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-bombshell-paris-edp-spr-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Bombshell Paris EDP Spray 50ml",
-          "size": "50ml",
-          "price": 80,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/bop_ar_1_2000x_4d030c5f-d8b4-4bd7-9d7c-e766fc1961f4.webp?v=1730761248"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/vs-bombshell-paradise-edp-spr-50ml-1",
-          "brand": "Victoria's Secret",
-          "name": "Victoria’s Secret Bombshell Paradise EDP Spray 50ml",
-          "size": "50ml",
-          "price": 80,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/secret-bombshell-paradise-50ml_1024x1024_3bf6a709-ebff-443d-9f30-f89765f64c3f.webp?v=1699823032"
         }
       ]
     },
@@ -66188,6 +66311,34 @@
           "price": 189.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/cartier-la-panthere-edt.png?v=1789531676"
+        }
+      ]
+    },
+    {
+      "brand": "Etat Libre d'Orange",
+      "name": "Let's Pretend by Etat Libre d'Orange 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 189.99,
+      "price_per_100ml": 189.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/etat-libre-let_s-pretend.png?v=1791336930",
+      "description": "Let's Pretend by Etat Libre d'Orange 100ml Eau De Parfum Spray Life becomes a stage. Let’s Pretend is a multi-faceted fragrance that doesn’t hide, it reveals. Like the perfect costume chosen before stepping into the spotlight the Theater of Life, it allows you to embody the character you wish to become, if only for a moment. Here, life itself turns into a stage, and every gesture becomes part of the performance. Let’s Pretend is a fruity-spicy fragrance that evolves with the wearer, inviting you to step into a role or reveal your true self. Designer: Etat Libre d'Orange Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: The opening is radiant and electric. Mandarin sparkles with luminous freshness, while pink pepper adds a lively, spicy energy. A whisper of saffron intrigues and warms, as the curtain rises. At the heart, peach takes center stage: juicy, velvety, and irresistibly sensual. Osmanthus absolute deepens its fruity richness with apricot-like and subtly leathery nuances, while jasmine sambac adds a delicate floral glow. Together, they shimmering and lively yet refined heart that melts into the skin, intimate and transformative. As the final act unfolds, cedar, styrax, and benzoin bring warmth, delicacy, and conviction. The stage, the world, life belongs to you. Showtime. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/lets-pretend-by-etat-libre-dorange-100ml-edp",
+      "source_price": 189.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/lets-pretend-by-etat-libre-dorange-100ml-edp",
+          "brand": "Etat Libre d'Orange",
+          "name": "Let's Pretend by Etat Libre d'Orange 100ml EDP",
+          "size": "100ml",
+          "price": 189.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/etat-libre-let_s-pretend.png?v=1791336930"
         }
       ]
     },
@@ -81916,7 +82067,7 @@
       "price": 265,
       "price_per_100ml": 265,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045773-0.jpg?v=1791236776",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045773-0.jpg?v=1791322092",
       "description": "The first spray reveals a surge of freshness through vibrant Bergamot woven with aromatic Lavender Accords and bright Violet Leaf. A sensual addictive Bourbon Vanilla is then reimagined with an ensemble of smoky Woodleather notes, lending depth and magnetism. A true testament to endurance, master perfumers Alberto Morillas and Nathalie Lorson undertook over 2,800 trials and 4 years of craftsmanship to create a men’s fragrance like no other. A modern masculine tribute to strength and determination, reminding one it’s not about luck, it’s about will.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-i-will-edp-100ml",
@@ -81932,7 +82083,7 @@
           "size": "100ml",
           "price": 265,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045773-0.jpg?v=1791236776"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045773-0.jpg?v=1791322092"
         }
       ]
     },
@@ -82039,6 +82190,62 @@
           "price": 266,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20011880-1.jpg?v=1724975137"
+        }
+      ]
+    },
+    {
+      "brand": "Naomi Campbell",
+      "name": "Here To Shine by Naomi Campbell 15ml EDT",
+      "size": "15ml",
+      "size_ml": 15,
+      "price": 39.99,
+      "price_per_100ml": 266.6,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/naomi-campbelle-here-to-shine-15ml.png?v=1791258645",
+      "description": "Here To Shine by Naomi Campbell 15ml Eau De Toilette Spray for Women Here to Shine by Naomi Campbell is a Floral fragrance for women. Designer: Naomi Campbell Year Introduced: 2021 Type: EDT Category: Women Fragrance Notes: Top notes are Nashi Pear, Pink Pepper and Bergamot; Middle notes are Violet, Heliotrope and Lily-of-the-Valley; Base notes are Musk, Patchouli, Cedar and Sandalwood. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/here-to-shine-by-naomi-campbell-15ml-edt",
+      "source_price": 39.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/here-to-shine-by-naomi-campbell-15ml-edt",
+          "brand": "Naomi Campbell",
+          "name": "Here To Shine by Naomi Campbell 15ml EDT",
+          "size": "15ml",
+          "price": 39.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/naomi-campbelle-here-to-shine-15ml.png?v=1791258645"
+        }
+      ]
+    },
+    {
+      "brand": "Naomi Campbell",
+      "name": "Here To Stay by Naomi Campbell 15ml EDT",
+      "size": "15ml",
+      "size_ml": 15,
+      "price": 39.99,
+      "price_per_100ml": 266.6,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/naomi-campbelle-here-to-stay-15ml.png?v=1791259203",
+      "description": "Here To Stay by Naomi Campbell 15ml Eau De Toilette Spray for Women Here To Stay by Naomi Campbell is a Floral Fruity fragrance for women. Designer: Naomi Campbell Year Introduced: 2020 Type: EDT Category: Women Fragrance Notes: Top notes are Raspberry and Black Currant; Middle notes are Rose and Jasmine; Base notes are Musk and Vanilla. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/here-to-stay-by-naomi-campbell-15ml-edt",
+      "source_price": 39.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/here-to-stay-by-naomi-campbell-15ml-edt",
+          "brand": "Naomi Campbell",
+          "name": "Here To Stay by Naomi Campbell 15ml EDT",
+          "size": "15ml",
+          "price": 39.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/naomi-campbelle-here-to-stay-15ml.png?v=1791259203"
         }
       ]
     },
@@ -92713,6 +92920,45 @@
       ]
     },
     {
+      "brand": "Lancôme",
+      "name": "Lancôme La Vie Est Belle Vanille Nude EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 169.99,
+      "price_per_100ml": 339.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lancome-la-vie-est-belle-vanille-nude-50ml.png?v=1791341856",
+      "description": "La Vie Est Belle Vanille Nude by Lancome 50ml Eau De Parfum Spray for Women Embark on a love affair with yourself - a triumphant story of liberation begins with embracing your most authentic and intimate side. This sensual and powerful feeling inspires you to seize life's every pleasure. Indulge your senses and let happiness become your second skin. La Vie Est Belle Vanille Nude, our first musky vanilla. The fragrance of choosing yourself and savouring life's most irresistible pleasures. Designer: Lancome Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Ready to reveal your most authentic self? La Vie Est Belle Vanille Nude enhances your unique scent with delectable accords, creating a fragrance that's truly you. Solar jasmine and Glazed Vanilla melt onto your skin, culminating in an overdose of creamy white musk, inspired from the French patisserie. A powerful fragrance that lasts all-day long* on your skin, including an exceptional up to 6 hrs of intensity* backed by consumer tests. Be ready for compliments! Presented in an irresistible jewel-like bottle, dipped in opalescent lacquer and adorned with delicate sparkling crepe wings, it's a treasure you won't want to let go of. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/la-vie-est-belle-vanille-nude-by-lancome-50ml-edp",
+      "source_price": 169.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/la-vie-est-belle-vanille-nude-by-lancome-50ml-edp",
+          "brand": "Lancome",
+          "name": "La Vie Est Belle Vanille Nude by Lancome 50ml EDP",
+          "size": "50ml",
+          "price": 169.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lancome-la-vie-est-belle-vanille-nude-50ml.png?v=1791341856"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/lancome-la-vie-est-belle-vanille-nude-edp-50ml",
+          "brand": "Lancôme",
+          "name": "Lancôme La Vie Est Belle Vanille Nude EDP 50ml",
+          "size": "50ml",
+          "price": 245,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037688-0_5223dbbd-53e8-4a3d-9427-fd2ddf3a155b.jpg?v=1769992894"
+        }
+      ]
+    },
+    {
       "brand": "Versace",
       "name": "Versace Eros Pour Homme EDT 10ml",
       "size": "10ml",
@@ -94189,6 +94435,34 @@
           "price": 175,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20026392-0.jpg?v=1724998301"
+        }
+      ]
+    },
+    {
+      "brand": "Rabanne",
+      "name": "Rabanne Fame Winter Crush EDP 80ml",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 280,
+      "price_per_100ml": 350,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046248-0.png?v=1791323000",
+      "description": "Join the FAME Ski Club and meet RABANNE’s stylish new collector: FAME WINTER CRUSH. As the ski slopes turn into the new runway, the Parisian It-Girl warms your winter with her fruity-floral signature of succulent mango and sunny jasmine. Ready for the slopes in her trend-setting golden boots and puffy silver jacket, the iconic FAME Eau de Parfum steals the spotlight with the cutest holiday edition ever. Fashionable. Collectible. Irresistible.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/rabanne-fame-winter-crush-edp-80ml",
+      "source_price": 280,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/rabanne-fame-winter-crush-edp-80ml",
+          "brand": "Rabanne",
+          "name": "Rabanne Fame Winter Crush EDP 80ml",
+          "size": "80ml",
+          "price": 280,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046248-0.png?v=1791323000"
         }
       ]
     },
@@ -99827,7 +100101,7 @@
       "price": 347,
       "price_per_100ml": 385.56,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045761-0.jpg?v=1791237519",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045761-0.jpg?v=1791322070",
       "description": "The Iconic Sensual Coffee-Floral Fragrance Turns Pink With The Sexiest Ingredient, A Juicy Strawberry. The Scent That Makes You Unlock The Party. The Scent. New Strawberry Craze. A Sultry Strawberry, 100% Naturally Extracted Effortlessly Melts Into Head-Turning Sensual Jasmine. A Vibey Reinterpretation Of Black Opium’S Coffee-Floral Signature Notes. A True-To-Taste Smell, As Seductive As It Is Delicious. The Reflection Of The New Black Opium Woman: Magnetic, Confident, Main Character Energy. The Bottle. New Bolder &amp; Sexier It-Design. The Signature Black Opium Bottle Takes On New Daring Shape And Shade. A Dark Pink Lacquered Tone Contrasting With A Powerful Black Core. Cassandre At Heart. Sharp Lines, New Transparency, Modern And Unapologetically Cool. The Edgiest Confidence Booster Accessory. Pink Is The New Black.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-pink-glaze-edp-90ml",
@@ -99843,7 +100117,7 @@
           "size": "90ml",
           "price": 347,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045761-0.jpg?v=1791237519"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045761-0.jpg?v=1791322070"
         }
       ]
     },
@@ -109673,34 +109947,6 @@
       ]
     },
     {
-      "brand": "Lancôme",
-      "name": "Lancôme La Vie Est Belle Vanille Nude EDP 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 245,
-      "price_per_100ml": 490,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037688-0_5223dbbd-53e8-4a3d-9427-fd2ddf3a155b.jpg?v=1769992894",
-      "description": "Embark on a love affair with yourself - a triumphant story of liberation begins with embracing your most authentic and intimate side. This sensual and powerful feeling inspires you to seize life's every pleasure. Indulge your senses and let happiness become your second skin. La vie est belle Vanille Nude, our first musky vanilla. The fragrance of choosing yourseld and savoring life's most irresistible pleasures. Ready to reveal your most authentic self ? La vie est belle Vanille Nude enhances your unique scent with delectable accords? creating a fragrance that's truly you. Solar jasmine and Glazed Vanilla, melt onto your skin, culminating in an overdose of creamy white musk, inspired from the French patisserie. A powerful fragrance that lasts all-day long* on your skin, including an exceptional 5-hour intensity nacked by consumer tests. Be ready for compliments ! *Self assessment test, 69 women.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/lancome-la-vie-est-belle-vanille-nude-edp-50ml",
-      "source_price": 245,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/lancome-la-vie-est-belle-vanille-nude-edp-50ml",
-          "brand": "Lancôme",
-          "name": "Lancôme La Vie Est Belle Vanille Nude EDP 50ml",
-          "size": "50ml",
-          "price": 245,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037688-0_5223dbbd-53e8-4a3d-9427-fd2ddf3a155b.jpg?v=1769992894"
-        }
-      ]
-    },
-    {
       "brand": "Giorgio Armani",
       "name": "Giorgio Armani Si Passione EDP Intense 50ml",
       "size": "50ml",
@@ -110965,7 +111211,7 @@
       "price": 253,
       "price_per_100ml": 506,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045760-0.jpg?v=1791237519",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045760-0.jpg?v=1791322068",
       "description": "The Iconic Sensual Coffee-Floral Fragrance Turns Pink With The Sexiest Ingredient, A Juicy Strawberry. The Scent That Makes You Unlock The Party. The Scent. New Strawberry Craze. A Sultry Strawberry, 100% Naturally Extracted Effortlessly Melts Into Head-Turning Sensual Jasmine. A Vibey Reinterpretation Of Black Opium’S Coffee-Floral Signature Notes. A True-To-Taste Smell, As Seductive As It Is Delicious. The Reflection Of The New Black Opium Woman: Magnetic, Confident, Main Character Energy. The Bottle. New Bolder &amp; Sexier It-Design. The Signature Black Opium Bottle Takes On New Daring Shape And Shade. A Dark Pink Lacquered Tone Contrasting With A Powerful Black Core. Cassandre At Heart. Sharp Lines, New Transparency, Modern And Unapologetically Cool. The Edgiest Confidence Booster Accessory. Pink Is The New Black.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-pink-glaze-edp-50ml",
@@ -110981,7 +111227,7 @@
           "size": "50ml",
           "price": 253,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045760-0.jpg?v=1791237519"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045760-0.jpg?v=1791322068"
         }
       ]
     },
@@ -116055,7 +116301,7 @@
       "price": 182,
       "price_per_100ml": 606.67,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045759-0.jpg?v=1791237519",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045759-0.jpg?v=1791322068",
       "description": "The Iconic Sensual Coffee-Floral Fragrance Turns Pink With The Sexiest Ingredient, A Juicy Strawberry. The Scent That Makes You Unlock The Party. The Scent. New Strawberry Craze. A Sultry Strawberry, 100% Naturally Extracted Effortlessly Melts Into Head-Turning Sensual Jasmine. A Vibey Reinterpretation Of Black Opium’S Coffee-Floral Signature Notes. A True-To-Taste Smell, As Seductive As It Is Delicious. The Reflection Of The New Black Opium Woman: Magnetic, Confident, Main Character Energy. The Bottle. New Bolder &amp; Sexier It-Design. The Signature Black Opium Bottle Takes On New Daring Shape And Shade. A Dark Pink Lacquered Tone Contrasting With A Powerful Black Core. Cassandre At Heart. Sharp Lines, New Transparency, Modern And Unapologetically Cool. The Edgiest Confidence Booster Accessory. Pink Is The New Black.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-pink-glaze-edp-30ml",
@@ -116071,7 +116317,7 @@
           "size": "30ml",
           "price": 182,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045759-0.jpg?v=1791237519"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045759-0.jpg?v=1791322068"
         }
       ]
     },
@@ -116737,6 +116983,73 @@
           "price": 489.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/parfums-de-marly-oriana.png?v=1655697743"
+        }
+      ]
+    },
+    {
+      "brand": "Yves Saint Laurent",
+      "name": "Muse by Yves Saint Laurent 7.5ml EDP Miniature",
+      "size": "7.5ml",
+      "size_ml": 7.5,
+      "price": 49.99,
+      "price_per_100ml": 666.53,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ysl-muse-7.png?v=1784760438",
+      "description": "Muse Inspiring Ink by Yves Saint Laurent 7.5ml Eau De Parfum Miniature The Yves Saint Laurent Muse – Le Vestiaire des Parfums is a sensual tribute to the icons who inspired a fashion revolution. With its rich ink accord, buttery iris, and decadent Bourbon vanilla, this ambery fragrance captures the bold elegance of YSL’s muses in every drop. It’s a scent that wears like a second skin—intimate, unforgettable, and unapologetically creative. Muse isn’t just a fragrance; it’s a signature waiting to be written in bold, black lines. Designer: YSL Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: Ink is the enigmatic accord chosen for Le Vestiaire des Parfums’s new scented icon: MUSE. A strikingly streamlined composition crafted by Parfumeur Principal Marie Salamagne : \"The ink reveals enigmatic woody notes, intimate and elegant smoky facets. It veils the skin in subtle dark, metallic tones, slightly iris-y, earthy. For me, the ink takes on the colors of creativity and mystery. It stimulates the imagination.\" The dusky note is etched onto a precious ingredient Marie Salamagne compares both to paper and skin, for its softness. Carnal and supple, iris concrete offers powdery, buttery, woody and leather facets for a perfect blend. Empowered by a sensual Bourbon vanilla absolute pod, another sublime material crafted for YSL. The result is what Marie Salamagne calls “a skin scent that explodes”. A fragrant tattoo with an impressive trail, as distinctive and memorable as YSL’s fascinating muses. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/muse-by-yves-saint-laurent-7-5ml-edp-miniature",
+      "source_price": 49.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/muse-by-yves-saint-laurent-7-5ml-edp-miniature",
+          "brand": "Yves Saint Laurent",
+          "name": "Muse by Yves Saint Laurent 7.5ml EDP Miniature",
+          "size": "7.5ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ysl-muse-7.png?v=1784760438"
+        },
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/blouse-by-yves-saint-laurent-7-5ml-edp-miniature",
+          "brand": "Yves Saint Laurent",
+          "name": "Blouse by Yves Saint Laurent 7.5ml EDP Miniature",
+          "size": "7.5ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ysl-blouse-7.5ml_4125096e-4b12-426a-bd5b-dc2a347ee68e.png?v=1784759773"
+        }
+      ]
+    },
+    {
+      "brand": "Yves Saint Laurent",
+      "name": "Tuxedo by Yves Saint Laurent 7.5ml EDP Miniature",
+      "size": "7.5ml",
+      "size_ml": 7.5,
+      "price": 49.99,
+      "price_per_100ml": 666.53,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ysl-tuxedo-7.5ml_baacea02-a00d-47d2-b50c-76c542a0b434.png?v=1784763560",
+      "description": "Tuxedo by Yves Saint Laurent 7.5ml Eau De Parfum Miniature Inspired by the emblematic creations of Monsieur Saint Laurent, Le Vestiaire Des Parfums is a collection of fragrances that each interpret a centrepiece of the couturier’s wardrobe. A sleek black ensemble; an interplay of shiny satin and matte grain de poudre fabric - the tuxedo is an icon. Reinvented by Monsieur Saint Laurent, it reveals its innate sensuality. An eternally bold look to evoke the contours of an androgynous eroticism. Designer: YSL Year Introduced: 2015 Type: EDP Category: Unisex Fragrance Notes: A spicy unisex scent that blends the matte texture of smoked patchouli with ambergris accord to express a magnetic and dark sex appeal. The sharp black pepper enhanced with the freshness of cardamom mirrors the satin stripe that runs along the seam of the trousers and the lapels of the jacket. With a refined sense of detail, the gleaming effect of the spices electrifies and highlights the sophistication of the garment. A bold masculine look transformed into a feminine staple by Yves Saint Laurent, the tuxedo is an expression of impertinent seduction. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/tuxedo-by-yves-saint-laurent-7-5ml-edp-miniature",
+      "source_price": 49.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/tuxedo-by-yves-saint-laurent-7-5ml-edp-miniature",
+          "brand": "Yves Saint Laurent",
+          "name": "Tuxedo by Yves Saint Laurent 7.5ml EDP Miniature",
+          "size": "7.5ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ysl-tuxedo-7.5ml_baacea02-a00d-47d2-b50c-76c542a0b434.png?v=1784763560"
         }
       ]
     },
