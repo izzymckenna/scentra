@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T08:01:31.090Z",
-  "count": 3964,
+  "generated_at": "2026-10-16T07:55:25.187Z",
+  "count": 3974,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
@@ -2124,7 +2124,7 @@
       "source_name": "chemist-warehouse-search-suggest",
       "source_url": "https://www.chemistwarehouse.co.nz/buy/100571/ariana-grande-cloud-body-mist-236ml",
       "source_price": 14.99,
-      "source_count": 14,
+      "source_count": 15,
       "sources": [
         {
           "retailer_slug": "chemist-warehouse-nz",
@@ -2136,6 +2136,17 @@
           "price": 14.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/100571/F2D_200.jpg"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-cloud-body-mist-236ml?_pos=3&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Cloud Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024730-0.jpg?v=1737425392"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -2610,10 +2621,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11215368-0.jpg?v=1737425390",
       "description": null,
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-curious-fine-fragrance-mist-236ml?_pos=9&_psq=perfume+mist&_psid=4356db51b&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-curious-fine-fragrance-mist-236ml?_pos=7&_psq=perfume+mist&_psid=e2729a9b3&_ss=e",
       "source_price": 16,
-      "source_count": 13,
+      "source_count": 14,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-curious-fine-fragrance-mist-236ml?_pos=7&_psq=perfume+mist&_psid=e2729a9b3&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Curious Fine Fragrance Mist 236ml",
+          "size": "236ml",
+          "price": 16,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11215368-0.jpg?v=1737425390"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -2770,10 +2792,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11250346-0.jpg?v=1737425390",
       "description": "Dusk: Forbidden richness of Black Cherries fused with Framboise and Exotic Plum create a desire for more. Clock Strikes 12: Seductive Night Blooming Orchid and Freesia mischievously flirts with enticing Velvet Iris. Was it a dream? Unforgettable and magnetic, Sensuous Musk, Amber and Vanilla leave a warm and sexy trail of intrigue.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-midnight-fantasy-fine-fragrance-mist-236ml?_pos=6&_psq=perfume+mist&_psid=4356db51b&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-midnight-fantasy-fine-fragrance-mist-236ml?_pos=8&_psq=perfume+mist&_psid=e2729a9b3&_ss=e",
       "source_price": 16,
-      "source_count": 15,
+      "source_count": 16,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-midnight-fantasy-fine-fragrance-mist-236ml?_pos=8&_psq=perfume+mist&_psid=e2729a9b3&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Midnight Fantasy Fine Fragrance Mist 236ml",
+          "size": "236ml",
+          "price": 16,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11250346-0.jpg?v=1737425390"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -3153,10 +3186,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040017-0.jpg?v=1772500530",
       "description": "Discover the irresistibly juicy scent of DKNY Be Delicious Fragrance Mist – a lighter, refreshing version of the Be Delicious Eau de Parfum that's never overpowering. This fragrance mist features a fresh floral scent that's bursting with playful charm and spontaneity. A mouth-watering blend of fresh Apple, crisp Cucumber, and sparkling Grapefruit that charges the senses. Sweet Magnolia and a core of Violet and Rose dance into a smooth finish of creamy Sandalwood and White Amber, creating a fragrance that celebrates everything it means to Be Delicious. The fragrance mist can be worn alone or layered with Be Delicious Eau de Parfum for added dimension. Olfactory Top: FApple Heart: Magnolia Base: Sandalwood",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-body-mist-250ml?_pos=1&_psq=body+mist&_psid=64fcd45a4&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-body-mist-250ml?_pos=1&_psq=body+mist&_psid=183bd47c2&_ss=e",
       "source_price": 19.99,
-      "source_count": 17,
+      "source_count": 18,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-body-mist-250ml?_pos=1&_psq=body+mist&_psid=183bd47c2&_ss=e",
+          "brand": "DKNY",
+          "name": "DKNY Be Delicious Body Mist 250ml",
+          "size": "250ml",
+          "price": 19.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040017-0.jpg?v=1772500530"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -3357,10 +3401,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040018-0.jpg?v=1772500533",
       "description": "Discover the lighthearted, delightfully feminine scent of DKNY Be Delicious Fresh Blossom Fragrance Mist - a lighter, refreshing version of the Be Delicious Fresh Blossom Eau de Parfum that's never overpowering, but instantly recognizable. An uplifting blend of sparkling Grapefruit, Cassis and sunkissed Apricot meets a blooming floral heart of sheer Muguet and petally Rose, wrapped in luminous Jasmine. Blonde woods and smooth skin accords finish the apple sensation. The fragrance mist can be worn alone or layered with Be Delicious Fresh Blossom Eau de Parfum for added dimension. Olfactory Top: Grapefruit Heart: Rose Base: Jasmine Petals",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-fresh-blossom-body-mist-250ml?_pos=6&_psq=body+mist&_psid=64fcd45a4&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-fresh-blossom-body-mist-250ml?_pos=6&_psq=body+mist&_psid=183bd47c2&_ss=e",
       "source_price": 19.99,
-      "source_count": 15,
+      "source_count": 16,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-fresh-blossom-body-mist-250ml?_pos=6&_psq=body+mist&_psid=183bd47c2&_ss=e",
+          "brand": "DKNY",
+          "name": "DKNY Be Delicious Fresh Blossom Body Mist 250ml",
+          "size": "250ml",
+          "price": 19.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040018-0.jpg?v=1772500533"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -3539,10 +3594,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040019-0.jpg?v=1772500536",
       "description": "Discover the most regal apple in the Be Delicious collection with DKNY Golden Delicious Fragrance Mist - a lighter, refreshing version of the Golden Delicious Eau de Parfum that's never overpowering, but always recognizable. This warm floral mist embraces a radiant modern spirit. Glistening florals and delicious heat create a scent that tantalizes the senses. The fragrance mist can be worn alone or layered with Golden Delicious Eau de Parfum for luxurious layering and added dimension. Olfactory: Top: Golden Delicious Apple Heart: Lilly of the Valley Base: Musk",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-golden-delicious-body-mist-250ml?_pos=2&_psq=body+mist&_psid=64fcd45a4&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-golden-delicious-body-mist-250ml?_pos=8&_psq=body+mist&_psid=183bd47c2&_ss=e",
       "source_price": 19.99,
-      "source_count": 16,
+      "source_count": 17,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-golden-delicious-body-mist-250ml?_pos=8&_psq=body+mist&_psid=183bd47c2&_ss=e",
+          "brand": "DKNY",
+          "name": "DKNY Be Delicious Golden Delicious Body Mist 250ml",
+          "size": "250ml",
+          "price": 19.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040019-0.jpg?v=1772500536"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -3904,10 +3970,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20033888-0.jpg?v=1769990037",
       "description": "Inspired by the busy and energetic Lower East Side area. Modern, funky and fun, full of street art, with an unmatched style, the air is full of music. Where the heart of the city intensifies but the history remains. A fruity floriental fragrance full of vivacity and energy. Pink Lady apple blends with notes of jasmine, black raspberry and white moss and leather to awaken incredible senses, creating a fragrance that celebrates everything it means to be unique and creative. Olfactory notes: Top notes: Pink Lady Apple, Neon Pink Grapefruit, Black Currant, Pink Pepper. Heart notes: Sambac LMR Jasmine Absolute, Orris, Black Raspberry, Pomegranate. Base notes: White Moss, Leather, Cedar Atlas, Amber Wood.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-orchard-st-body-mist-250ml?_pos=3&_psq=body+mist&_psid=64fcd45a4&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-orchard-st-body-mist-250ml?_pos=5&_psq=body+mist&_psid=183bd47c2&_ss=e",
       "source_price": 19.99,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/dkny-be-delicious-orchard-st-body-mist-250ml?_pos=5&_psq=body+mist&_psid=183bd47c2&_ss=e",
+          "brand": "DKNY",
+          "name": "DKNY Be Delicious Orchard St Body Mist 250ml",
+          "size": "250ml",
+          "price": 19.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20033888-0.jpg?v=1769990037"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -4262,7 +4339,7 @@
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-thanku-nxt-body-mist-236ml?_pos=1&_psq=Ariana+Grande&_psid=1d01f4ca9&_ss=e",
       "source_price": 19.99,
-      "source_count": 19,
+      "source_count": 20,
       "sources": [
         {
           "retailer_slug": "bargain-chemist",
@@ -4296,6 +4373,17 @@
           "price": 19.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/ArianaGrandeThankUNxtBodyMist236ml.webp?v=1723734111"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-thank-u-next-body-mist-236ml?_pos=8&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Thank U Next Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024732-0.jpg?v=1737425392"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -4619,10 +4707,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11273175-0.jpg?v=1758244429",
       "description": "Enhance your natural radiance. Vera Wang Embrace: Periwinkle &amp; Iris Body Mist is made with the ethereal woman in mind. This floral gourmand fragrance features an inspired blend of periwinkle, iris, and mandarin. Add a little flavor to your daily routine and spritz it on after showering, dressing, or before a night out. It also makes a perfect gift to show the women in your life how special they are.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/vera-wang-embrace-periwinkle-and-irisbody-mist-240ml?_pos=7&_psq=body+mist&_psid=64fcd45a4&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/vera-wang-embrace-periwinkle-and-irisbody-mist-240ml?_pos=7&_psq=body+mist&_psid=183bd47c2&_ss=e",
       "source_price": 20.5,
-      "source_count": 10,
+      "source_count": 11,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/vera-wang-embrace-periwinkle-and-irisbody-mist-240ml?_pos=7&_psq=body+mist&_psid=183bd47c2&_ss=e",
+          "brand": "Vera Wang",
+          "name": "Vera Wang Embrace Periwinkle and Iris Body Mist 240ml",
+          "size": "240ml",
+          "price": 20.5,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11273175-0.jpg?v=1758244429"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -4799,6 +4898,34 @@
           "price": 9,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/FFA619_DBFragranceAmongsttheFlowers_EDP_720x_29679c26-5d56-4c48-bb12-d831df9ca65d.webp?v=1710883863"
+        }
+      ]
+    },
+    {
+      "brand": "Elizabeth Arden",
+      "name": "Elizabeth Arden Sunflowers Fine Fragrance Mist 236ml",
+      "size": "236ml",
+      "size_ml": 236,
+      "price": 22,
+      "price_per_100ml": 9.32,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11279978-1.jpg?v=1723635670",
+      "description": "A celebration of summer's simplicity and joy this fragrance opens with sparkling fresh fruits that gradually unfold into rich florals at full bloom.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/elizabeth-arden-sunflowers-fine-fragrance-mist-236ml?_pos=9&_psq=perfume+mist&_psid=e2729a9b3&_ss=e",
+      "source_price": 22,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/elizabeth-arden-sunflowers-fine-fragrance-mist-236ml?_pos=9&_psq=perfume+mist&_psid=e2729a9b3&_ss=e",
+          "brand": "Elizabeth Arden",
+          "name": "Elizabeth Arden Sunflowers Fine Fragrance Mist 236ml",
+          "size": "236ml",
+          "price": 22,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11279978-1.jpg?v=1723635670"
         }
       ]
     },
@@ -5350,10 +5477,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393",
       "description": "Ariana Grande Sweet Like Candy Body Mist is an irresistible floral fragrance featuring delicious gourmand notes of marshmallow and vanilla. A sweet, powdery, fun fragrance for the young at heart. Middle Notes: Honeysuckle, Plumeria, Jasmine. Base Notes: Cashmere Accord, Vanilla, Marshmallow.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=b39d182e9&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
       "source_price": 24.99,
-      "source_count": 16,
+      "source_count": 17,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -5543,10 +5681,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024729-0.jpg?v=1737425392",
       "description": "Ariana Grande Ari Body Mist is as fun and fabulous as the singer herself. Top Notes: Pink Grapefruit, Pear, Raspberry. Middle Notes: Lily of the Valley, Vanilla Orchid. Base Notes: Blonde Woods, Creamy Musk, Marshmallow.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-ariana-g-ari-body-mist-236ml?_pos=5&_psq=body+mist&_psid=64fcd45a4&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-ariana-g-ari-body-mist-236ml?_pos=9&_psq=body+mist&_psid=183bd47c2&_ss=e",
       "source_price": 24.99,
-      "source_count": 14,
+      "source_count": 15,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-ariana-g-ari-body-mist-236ml?_pos=9&_psq=body+mist&_psid=183bd47c2&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Ari by Ariana Grande Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024729-0.jpg?v=1737425392"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -8338,10 +8487,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20038022-0_7659e6eb-d46f-4ec6-8127-7c07dee81e7b.jpg?v=1769992748",
       "description": "Experience the essence of confidence with Daring Amber. A captivating hair and body mist that dares you to embrace your boldest self, boasting invigorating notes of citrus, velvety whipped cream, and warm amber that envelop you in a tantalizing aura of allure. Top Notes: Citrus Heart Notes: Whipped Cream Base Notes: Amber",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/just-cavalli-daring-amber-hair-body-mist-250ml?_pos=10&_psq=body+mist&_psid=64fcd45a4&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/just-cavalli-daring-amber-hair-body-mist-250ml?_pos=10&_psq=body+mist&_psid=183bd47c2&_ss=e",
       "source_price": 32.99,
-      "source_count": 15,
+      "source_count": 16,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/just-cavalli-daring-amber-hair-body-mist-250ml?_pos=10&_psq=body+mist&_psid=183bd47c2&_ss=e",
+          "brand": "Just Cavalli",
+          "name": "Just Cavalli Daring Amber Hair & Body Mist 250ml",
+          "size": "250ml",
+          "price": 32.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20038022-0_7659e6eb-d46f-4ec6-8127-7c07dee81e7b.jpg?v=1769992748"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -9180,10 +9340,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036661-0.jpg?v=1763072937",
       "description": "Experience the iconic scent of Billie Eilish in a fresh, limited-edition Fragrance Mist. This airy, skin-loving spray offers a softer take on the original Eau de Parfum, with warm, gourmand notes of sugared petals, creamy vanilla, and soft musk. Perfect for daily wear, layering, or a quick refresh, it’s a collectible must-have for fans and fragrance lovers alike.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/billie-eilish-fragrance-mist-limited-edition-236ml?_pos=4&_psq=perfume+mist&_psid=4356db51b&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/billie-eilish-fragrance-mist-limited-edition-236ml?_pos=4&_psq=perfume+mist&_psid=e2729a9b3&_ss=e",
       "source_price": 35,
-      "source_count": 15,
+      "source_count": 16,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/billie-eilish-fragrance-mist-limited-edition-236ml?_pos=4&_psq=perfume+mist&_psid=e2729a9b3&_ss=e",
+          "brand": "Billie Eilish",
+          "name": "Billie Eilish Fragrance Mist Limited Edition 236ml",
+          "size": "236ml",
+          "price": 35,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036661-0.jpg?v=1763072937"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -13717,10 +13888,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20042203-0.jpg?v=1775856633",
       "description": "The first layer you put on. A unisex CK scent for hair and body that wraps you like a second skin. A burst of peach, luminous freesia, and waterlily blends with sheer amber musk for a radiant, fresh scent. The lightweight, hydrating formula leaves skin feeling soft and moisturized. Mood-boosting and effortlessly wearable, it’s the perfect everyday layer. Wear it alone or mixed with another perfume mist from the collection to create your own signature scent.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/calvin-klein-one-sheer-peach-body-mist-236ml?_pos=8&_psq=perfume+mist&_psid=4356db51b&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/calvin-klein-one-sheer-peach-body-mist-236ml?_pos=10&_psq=perfume+mist&_psid=e2729a9b3&_ss=e",
       "source_price": 59,
-      "source_count": 13,
+      "source_count": 14,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/calvin-klein-one-sheer-peach-body-mist-236ml?_pos=10&_psq=perfume+mist&_psid=e2729a9b3&_ss=e",
+          "brand": "Calvin Klein",
+          "name": "Calvin Klein One Sheer Peach Body Mist 236ml",
+          "size": "236ml",
+          "price": 59,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20042203-0.jpg?v=1775856633"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -24759,10 +24941,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11035763-0.jpg?v=1763941576",
       "description": "Top Inner light shines outward with a mouth-watering top note of guava pulp and golden tangerine. Heart A delicate blend of feminine honeysuckle is intertwined with hints of linden blossom. Drydown A balance of sophistication and youthful spirit patchouli aura is wrapped in a wink of sensual amber and pink pralines.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-believe-edp-30ml?_pos=1&_psq=Britney+Spears&_psid=68b1a6f8e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-believe-edp-30ml?_pos=2&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
       "source_price": 15,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-believe-edp-30ml?_pos=2&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Believe EDP 30ml",
+          "size": "30ml",
+          "price": 15,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11035763-0.jpg?v=1763941576"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -25078,7 +25271,7 @@
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/af-fierce-cologne-for-men-100ml?_pos=6&_psq=cologne&_psid=9682f8205&_ss=e",
       "source_price": 50,
-      "source_count": 17,
+      "source_count": 18,
       "sources": [
         {
           "retailer_slug": "bargain-chemist",
@@ -25123,6 +25316,17 @@
           "price": 79.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/abercrombie-fierce-100ml_675x675_47077533-a563-4689-a57f-c5f0a8d7e928.png?v=1749009002"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/abercrombie-fitch-fierce-cologne-for-men-100ml?_pos=5&_psq=cologne&_psid=0611261bb&_ss=e",
+          "brand": "Abercrombie & Fitch",
+          "name": "Abercrombie & Fitch Fierce Cologne For Men 100ml",
+          "size": "100ml",
+          "price": 99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20028615-0.jpg?v=1725000071"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -28021,10 +28225,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024025-0.jpg?v=1724985530",
       "description": "Designed for the fearless woman, like Britney, who dares to embrace her inner animal. Discover the desire to feel wild &amp; alive. Let the thrill rush through your body as you begin your next adventure. Jungle fantasy, the exotic new fragrance by Britney Spears. Welcome to the Jungle. This fresh, addictive fragrance invites you to take a walk on the wild side. Watermelon Blossom, Violet Leaf and Yuzu make an exuberant first impression, as Gustavia Flower, Water Lily and Gardenia excite its floral heart with an exotic flare. Tonka Bean Absolute and Cupcake Accord deliver hints of sweetness for a playful yet addictive finish.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-jungle-fantasy-edt-spray-100ml?_pos=4&_psq=Britney+Spears&_psid=68b1a6f8e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-jungle-fantasy-edt-spray-100ml?_pos=1&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
       "source_price": 59,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-jungle-fantasy-edt-spray-100ml?_pos=1&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Jungle Fantasy EDT Spray 100ml",
+          "size": "100ml",
+          "price": 59,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024025-0.jpg?v=1724985530"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -36736,10 +36951,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20025723-0.jpg?v=1769484700",
       "description": "The enticing contrast of succulent red plum, black raspberry and Italian bergamot against the sharp spike of ginger notes provides its opening. A heart of jasmine, rose water and French narcissus softens the composition before the scent deepens to a sweet, earthy finish of cashmere woods and Tahitian vanilla bourbon. A truly mesmerizing and elegant fragrance.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/elizabeth-arden-untold-edp-100ml?_pos=5&_psq=perfume&_psid=0bf25cde4&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/elizabeth-arden-untold-edp-100ml?_pos=3&_psq=perfume&_psid=361d1a0c4&_ss=e",
       "source_price": 69,
-      "source_count": 10,
+      "source_count": 11,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/elizabeth-arden-untold-edp-100ml?_pos=3&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Elizabeth Arden",
+          "name": "Elizabeth Arden Untold EDP 100ml",
+          "size": "100ml",
+          "price": 69,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20025723-0.jpg?v=1769484700"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -43812,10 +44038,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11009846-0.jpg?v=1769482780",
       "description": "The much-loved \"enfant terrible\" of Haute Couture has made this his avant-garde and binding signature since 1976. For men and women alike, the same irreverent sensuality and creativity uphold our diversity of expression. Free as life, his extraordinary classics champion inclusive fashion embracing different people, genres, cultures, the stylish and the popular, the catwalk and the street, today and yesterday. Liberté, égalité, Jean Paul Gaultier! This is the revolution embodied by his collections, exploring fun ways of using stripes and breaking with conformity. His hallmarks? The pink satin corset and the timeless sailor striped top that inspired the torso-shaped bottles for the famous his and her fragrances, Classique and Le Male, in the 90s. Symbolic of addictive and liberated seduction, the designer likes to present them in tin cans, the iconic packaging for all his fragrances. The flamboyant fragrance for her and the sexy and assertive fragrance for him played on fantasy to amaze and entice. Creating endless stories.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-male-edt-spray-125ml?_pos=4&_psq=edt&_psid=70fa35f82&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-male-edt-spray-125ml?_pos=1&_psq=edt&_psid=de0ae9170&_ss=e",
       "source_price": 94,
-      "source_count": 14,
+      "source_count": 15,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-male-edt-spray-125ml?_pos=1&_psq=edt&_psid=de0ae9170&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Male EDT 125ml",
+          "size": "125ml",
+          "price": 94,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11009846-0.jpg?v=1769482780"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -45629,10 +45866,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20008801-1.jpg?v=1758674499",
       "description": null,
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-prerogative-ego-edp-spray-100ml?_pos=3&_psq=Britney+Spears&_psid=68b1a6f8e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-prerogative-ego-edp-spray-100ml?_pos=3&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
       "source_price": 79,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-prerogative-ego-edp-spray-100ml?_pos=3&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Prerogative Ego EDP Spray 100ml",
+          "size": "100ml",
+          "price": 79,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20008801-1.jpg?v=1758674499"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -54762,7 +55010,7 @@
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/clin-aromatics-perfume-100ml?_pos=9&_psq=parfum&_psid=01ec4b8a4&_ss=e",
       "source_price": 89.99,
-      "source_count": 14,
+      "source_count": 15,
       "sources": [
         {
           "retailer_slug": "bargain-chemist",
@@ -54796,6 +55044,17 @@
           "price": 99.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CliniqueAromaticsElixir_W_ParfumSpray100ml.jpg?v=1689262611"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/clinique-aromatics-elixir-eau-de-parfum-spray-100ml?_pos=3&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
+          "brand": "Clinique",
+          "name": "Clinique Aromatics Elixir Eau de Parfum Spray 100ml",
+          "size": "100ml",
+          "price": 236,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11170487-0.jpg?v=1758674819"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -57036,10 +57295,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11253598-0_0d63a30d-6b0b-47ff-ad25-cd12545073a1.jpg?v=1753133402",
       "description": "Irresistibly fragrant blooms of Louisiana magnolia from Britney's home state are touched with a flirtatious hint of golden Anjou pear and dewy lotus flower tempt the senses. The anticipation builds with a fresh bouquet of natural flowers. Early morning tuberose is accented with sun-kissed petals of star jasmine. Energetic pink cyclamen brings and unexpected twist to a rich floral heart. As the excitement of the dare unravels, vanilla-infused musk reveals itself, spreading an addictive aura through the fragrance. This unforgettably sensual musk impression is enveloped in rich creamy sandalwood and radiant blonde woods.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-curious-edp-30ml?_pos=6&_psq=fragrance&_psid=e755920fd&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-curious-edp-30ml?_pos=7&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
       "source_price": 29,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-curious-edp-30ml?_pos=7&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Curious EDP 30ml",
+          "size": "30ml",
+          "price": 29,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11253598-0_0d63a30d-6b0b-47ff-ad25-cd12545073a1.jpg?v=1753133402"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -57185,10 +57455,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025862-0.jpg?v=1737425393",
       "description": "The fantasy begins with an enticing mix of lush red lychee, golden quince and exotic kiwi. Followed by a delicious trail of temptation laced with yummy Cupcake Accord, Jasmine Petals, and sexy White Chocolate Orchid. As the story ends a spell is cast with a surprising finish of Creamy Musk and Sensual Woods.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-fantasy-edp-spray-30ml?_pos=9&_psq=Britney+Spears&_psid=68b1a6f8e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-fantasy-edp-spray-30ml?_pos=8&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
       "source_price": 29,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-fantasy-edp-spray-30ml?_pos=8&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Fantasy EDP Spray 30ml",
+          "size": "30ml",
+          "price": 29,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025862-0.jpg?v=1737425393"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -57334,10 +57615,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025861-0.jpg?v=1737425392",
       "description": "The Fragrance An intoxicating elixir of luscious fruits invites you into a mysterious realm of temptation and intrigue. A seductive floral bouquet mingles with sensuous musks and dark amber to create an unforgettable MIDNIGHT fantasy. Dusk: Forbidden richness of Black Cherries fused with Framboise and Exotic Plum create a desire for more. Clock Strikes 12: Seductive Night Blooming Orchid and Freesia mischievously flirts with enticing Velvet Iris. Was it a dream? Unforgettable and magnetic Sensuous Musk Amber and Vanilla leave a warm and sexy trail of intrigue. MIDNIGHT fantasy BRITNEY SPEARS -- a new fragrance for the seductress inside us all � is a sophisticated twist on fantasy BRITNEY SPEARS. Created for the woman who is magnetic and enticing this flirty fragrance always leaves you wanting more. Take a magical journey into the night � because the magic begins at midnight.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-midnight-fantasy-edp-30ml?_pos=7&_psq=Britney+Spears&_psid=68b1a6f8e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-midnight-fantasy-edp-30ml?_pos=5&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
       "source_price": 29,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-midnight-fantasy-edp-30ml?_pos=5&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Midnight Fantasy EDP 30ml",
+          "size": "30ml",
+          "price": 29,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025861-0.jpg?v=1737425392"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -65824,10 +66116,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024026-0.jpg?v=1724985514",
       "description": "Designed for the fearless woman, like Britney, who dares to embrace her inner animal. Discover the desire to feel wild &amp; alive. Let the thrill rush through your body as you begin your next adventure. Jungle fantasy, the exotic new fragrance by Britney Spears. Welcome to the Jungle. This fresh, addictive fragrance invites you to take a walk on the wild side. Watermelon Blossom, Violet Leaf and Yuzu make an exuberant first impression, as Gustavia Flower, Water Lily and Gardenia excite its floral heart with an exotic flare. Tonka Bean Absolute and Cupcake Accord deliver hints of sweetness for a playful yet addictive finish.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-jungle-fantasy-edt-spray-30ml?_pos=5&_psq=Britney+Spears&_psid=68b1a6f8e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-jungle-fantasy-edt-spray-30ml?_pos=6&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
       "source_price": 35,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/britney-spears-jungle-fantasy-edt-spray-30ml?_pos=6&_psq=Britney+Spears&_psid=e884de5ff&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Jungle Fantasy EDT Spray 30ml",
+          "size": "30ml",
+          "price": 35,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024026-0.jpg?v=1724985514"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -72018,7 +72321,7 @@
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/ariana-grande-ari-edp-30ml-for-women-1?_pos=3&_psq=perfume&_psid=162200d10&_ss=e",
       "source_price": 40,
-      "source_count": 13,
+      "source_count": 14,
       "sources": [
         {
           "retailer_slug": "bargain-chemist",
@@ -72030,6 +72333,17 @@
           "price": 40,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/ari_by_ariana_grande_100ml_edp_1024x1024-2.jpg?v=1619046393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-ari-edp-30ml?_pos=4&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Ari EDP 30ml",
+          "size": "30ml",
+          "price": 62,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20007728-1.jpg?v=1724813324"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -75369,10 +75683,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11007678-0.jpg?v=1758688469",
       "description": "Calvin Klein Eternity for Men EDT 100ml is a timeless masculine fragrance known for its clean, fresh, and elegant scent profile. It belongs to the aromatic fougere family and has been a long standing signature fragrance for everyday wear.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/calvin-klein-eternity-mens-eau-de-toilette-spray-100ml?_pos=3&_psq=edt&_psid=70fa35f82&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/calvin-klein-eternity-mens-eau-de-toilette-spray-100ml?_pos=4&_psq=edt&_psid=de0ae9170&_ss=e",
       "source_price": 148,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/calvin-klein-eternity-mens-eau-de-toilette-spray-100ml?_pos=4&_psq=edt&_psid=de0ae9170&_ss=e",
+          "brand": "Calvin Klein",
+          "name": "Calvin Klein Eternity Mens EDT Spray 100ml",
+          "size": "100ml",
+          "price": 148,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11007678-0.jpg?v=1758688469"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -78216,10 +78541,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh-11012972-1.jpg?v=1724797951",
       "description": "Cool. Crisp. A hit of citrus. A refreshing scent for men. Wear it and be happy. Team with Clinique Happy For Men and grooming favourites for longer-lasting scent.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/clinique-happy-for-men-cologne-spray-100ml?_pos=2&_psq=cologne&_psid=9a816a024&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/clinique-happy-for-men-cologne-spray-100ml?_pos=2&_psq=cologne&_psid=0611261bb&_ss=e",
       "source_price": 153,
-      "source_count": 13,
+      "source_count": 14,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/clinique-happy-for-men-cologne-spray-100ml?_pos=2&_psq=cologne&_psid=0611261bb&_ss=e",
+          "brand": "Clinique",
+          "name": "Clinique Happy for Men Cologne Spray 100ml",
+          "size": "100ml",
+          "price": 153,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh-11012972-1.jpg?v=1724797951"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -79948,7 +80284,7 @@
       "source_name": "gadgets-online-shopify-suggest",
       "source_url": "https://www.gadgetsonline.co.nz/products/dolce-gabbana-devotion-100ml-edp-for-women",
       "source_price": 159,
-      "source_count": 4,
+      "source_count": 5,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
@@ -79960,6 +80296,17 @@
           "price": 159,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dolce---Gabbana-Devotion-100ML-EDP-for-Women-8057971183739.jpg?v=1781827652"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/dolce-gabbana-devotion-edp-100ml?_pos=7&_psq=fragrance&_psid=2de63c658&_ss=e",
+          "brand": "Dolce & Gabbana",
+          "name": "Dolce & Gabbana Devotion EDP 100ml",
+          "size": "100ml",
+          "price": 295,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20033889-0.jpg?v=1769990295"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -82587,7 +82934,7 @@
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-thank-u-next-edp-30ml?_pos=3&_psq=Ariana+Grande&_psid=1163ff17d&_ss=e",
       "source_price": 49.99,
-      "source_count": 15,
+      "source_count": 16,
       "sources": [
         {
           "retailer_slug": "bargain-chemist",
@@ -82621,6 +82968,17 @@
           "price": 59.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/ArianaGrandeThankUNextEDP30ml.jpg?v=1689888660"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-thank-u-next-edp-30ml?_pos=5&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Thank U Next EDP 30ml",
+          "size": "30ml",
+          "price": 68,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20007732-0.jpg?v=1737425392"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -84840,10 +85198,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024758-0.jpg?v=1724987595",
       "description": "Tommy Eau de Toilette captures the freedom and optimism of an American road trip. The original and iconic Tommy fragrance encourages you to take everything in and shape each day and every moment for the better.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/tommy-hilfiger-tommy-edt-50ml?_pos=3&_psq=eau+de+toilette&_psid=9ba90d575&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/tommy-hilfiger-tommy-edt-50ml?_pos=3&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
       "source_price": 85,
-      "source_count": 13,
+      "source_count": 14,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/tommy-hilfiger-tommy-edt-50ml?_pos=3&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+          "brand": "Tommy Hilfiger",
+          "name": "Tommy Hilfiger Tommy EDT 50ml",
+          "size": "50ml",
+          "price": 85,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024758-0.jpg?v=1724987595"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -88674,10 +89043,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20028614-0.png?v=1769484354",
       "description": "One of the most sought-after scents in the world, Fierce features a blend of marine breeze, sandalwood and sensual musk notes, for a fragrance that is truly unmistakable and instantly recognizable due to its signature scent. The same unmistakable fragrance now housed in a bottle that’s a modern icon. Fierce is bold and disruptive. Fierce is vulnerable. Fierce is redefined. Fierce is you. Join the new narrative and face your Fierce! Woody Aromatic Key Notes: Marine Breeze Sandalwood Sensual Musk",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/abercrombie-fitch-fierce-cologne-for-men-30ml?_pos=6&_psq=cologne&_psid=9a816a024&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/abercrombie-fitch-fierce-cologne-for-men-30ml?_pos=8&_psq=cologne&_psid=0611261bb&_ss=e",
       "source_price": 54,
-      "source_count": 13,
+      "source_count": 14,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/abercrombie-fitch-fierce-cologne-for-men-30ml?_pos=8&_psq=cologne&_psid=0611261bb&_ss=e",
+          "brand": "Abercrombie & Fitch",
+          "name": "Abercrombie & Fitch Fierce Cologne For Men 30ml",
+          "size": "30ml",
+          "price": 54,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20028614-0.png?v=1769484354"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -95953,10 +96333,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20018031-0.jpg?v=1758676016",
       "description": "Under a spring rain, nature opens up and reveals its true beauty. A Drop d’Issey Eau de Parfum Fraîche for women, by Issey Miyake, takes us on a journey to the heart of nature, carried on a fresh and floral trail. A fresh raindrop, bursting with energy and life, awakens and refreshes all the elements on its path. After A Drop d’Issey Eau de Parfum, A drop d’Issey Eau de Parfum Fraîche tells a new story of water infused with blossoms. FRAGRANCE A FLORAL AND REFRESHING AQUATIC LILAC In the top, the rain accord created by Ane Ayo give the fragrance its freshness. The heart note is where the lilac’s enveloping floral notes are revealed, harmonising with damask rose to offer a fresh, delicate flowery bouquet. In the base, the sandalwood, cedar wood and musky notes give its depth and roundness to the fragrance.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/issey-miyake-a-drop-dissey-edp-fraiche-50ml?_pos=8&_psq=fragrance&_psid=4680ca582&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/issey-miyake-a-drop-dissey-edp-fraiche-50ml?_pos=10&_psq=fragrance&_psid=2de63c658&_ss=e",
       "source_price": 99,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/issey-miyake-a-drop-dissey-edp-fraiche-50ml?_pos=10&_psq=fragrance&_psid=2de63c658&_ss=e",
+          "brand": "Issey Miyake",
+          "name": "Issey Miyake A Drop D'Issey EDP Fraiche 50ml",
+          "size": "50ml",
+          "price": 99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20018031-0.jpg?v=1758676016"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -96602,7 +96993,7 @@
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-mod-blush-edp-30ml?_pos=10&_psq=Ariana+Grande&_psid=6ab6473f7&_ss=e",
       "source_price": 59.99,
-      "source_count": 13,
+      "source_count": 14,
       "sources": [
         {
           "retailer_slug": "bargain-chemist",
@@ -96625,6 +97016,17 @@
           "price": 60,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3DF_800_edd60cbb-46d0-4486-82c0-1f87f6fc3aac.jpg?v=1745375864"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-mod-blush-edp-30ml?_pos=9&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Mod Blush EDP 30ml",
+          "size": "30ml",
+          "price": 85,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20029505-0.jpg?v=1737425393"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -100563,10 +100965,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20007731-0.jpg?v=1737425392",
       "description": null,
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-edp-30ml?_pos=10&_psq=Ariana+Grande&_psid=64411a527&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-edp-30ml?_pos=10&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
       "source_price": 62,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-edp-30ml?_pos=10&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy EDP 30ml",
+          "size": "30ml",
+          "price": 62,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20007731-0.jpg?v=1737425392"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -100769,10 +101182,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20018070-1.jpg?v=1769484680",
       "description": "Le Beau Le Parfum, Jean Paul Gaultier’s intense first man. In the mysterious depths of its dense vegetation, the Garden of Gaultier arouses the senses with an increasingly hypnotic intensity that challenges taboos. The seductively naked Le Beau Le Parfum bottle will draw you into the depths of its irresistibly sensual lacquered blue stripes. All eyes are drawn to the dazzling golden vine leaf. Let its woody amber strength and fresh addictive fragrance notes break all the rules to seduce you.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-le-parfum-edp-125ml?_pos=6&_psq=parfum&_psid=0e73d3ab0&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-le-parfum-edp-125ml?_pos=8&_psq=parfum&_psid=670b2922f&_ss=e",
       "source_price": 260,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-le-parfum-edp-125ml?_pos=8&_psq=parfum&_psid=670b2922f&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Beau Le Parfum EDP 125ml",
+          "size": "125ml",
+          "price": 260,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20018070-1.jpg?v=1769484680"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -102874,10 +103298,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11007679-0.jpg?v=1758688469",
       "description": "Eternity was created by Calvin Klein in 1988 and is recommended for daytime wear. This scent possesses a blend of white lily, white florals, marigold, and mandarin. Accompanied by an amber and sandalwood background. For Him",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/calvin-klein-eternity-mens-edt-spray-50ml?_pos=9&_psq=edt&_psid=70fa35f82&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/calvin-klein-eternity-mens-edt-spray-50ml?_pos=6&_psq=edt&_psid=de0ae9170&_ss=e",
       "source_price": 108,
-      "source_count": 19,
+      "source_count": 20,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/calvin-klein-eternity-mens-edt-spray-50ml?_pos=6&_psq=edt&_psid=de0ae9170&_ss=e",
+          "brand": "Calvin Klein",
+          "name": "Calvin Klein Eternity Mens EDT Spray 50ml",
+          "size": "50ml",
+          "price": 108,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11007679-0.jpg?v=1758688469"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -105591,7 +106026,7 @@
       "source_name": "gadgets-online-shopify-suggest",
       "source_url": "https://www.gadgetsonline.co.nz/products/ysl-y-iced-cologne-edt-intense-100ml-for-men?_pos=6&_psq=cologne&_psid=9ce9a8833&_ss=e",
       "source_price": 224,
-      "source_count": 17,
+      "source_count": 18,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
@@ -105625,6 +106060,17 @@
           "price": 224,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/YSLYIcedCologneEDTIntense100ml.jpg?v=1786339965"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-y-iced-cologne-edt-intense-100ml?_pos=1&_psq=cologne&_psid=0611261bb&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Y Iced Cologne EDT Intense 100ml",
+          "size": "100ml",
+          "price": 250,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043342-0.jpg?v=1784066051"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -106673,10 +107119,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20010314-1.png?v=1744061817",
       "description": null,
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/stronger-with-you-intensely-edp-spray-100ml?_pos=1&_psq=edp&_psid=1c22bf5bc&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/stronger-with-you-intensely-edp-spray-100ml?_pos=1&_psq=edp&_psid=350612938&_ss=e",
       "source_price": 226,
-      "source_count": 13,
+      "source_count": 14,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/stronger-with-you-intensely-edp-spray-100ml?_pos=1&_psq=edp&_psid=350612938&_ss=e",
+          "brand": "Emporio Armani",
+          "name": "Stronger with You Intensely EDP Spray 100ml",
+          "size": "100ml",
+          "price": 226,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20010314-1.png?v=1744061817"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -109723,7 +110180,7 @@
       "source_name": "gadgets-online-shopify-suggest",
       "source_url": "https://www.gadgetsonline.co.nz/products/dolce-gabbana-devotion-50ml-edp-for-women",
       "source_price": 119,
-      "source_count": 4,
+      "source_count": 5,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
@@ -109735,6 +110192,17 @@
           "price": 119,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dolce---Gabbana-Devotion-50ML-EDP-For-Women-8057971183722.jpg?v=1781827694"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/dolce-gabbana-devotion-edp-50ml?_pos=1&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
+          "brand": "Dolce & Gabbana",
+          "name": "Dolce & Gabbana Devotion EDP 50ml",
+          "size": "50ml",
+          "price": 225,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20033890-0.jpg?v=1769990305"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -111397,7 +111865,7 @@
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-mod-vanilla-edp-30ml?_pos=2&_psq=Ariana+Grande&_psid=3fa9ebec8&_ss=e",
       "source_price": 72.99,
-      "source_count": 13,
+      "source_count": 14,
       "sources": [
         {
           "retailer_slug": "bargain-chemist",
@@ -111409,6 +111877,17 @@
           "price": 72.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/arianamodvan.jpg?v=1745375746"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-mod-vanilla-edp-30ml?_pos=7&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Mod Vanilla EDP 30ml",
+          "size": "30ml",
+          "price": 85,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20029506-0.jpg?v=1737425393"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -111557,7 +112036,7 @@
       "source_name": "gadgets-online-shopify-suggest",
       "source_url": "https://www.gadgetsonline.co.nz/products/coach-cherry-parfum-90ml",
       "source_price": 219,
-      "source_count": 10,
+      "source_count": 11,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
@@ -111569,6 +112048,17 @@
           "price": 219,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/CoachCherryParfum90ml.jpg?v=1788482029"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/coach-cherry-parfum-90ml?_pos=5&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Coach",
+          "name": "Coach Cherry Parfum 90ml",
+          "size": "90ml",
+          "price": 247,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045410-0.jpg?v=1789421607"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -112415,7 +112905,7 @@
       "source_name": "gadgets-online-shopify-suggest",
       "source_url": "https://www.gadgetsonline.co.nz/products/prada-paradigme-edp-100ml-for-men",
       "source_price": 247,
-      "source_count": 14,
+      "source_count": 15,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
@@ -112427,6 +112917,17 @@
           "price": 247,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/PradaParadigmeEDP100mlforMen_22d6714c-ffd6-4df0-945b-33cfd564ede0.jpg?v=1781827781"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=5&_psq=fragrance&_psid=2de63c658&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -114305,6 +114806,34 @@
       ]
     },
     {
+      "brand": "Valentino",
+      "name": "Valentino Born In Roma Uomo Intense EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 253,
+      "price_per_100ml": 253,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20021676-0.jpg?v=1723591282",
+      "description": "An outstanding tribute to Rome and its sunsets, Born In Roma Intense aims at exalting your magnificent personality, celebrating a night in the eternal city. The scent of this Born in Roma fragrance amplifies the Born In Roma addiction by pushing powerful vanilla &amp; jasmine into a captivating embrace to glorify magnificent personalities. This is enhanced by a trio of luminous Jasmine and warm benzoin giving a seductive allure to the Aristo punks evenings. The bottle pays tribute to the iconic Valentino Rockstud. This edgy pyramidal design, inspired by Roman architecture, is a house signature of Maison Valentino. The edgy rock-studded bottle is made even more modern thanks to the contrast of black leather with vivid pink. Because at Valentino, pink is punk, and poetic, romantic but also bold and daring. There are no rules. Born in Roma Intense is a bewitching magnetic and floral Couture fragrance is designed for those who live intensely and passionately with a touch of extravagance. It allows cool kids to express themselves with intensity and experience life with abundance and duality. This iconic duo playfully challenges the rivalry between day and night, classic and intensity and you and me.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-intense-edp-100ml?_pos=7&_psq=cologne&_psid=0611261bb&_ss=e",
+      "source_price": 253,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-intense-edp-100ml?_pos=7&_psq=cologne&_psid=0611261bb&_ss=e",
+          "brand": "Valentino",
+          "name": "Valentino Born In Roma Uomo Intense EDP 100ml",
+          "size": "100ml",
+          "price": 253,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20021676-0.jpg?v=1723591282"
+        }
+      ]
+    },
+    {
       "brand": "DOLCE & GABBANA",
       "name": "D&G The One Wmns EDP 75ml 3pc Set25",
       "size": "75ml",
@@ -114868,7 +115397,7 @@
       "source_name": "gadgets-online-shopify-suggest",
       "source_url": "https://www.gadgetsonline.co.nz/products/ysl-y-iced-cologne-edt-intense-60ml-for-men",
       "source_price": 154,
-      "source_count": 15,
+      "source_count": 16,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
@@ -114880,6 +115409,17 @@
           "price": 154,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/YSLYIcedCologneEDTIntense60ml.jpg?v=1786339966"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-y-iced-cologne-edt-intense-60ml?_pos=4&_psq=cologne&_psid=0611261bb&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Y Iced Cologne EDT Intense 60ml",
+          "size": "60ml",
+          "price": 180,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043343-0.jpg?v=1784066051"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -116049,10 +116589,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035806-0.jpg?v=1787088900",
       "description": "Introducing the Ariana Grande Cloud Pink EDP Spray, a delightful fragrance crafted exclusively for ladies. Launched in 2023, this enchanting scent belongs to the Amber Vanilla fragrance family, making it a perfect addition to any collection. The top notes of Pitahaya, Wild berries, and Pineapple create a sparkling and fruity opening that captures your senses. As the fragrance unfolds, the heart notes of Coconut water, Vanilla orchid, and Ambrette bring a creamy and floral touch, adding depth and elegance. Finally, the base notes of Praline, Musk, Amberwood, and Moss provide a warm and lingering finish, ensuring the scent stays with you throughout the day. Created by the renowned design house Ariana Grande, known for its celebrity-inspired fragrances, Cloud Pink is a must-have for fans and fragrance enthusiasts alike. Packaged in a convenient 1.0 oz size, this EDP Spray is perfect for on-the-go spritzing. Elevate your scent game with the Ariana Grande Cloud Pink EDP Spray. Embrace the luxurious blend of sweet and sophisticated notes, and let the world notice your unique fragrance.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-cloud-pink-edp-30ml?_pos=6&_psq=Ariana+Grande&_psid=b39d182e9&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-cloud-pink-edp-30ml?_pos=2&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
       "source_price": 79,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-cloud-pink-edp-30ml?_pos=2&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Cloud Pink EDP 30ml",
+          "size": "30ml",
+          "price": 79,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035806-0.jpg?v=1787088900"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -118262,10 +118813,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040529-0.jpg?v=1774819972",
       "description": "In first class on the Gaultier train, Scandal Pour Homme Elixir reigns supreme with its fruity, woody amber fragrance. Its provocative cherry and decadent patchouli assert themselves with panache. Its tonka bean is outrageously suave. Who wouldn't dream of crossing its path? Behind the red velvet and closed door of its very private case, only the most impertinent can enter and succumb to the silver gradation of its bottle and amber fragrance. Crowned with intensity and excess, everything about it says temptation. Its excess is all-powerful, its pleasures heightened. Are passengers offended? Great! That’s the goal.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-scandal-pour-homme-elixir-parfum-100ml?_pos=9&_psq=fragrance&_psid=373a90216&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-scandal-pour-homme-elixir-parfum-100ml?_pos=9&_psq=parfum&_psid=670b2922f&_ss=e",
       "source_price": 275,
-      "source_count": 8,
+      "source_count": 9,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-scandal-pour-homme-elixir-parfum-100ml?_pos=9&_psq=parfum&_psid=670b2922f&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Scandal Pour Homme Elixir Parfum 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040529-0.jpg?v=1774819972"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -119807,10 +120369,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714",
       "description": "This olfactive creation expresses a seductive femininity that captures the unapologetic attitude that defines the House. The scent opens with vibrant citrus freshness, where distinctive Calabrian bergamot weaves together with the velvety, juicy sweetness of peach essence – like fruit just picked from a sun-drenched orchard. A whisper of pink peppercorn adds bright sophistication. At the fragrance’s heart, the green rosebud slowly blooms – young and full of life, wrapped in spiced and fruity shadows that evoke the delicacy of a morning rose garden kissed by dew. Jasmine brings velvet softness, while raspberry sorbet adds a colourful, addictive note. Finally, the enveloping, lasting embrace of white musk blends with the warmth of Brazilian tonka bean and a hint of incense, creating a refined and unmistakable trail that seals a powerful yet elegant olfactory signature.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=5&_psq=fragrance&_psid=e755920fd&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=2&_psq=perfume&_psid=361d1a0c4&_ss=e",
       "source_price": 253,
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=2&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 90ml",
+          "size": "90ml",
+          "price": 253,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -122796,10 +123369,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20008435-0.jpg?v=1758674500",
       "description": "Her London Dream: a modern yet romantic, dream-like moment, set in the heart of London. Effortlessly natural – the epitome of the Burberry girl attitude – Her London Dream brings to life the beauty and freedom of hazy days in London. Bright and intriguing, it embodies a relaxed and youthful sense of style. Radiant and sparkling, the signature Her scent evolves into Her London Dream, with ripe top notes of lemon and fresh ginger – vibrant and memorable. With a romantic rose and peony heart.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-london-dream-edp-100ml?_pos=8&_psq=Burberry&_psid=3f0ea73fe&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-london-dream-edp-100ml?_pos=9&_psq=Burberry&_psid=98681b162&_ss=e",
       "source_price": 294,
-      "source_count": 8,
+      "source_count": 9,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-london-dream-edp-100ml?_pos=9&_psq=Burberry&_psid=98681b162&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry Her London Dream EDP 100ml",
+          "size": "100ml",
+          "price": 294,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20008435-0.jpg?v=1758674500"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -122887,6 +123471,34 @@
           "price": 294,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20008435-0.jpg?v=1758674500"
+        }
+      ]
+    },
+    {
+      "brand": "Burberry",
+      "name": "Burberry Her EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 294,
+      "price_per_100ml": 294,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20005809-0.jpg?v=1758675726",
+      "description": "A vibrant fruity gourmand capturing the spirit of London. Red and dark berry notes meet a floral heart signed with a scent of jasmine. The bottle is luxurious yet understated, inspired by an archival Burberry fragrance design. It slips perfectly into Her bag as she's heading out the door.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-edp-100ml?_pos=10&_psq=Burberry&_psid=98681b162&_ss=e",
+      "source_price": 294,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-edp-100ml?_pos=10&_psq=Burberry&_psid=98681b162&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry Her EDP 100ml",
+          "size": "100ml",
+          "price": 294,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20005809-0.jpg?v=1758675726"
         }
       ]
     },
@@ -123505,6 +124117,62 @@
           "price": 149,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20011892-1.jpg?v=1744061882"
+        }
+      ]
+    },
+    {
+      "brand": "Dolce & Gabbana",
+      "name": "Dolce & Gabbana Dolce Violet EDT 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 149,
+      "price_per_100ml": 298,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024500-0.jpg?v=1759438342",
+      "description": "Dolce Violet Eau de Toilette celebrates the enchanting Violet, a flower full of light. An optimistic and joyful fragrance for girls who are ready to live their main character moment. The Dolce Violet Eau de Toilette fragrance for women is a joyful and optimistic fragrance with notes of cassis, violet and vanilla from Madagascar that reflects a girl’s vibrance and determination. She knows how to live lightheartedly without losing sight of her objectives. THE DESIGN Dolce Violet Eau de Toilette is encased in a curved bottle presented in an enchanting shade of violet. The bottle with its iconic flower cap is further embellished with a black grosgrain ribbon, a sophisticated and elegant detail, just like the Dolce girl.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/dolce-gabbana-dolce-violet-edt-50ml?_pos=5&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+      "source_price": 149,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/dolce-gabbana-dolce-violet-edt-50ml?_pos=5&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+          "brand": "Dolce & Gabbana",
+          "name": "Dolce & Gabbana Dolce Violet EDT 50ml",
+          "size": "50ml",
+          "price": 149,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024500-0.jpg?v=1759438342"
+        }
+      ]
+    },
+    {
+      "brand": "Dolce & Gabbana",
+      "name": "Dolce & Gabbana K EDT 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 149,
+      "price_per_100ml": 298,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024534-0.png?v=1759438351",
+      "description": "Masculine, authentic, charismatic. K by Dolce &amp; Gabbana Eau de Toilette is a perfume which captures the essence of the contemporary man, a king of everyday life. Charismatic and sensual, K by Dolce &amp; Gabbana Eau de Toilette fragrance for men leaves a blazing trail of seduction unfolds in a blend of spicy chili pepper, French lavender, and Haitian vetiver. THE DESIGN The geometric shape of the flacon of K by Dolce &amp; Gabbana Eau de Toilette is embellished on top with a crown. Coated with 24-carat gold pigments, the cap is decorated with a blue lapis lazuli dome, using a process that recreates the natural marbling of the stone, making each piece unique.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/dolce-gabbana-k-by-dolce-gabbana-edt-50ml?_pos=4&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+      "source_price": 149,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/dolce-gabbana-k-by-dolce-gabbana-edt-50ml?_pos=4&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+          "brand": "Dolce & Gabbana",
+          "name": "Dolce & Gabbana K EDT 50ml",
+          "size": "50ml",
+          "price": 149,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024534-0.png?v=1759438351"
         }
       ]
     },
@@ -124894,6 +125562,34 @@
       ]
     },
     {
+      "brand": "Estée Lauder",
+      "name": "Estée Lauder Knowing EDP Spray 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 225,
+      "price_per_100ml": 300,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11013128-0.jpg?v=1739156034",
+      "description": "Knowing is all. All rich woods and luxurious florals with luscious fruity accents. Worldly and warm. Intensely feminine. Created for the self-assured woman who knows who she is and what she wants. Top Notes: Rose Tuberose Mimosa Plum Pittosporum Middle Notes: Jasmine Patchouli Orange Flower Base Notes: Oakmoss Vetiver Sandalwood Amber THE INSPIRATION When on a holiday trip in the south of France Evelyn Lauder was intrigued with a floral scent that wafted through the garden below her balcony. She searched for the source and found that it was the pittosporum flower which she immediately knew could be the floral centre of a wonderful fragrance. So beautifully orchestrated is the deep warm scent of Knowing that it can almost be touched and felt.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/estee-lauder-knowing-edp-spray-75ml?_pos=8&_psq=fragrance&_psid=2de63c658&_ss=e",
+      "source_price": 225,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/estee-lauder-knowing-edp-spray-75ml?_pos=8&_psq=fragrance&_psid=2de63c658&_ss=e",
+          "brand": "Estée Lauder",
+          "name": "Estée Lauder Knowing EDP Spray 75ml",
+          "size": "75ml",
+          "price": 225,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11013128-0.jpg?v=1739156034"
+        }
+      ]
+    },
+    {
       "brand": "Jean Paul Gaultier",
       "name": "Jean Paul Gaultier Scandal Intense Parfum 80ml",
       "size": "80ml",
@@ -125232,10 +125928,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20021178-0.jpg?v=1724979548",
       "description": "Burberry Her Elixir de Parfum: a bold and sensual fragrance for women. Moving beyond the adventurous spirit of the Burberry Her EDP, the scent is the latest chapter in the intensifying story of Burberry Her. Designed for women who dare to explore the unknown, Her Elixir de Parfum is for the free-spirited woman seeking the excitement of her next adventure. Sensual, irresistible and not held back by boundaries, she possesses an addictive persona. Her Elixir de Parfum for women offers signature fruity gourmand notes alongside a daring burst of dark red berries with jasmine, rounded with sensual and addictive vanilla and amber. Burberry Her Elixir de Parfum deepens the pink of the EDP bottle, transforming it into an opaque finish representing the intensity of the fragrance inside and its confident and sensual nature.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-elixir-de-parfum-for-women-100ml?_pos=5&_psq=Burberry&_psid=3b332676e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-elixir-de-parfum-for-women-100ml?_pos=4&_psq=Burberry&_psid=98681b162&_ss=e",
       "source_price": 304,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-elixir-de-parfum-for-women-100ml?_pos=4&_psq=Burberry&_psid=98681b162&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry Her Elixir de Parfum for Women 100ml",
+          "size": "100ml",
+          "price": 304,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20021178-0.jpg?v=1724979548"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -127061,6 +127768,34 @@
       ]
     },
     {
+      "brand": "Ralph Lauren",
+      "name": "Ralph Lauren Ralph's Club EDT 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 158,
+      "price_per_100ml": 316,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20032246-0.jpg?v=1769989414",
+      "description": "Ralph’s Club Eau de Toilette is an effortlessly refined and incredibly fresh blend. This scent bursts open with fruity and vibrant notes of Grapefruit, balanced with rich Lavandin and Clary Sage that reveal an exceptionally polished aromatic core. The sparkling top notes give way to the elegant essence of Geranium, bringing a floral air to the scent. To further enhance its allure, the fragrance uncovers a perfect balance of opulent woods refined by the delicacy of Musks for an added intimacy. Ralph’s Club Eau de Toilette is an expression of pure clarity, embracing the spirit of elegance and sophistication",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/ralph-lauren-ralphs-club-edt-50ml?_pos=2&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+      "source_price": 158,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ralph-lauren-ralphs-club-edt-50ml?_pos=2&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+          "brand": "Ralph Lauren",
+          "name": "Ralph Lauren Ralph's Club EDT 50ml",
+          "size": "50ml",
+          "price": 158,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20032246-0.jpg?v=1769989414"
+        }
+      ]
+    },
+    {
       "brand": "Histoires De Parfums",
       "name": "Prolixe by Histoires De Parfums 60ml EDP",
       "size": "60ml",
@@ -128122,11 +128857,11 @@
       "price_per_100ml": 320,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/CarolinaHerreraLaBombaEDP80ml_fddbc9a3-579d-4481-9928-20b305a0f011.jpg?v=1786340050",
-      "description": "Carolina Herrera La Bomba EDP 80ml for Women Carolina Herrera La Bomba EDP 80ml for Women is a bold oriental floral Eau de Parfum with pitahaya (dragon fruit), frangipani, red peony, vanilla and patchouli. It opens with a vivid burst of pitahaya (dragon fruit), moves into frangipani and red peony, then settles into vanilla and patchouli. This 80ml Eau de Parfum is ideal for women who enjoy bold oriental floral perfumes with exotic fruity brightness, lush floral warmth and soft vanilla depth. La Bomba suits evenings, date nights, parties, special occasions, gifting, autumn, winter and bold feminine fragrance styling. Buy Carolina Herrera perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Note: Pitahaya (Dragon Fruit). Heart Notes: Frangipani and red peony. Base Notes: Vanilla and patchouli. Scent Profile La Bomba EDP opens with a vivid, juicy burst of pitahaya (dragon fruit) before revealing a lush floral heart of frangipani and red peony. Vanilla and patchouli give the dry-down a warm oriental depth with a soft, addictive finish. Who Is It For? This Carolina Herrera women's perfume is ideal for customers who enjoy bold oriental floral fragrances, exotic fruity top notes, warm floral hearts and soft vanilla warmth. It is a strong choice for customers wanting a full-size Carolina Herrera Eau de Parfum with evening, gifting and dressed-up versatility. When to Wear Daytime: Cooler-day wear, brunch, shopping and polished feminine styling. Evening: Dinners, date nights, parties, celebrations, special occasions and dressed-up events. Season: Best suited to autumn, winter and cooler New Zealand weather, while wearable year-round depending on preference. Occasion: A premium gifting choice for customers who enjoy bold, statement-making designer women's perfumes. Longevity & Sillage As an Eau de Parfum, La Bomba is designed to offer a bold oriental floral scent impression with exotic fruity brightness and warm vanilla depth. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Carolina Herrera La Bomba Fragrances to Explore Carolina Herrera La Bomba EDP 50ml — the 50ml La Bomba option for customers who enjoy bold oriental floral styling with pitahaya, frangipani and vanilla. Carolina Herrera Good Girl EDP 80ml — a warm amber floral gourmand direction with almond, coffee, white florals, cacao and vanilla. Carolina Herrera Very Good Girl EDP 80ml — a fruity floral Good Girl flanker with litchi, red currant, rose, vanilla and vetiver. Carolina Herrera Good Girl Supreme EDP 80ml — a richer Good Girl direction with berry, floral and gourmand warmth. Similar Designer Fragrances Carolina Herrera Good Girl Blush EDP 80ml — a softer floral amber Good Girl direction with bergamot, peony, rose water, vanilla and tonka bean. Carolina Herrera 212 Sexy Women EDP 100ml — a warm floral amber designer perfume with pink pepper, gardenia, vanilla, musk and sandalwood. Gucci Bloom EDP 100ml — a rich white floral fragrance with tuberose, jasmine and sandalwood. Premium & Niche Alternatives Byredo La Tulipe EDP 100ml — a premium fresh floral fragrance with elegant feminine styling. Byredo Blanche EDP 100ml — a clean premium floral musk option for customers wanting a softer modern niche direction. Explore More Fragrances Browse more Carolina Herrera perfumes , women's perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Carolina Herrera Fragrance: La Bomba Size: 80ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Oriental Floral Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What's Included: One Carolina Herrera La Bomba EDP 80ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying, as this can affect how the scent develops. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "description": "La Bomba Eau de Parfum is a spectacular new feminine fragrance that invites you to spread your wings out wide and live your life loud and free. Presented in a stunning refillable butterfly bottle, this floral-fruity scent captures the essence of self-celebration and liberation with a joyful blend of exotic pitaya, rich cherry peony and solar vanilla. A tribute to the passion and contagious energy of the Herrera woman.",
       "source_name": "gadgets-online-shopify-suggest",
       "source_url": "https://www.gadgetsonline.co.nz/products/carolina-herrera-la-bomba-edp-80ml?_pos=4&_psq=Carolina+Herrera&_psid=acafe288f&_ss=e",
       "source_price": 256,
-      "source_count": 4,
+      "source_count": 5,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
@@ -128160,6 +128895,17 @@
           "price": 256,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/CarolinaHerreraLaBombaEDP80ml_fddbc9a3-579d-4481-9928-20b305a0f011.jpg?v=1786340050"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/carolina-herrera-la-bomba-edp-80ml?_pos=6&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera La Bomba EDP 80ml",
+          "size": "80ml",
+          "price": 285,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20044442-0.png?v=1784669638"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -129404,7 +130150,7 @@
       "source_name": "gadgets-online-shopify-suggest",
       "source_url": "https://www.gadgetsonline.co.nz/products/yves-saint-laurent-myslf-le-parfum-60ml-for-men",
       "source_price": 195,
-      "source_count": 11,
+      "source_count": 12,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
@@ -129416,6 +130162,17 @@
           "price": 195,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Yves-Saint-Laurent-Myslf-Le-Parfum-60ml-for-Men-3614274114652.jpg?v=1781827759"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-myslf-le-parfum-60ml?_pos=4&_psq=parfum&_psid=670b2922f&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Myslf Le Parfum 60ml",
+          "size": "60ml",
+          "price": 237,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20031012-0.jpg?v=1727821843"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -131724,6 +132481,45 @@
       ]
     },
     {
+      "brand": "Burberry",
+      "name": "Burberry Goddess EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 334,
+      "price_per_100ml": 334,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024049-0.jpg?v=1724985207",
+      "description": "The power within. Burberry Goddess tells a story of self-discovery. The new campaign follows Emma Mackey and a pride of lionesses. Radiating confidence, strength and kindness, Emma embodies the spirit of Burberry Goddess EDP. This unique fragrance is made with a vegan formula led by a powerful trio of vanillas. On top, a vanilla infusion with woody tonalities, at the heart a vanilla caviar with a rich sweetness, and at the base a vanilla absolute enriched with luminous lavender. This scent is a unique gourmand aromatic fragrance led by a powerful trio of vanillas, enriched with luminous lavender. Refill sold separately. Burberry Goddess EDP is encased in an elegant square-shaped bottle designed to be refilled. Refill sold separately. Pale pink packaging adorned with a gold medallion reference the brand’s rich heritage.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-goddess-edp-100ml?_pos=6&_psq=Burberry&_psid=98681b162&_ss=e",
+      "source_price": 334,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-goddess-edp-100ml?_pos=6&_psq=Burberry&_psid=98681b162&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry Goddess EDP 100ml",
+          "size": "100ml",
+          "price": 334,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024049-0.jpg?v=1724985207"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-goddess-parfum-100ml?_pos=7&_psq=Burberry&_psid=98681b162&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry Goddess Parfum 100ml",
+          "size": "100ml",
+          "price": 366,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037884-0_25adf3ac-e8a2-4f68-ab54-121f7c041f26.jpg?v=1761776185"
+        }
+      ]
+    },
+    {
       "brand": "Thierry Mugler",
       "name": "Thierry Mugler Angel Stellar EDP 100ml",
       "size": "100ml",
@@ -132193,7 +132989,7 @@
       "source_name": "gadgets-online-shopify-suggest",
       "source_url": "https://www.gadgetsonline.co.nz/products/coach-cherry-parfum-50ml",
       "source_price": 169,
-      "source_count": 10,
+      "source_count": 11,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
@@ -132205,6 +133001,17 @@
           "price": 169,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/CoachCherryParfum50ml.jpg?v=1788482032"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/coach-cherry-parfum-50ml?_pos=1&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Coach",
+          "name": "Coach Cherry Parfum 50ml",
+          "size": "50ml",
+          "price": 190,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045411-0.jpg?v=1789421608"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -134362,10 +135169,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20026392-0.jpg?v=1724998301",
       "description": "A bold dusk scent with lavender, orange blossom, and vanilla—for the rebellious souls. Following the mysterious facet of Phantom Parfum, a bolder face of Phantom comes alive as the story unfolds. With Phantom Intense, discover a fresher incarnation in an aromatic ambery accord of vivid lavender, a vanilla addiction, and a frosted orange-blossom twist. Crafted with ethically sourced ingredients and refined to perfection, Phantom Intense channels the electric energy of Paris at twilight. It's magnetic, mysterious, and made for those who crave long-lasting intensity. Inspired by the changing light of dusk, Phantom Intense comes in a bold black-to-blue gradient bottle—a striking blend of transparency and depth, made to match your aura. Refill. Recharge. Own the Night. The 150ml bottle of Phantom Intense is made to stay. Refill it with the 200ml recharge and keep your twilight thrill alive, sustainably. Spray on pulse points—neck, chest, wrists—from 15 to 20 cm. Step into twilight. Glow harder. Rebel louder.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/rabanne-phantom-edp-intense-50ml?_pos=4&_psq=edp&_psid=1c22bf5bc&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/rabanne-phantom-edp-intense-50ml?_pos=4&_psq=edp&_psid=350612938&_ss=e",
       "source_price": 175,
-      "source_count": 10,
+      "source_count": 11,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/rabanne-phantom-edp-intense-50ml?_pos=4&_psq=edp&_psid=350612938&_ss=e",
+          "brand": "Rabanne",
+          "name": "Rabanne Phantom EDP Intense 50ml",
+          "size": "50ml",
+          "price": 175,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20026392-0.jpg?v=1724998301"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -134667,10 +135485,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20018871-0.png?v=1776737653",
       "description": "Inspired by the trench coat and its heritage of British design and craftsmanship, My Burberry captures the fragrance of a London garden after the rain. The scent is a contemporary British grand floral. Top notes of sweet pea and bergamot fuse with a geranium leaf, golden quince and freesia heart, rounded out with a base of patchouli and rain-tipped damask and centifolia roses. The bottle reflects iconic details of the trench coat: a bold horn-finish cap echoes its distinctive buttons and the hand-tied bow is English-woven gabardine, honouring the fabric invented by Thomas Burberry over 100 years ago.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-my-burberry-edp-90ml?_pos=10&_psq=Burberry&_psid=3b332676e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-my-burberry-edp-90ml?_pos=8&_psq=Burberry&_psid=98681b162&_ss=e",
       "source_price": 318,
-      "source_count": 13,
+      "source_count": 14,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-my-burberry-edp-90ml?_pos=8&_psq=Burberry&_psid=98681b162&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry My Burberry EDP 90ml",
+          "size": "90ml",
+          "price": 318,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20018871-0.png?v=1776737653"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -134827,10 +135656,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20005815-0.jpg?v=1758675726",
       "description": "My Burberry Black is a fragrance that follows the same codes of craftsmanship, innovation and appreciation as the iconic Heritage Trench Coat. An intense and sensual reinterpretation by renowned perfumer Francis Kurkdjian, My Burberry Black travels back to a London garden amidst a gathering storm; heavy rain contrasting with the warm and captivating flora. The fragrance fuses the scent of sun-drenched jasmine flower and peach nectar with a touch of rose. This signature rose note at the heart of My Burberry is given a sweet and inviting candied twist, while rich amber patchouli rounds off the scent for a deep and captivating finish. The rich, amber-coloured bottle is finished with a hand-tied black gabardine knot and set with a dark, elevated horn-look lid, inspired by the buttons of the Burberry trench coat.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-my-burberry-black-edp-90ml?_pos=6&_psq=Burberry&_psid=3b332676e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-my-burberry-black-edp-90ml?_pos=5&_psq=Burberry&_psid=98681b162&_ss=e",
       "source_price": 318,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-my-burberry-black-edp-90ml?_pos=5&_psq=Burberry&_psid=98681b162&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry My Burberry Black EDP 90ml",
+          "size": "90ml",
+          "price": 318,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20005815-0.jpg?v=1758675726"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -136587,7 +137427,7 @@
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-extradose-edp-50ml?_pos=4&_psq=edp&_psid=af2307433&_ss=e",
       "source_price": 180,
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
         {
           "retailer_slug": "life-pharmacy",
@@ -136608,6 +137448,17 @@
           "name": "Valentino Born in Roma Uomo Extradose EDP 50ml",
           "size": "50ml",
           "price": 180,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034924-0.png?v=1758319963"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-uomo-extradose-edp-50ml?_pos=10&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Valentino",
+          "name": "Valentino Born in Roma Uomo Extradose EDP 50ml",
+          "size": "50ml",
+          "price": 182,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034924-0.png?v=1758319963"
         },
@@ -136898,6 +137749,34 @@
       ]
     },
     {
+      "brand": "Prada",
+      "name": "Prada La Femme EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 363,
+      "price_per_100ml": 363,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11271463-0.jpg?v=1723594463",
+      "description": "Le Femme Prada pays tribute to the unexpected Frangipan. A hyper-sensual floral, mellowed by beeswax and vanilla and enhanced with tuberose absolute and a surprisingly feminine vetiver, bringing positive energy. Notes: Frangipani, Honey, Tuberose, Ylang ylang, Vetiver, Vanilla 100 ml",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/prada-la-femme-edp-100ml?_pos=4&_psq=fragrance&_psid=2de63c658&_ss=e",
+      "source_price": 363,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-la-femme-edp-100ml?_pos=4&_psq=fragrance&_psid=2de63c658&_ss=e",
+          "brand": "Prada",
+          "name": "Prada La Femme EDP 100ml",
+          "size": "100ml",
+          "price": 363,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11271463-0.jpg?v=1723594463"
+        }
+      ]
+    },
+    {
       "brand": "Billie Eilish",
       "name": "Billie Eilish Your Turn II EDP 30ml",
       "size": "30ml",
@@ -137045,11 +137924,11 @@
       "price_per_100ml": 363.33,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/CoachCherryParfum30ml.jpg?v=1788482036",
-      "description": "Coach Cherry Parfum 30ml is a vibrant Floral Fruity fragrance for women, launched in 2026. Created by Natalie Gracia-Cetto and Nadège Le Garlantezec, Coach Cherry is a bold, joyful composition inspired by the lively energy of New York City and the spirit of inner confidence. Built around a vivid cherry accord supported by jasmine sambac and the earthy depth of patchouli, this Parfum concentration delivers the full richness of the fragrance with exceptional intensity and longevity. Fragrance Notes Coach Cherry opens with a burst of ripe, juicy Cherry , sharpened by the warmth of Pink Pepper and the brightness of Italian Mandarin — bold, energetic, and immediately striking. The heart blossoms into a lush, feminine bouquet of Jasmine Sambac , Magnolia , and Rose , weaving together a soft, creamy floral depth that perfectly complements the vivid fruit opening. The fragrance settles into a rich, grounding base of Tonka , Ambrofix™ , Patchouli , and Verbena — warm, earthy, and deeply characterful, with the Ambrofix™ adding a clean, skin-like warmth that ensures the Cherry signature lingers beautifully throughout the day. About The Fragrance Coach Cherry was launched in 2026 as a bold new feminine signature from Coach — a brand celebrated for its New York spirit and effortless confidence. The fragrance was crafted by Natalie Gracia-Cetto and Nadège Le Garlantezec, two perfumers known for their ability to create compositions that feel both modern and deeply wearable. Inspired by the lively atmosphere of New York City and the idea of embracing who you are, Coach Cherry is a fragrance for the woman who moves through the world with energy, confidence, and a touch of sweetness. Available in Parfum concentration, this is the most intense and long-lasting expression of the Cherry composition. Performance & Character As a Parfum concentration, Coach Cherry delivers exceptional longevity and rich, confident projection. Sillage is fruity and vivid in the opening, softening to a warm, floral-patchouli trail as the fragrance develops on skin. The overall character is bold, joyful, and deeply feminine — a fragrance that announces itself with confidence and stays with you throughout the day. When To Wear Coach Cherry is versatile across seasons, with particular strength in spring and summer when the cherry, mandarin, and jasmine notes are at their most vibrant. Equally suited to daytime wear, casual occasions, evenings out, and special events. A natural choice for those who want a fragrance that reflects their personality without restraint. Who Is It For? Coach Cherry is crafted for women who love bold, fruity-floral fragrances with depth and energy. It suits those who appreciate vivid cherry and jasmine compositions with a warm, earthy patchouli base — and those who want a Parfum-strength fragrance that commands attention without being overwhelming. Why Buy From Gadgets Online NZ? Gadgets Online NZ Ltd has been a trusted New Zealand retailer since 2008. When you purchase Coach Cherry from us, you can shop with confidence knowing: GST invoice provided with every purchase Brand new, 100% original product in original manufacturer packaging Fast delivery NZ-wide Visit us in-store at our Auckland retail store in Mount Eden Trusted NZ fragrance retailer with over 15 years of experience Product Details Brand: Coach Name: Cherry Concentration: Parfum Size: 30ml Gender: Women Fragrance Family: Floral Fruity Launch Year: 2026 Perfumers: Natalie Gracia-Cetto & Nadège Le Garlantezec Country of Origin: USA Disclaimer: Every fragrance develops uniquely on each wearer, and performance may vary depending on skin chemistry, application, and environment. Product images are intended to represent the fragrance as accurately as possible and may include enhanced backgrounds, lifestyle settings, or graphic elements for presentation purposes. Packaging, bottle details, and fragrance liquid colour may vary slightly between production batches or manufacturer updates. All fragrances sold by Gadgets Online NZ Ltd are guaranteed authentic.",
+      "description": "Playful and irresistibly fruity, the scent combines a bright burst of cherry with warm Jasmine Sambac and sensual Patchouli. Coach Cherry is inspired by the vibrant energy of New York City and the radiance of your inner confidence. The bottle features an intense and slightly transparent red lacquering. An iconic Coach Fashion Cherry charm has been twisted in gold to be added as a jewlery on the bottle. Featuring Coach’s iconic Horse and Carriage logo, the outerpack has a cherry pattern with a glossy effect on them, to bring intensity to this parfum.",
       "source_name": "gadgets-online-shopify-suggest",
       "source_url": "https://www.gadgetsonline.co.nz/products/coach-cherry-parfum-30ml",
       "source_price": 109,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
@@ -137061,6 +137940,17 @@
           "price": 109,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/CoachCherryParfum30ml.jpg?v=1788482036"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/coach-cherry-parfum-30ml?_pos=4&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Coach",
+          "name": "Coach Cherry Parfum 30ml",
+          "size": "30ml",
+          "price": 123,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045412-0.jpg?v=1789421607"
         },
         {
           "retailer_slug": "life-pharmacy",
@@ -137877,10 +138767,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043452-0.jpg?v=1786397350",
       "description": "You’ve got the magic — let it lead you to new places, transport you away from the everyday and into a world of pleasure, joy, and beauty. With its magnetic blend of magnolia, peony, and rose ambrette, Eternal Aura is an instant escape, one you can return to time and time again. All you have to do is open your eyes, follow your heart, and spritz.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/elizabeth-arden-eternal-aura-edp-30ml?_pos=3&_psq=Elizabeth+Arden&_psid=626860128&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/elizabeth-arden-eternal-aura-edp-30ml?_pos=8&_psq=perfume&_psid=361d1a0c4&_ss=e",
       "source_price": 110,
-      "source_count": 5,
+      "source_count": 6,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/elizabeth-arden-eternal-aura-edp-30ml?_pos=8&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Elizabeth Arden",
+          "name": "Elizabeth Arden Eternal Aura EDP 30ml",
+          "size": "30ml",
+          "price": 110,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043452-0.jpg?v=1786397350"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -138202,6 +139103,34 @@
           "price": 184,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20021540-0.jpg?v=1769484740"
+        }
+      ]
+    },
+    {
+      "brand": "Versace",
+      "name": "Versace Yellow Diamond EDT 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 184,
+      "price_per_100ml": 368,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11105574-0.jpg?v=1723591404",
+      "description": "Pure as sunlight Versace Yellow Diamond is a extraordinary bright hue that radiates with a fiery intensity sparkling only the way a diamond can. A captivating and voluptuous fragrance with luminous notes of citron of diamante feminine freesia and exotic woods. Key notes: Orange blossom freesia lotus mimosa Eau de Toilette",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/versace-yellow-diamond-edt-50ml?_pos=6&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+      "source_price": 184,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/versace-yellow-diamond-edt-50ml?_pos=6&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+          "brand": "Versace",
+          "name": "Versace Yellow Diamond EDT 50ml",
+          "size": "50ml",
+          "price": 184,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11105574-0.jpg?v=1723591404"
         }
       ]
     },
@@ -138718,10 +139647,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034921-0.png?v=1758319901",
       "description": "As night falls on the eternal city, let yourself be whisked away to a Roman palazzo, discover a new chapter of Born in Roma story with Born in Roma Extradose. Born in Roma Extradose pushes the boundaries, experience the highest concentration of Born In Roma and pursue the addiction of Born in Roma fragrances. Born from the intensity of a night in the eternal city, this floral-ambery fragrance opens the door of an extravagant world, amplified by an extradose of vanilla and captivating liquor-like notes, created by rhum and cassis accords, for an extra-addiction. Deep dive into a magnetic dream, unleash your personalities, live excessively, and explore the vibrant ways to be you. Dare to be extra-you, dare to be Extra-ordinary.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-donna-extradose-edp-100ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-donna-extradose-edp-100ml?_pos=7&_psq=perfume&_psid=361d1a0c4&_ss=e",
       "source_price": 374,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-born-in-roma-donna-extradose-edp-100ml?_pos=7&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Valentino",
+          "name": "Valentino Born in Roma Donna Extradose EDP 100ml",
+          "size": "100ml",
+          "price": 374,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034921-0.png?v=1758319901"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -139313,10 +140253,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20016461-1.jpg?v=1769656020",
       "description": null,
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/gucci-bloom-edt-50ml?_pos=6&_psq=eau+de+toilette&_psid=9ba90d575&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/gucci-bloom-edt-50ml?_pos=9&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
       "source_price": 189,
-      "source_count": 16,
+      "source_count": 17,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/gucci-bloom-edt-50ml?_pos=9&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+          "brand": "Gucci",
+          "name": "Gucci Bloom EDT 50ml",
+          "size": "50ml",
+          "price": 189,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20016461-1.jpg?v=1769656020"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -139656,10 +140607,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20004501-0.jpg?v=1770728961",
       "description": "Libre Eau de Parfum is the new fragrance of freedom, a statement fragrance for those who live by their own rules. A reinvention of the floral perfume, it combines Lavender Essence from France with the sensuality of Moroccan Orange Blossom, for a unique floral fusion complemented by a daring note of Musk Accord. MORE ABOUT THE FRAGRANCE; Libre means free. It is a celebration of freedom: a fragrance for those who do what they want and dare to be exactly who they are. The bottle is a couture statement featuring a black asymmetric cap like a sexy couture dress, gold chains around the neck that are reminiscent of the iconic YSL it-bags, completed with the timeless Yves Saint Laurent logo. NOTE; Lavender Essence, Orange Blossom, Musk Accord, Floral.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-woman-edp-spray-90ml?_pos=3&_psq=Chanel&_psid=15740247f&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-woman-edp-spray-90ml?_pos=9&_psq=fragrance&_psid=2de63c658&_ss=e",
       "source_price": 341,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-woman-edp-spray-90ml?_pos=9&_psq=fragrance&_psid=2de63c658&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Libre Woman EDP Spray 90ml",
+          "size": "90ml",
+          "price": 341,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20004501-0.jpg?v=1770728961"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -140259,10 +141221,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20042102-0.png?v=1776808876",
       "description": "A complex fragrance with enduring appeal and British character that is both fresh and woody. Mellow woody notes of patchouli and vetiver are enlivened with a cool citrus twist of bergamot, grapefruit and lemon. This is punctuated in great interplay with the green resinous notes of cedar leaf and spicy juniper berry. Lavender and fir balsam with a touch of bay are key to the character of the heart. Mossy notes then play a leading role as the fragrance evolves with amber, musk and a hint of leather in the base round off this timeless scent. A favourite of the Floris family since it was created in 1979 by the late Michael Bodenham, Elite is a fragrance to return to time and time again. Named after ‘Lotion Elite' – a Floris after shave cream which first featured in our catalogue in 1851. Elite was initially a slow burner in the Floris range and shows that patience in the art of perfume creation, really does pay off. Maintaining a few loyal followers, as the 1980s progressed, its admirers grew, both at home and across the continent, as exports to Europe increased. Elite has since gone on to become an icon among the Floris signature collection. It has found a second home among devotees across the world and particularly in Italy where the fragrance has gone from strength to strength and continues to maintain its popularity today, 40 years after it was launched.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/floris-london-elite-edt-100ml?_pos=8&_psq=edt&_psid=70fa35f82&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/floris-london-elite-edt-100ml?_pos=9&_psq=edt&_psid=de0ae9170&_ss=e",
       "source_price": 379.99,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/floris-london-elite-edt-100ml?_pos=9&_psq=edt&_psid=de0ae9170&_ss=e",
+          "brand": "Floris London",
+          "name": "Floris London Elite EDT 100ml",
+          "size": "100ml",
+          "price": 379.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20042102-0.png?v=1776808876"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -141290,10 +142263,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20015163-0.jpg?v=1758675791",
       "description": "Her Eau de Toilette for women, the free-spirited Burberry scent. A gourmand fragrance balancing joyful fruity notes over an addictive drydown. For the bold modern woman who loves adventure. Her Eau de Toilette for women is a playful blend of blooming peony, joyful green pear top notes, strawberry, blackcurrant and pink peppercorn. Enhanced with a honeysuckle heart, lily of the valley and rose, the fruity floral scent is softened by an addictive musk and cedarwood base. With the powerfully feminine Eau de Toilette comes the new face of Burberry Her: Fran Summers. As she explores the city, Fran's captivating energy, confidence and effortless individuality embody the essence of the modern Burberry woman. Entranced, she sees her world from a new perspective. A break from expectation. A new discovery. Tradition meets modernity in the understated glass design of the Her Eau de Toilette perfume bottle. Refreshed in pistachio green with the matching iconic ribbon, the design captures the spontaneous and spirited nature of the Burberry scent.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-edt-50ml?_pos=7&_psq=edt&_psid=f16bdf54f&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-edt-50ml?_pos=7&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
       "source_price": 191,
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-edt-50ml?_pos=7&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry Her EDT 50ml",
+          "size": "50ml",
+          "price": 191,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20015163-0.jpg?v=1758675791"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -143341,10 +144325,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20033168-0.jpg?v=1769484533",
       "description": "A floral gourmand and fruity scent of captivating femininity, more intense and more daring. When night falls, your aura rises with Olympéa Absolu — a captivating blend of luminous apricot, jasmine absolute, and addictive vanilla. Sensual, magnetic, unforgettable. OLYMPÉA Absolu by Rabanne is made for nights where your aura takes over, blazing with power and allure. Inspired by the interplay of light and dark, OLYMPÉA Absolu’s iconic bottle turns black, adorned with a golden Pampille — a modern twist on Rabanne’s iconic sparkling dress. A precious object of desire for the all-powerful goddess of the night. Spray on pulse points —neck, chest, wrists— from 15–20 cm. Reveal your most mysterious side that shines bright.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/rabanne-olympea-absolu-parfum-80ml?_pos=1&_psq=parfum&_psid=0e73d3ab0&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/rabanne-olympea-absolu-parfum-80ml?_pos=5&_psq=parfum&_psid=670b2922f&_ss=e",
       "source_price": 315,
-      "source_count": 5,
+      "source_count": 6,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/rabanne-olympea-absolu-parfum-80ml?_pos=5&_psq=parfum&_psid=670b2922f&_ss=e",
+          "brand": "Rabanne",
+          "name": "Rabanne Olympea Absolu Parfum 80ml",
+          "size": "80ml",
+          "price": 315,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20033168-0.jpg?v=1769484533"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -145200,11 +146195,11 @@
       "price_per_100ml": 399.97,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/6811a2eb-986b-4643-a1e6-ff87b8b4d174.jpg?v=1784382392",
-      "description": null,
+      "description": "Viktor &amp; Rolf Flowerbomb Eau de Parfum Spray 30ml is a celebrated women’s fragrance known for its opulent, bouquet like composition and long lasting performance. Launched in 2005, this award winning scent has become a modern classic that captivates with its bold floral sweetness and warm complexity.<br><br>The fragrance opens with an explosion of fresh and vibrant top notes of bergamot and tea, creating a luminous introduction that instantly feels uplifting. At the heart lies a lush floral bouquet of jasmine, freesia, rose and orchid, weaving together to produce an intense and feminine floral heart that radiates elegance and sophistication. This rich interplay of floral accords is balanced with a seductive base of patchouli, musk and vanilla, which provides warmth and depth and helps the scent linger beautifully on the skin.<br><br>The 30ml bottle features Viktor &amp; Rolf’s signature design a faceted, diamond‑like bottle with a delicate bow reflecting the fragrance’s luxurious and celebratory character. Flowerbomb is ideal for those who love a confident and feminine scent that is both bold and romantic, making it suitable for special occasions, evening events or whenever you want a memorable fragrance experience.<br><br>Key Benefits<br><br>• Iconic floral bouquet fragrance with rich sweetness<br>• Balanced composition of fresh top, floral heart and warm base notes<br>• Long lasting Eau de Parfum strength<br>• Luxurious bottle design suitable for gifting<br>• Versatile scent for day and evening wear",
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/vr-flowerbomb-edp-spray-30ml",
       "source_price": 119.99,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
         {
           "retailer_slug": "bargain-chemist",
@@ -145216,6 +146211,17 @@
           "price": 119.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/6811a2eb-986b-4643-a1e6-ff87b8b4d174.jpg?v=1784382392"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/viktor-rolf-flowerbomb-edp-spray-30ml?_pos=9&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Viktor & Rolf",
+          "name": "Viktor & Rolf Flowerbomb EDP Spray 30ml",
+          "size": "30ml",
+          "price": 168,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11026859-0.jpg?v=1724203542"
         }
       ]
     },
@@ -146128,13 +147134,24 @@
       "price": 204,
       "price_per_100ml": 408,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/gxh_11152377-1.jpg?v=1758674903",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11152377-0_60c5d62d-4131-4773-9d96-d740f97f4d4d.jpg?v=1758674871",
       "description": "Like a couture dress, ELIE SAAB fragrances adorn women’s body with radiant sensuality. Iconic fragrance of the House, ELIE SAAB Le Parfum is an invitation to femininity and dream. This solar floral chypre opens the doors to the Lebanese couturier’s exceptional universe and offers a new way of wearing the exceptional. ELIE SAAB Le Parfum is a sumptuous floral bouquet offering a moment of intense femininity. An orange blossom, shinning like the sun at its peak, illuminates an opulent yet delicate jasmine flower. This luminous and profoundly sensual scent prolongs itself in the sweet addiction of honey rose and the warmth of patchouli and cedars notes. True “ode to the light”, Le Parfum bottle is faceted like a jewel. A treasure with pure lines sparkling with transparency and reflecting the light infinitely. Olfactory family: Floral chypre Top notes: Orange blossom Heart notes: Jasmine, Honey rose Base notes: Patchouli, Cedar woods",
-      "source_name": "unichem-shopify-suggest",
-      "source_url": "https://www.unichem.co.nz/products/elie-saab-le-parfum-edp-50ml?_pos=8&_psq=eau+de+parfum&_psid=b84db319b&_ss=e",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/elie-saab-le-parfum-edp-50ml?_pos=10&_psq=parfum&_psid=670b2922f&_ss=e",
       "source_price": 204,
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/elie-saab-le-parfum-edp-50ml?_pos=10&_psq=parfum&_psid=670b2922f&_ss=e",
+          "brand": "Elie Saab",
+          "name": "Elie Saab Le Parfum EDP 50ml",
+          "size": "50ml",
+          "price": 204,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11152377-0_60c5d62d-4131-4773-9d96-d740f97f4d4d.jpg?v=1758674871"
+        },
         {
           "retailer_slug": "unichem",
           "source_name": "unichem-shopify-suggest",
@@ -146343,10 +147360,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20025044-0.jpg?v=1770728996",
       "description": "The new feminine intensity by Prada. This feminine fragrance explores strength through the lens of delicacy. The result is the intense signature of a woman in perpetual self-reinvention, challenging conventions to explore a femininity that is both powerful and delicate. A floral ambery fragrance with a woody inflexion that reveals the paradoxical intensity of delicate ingredients: the powerful lift of a delicate Jasmine flower and the vibrant and enveloping warmth of an Amber accord, intensified by a subtle yet instantly recognizable Moss accord. An intense scent for a powerfully enigmatic and captivating expression of femininity. The intensification of florality with the Jasmine superinfusion, for an exceptional aura. The intensification of sensuality with AmbrofixTM, resulting from biotechnology, made even more vibrant. The intensification of a captivating woody addiction with a bold and powerful Moss accord. Like the original signature, Paradoxe Intense’s renewed bottle is an expression of the House’s essence of reinvention and predilection for contrasts. In a shift from traditional perfume bottle architecture, the flacon is minimal and delicate at first glance, inspired by the original iconic Prada triangle logo disruptively designed to rest on its side. The Prada coat of arms logo contrasts\"",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradoxe-edp-intense-90ml?_pos=10&_psq=fragrance&_psid=e755920fd&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradoxe-edp-intense-90ml?_pos=6&_psq=fragrance&_psid=2de63c658&_ss=e",
       "source_price": 369,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradoxe-edp-intense-90ml?_pos=6&_psq=fragrance&_psid=2de63c658&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradoxe EDP Intense 90ml",
+          "size": "90ml",
+          "price": 369,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20025044-0.jpg?v=1770728996"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -147553,10 +148581,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11009838-0.jpg?v=1758688732",
       "description": "Warm and enveloping, the sensual curves of the Jean Paul Gaultier Classique Eau de Toilette are legendary.The timeless oriental floral fragrance opens with an intensely voluptuous note of rose, velvety and sweet. In the heart, the solar character of orange blossom warms with its hypnotic nectar, before a creamy base of vanilla caresses the skin. The Eau de Toilette edition is a lighter, more luminous version of the sensual Classique fragrance designed for day wear.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-classique-edt-spray-50ml?_pos=10&_psq=eau+de+toilette&_psid=9ba90d575&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-classique-edt-spray-50ml?_pos=10&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
       "source_price": 215,
-      "source_count": 7,
+      "source_count": 8,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-classique-edt-spray-50ml?_pos=10&_psq=eau+de+toilette&_psid=c87436b61&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Classique EDT Natural Spray 50ml",
+          "size": "50ml",
+          "price": 215,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11009838-0.jpg?v=1758688732"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -148141,7 +149180,7 @@
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-power-of-you-edp-30ml?_pos=6&_psq=edp&_psid=af2307433&_ss=e",
       "source_price": 132,
-      "source_count": 4,
+      "source_count": 5,
       "sources": [
         {
           "retailer_slug": "life-pharmacy",
@@ -148173,6 +149212,17 @@
           "name": "Emporio Armani Power of You EDP 30ml",
           "size": "30ml",
           "price": 132,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041308-0.jpg?v=1770933378"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/emporio-armani-power-of-you-edp-30ml?_pos=7&_psq=edp&_psid=350612938&_ss=e",
+          "brand": "Emporio Armani",
+          "name": "Emporio Armani Power of You EDP 30ml",
+          "size": "30ml",
+          "price": 138,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041308-0.jpg?v=1770933378"
         },
@@ -148587,10 +149637,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11271681-1.jpg?v=1758675309",
       "description": "Scandal Eau de Parfum climbs aboard Jean Paul Gaultier’s very private train. Here, boredom is banished to the platform along with conventions. This fearless passenger flaunts her liberated femininity and captures everyone’s gaze. Endless legs, a free-spirited allure, and an attitude that says: “I’ll do as I please”. With her gourmand chypre perfume and unforgettable fragrance trail, couture gardenia mingles with sensual honey. awakening the most secret desires. What a Scandal!",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-scandal-edp-50ml?_pos=10&_psq=eau+de+parfum&_psid=6b15d2c96&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-scandal-edp-50ml?_pos=5&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
       "source_price": 220,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-scandal-edp-50ml?_pos=5&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Scandal EDP 50ml",
+          "size": "50ml",
+          "price": 220,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11271681-1.jpg?v=1758675309"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -149826,10 +150887,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040539-0.jpg?v=1774994112",
       "description": "In the effervescent ateliers of Jean Paul Gaultier, the silhouette of Gaultier Divine Couture takes shape: a sensual, fruity amber eau de parfum with a haute couture glow. Juicy raspberry, daring meringue, and intense benzoin mark her magnetic and unapologetic style. Her pink lacquered refillable bottle holds every gaze, a gold piercing and braided corset sculpting her tailor-dreamt silhouette. This is more than a fragrance; it’s a statement piece worn on the skin. It’s stepping into your own divine power.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-gaultier-divine-couture-edp-50ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-gaultier-divine-couture-edp-50ml?_pos=8&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
       "source_price": 225,
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-gaultier-divine-couture-edp-50ml?_pos=8&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Gaultier Divine Couture EDP 50ml",
+          "size": "50ml",
+          "price": 225,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040539-0.jpg?v=1774994112"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -150940,10 +152012,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024048-0.jpg?v=1724985220",
       "description": "The power within. Burberry Goddess tells a story of self-discovery. The new campaign follows Emma Mackey and a pride of lionesses. Radiating confidence, strength and kindness, Emma embodies the spirit of Burberry Goddess EDP. This unique fragrance is made with a vegan formula led by a powerful trio of vanillas. On top, a vanilla infusion with woody tonalities, at the heart a vanilla caviar with a rich sweetness, and at the base a vanilla absolute enriched with luminous lavender. This scent is a unique gourmand aromatic fragrance led by a powerful trio of vanillas, enriched with luminous lavender. Refill sold separately. Burberry Goddess EDP is encased in an elegant square-shaped bottle designed to be refilled. Refill sold separately. Pale pink packaging adorned with a gold medallion reference the brand’s rich heritage.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-goddess-edp-50ml?_pos=2&_psq=Burberry&_psid=3b332676e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-goddess-edp-50ml?_pos=1&_psq=Burberry&_psid=98681b162&_ss=e",
       "source_price": 229,
-      "source_count": 12,
+      "source_count": 13,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-goddess-edp-50ml?_pos=1&_psq=Burberry&_psid=98681b162&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry Goddess EDP 50ml",
+          "size": "50ml",
+          "price": 229,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024048-0.jpg?v=1724985220"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -151825,10 +152908,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034415-0.jpg?v=1741902702",
       "description": "A new addition to the Burberry Her family, Her Eau de Parfum Intense amplifies Her’s signature scent with fruity notes of wild strawberry &amp; orange blossom, rounded with warm ambery wood. Its bolder scent captures an even more daring and free-spirited character that’s ready for the next adventure. In this latest addition to the Burberry Her family, Her Eau de Parfum Intense amplifies Her’s signature fragrance with fruity notes of wild strawberry and orange blossom, rounded with warm ambery wood. The bottle comes in a deeper shade of lacquered matte pink, representing the intensity and femininity of the fragrance.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-intense-edp-50ml-1?_pos=4&_psq=Burberry&_psid=3b332676e&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-intense-edp-50ml-1?_pos=3&_psq=Burberry&_psid=98681b162&_ss=e",
       "source_price": 232,
-      "source_count": 11,
+      "source_count": 12,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-intense-edp-50ml-1?_pos=3&_psq=Burberry&_psid=98681b162&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry Her Intense EDP 50ml",
+          "size": "50ml",
+          "price": 232,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034415-0.jpg?v=1741902702"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -152347,10 +153441,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20033325-0.png?v=1758319428",
       "description": "My Way Eau de Parfum Ylang is the newest expression of the iconic MY WAY collection, exuding vibrant optimism. This luminous fruity floral fragrance unveils an opening of radiant white flowers combined with a deliciously juice mango accord. At heart, a refreshing milky coconut water accord is illuminated by the solar notes of Ylang Ylang essence and the creamy richness of Tuberose Absolute. The warm sensuality of premium Vanilla Bourbon Infusion is heightened by the comforting white musk, leaving an addictive trail. The vibrant, fruity energy of My Way Eau de Parfum Ylang is encapsulated in a new jewel-like coral-toned bottle, bursting with light.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-my-way-eau-de-parfum-ylang-50ml?_pos=9&_psq=eau+de+parfum&_psid=01a6c40fd&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-my-way-eau-de-parfum-ylang-50ml?_pos=10&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
       "source_price": 235,
-      "source_count": 8,
+      "source_count": 9,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-my-way-eau-de-parfum-ylang-50ml?_pos=10&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
+          "brand": "Giorgio Armani",
+          "name": "Giorgio Armani My Way Eau de Parfum Ylang 50ml",
+          "size": "50ml",
+          "price": 235,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20033325-0.png?v=1758319428"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -153936,10 +155041,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11183399-0.jpg?v=1724123839",
       "description": "In September of 2014 Yves Saint Laurent launched Black Opium, the new fragrance announced as a rock'n'roll interpretation of the classic that should highlight the dark, mysterious side of the YSL brand. Master perfumers Nathalie Lorson and Marie Salamagne, in collaboration with Olivier Cresp and Honorine Blanc, developed the composition. Notes of coffee, present in large quantities, dominate the scent. Additional accords are pink pepper, orange blossom, jasmine, vanilla, patchouli and cedar.<br>The perfume comes in the bottle designed as the last editions of the Opium collection. The bottle is dark and decorated with sequins that give a glam rock look.The face of the perfume's campaign is British model Edie Campbell, shot by Daniel Wolfe.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-edp-50ml?_pos=3&_psq=edp&_psid=1c22bf5bc&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-edp-50ml?_pos=2&_psq=edp&_psid=350612938&_ss=e",
       "source_price": 240,
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-edp-50ml?_pos=2&_psq=edp&_psid=350612938&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium EDP 50ml",
+          "size": "50ml",
+          "price": 240,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11183399-0.jpg?v=1724123839"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -156880,7 +157996,7 @@
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-50ml?_pos=1&_psq=Yves+Saint+Laurent&_psid=bf0391458&_ss=e",
       "source_price": 255,
-      "source_count": 6,
+      "source_count": 7,
       "sources": [
         {
           "retailer_slug": "life-pharmacy",
@@ -156912,6 +158028,17 @@
           "name": "Yves Saint Laurent Libre Berry Crush EDP 50ml",
           "size": "50ml",
           "price": 255,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041317-0.jpg?v=1771879301"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-50ml?_pos=1&_psq=fragrance&_psid=2de63c658&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Libre Berry Crush EDP 50ml",
+          "size": "50ml",
+          "price": 259,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041317-0.jpg?v=1771879301"
         },
@@ -157017,10 +158144,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11038406-0.jpg?v=1769482652",
       "description": "Chloé Eau de Parfum captures the spirit of the modern, confident woman with a fragrance that is both fresh and sophisticated. Light yet distinctive, this iconic scent reimagines the classic rose with a modern twist, creating a floral perfume that feels airy, luminous, and effortlessly elegant.<br><br>The fragrance opens with delicate top notes of peony, litchi, and freesia, offering a soft and refreshing introduction. At its heart lies the signature rose accord, beautifully balanced with lily of the valley and magnolia for a romantic floral bouquet. The scent finishes with warm base notes of amber and Virginia cedar, adding depth and long lasting elegance.<br><br>Presented in Chloé’s signature pleated glass bottle with a hand tied ribbon, this Eau de Parfum reflects the brand’s timeless Parisian style. Perfect for both everyday wear and special occasions, the 30ml size is ideal for carrying in your handbag so your favourite scent is always within reach.<br><br>Key Benefits<br><br>• Elegant floral fragrance with a modern rose signature<br>• Top notes of peony, litchi, and freesia<br>• Heart notes of rose, magnolia, and lily of the valley<br>• Warm base notes of cedar and amber for lasting depth<br>• Compact 30ml bottle ideal for travel or everyday use",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/chloe-eau-de-parfum-30ml?_pos=3&_psq=eau+de+parfum&_psid=01a6c40fd&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/chloe-eau-de-parfum-30ml?_pos=9&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
       "source_price": 155,
-      "source_count": 15,
+      "source_count": 16,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/chloe-eau-de-parfum-30ml?_pos=9&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
+          "brand": "Chloé",
+          "name": "Chloe Eau de Parfum 30ml",
+          "size": "30ml",
+          "price": 155,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11038406-0.jpg?v=1769482652"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -157743,10 +158881,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037865-0.jpg?v=1761268706",
       "description": "Embrace the power of self-confidence with SÌ PARFUM, the most intense and sensual interpretation of SÌ’s infinite elegance. A gourmand and leathery take on the iconic SÌ chypre scent evoking a new enticing intensity. At the core of the fragrance is an addictive vanilla, revealed in its most elegant, smoky facet. The scent opens with a gourmand blackcurrant nectar intertwined with a precious saffron accord, while at the heart is a rich rose Damascena. Vanilla becomes its most carnal at the base, as its sensual intensity is enhanced with a suede-like leathery accord and earthy patchouli. The fragrance is captured in the iconic SÌ bottle, adorned with the SÌ logo in gold-toned, three-dimensional lettering. This jewel-like bottle is enhanced with a smoky gradient effect at its base, amplifying the precious, amber-toned juice. Discover SÌ PARFUM, a scent that captures the essence of powerful femininity and boundless possibilities.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-parfum-50ml",
+      "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-parfum-50ml?_pos=7&_psq=parfum&_psid=670b2922f&_ss=e",
       "source_price": 260,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-parfum-50ml?_pos=7&_psq=parfum&_psid=670b2922f&_ss=e",
+          "brand": "Giorgio Armani",
+          "name": "Giorgio Armani Si Parfum 50ml",
+          "size": "50ml",
+          "price": 260,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037865-0.jpg?v=1761268706"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -157933,10 +159082,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024047-0.jpg?v=1769484581",
       "description": "The power within. Burberry Goddess tells a story of self-discovery. The new campaign follows Emma Mackey and a pride of lionesses. Radiating confidence, strength and kindness, Emma embodies the spirit of Burberry Goddess EDP. This unique fragrance is made with a vegan formula led by a powerful trio of vanillas. On top, a vanilla infusion with woody tonalities, at the heart a vanilla caviar with a rich sweetness, and at the base a vanilla absolute enriched with luminous lavender. This scent is a unique gourmand aromatic fragrance led by a powerful trio of vanillas, enriched with luminous lavender. Refill sold separately. Burberry Goddess EDP is encased in an elegant square-shaped bottle designed to be refilled. Refill sold separately. Pale pink packaging adorned with a gold medallion reference the brand’s rich heritage.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-goddess-edp-30ml?_pos=7&_psq=edp&_psid=1c22bf5bc&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-goddess-edp-30ml?_pos=2&_psq=Burberry&_psid=98681b162&_ss=e",
       "source_price": 157,
-      "source_count": 11,
+      "source_count": 12,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-goddess-edp-30ml?_pos=2&_psq=Burberry&_psid=98681b162&_ss=e",
+          "brand": "Burberry",
+          "name": "Burberry Goddess EDP 30ml",
+          "size": "30ml",
+          "price": 157,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024047-0.jpg?v=1769484581"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -159045,10 +160205,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20033891-0.jpg?v=1769990300",
       "description": "Devotion Eau de Parfum is a delectable fragrance that celebrates life's noblest values, an unprecedented essence sealed by the Sacred Heart. Continue to experience the emotions of Dolce &amp; Gabbana Devotion Eau de Parfum and replenish your bottle with the all-new refill. A sustainable gesture that allows you to enjoy the harmonious blend of bright gourmand notes and unmistakable allure of the fragrance once again.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/dolce-gabbana-devotion-edp-30ml?_pos=7&_psq=eau+de+parfum&_psid=6b15d2c96&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/dolce-gabbana-devotion-edp-30ml?_pos=2&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
       "source_price": 159,
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/dolce-gabbana-devotion-edp-30ml?_pos=2&_psq=eau+de+parfum&_psid=f631b5d74&_ss=e",
+          "brand": "Dolce & Gabbana",
+          "name": "Dolce & Gabbana Devotion EDP 30ml",
+          "size": "30ml",
+          "price": 159,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20033891-0.jpg?v=1769990300"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -160539,10 +161710,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11183398-1.jpg?v=1770728958",
       "description": "Black Opium Eau de Parfum is the seductively intoxicating women�s fragrance. The opening notes of adrenaline-rich coffee and the sweet sensuality of vanilla recline into the softness of white flowers for a young, modern scent. <br>This seductive women's perfume is inspired by the edgy and daring woman. Emboldened by the strong scent of coffee, the sensuous ladies perfume captivates the senses with a sweet vanilla base and a burst of floral at the heart of the fragrance.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-edp-30ml?_pos=5&_psq=edp&_psid=1c22bf5bc&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-edp-30ml?_pos=5&_psq=edp&_psid=350612938&_ss=e",
       "source_price": 165,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-black-opium-edp-30ml?_pos=5&_psq=edp&_psid=350612938&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium EDP 30ml",
+          "size": "30ml",
+          "price": 165,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11183398-1.jpg?v=1770728958"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -163624,10 +164806,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041316-0.jpg?v=1770933441",
       "description": "Sweet yet bold, indulgent yet exhilarating. The taste of freedom, freshly crushed. THE SCENT. FRESHLY CRUSHED BERRIES, GOOD ENOUGH TO DEVOUR LIBRE’s floral heart now bursts with fruity intensity, dripping in deliciousness. Tangy raspberry is crushed into LIBRE's bold floral signature between invigorating lavender from France and sensual orange blossom from Morocco. This vibrant blend effortlessly melts into a creamy coconut accord, balancing freshness with irresistible warmth and addictive indulgence. A new fragrance good enough to devour. A reflection of the LIBRE woman's insatiable hunger for freedom. THE BOTTLE. A VIBRANT JEWEL, TINTED IN BERRY-RED HUES. The iconic LIBRE bottle is more daring than ever, embracing the vibrancy of juicy berries. Its sleek, tuxedo-inspired silhouette now radiates with scarlet hues, reminiscent of pulpy raspberries. Gold chains, an asymmetrical black cap and the iconic Cassandre logo seal this statement of unapologetic femininity.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-30ml?_pos=6&_psq=Yves+Saint+Laurent&_psid=2ebdba101&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-30ml?_pos=3&_psq=fragrance&_psid=2de63c658&_ss=e",
       "source_price": 187,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-30ml?_pos=3&_psq=fragrance&_psid=2de63c658&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Libre Berry Crush EDP 30ml",
+          "size": "30ml",
+          "price": 187,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041316-0.jpg?v=1770933441"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
@@ -168988,10 +170181,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037697-0.png?v=1758322551",
       "description": "The highest concentration of Absolue Blackbiosis mastered through a multi-patented encapsulation technology. Thousands of Absolue Perpetual Rose oil microbeads are suspended in 10% Absolue Blackbiosis essence solution. Carefully extracted from the root of our Perpetual Rose, the Absolue Blackbiosis has been crafted to work as a master architect, fortifying skin’s structure and replenishing its essential vitality.",
       "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/lancome-absolue-lextrait-the-elixir-concentrate-30ml?_pos=10&_psq=extrait&_psid=43343039a&_ss=e",
+      "source_url": "https://www.lifepharmacy.co.nz/products/lancome-absolue-lextrait-the-elixir-concentrate-30ml?_pos=9&_psq=extrait&_psid=cef2bc894&_ss=e",
       "source_price": 1175,
-      "source_count": 4,
+      "source_count": 5,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/lancome-absolue-lextrait-the-elixir-concentrate-30ml?_pos=9&_psq=extrait&_psid=cef2bc894&_ss=e",
+          "brand": "Lancôme",
+          "name": "Lancôme Absolue L'Extrait The Elixir Concentrate 30ml",
+          "size": "30ml",
+          "price": 1175,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037697-0.png?v=1758322551"
+        },
         {
           "retailer_slug": "life-pharmacy",
           "source_name": "life-pharmacy-shopify-suggest",
