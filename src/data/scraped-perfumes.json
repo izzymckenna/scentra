@@ -1,46 +1,91 @@
 {
-  "generated_at": "2026-10-21T08:19:39.874Z",
-  "count": 4275,
+  "generated_at": "2026-10-22T08:22:13.156Z",
+  "count": 4278,
   "cheapest": {
-    "brand": "Dear Body",
-    "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
+    "brand": "VV Love",
+    "name": "VV Love Hello Mist Body Mist 250ml",
     "size": "250ml",
     "size_ml": 250,
-    "price": 5,
-    "price_per_100ml": 2,
+    "price": 4.19,
+    "price_per_100ml": 1.68,
     "currency": "NZD",
-    "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5-67.jpg?v=1748562595",
+    "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw469a5880/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292",
     "description": null,
-    "source_name": "bargain-chemist-shopify-suggest",
-    "source_url": "https://www.bargainchemist.co.nz/products/dear-body-sparkl-pink-fmist-250ml",
-    "source_price": 5,
-    "source_count": 2,
+    "source_name": "the-warehouse-fragrance-page",
+    "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
+    "source_price": 4.19,
+    "source_count": 1,
     "sources": [
       {
-        "retailer_slug": "bargain-chemist",
-        "source_name": "bargain-chemist-shopify-suggest",
-        "source_url": "https://www.bargainchemist.co.nz/products/dear-body-sparkl-pink-fmist-250ml",
-        "brand": "Dear Body",
-        "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
+        "retailer_slug": "the-warehouse",
+        "source_name": "the-warehouse-fragrance-page",
+        "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
+        "brand": "VV Love",
+        "name": "VV Love Hello Mist Body Mist 250ml",
         "size": "250ml",
-        "price": 5,
+        "price": 4.19,
         "currency": "NZD",
-        "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5-67.jpg?v=1748562595"
-      },
-      {
-        "retailer_slug": "bargain-chemist",
-        "source_name": "bargain-chemist-shopify-suggest",
-        "source_url": "https://www.bargainchemist.co.nz/products/dear-body-sparkl-pink-fmist-250ml?_pos=10&_psq=fragrance&_psid=4d6ca826b&_ss=e",
-        "brand": "Dear Body",
-        "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
-        "size": "250ml",
-        "price": 5,
-        "currency": "NZD",
-        "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5-67.jpg?v=1748562595"
+        "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw469a5880/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292"
       }
     ]
   },
   "results": [
+    {
+      "brand": "VV Love",
+      "name": "VV Love Hello Mist Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 4.19,
+      "price_per_100ml": 1.68,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw469a5880/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
+      "source_price": 4.19,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
+          "brand": "VV Love",
+          "name": "VV Love Hello Mist Body Mist 250ml",
+          "size": "250ml",
+          "price": 4.19,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw469a5880/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Exotic Fruit Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 4.19,
+      "price_per_100ml": 1.68,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe641bb55/images/hi-res/DD/80/R3051400_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-exotic-fruit-body-mist-250ml/R3051400.html",
+      "source_price": 4.19,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-exotic-fruit-body-mist-250ml/R3051400.html",
+          "brand": "VV Love",
+          "name": "VV Love Exotic Fruit Body Mist 250ml",
+          "size": "250ml",
+          "price": 4.19,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe641bb55/images/hi-res/DD/80/R3051400_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
     {
       "brand": "Dear Body",
       "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
@@ -105,62 +150,6 @@
           "price": 6,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/1_-mist-_-2-4.png?v=1710301966"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Hello Mist Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 6.99,
-      "price_per_100ml": 2.8,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw469a5880/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
-      "source_price": 6.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
-          "brand": "VV Love",
-          "name": "VV Love Hello Mist Body Mist 250ml",
-          "size": "250ml",
-          "price": 6.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw469a5880/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Exotic Fruit Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 6.99,
-      "price_per_100ml": 2.8,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe641bb55/images/hi-res/DD/80/R3051400_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-exotic-fruit-body-mist-250ml/R3051400.html",
-      "source_price": 6.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-exotic-fruit-body-mist-250ml/R3051400.html",
-          "brand": "VV Love",
-          "name": "VV Love Exotic Fruit Body Mist 250ml",
-          "size": "250ml",
-          "price": 6.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe641bb55/images/hi-res/DD/80/R3051400_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -914,6 +903,34 @@
           "price": 6.49,
           "currency": "NZD",
           "image_url": null
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Sunny 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 4.49,
+      "price_per_100ml": 4.49,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3d275618/images/hi-res/53/B4/R2988272_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-sunny-100ml/R2988272.html",
+      "source_price": 4.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-sunny-100ml/R2988272.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Sunny 100ml",
+          "size": "100ml",
+          "price": 4.49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3d275618/images/hi-res/53/B4/R2988272_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -3540,6 +3557,45 @@
       ]
     },
     {
+      "brand": "VV Love",
+      "name": "VV Love Summer Island Fragrance Mist Set 6 Pack",
+      "size": null,
+      "size_ml": null,
+      "price": 7.19,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd3f2c6c0/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-4-pack/R3030297.html",
+      "source_price": 7.19,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-4-pack/R3030297.html",
+          "brand": "VV Love",
+          "name": "VV Love Summer Island Fragrance Mist Set 4 Pack",
+          "size": null,
+          "price": 7.19,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd3f2c6c0/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-6-pack/R3030288.html",
+          "brand": "VV Love",
+          "name": "VV Love Summer Island Fragrance Mist Set 6 Pack",
+          "size": null,
+          "price": 10.19,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw26bf614a/images/hi-res/4B/6C/R3030288_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Disney",
       "name": "Disney Body Mist Frozen 2 250ml",
       "size": "250ml",
@@ -3575,7 +3631,7 @@
       "price": 5.49,
       "price_per_100ml": 7.32,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_3_09431ca9-ab45-4c41-ab8a-8d4a8af9adbf.jpg?v=1682916647",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/impulse-body-spray-true-love-75ml",
@@ -3591,7 +3647,7 @@
           "size": "75ml",
           "price": 5.49,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_3_09431ca9-ab45-4c41-ab8a-8d4a8af9adbf.jpg?v=1682916647"
         }
       ]
     },
@@ -5023,34 +5079,6 @@
     },
     {
       "brand": "Daise",
-      "name": "Daise Body Mist Sunny 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 8,
-      "price_per_100ml": 8,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw86db47e3/images/hi-res/53/B4/R2988272_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-sunny-100ml/R2988272.html",
-      "source_price": 8,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-sunny-100ml/R2988272.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Sunny 100ml",
-          "size": "100ml",
-          "price": 8,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw86db47e3/images/hi-res/53/B4/R2988272_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
       "name": "Daise Body Mist Lowkey 100ml",
       "size": "100ml",
       "size_ml": 100,
@@ -5130,6 +5158,62 @@
           "price": 8.39,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/7e62cd4b-3e63-4cda-8475-0e5bcbd7cfdc.jpg?v=1781880040"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Perfume Caramel Embrace",
+      "size": null,
+      "size_ml": null,
+      "price": 8.39,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb1d6a9d3/images/hi-res/1F/BE/R3067238_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-caramel-embrace/R3067238.html",
+      "source_price": 8.39,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-caramel-embrace/R3067238.html",
+          "brand": "VV Love",
+          "name": "VV Love Perfume Caramel Embrace",
+          "size": null,
+          "price": 8.39,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb1d6a9d3/images/hi-res/1F/BE/R3067238_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Perfume Refreshing Sweet",
+      "size": null,
+      "size_ml": null,
+      "price": 8.39,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1380db9e/images/hi-res/93/D7/R3067237_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-refreshing-sweet/R3067237.html",
+      "source_price": 8.39,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-refreshing-sweet/R3067237.html",
+          "brand": "VV Love",
+          "name": "VV Love Perfume Refreshing Sweet",
+          "size": null,
+          "price": 8.39,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1380db9e/images/hi-res/93/D7/R3067237_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -7433,45 +7517,6 @@
           "price": 16.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwaca97523/images/hi-res/4B/6C/R3030288_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Summer Island Fragrance Mist Set 6 Pack",
-      "size": null,
-      "size_ml": null,
-      "price": 11.99,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd3f2c6c0/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-4-pack/R3030297.html",
-      "source_price": 11.99,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-4-pack/R3030297.html",
-          "brand": "VV Love",
-          "name": "VV Love Summer Island Fragrance Mist Set 4 Pack",
-          "size": null,
-          "price": 11.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd3f2c6c0/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-6-pack/R3030288.html",
-          "brand": "VV Love",
-          "name": "VV Love Summer Island Fragrance Mist Set 6 Pack",
-          "size": null,
-          "price": 16.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw26bf614a/images/hi-res/4B/6C/R3030288_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -10864,62 +10909,6 @@
     },
     {
       "brand": "VV Love",
-      "name": "VV Love Perfume Caramel Embrace",
-      "size": null,
-      "size_ml": null,
-      "price": 13.99,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb1d6a9d3/images/hi-res/1F/BE/R3067238_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-caramel-embrace/R3067238.html",
-      "source_price": 13.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-caramel-embrace/R3067238.html",
-          "brand": "VV Love",
-          "name": "VV Love Perfume Caramel Embrace",
-          "size": null,
-          "price": 13.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb1d6a9d3/images/hi-res/1F/BE/R3067238_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Perfume Refreshing Sweet",
-      "size": null,
-      "size_ml": null,
-      "price": 13.99,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc31cd637/images/hi-res/93/D7/R3067237_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-refreshing-sweet/R3067237.html",
-      "source_price": 13.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-refreshing-sweet/R3067237.html",
-          "brand": "VV Love",
-          "name": "VV Love Perfume Refreshing Sweet",
-          "size": null,
-          "price": 13.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc31cd637/images/hi-res/93/D7/R3067237_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
       "name": "VV Love Perfume Honey Squeeze",
       "size": null,
       "size_ml": null,
@@ -13313,6 +13302,62 @@
           "price": 5.99,
           "currency": "NZD",
           "image_url": null
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Ladies Classic 35ml EDT Giftset",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.99,
+      "price_per_100ml": 17.11,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5a8f906b/images/hi-res/E2/DC/R3067226_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-classic-35ml-edt-giftset/R3067226.html",
+      "source_price": 5.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-classic-35ml-edt-giftset/R3067226.html",
+          "brand": "VV Love",
+          "name": "VV Love Ladies Classic 35ml EDT Giftset",
+          "size": "35ml",
+          "price": 5.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5a8f906b/images/hi-res/E2/DC/R3067226_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Ladies Modern 35ml EDT Giftset",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.99,
+      "price_per_100ml": 17.11,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw175e6906/images/hi-res/7B/32/R3067225_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-modern-35ml-edt-giftset/R3067225.html",
+      "source_price": 5.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-modern-35ml-edt-giftset/R3067225.html",
+          "brand": "VV Love",
+          "name": "VV Love Ladies Modern 35ml EDT Giftset",
+          "size": "35ml",
+          "price": 5.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw175e6906/images/hi-res/7B/32/R3067225_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -17275,62 +17320,6 @@
           "price": 24.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9920304775198.jpg?v=1759461741"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Ladies Classic 35ml EDT Giftset",
-      "size": "35ml",
-      "size_ml": 35,
-      "price": 9.99,
-      "price_per_100ml": 28.54,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5a8f906b/images/hi-res/E2/DC/R3067226_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-classic-35ml-edt-giftset/R3067226.html",
-      "source_price": 9.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-classic-35ml-edt-giftset/R3067226.html",
-          "brand": "VV Love",
-          "name": "VV Love Ladies Classic 35ml EDT Giftset",
-          "size": "35ml",
-          "price": 9.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5a8f906b/images/hi-res/E2/DC/R3067226_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Ladies Modern 35ml EDT Giftset",
-      "size": "35ml",
-      "size_ml": 35,
-      "price": 9.99,
-      "price_per_100ml": 28.54,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw175e6906/images/hi-res/7B/32/R3067225_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-modern-35ml-edt-giftset/R3067225.html",
-      "source_price": 9.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-modern-35ml-edt-giftset/R3067225.html",
-          "brand": "VV Love",
-          "name": "VV Love Ladies Modern 35ml EDT Giftset",
-          "size": "35ml",
-          "price": 9.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw175e6906/images/hi-res/7B/32/R3067225_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -28943,7 +28932,7 @@
       "price": 49,
       "price_per_100ml": null,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw12e7fd6a/images/hi-res/A5/6C/R3071012_30.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwbd3ec9ac/images/hi-res/A5/6C/R3071012_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
       "source_url": "https://www.thewarehouse.co.nz/p/viktor-rolf-flowerbomb-edp-3-piece-giftset/R3071012.html",
@@ -28959,7 +28948,7 @@
           "size": null,
           "price": 49,
           "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw12e7fd6a/images/hi-res/A5/6C/R3071012_30.jpg?sw=292&sh=292"
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwbd3ec9ac/images/hi-res/A5/6C/R3071012_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -63257,6 +63246,34 @@
       ]
     },
     {
+      "brand": "Victoria's Secret",
+      "name": "Victoria's Secret Bombshell EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 84.99,
+      "price_per_100ml": 84.99,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd770ac9c/images/hi-res/F0/60/R3025165_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-bombshell-edp-100ml/R3025165.html",
+      "source_price": 84.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-bombshell-edp-100ml/R3025165.html",
+          "brand": "Victoria's Secret",
+          "name": "Victoria's Secret Bombshell EDP 100ml",
+          "size": "100ml",
+          "price": 84.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd770ac9c/images/hi-res/F0/60/R3025165_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Lattafa",
       "name": "Lattafa Eclaire EDP 100ml",
       "size": "100ml",
@@ -66321,6 +66338,34 @@
       ]
     },
     {
+      "brand": "French Avenue",
+      "name": "French Avenue Liquid Brun EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 89,
+      "price_per_100ml": 89,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/French-Avenue-Liquid-Brun-100ML-EDP-for-Men-6290360375694.jpg?v=1781827689",
+      "description": "French Avenue Liquid Brun EDP 100ml for Men French Avenue Liquid Brun EDP 100ml for Men is a warm amber vanilla Eau de Parfum with cinnamon, bergamot, cardamom, orange blossom, bourbon vanilla, praline, musk and smooth woods. It opens with aromatic spice and bright citrus, develops into a creamy vanilla heart, then settles into a sweet, musky and woody dry-down. This 100ml Eau de Parfum is ideal for customers who enjoy warm spicy fragrances, smooth vanilla, gourmand sweetness and polished evening scents. Liquid Brun is especially suited to dinners, date nights, celebrations, cooler New Zealand weather, gifting and confident signature-scent styling. Buy French Avenue fragrances from Gadgets Online NZ, a NZ-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Cinnamon, bergamot, cardamom and orange blossom. Heart Notes: Bourbon vanilla and elemi. Base Notes: Musk, praline, ambroxan and guaiac wood. Scent Profile Liquid Brun begins with the warmth of cinnamon and cardamom, balanced by bergamot and orange blossom. Bourbon vanilla and elemi create a creamy, softly resinous heart, while praline adds gourmand sweetness. Musk, ambroxan and guaiac wood give the dry-down a smooth, warm and lightly smoky finish. The overall profile is sweet, spicy, creamy and woody rather than fresh or aquatic. Its vanilla and praline warmth make it particularly appealing to customers who enjoy rich amber fragrances with a polished gourmand character. Who Is It For? Liquid Brun is marketed as a fragrance for men, although fragrance preferences are personal and it can be enjoyed by anyone who likes warm amber vanilla scents. It is recommended for customers who enjoy cinnamon, cardamom, orange blossom, creamy vanilla, praline, musk and smooth woods. It is a strong choice for someone wanting a confident evening fragrance, a sweet cold-weather signature scent or a premium gift without moving into the price range of luxury niche perfumery. When to Wear Daytime: Cooler daytime wear, smart casual outfits, weekends and occasions where a richer scent is appropriate. Evening: Dinners, date nights, celebrations, events and dressed-up social occasions. Season: Best suited to autumn, winter and cooler New Zealand evenings, while wearable year-round by amber vanilla fragrance lovers. Occasion: A premium gifting choice for customers who enjoy warm, sweet and spicy fragrances. Longevity & Sillage Liquid Brun is an Eau de Parfum with a rich amber vanilla profile and a noticeable scent presence. Start with a moderate application and adjust according to the setting. Longevity and projection can vary depending on skin chemistry, application, weather, clothing and storage conditions. How to Wear Liquid Brun Apply lightly to pulse points such as the neck and wrists. Allow the fragrance to settle naturally without rubbing the skin. Apply to moisturised skin to help the scent develop evenly. For evening wear, a light application to clothing can extend the scent trail, subject to fabric suitability. Use fewer sprays in warm or enclosed environments because sweet amber fragrances can feel richer as the temperature rises. Layering Suggestions For greater depth: Pair carefully with a clean musk or soft woody fragrance. For a brighter opening: Layer lightly with a simple citrus fragrance. For a smoother effect: Apply over an unscented moisturiser rather than adding another strong perfume. For the original composition: Wear Liquid Brun alone and allow its cinnamon, vanilla, praline and woody notes to develop naturally. More French Avenue Fragrances to Explore French Avenue Spectre Ghost EDP 80ml — explore another warm and distinctive French Avenue fragrance. French Avenue Spectre Wraith EDP 80ml — a darker fragrance direction from the Spectre collection. French Avenue Royal Blend EDP 100ml — a rich alternative for customers who enjoy indulgent fragrance styles. French Avenue Azzure Aoud EDP 100ml — a bolder oud-focused choice from the current range. Similar Warm Arabic Fragrances Lattafa Khamrah Qahwa EDP 100ml — a richer coffee-spiced gourmand fragrance direction. Lattafa Niche Emarati Mughal Fort EDP 100ml — a warm and smooth Arabic fragrance alternative. Lattafa Pride Sehr EDP 100ml — a sweet, spicy and deeper fragrance style for evening wear. Premium & Niche Alternatives Parfums de Marly Althaïr EDP 125ml — a premium amber vanilla fragrance for customers wanting a luxury niche alternative. Tom Ford Oud Wood EDP 100ml — a drier and more refined woody alternative with less gourmand sweetness. Gucci Intense Oud EDP 90ml — a deeper oud-led designer option for customers wanting darker woody intensity. Explore More Fragrances Browse more Arabic perfumes , men’s perfumes , latest perfume arrivals and perfumes and fragrances from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: French Avenue Fragrance: Liquid Brun Size: 100ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Amber Vanilla Scent Style: Warm spicy, sweet, gourmand and woody Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One French Avenue Liquid Brun EDP 100ml retail spray bottle Fragrance Care Tips Store the bottle upright in a cool and dry location. Keep it away from direct sunlight, excessive heat and humidity. Avoid repeatedly exposing the bottle to rapid temperature changes. Replace the cap after use where applicable. Disclaimer: Fragrance performance, longevity, projection, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/french-avenue-liquid-brun-100ml-edp-for-men",
+      "source_price": 89,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/french-avenue-liquid-brun-100ml-edp-for-men",
+          "brand": "French Avenue",
+          "name": "French Avenue Liquid Brun EDP 100ml",
+          "size": "100ml",
+          "price": 89,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/French-Avenue-Liquid-Brun-100ML-EDP-for-Men-6290360375694.jpg?v=1781827689"
+        }
+      ]
+    },
+    {
       "brand": "Bulk Frag",
       "name": "MONTBLANC Emblem EDT Spray 60ml",
       "size": "60ml",
@@ -68663,34 +68708,6 @@
           "price": 139.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/reef-pure-musk.png?v=1784004742"
-        }
-      ]
-    },
-    {
-      "brand": "French Avenue",
-      "name": "French Avenue Liquid Brun EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 94,
-      "price_per_100ml": 94,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/French-Avenue-Liquid-Brun-100ML-EDP-for-Men-6290360375694.jpg?v=1781827689",
-      "description": "French Avenue Liquid Brun EDP 100ml for Men French Avenue Liquid Brun EDP 100ml for Men is a warm amber vanilla Eau de Parfum with cinnamon, bergamot, cardamom, orange blossom, bourbon vanilla, praline, musk and smooth woods. It opens with aromatic spice and bright citrus, develops into a creamy vanilla heart, then settles into a sweet, musky and woody dry-down. This 100ml Eau de Parfum is ideal for customers who enjoy warm spicy fragrances, smooth vanilla, gourmand sweetness and polished evening scents. Liquid Brun is especially suited to dinners, date nights, celebrations, cooler New Zealand weather, gifting and confident signature-scent styling. Buy French Avenue fragrances from Gadgets Online NZ, a NZ-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Cinnamon, bergamot, cardamom and orange blossom. Heart Notes: Bourbon vanilla and elemi. Base Notes: Musk, praline, ambroxan and guaiac wood. Scent Profile Liquid Brun begins with the warmth of cinnamon and cardamom, balanced by bergamot and orange blossom. Bourbon vanilla and elemi create a creamy, softly resinous heart, while praline adds gourmand sweetness. Musk, ambroxan and guaiac wood give the dry-down a smooth, warm and lightly smoky finish. The overall profile is sweet, spicy, creamy and woody rather than fresh or aquatic. Its vanilla and praline warmth make it particularly appealing to customers who enjoy rich amber fragrances with a polished gourmand character. Who Is It For? Liquid Brun is marketed as a fragrance for men, although fragrance preferences are personal and it can be enjoyed by anyone who likes warm amber vanilla scents. It is recommended for customers who enjoy cinnamon, cardamom, orange blossom, creamy vanilla, praline, musk and smooth woods. It is a strong choice for someone wanting a confident evening fragrance, a sweet cold-weather signature scent or a premium gift without moving into the price range of luxury niche perfumery. When to Wear Daytime: Cooler daytime wear, smart casual outfits, weekends and occasions where a richer scent is appropriate. Evening: Dinners, date nights, celebrations, events and dressed-up social occasions. Season: Best suited to autumn, winter and cooler New Zealand evenings, while wearable year-round by amber vanilla fragrance lovers. Occasion: A premium gifting choice for customers who enjoy warm, sweet and spicy fragrances. Longevity & Sillage Liquid Brun is an Eau de Parfum with a rich amber vanilla profile and a noticeable scent presence. Start with a moderate application and adjust according to the setting. Longevity and projection can vary depending on skin chemistry, application, weather, clothing and storage conditions. How to Wear Liquid Brun Apply lightly to pulse points such as the neck and wrists. Allow the fragrance to settle naturally without rubbing the skin. Apply to moisturised skin to help the scent develop evenly. For evening wear, a light application to clothing can extend the scent trail, subject to fabric suitability. Use fewer sprays in warm or enclosed environments because sweet amber fragrances can feel richer as the temperature rises. Layering Suggestions For greater depth: Pair carefully with a clean musk or soft woody fragrance. For a brighter opening: Layer lightly with a simple citrus fragrance. For a smoother effect: Apply over an unscented moisturiser rather than adding another strong perfume. For the original composition: Wear Liquid Brun alone and allow its cinnamon, vanilla, praline and woody notes to develop naturally. More French Avenue Fragrances to Explore French Avenue Spectre Ghost EDP 80ml — explore another warm and distinctive French Avenue fragrance. French Avenue Spectre Wraith EDP 80ml — a darker fragrance direction from the Spectre collection. French Avenue Royal Blend EDP 100ml — a rich alternative for customers who enjoy indulgent fragrance styles. French Avenue Azzure Aoud EDP 100ml — a bolder oud-focused choice from the current range. Similar Warm Arabic Fragrances Lattafa Khamrah Qahwa EDP 100ml — a richer coffee-spiced gourmand fragrance direction. Lattafa Niche Emarati Mughal Fort EDP 100ml — a warm and smooth Arabic fragrance alternative. Lattafa Pride Sehr EDP 100ml — a sweet, spicy and deeper fragrance style for evening wear. Premium & Niche Alternatives Parfums de Marly Althaïr EDP 125ml — a premium amber vanilla fragrance for customers wanting a luxury niche alternative. Tom Ford Oud Wood EDP 100ml — a drier and more refined woody alternative with less gourmand sweetness. Gucci Intense Oud EDP 90ml — a deeper oud-led designer option for customers wanting darker woody intensity. Explore More Fragrances Browse more Arabic perfumes , men’s perfumes , latest perfume arrivals and perfumes and fragrances from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: French Avenue Fragrance: Liquid Brun Size: 100ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Amber Vanilla Scent Style: Warm spicy, sweet, gourmand and woody Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One French Avenue Liquid Brun EDP 100ml retail spray bottle Fragrance Care Tips Store the bottle upright in a cool and dry location. Keep it away from direct sunlight, excessive heat and humidity. Avoid repeatedly exposing the bottle to rapid temperature changes. Replace the cap after use where applicable. Disclaimer: Fragrance performance, longevity, projection, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/french-avenue-liquid-brun-100ml-edp-for-men",
-      "source_price": 94,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/french-avenue-liquid-brun-100ml-edp-for-men",
-          "brand": "French Avenue",
-          "name": "French Avenue Liquid Brun EDP 100ml",
-          "size": "100ml",
-          "price": 94,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/French-Avenue-Liquid-Brun-100ML-EDP-for-Men-6290360375694.jpg?v=1781827689"
         }
       ]
     },
@@ -104550,34 +104567,6 @@
       ]
     },
     {
-      "brand": "Victoria's Secret",
-      "name": "Victoria's Secret Bombshell EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 169.99,
-      "price_per_100ml": 169.99,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4ca77935/images/hi-res/F0/60/R3025165_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-bombshell-edp-100ml/R3025165.html",
-      "source_price": 169.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-bombshell-edp-100ml/R3025165.html",
-          "brand": "Victoria's Secret",
-          "name": "Victoria's Secret Bombshell EDP 100ml",
-          "size": "100ml",
-          "price": 169.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4ca77935/images/hi-res/F0/60/R3025165_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
       "brand": "Burberry",
       "name": "BURBERRY Hero EDT 100ml",
       "size": "100ml",
@@ -106667,6 +106656,34 @@
           "price": 139.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/chopard-tobacco-malaki.png?v=1792543274"
+        }
+      ]
+    },
+    {
+      "brand": "Nina Ricci",
+      "name": "Nina Rouge Crush by Nina Ricci 80ml EDP",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 139.99,
+      "price_per_100ml": 174.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/nina-rouge-crush-80ml.png?v=1792635829",
+      "description": "Nina Rouge Crush by Nina Ricci 80ml Eau De Parfum Spray for Women Are you ready for your next crush? Introducing Nina Rouge Crush Eau de Parfum, the new perfume for women by Nina Ricci. Nina Rouge Crush sparks a new addiction with its fruity ambery floral fragrance: a juicy cherry, a floral bouquet and addictive vanilla. Nina Rouge Crush is a bold, super-glossy bitten red bottle combines with a floral ambery fruity fragrance for the most irresistible obsession. Designer: Nina Ricci Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: This addictive new Eau de Parfum is a captivating fruity ambery floral fragrance. Top notes of ripe cherry and sparkling raspberry mix with a citrus touch of lemon, creating an explosion of excitement as the scent opens. At the heart, a bright bouquet of rose and gardenia blossoms, laced with the fresh tang of Granny Smith apple, bringing a mouthwatering allure. The base melts into a blushing blend of Bourbon and Tahitensis vanilla with warm cedarwood, leaving a warm, unforgettable trail for this irresistible new crush. As tempting as an irresistible crush, the iconic Nina apple-shaped bottle is dipped in an ultra-glossy cherry shade with a transparent deep red bite mark. Hidden within the perfume’s box is an exclusive painting by artist Jeanne Brito, a friend of the Maison who has worked with Nina Ricci’s Creative Director, Harris Reed. Capturing the sweet thrill of an exhilarating crush – whether for somebody or something – Nina Rouge Crush is as precious as a secret shared between your closest friends. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/nina-rouge-crush-by-nina-ricci-80ml-edp",
+      "source_price": 139.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/nina-rouge-crush-by-nina-ricci-80ml-edp",
+          "brand": "Nina Ricci",
+          "name": "Nina Rouge Crush by Nina Ricci 80ml EDP",
+          "size": "80ml",
+          "price": 139.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/nina-rouge-crush-80ml.png?v=1792635829"
         }
       ]
     },
@@ -129122,6 +129139,56 @@
       ]
     },
     {
+      "brand": "Giorgio Armani",
+      "name": "Giorgio Armani Si Passione Red Bloom EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 214.99,
+      "price_per_100ml": 214.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/armani-si-passione-red-bloom.png?v=1792641907",
+      "description": "Si Passione Red Bloom by Giorgio Armani 100ml Eau De Parfum Spray for Women Discover Si Passione Red Bloom, a floral ambery fruity fragrance to express a joyful, opulent vibrancy. A full-blooming vibrancy emerges in Si Passione Red Bloom, evoking a daring, joyful femininity as it blends a raspberry accord, iris, and woody vanilla. Designer: Giorgio Armani Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: To awaken the senses, an at once luscious and tangy raspberry accord opens the fragrance with its vibrant energy, fusing with sparkling bergamot and a blackcurrant bud absolute. Elegant iris pallida, with its sensual floral aroma and velvety texture, defines the heart, intertwining with two facets of rose: rose petal, with its green, spiced scent, and rose absolute heart, conveying a sensual floralcy, to conjure a beguiling charm. An irresistible sensuality emerges in the scent's woody, addictive trail, as vanilla bourbon premium sourced from Madagascar, with its delicious, indulgent facets, is woven with cashmeran's elegant ambery, woody aspects, revealing Si Passione Red Bloom's powerfully modern mood. To perfectly capture the elegant new twist on floral scents, the iconic Si flacon is reimagined with a new luminosity. The Si Passione Red Bloom bottle is exquisitely crafted from radiant frosted glass, presenting a rich, vivid red and crowned with Si's organic, stone-shaped cap in vibrant red. The signature 'Si' name is artfully embossed directly into the glass in tactile, transparent lettering, adding a sophisticated touch. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/si-passione-red-bloom-by-giorgio-armani-100ml-edp",
+      "source_price": 214.99,
+      "source_count": 3,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/si-passione-red-bloom-by-giorgio-armani-100ml-edp",
+          "brand": "Giorgio Armani",
+          "name": "Si Passione Red Bloom by Giorgio Armani 100ml EDP",
+          "size": "100ml",
+          "price": 214.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/armani-si-passione-red-bloom.png?v=1792641907"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/giorgio-armani-si-passione-red-bloom-edp-100ml",
+          "brand": "Giorgio Armani",
+          "name": "Giorgio Armani Sì Passione Red Bloom EDP 100ml",
+          "size": "100ml",
+          "price": 289,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/GiorgioArmaniSiPassioneRedBloomEDP100ml.jpg?v=1781828154"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-passione-red-bloom-edp-100ml",
+          "brand": "Giorgio Armani",
+          "name": "Giorgio Armani Si Passione Red Bloom EDP 100ml",
+          "size": "100ml",
+          "price": 335,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041154-0.jpg?v=1772834233"
+        }
+      ]
+    },
+    {
       "brand": "Dolce & Gabbana",
       "name": "Dolce & Gabbana K by Dolce & Gabbana EDP 100ml",
       "size": "100ml",
@@ -136544,7 +136611,7 @@
       "price": 138,
       "price_per_100ml": 230,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045346-0_1598c116-decc-49fc-a015-7a5468149797.jpg?v=1792559712",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045346-0_1598c116-decc-49fc-a015-7a5468149797.jpg?v=1792618539",
       "description": null,
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/lacoste-original-parfum-60ml-set-2pcs",
@@ -136560,7 +136627,7 @@
           "size": "60ml",
           "price": 138,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045346-0_1598c116-decc-49fc-a015-7a5468149797.jpg?v=1792559712"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045346-0_1598c116-decc-49fc-a015-7a5468149797.jpg?v=1792618539"
         }
       ]
     },
@@ -140295,6 +140362,34 @@
       ]
     },
     {
+      "brand": "Nina Ricci",
+      "name": "Venus Intense by Nina Ricci 80ml EDP",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 194.99,
+      "price_per_100ml": 243.74,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/nina-ricci-venus-intense.png?v=1792634496",
+      "description": "Venus Intense by Nina Ricci 80ml Eau De Parfum Spray for Women The House of Nina Ricci introduces a new chapter of its modern mythology. Vénus de Nina Ricci reinvents herself in an intense, hypnotic light. More sensual, more captivating, this new Eau de Parfum Intense invites each woman to love herself unapologetically, radiating an aura that captivates and inspires. This new Ambery Floral Eau de Parfum intense is a reinterpretation of florality, infused with radiant luminosity. A bouquet of tiare flower and jasmine is enveloped in ambery patchouli, creating a contrast of light and dark. A solar fragrance more captivating than ever. Designer: Nina Ricci Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Vénus de Nina Ricci Eau de Parfum Intense is a solar Ambery Floral, reinterpreting florality with more radiance than ever before. To create this new intensity, Perfumer Alexandra Monet, alongside Master Perfumers Nathalie Lorson and Olivier Cresp, amplified the light-and-dark contrast of the scent’s signature. At the heart of the fragrance lies a radiant duo of solar tiare flower and ambery patchouli, infusing the scent with hypnotic warmth and sensuality. Blackcurrant liquor and mandarin top notes enhance the fragrance with luminous smoothness, while a sensual base of creamy vanilla intensifies the fragrance captivating allure. Robert Ricci’s enduring passion for mythology has always been a source of inspiration for the Maison’s fragrances. Vénus de Nina Ricci Eau de Parfum Intense is a modern vision of the goddess of love, seen through a prism of unconditional self-love. She delivers a universal message: an invitation to truly love yourself, intensely and authentically. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/venus-intense-by-nina-ricci-80ml-edp",
+      "source_price": 194.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/venus-intense-by-nina-ricci-80ml-edp",
+          "brand": "Nina Ricci",
+          "name": "Venus Intense by Nina Ricci 80ml EDP",
+          "size": "80ml",
+          "price": 194.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/nina-ricci-venus-intense.png?v=1792634496"
+        }
+      ]
+    },
+    {
       "brand": "Givenchy",
       "name": "Givenchy Irresistible Rose Velvet EDP 80ml",
       "size": "80ml",
@@ -142149,6 +142244,34 @@
           "price": 124.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dolce-the-only-one-intense-50ml.png?v=1722226316"
+        }
+      ]
+    },
+    {
+      "brand": "Hugo Boss",
+      "name": "Boss The Scent Intense by Hugo Boss 50ml EDP",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 124.99,
+      "price_per_100ml": 249.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/hugo-boss-the-scent-intense-women-50ml.png?v=1792637016",
+      "description": "Boss The Scent Intense by Hugo Boss 50ml Eau De Parfum Spray for Women Fuse the power of attraction with BOSS The Scent Eau de Parfum Intense for Her, an irresistible BOSS fragrance for women that captures the smouldering connection between a power couple. Caressing Coffee Flower and deep Coffee accord merge harmoniously in this ambery-gourmand floral scent, forming a rich liqueur that radiates sensuality. Designer: Hugo Boss Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Radiating sensuality, this ambery-floral gourmand scent blends sultry contrasts. The caressing delicacy of Coffee Flower meets the dark depth of roasted Coffee Accord, forming a rich, seductive liqueur of softness and heat that fuses the senses. BOSS The Scent Eau de Parfum Intense for Her reinvents empowering sensuality in a striking bottle, embellished with an oversized BOSS logo and crowned with a Double-B monogrammed warm-gold cap. Through the multifaceted silhouette, the golden-ambery juice glows like molten nectar, embodying the fierce fusion of a power couple in perfect harmony. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/boss-the-scent-intense-by-hugo-boss-50ml-edp-for-women",
+      "source_price": 124.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/boss-the-scent-intense-by-hugo-boss-50ml-edp-for-women",
+          "brand": "Hugo Boss",
+          "name": "Boss The Scent Intense by Hugo Boss 50ml EDP",
+          "size": "50ml",
+          "price": 124.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/hugo-boss-the-scent-intense-women-50ml.png?v=1792637016"
         }
       ]
     },
@@ -148813,7 +148936,7 @@
       "price": 549.99,
       "price_per_100ml": 275,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/memo-african-leather-200ml.png?v=1792538519",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/memo-african-leather---2_ecfefe2f-fff7-4644-ac41-72454b1e6291.png?v=1792630175",
       "description": "African Leather by Memo Paris 200ml Eau De Parfum Spray A constant companion on countless travels, the leather well-worn and soft. Fragrances that linger like treasured mementos, rich spices, sharp citrus, smoky woods. A new adventure, a new memory, the unwritten journal of a life lived in motion. Designer: Memo Paris Year Introduced: 2015 Type: EDP Category: Unisex Fragrance Notes: Memo Paris African Leather Eau de Parfum is a warm spicy, aromatic leather fragrance. Cardamom opens the fragrance, finely balanced with notes of Bergamot, Saffron and Cumin. The spice notes linger into the heart of the fragrance, although softened by Geranium, Patchouli and Oud. Leather, Vetiver and Musk round out the fragrance, with a rich and luxurious feel. Refined and warm, Memo Paris African Leather is a different take on a leather fragrance. Ideal for day or night, the rich spiciness and warmth of Memo Paris African Leather makes it perfect for autumn and winter. ** Boxed Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
       "source_name": "perfume-nz-shopify-suggest",
       "source_url": "https://www.perfumenz.co.nz/products/african-leather-by-memo-paris-200ml-edp",
@@ -148829,7 +148952,7 @@
           "size": "200ml",
           "price": 549.99,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/memo-african-leather-200ml.png?v=1792538519"
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/memo-african-leather---2_ecfefe2f-fff7-4644-ac41-72454b1e6291.png?v=1792630175"
         }
       ]
     },
@@ -152893,45 +153016,6 @@
           "price": 341,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041156-0.jpg?v=1772834218"
-        }
-      ]
-    },
-    {
-      "brand": "Giorgio Armani",
-      "name": "Giorgio Armani Si Passione Red Bloom EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 289,
-      "price_per_100ml": 289,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/GiorgioArmaniSiPassioneRedBloomEDP100ml.jpg?v=1781828154",
-      "description": "Giorgio Armani Sì Passione Red Bloom EDP 100ml for Women Giorgio Armani Sì Passione Red Bloom EDP 100ml for Women is a fruity floral amber Eau de Parfum with raspberry accord, bergamot, blackcurrant bud absolute, iris pallida, rose petals, rose absolute, Madagascar bourbon vanilla, amber woods and cashmeran. It has a radiant, feminine and confident scent profile that blends juicy fruit, elegant florals and a warm sensual base. This 100ml Eau de Parfum size is ideal for customers who want a larger Giorgio Armani women’s fragrance for regular wear, gifting, evenings and personal fragrance rotation. It suits women who enjoy modern fruity floral perfumes with red-fruit brightness, rose elegance and a creamy amber-vanilla dry-down. Buy Giorgio Armani fragrances from Gadgets Online NZ, a NZ-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery and Auckland pickup when available. This product is supplied in brand-new original retail packaging unless otherwise stated, and a GST invoice is supplied with purchase. Fragrance Notes Top Notes: Raspberry accord, bergamot and blackcurrant bud absolute. Heart Notes: Iris pallida, rose petals and rose absolute. Base Notes: Madagascar bourbon vanilla, amber woods and cashmeran. Scent Profile Sì Passione Red Bloom opens with a sparkling red-fruit brightness from raspberry accord, bergamot and blackcurrant bud absolute. The heart brings a refined floral blend of iris pallida, rose petals and rose absolute, before the fragrance settles into Madagascar bourbon vanilla, amber woods and cashmeran for a warm, creamy and elegant finish. Who Is It For? This fragrance is recommended for women who enjoy fruity floral amber perfumes with raspberry, rose, iris, vanilla warmth and soft woody depth. It is a strong option for customers looking for a vibrant Giorgio Armani Sì Passione fragrance in a generous 100ml Eau de Parfum bottle. When to Wear Daytime: Suitable for work, brunch, shopping, smart casual outfits and polished daily wear. Evening: Works well for dinners, dates, events and special occasions. Season: Versatile across the year, especially spring, autumn, winter evenings and mild New Zealand weather. Occasion: A strong choice for gifting, personal fragrance rotation and women who enjoy bold fruity floral designer scents. Longevity & Sillage As an Eau de Parfum, Sì Passione Red Bloom is designed to leave a noticeable fruity floral amber scent impression while remaining polished and wearable. Longevity and sillage vary depending on skin chemistry, application, weather and storage. More Giorgio Armani Fragrances to Explore Giorgio Armani Sì Passione Red Bloom EDP 50ml Giorgio Armani Sì Passione Intense EDP 100ml Giorgio Armani Sì Passione Éclat EDP 100ml Giorgio Armani Sì Nude Bloom EDP 100ml Similar Designer Fragrances Valentino Donna Born In Roma Coral Fantasy EDP 50ml Lancôme La Vie Est Belle Iris Absolu EDP 100ml YSL Libre Berry Crush EDP Fruitée 50ml Givenchy Irresistible Rose Velvet EDP 80ml Premium & Niche Alternatives Tom Ford Electric Cherry EDP 50ml Creed Aventus For Her EDP 75ml Explore More Fragrances Explore more women’s perfumes , perfumes and fragrances and Giorgio Armani perfumes available from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Brand-new original retail packaging unless otherwise stated. GST invoice supplied with purchase. Product Details Brand: Giorgio Armani Fragrance: Sì Passione Red Bloom EDP Size: 100ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Fruity Floral Amber Format: Retail spray bottle Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Giorgio Armani Sì Passione Red Bloom EDP 100ml retail spray bottle Fragrance Care Tips Store your fragrance in a cool, dry place away from direct sunlight, heat and humidity. Apply to pulse points such as the neck, chest and wrists, and avoid rubbing after spraying as this can affect how the scent develops. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on skin chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/giorgio-armani-si-passione-red-bloom-edp-100ml",
-      "source_price": 289,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/giorgio-armani-si-passione-red-bloom-edp-100ml",
-          "brand": "Giorgio Armani",
-          "name": "Giorgio Armani Sì Passione Red Bloom EDP 100ml",
-          "size": "100ml",
-          "price": 289,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/GiorgioArmaniSiPassioneRedBloomEDP100ml.jpg?v=1781828154"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/giorgio-armani-si-passione-red-bloom-edp-100ml",
-          "brand": "Giorgio Armani",
-          "name": "Giorgio Armani Si Passione Red Bloom EDP 100ml",
-          "size": "100ml",
-          "price": 335,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041154-0.jpg?v=1772834233"
         }
       ]
     },
@@ -168369,6 +168453,34 @@
       ]
     },
     {
+      "brand": "Billie Eilish",
+      "name": "Billie Eilish Your Turn II EDP 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 105,
+      "price_per_100ml": 350,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/02-box-and-bottle_6550a2c8-44f3-4899-9ecc-4a5df6e79bd4.webp?v=1781828646",
+      "description": "Billie Eilish Your Turn II EDP 30ml Unisex Billie Eilish Your Turn II EDP 30ml Unisex offers the dark fruity woody Your Turn II fragrance in a compact size. Pimento berry, mirabelle plum and cassis open the scent before fig nectar, black tea and vanilla orchid lead into earthy vetiver, olibanum resin and Virginia cedarwood. This 30ml Eau de Parfum suits unisex fragrance lovers who want a smaller bottle for travel, handbags, gifting or first-time discovery. Its dark fruit, tea, resin and woods work especially well for evenings and cooler New Zealand weather. Buy Billie Eilish fragrances from Gadgets Online NZ, a New Zealand-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Pimento berry, mirabelle plum and cassis leaves. Heart Notes: Fig nectar, black tea leaves and vanilla orchid. Base Notes: Natural vetiver, olibanum resin and Virginia cedarwood. Scent Profile Your Turn II begins with spicy pimento berry and dark plum-cassis fruit. Fig nectar, black tea and vanilla orchid give the heart a smooth, moody texture, while vetiver, olibanum and cedarwood provide an earthy and smoky finish. Who Is It For? This compact Billie Eilish fragrance is ideal for customers who enjoy genderless woody scents and want to try Your Turn II before moving to 100ml. It also suits travel and gifting where a smaller retail bottle is preferred. When to Wear Daytime: Travel, cool-weather outings and controlled daytime application. Evening: Dates, dinners, concerts, nights out and fragrance touch-ups. Season: Best suited to autumn, winter and cooler spring evenings. Occasion: A travel-friendly fragrance, gift or introduction to Your Turn II. Longevity & Sillage As an Eau de Parfum, Your Turn II is designed to develop from spiced fruit into tea, resin and woods. Longevity and projection vary with skin chemistry, application, weather and storage. More Billie Eilish Fragrances to Explore Billie Eilish Your Turn II EDP 100ml — the same fragrance in a larger full-size bottle. Billie Eilish Your Turn EDP 100ml — a brighter woody musk with cardamom, ginger, peach skin and sandalwood. Billie Eilish No 2 EDP 100ml — a smoky woody floral musk with papyrus, palo santo and vanilla. Billie Eilish EDP 100ml — the original warm amber vanilla fragrance. Similar Designer Fragrances Carolina Herrera Good Girl Jasmine Absolute EDP 80ml — a polished floral designer fragrance with warm evening depth. Yves Saint Laurent Black Opium Glitter EDP — a richer sweet floral gourmand option for evening wear. Valentino Donna Born In Roma Coral Fantasy EDP 50ml — a modern fruity-floral designer fragrance with a brighter character. Premium & Niche Alternatives Nishane Hacivat Extrait 100ml — a structured woody niche fragrance with strong presence and depth. Nishane Hundred Silent Ways X Extrait 100ml — a polished premium fragrance with sweet floral and woody texture. Nishane Hundred Silent Ways Extrait 100ml — a smoother sweet floral-woody niche alternative. Explore More Fragrances Browse the full Billie Eilish perfume collection , explore unisex fragrances , discover more perfumes and fragrances in New Zealand , or shop perfume gift sets . Why Buy From Gadgets Online NZ? New Zealand-owned retailer since 2008 Auckland retail store in Mount Eden NZ-wide delivery available Pickup available when stock is available at store level GST invoice provided with purchase Brand-new product supplied in original retail packaging Product Details Brand: Billie Eilish Fragrance: Your Turn II Size: 30ml Concentration: Eau de Parfum Gender: Unisex Fragrance Family: Fruity Woody Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Billie Eilish Your Turn II EDP 30ml retail spray bottle Fragrance Care Tips Apply to pulse points such as wrists, neck and behind the ears. Avoid rubbing the fragrance after application, as this can affect how the scent develops. Store the bottle in a cool, dry place away from direct sunlight and heat. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on skin chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality or fragrance performance.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/billie-eilish-your-turn-ii-edp-30ml",
+      "source_price": 105,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/billie-eilish-your-turn-ii-edp-30ml",
+          "brand": "Billie Eilish",
+          "name": "Billie Eilish Your Turn II EDP 30ml",
+          "size": "30ml",
+          "price": 105,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/02-box-and-bottle_6550a2c8-44f3-4899-9ecc-4a5df6e79bd4.webp?v=1781828646"
+        }
+      ]
+    },
+    {
       "brand": "Thierry Mugler",
       "name": "Thierry Mugler Angel Nova EDP 100ml",
       "size": "100ml",
@@ -171242,34 +171354,6 @@
           "price": 363,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11271463-0.jpg?v=1723594463"
-        }
-      ]
-    },
-    {
-      "brand": "Billie Eilish",
-      "name": "Billie Eilish Your Turn II EDP 30ml",
-      "size": "30ml",
-      "size_ml": 30,
-      "price": 109,
-      "price_per_100ml": 363.33,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/02-box-and-bottle_6550a2c8-44f3-4899-9ecc-4a5df6e79bd4.webp?v=1781828646",
-      "description": "Billie Eilish Your Turn II EDP 30ml Unisex Billie Eilish Your Turn II EDP 30ml Unisex offers the dark fruity woody Your Turn II fragrance in a compact size. Pimento berry, mirabelle plum and cassis open the scent before fig nectar, black tea and vanilla orchid lead into earthy vetiver, olibanum resin and Virginia cedarwood. This 30ml Eau de Parfum suits unisex fragrance lovers who want a smaller bottle for travel, handbags, gifting or first-time discovery. Its dark fruit, tea, resin and woods work especially well for evenings and cooler New Zealand weather. Buy Billie Eilish fragrances from Gadgets Online NZ, a New Zealand-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Pimento berry, mirabelle plum and cassis leaves. Heart Notes: Fig nectar, black tea leaves and vanilla orchid. Base Notes: Natural vetiver, olibanum resin and Virginia cedarwood. Scent Profile Your Turn II begins with spicy pimento berry and dark plum-cassis fruit. Fig nectar, black tea and vanilla orchid give the heart a smooth, moody texture, while vetiver, olibanum and cedarwood provide an earthy and smoky finish. Who Is It For? This compact Billie Eilish fragrance is ideal for customers who enjoy genderless woody scents and want to try Your Turn II before moving to 100ml. It also suits travel and gifting where a smaller retail bottle is preferred. When to Wear Daytime: Travel, cool-weather outings and controlled daytime application. Evening: Dates, dinners, concerts, nights out and fragrance touch-ups. Season: Best suited to autumn, winter and cooler spring evenings. Occasion: A travel-friendly fragrance, gift or introduction to Your Turn II. Longevity & Sillage As an Eau de Parfum, Your Turn II is designed to develop from spiced fruit into tea, resin and woods. Longevity and projection vary with skin chemistry, application, weather and storage. More Billie Eilish Fragrances to Explore Billie Eilish Your Turn II EDP 100ml — the same fragrance in a larger full-size bottle. Billie Eilish Your Turn EDP 100ml — a brighter woody musk with cardamom, ginger, peach skin and sandalwood. Billie Eilish No 2 EDP 100ml — a smoky woody floral musk with papyrus, palo santo and vanilla. Billie Eilish EDP 100ml — the original warm amber vanilla fragrance. Similar Designer Fragrances Carolina Herrera Good Girl Jasmine Absolute EDP 80ml — a polished floral designer fragrance with warm evening depth. Yves Saint Laurent Black Opium Glitter EDP — a richer sweet floral gourmand option for evening wear. Valentino Donna Born In Roma Coral Fantasy EDP 50ml — a modern fruity-floral designer fragrance with a brighter character. Premium & Niche Alternatives Nishane Hacivat Extrait 100ml — a structured woody niche fragrance with strong presence and depth. Nishane Hundred Silent Ways X Extrait 100ml — a polished premium fragrance with sweet floral and woody texture. Nishane Hundred Silent Ways Extrait 100ml — a smoother sweet floral-woody niche alternative. Explore More Fragrances Browse the full Billie Eilish perfume collection , explore unisex fragrances , discover more perfumes and fragrances in New Zealand , or shop perfume gift sets . Why Buy From Gadgets Online NZ? New Zealand-owned retailer since 2008 Auckland retail store in Mount Eden NZ-wide delivery available Pickup available when stock is available at store level GST invoice provided with purchase Brand-new product supplied in original retail packaging Product Details Brand: Billie Eilish Fragrance: Your Turn II Size: 30ml Concentration: Eau de Parfum Gender: Unisex Fragrance Family: Fruity Woody Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Billie Eilish Your Turn II EDP 30ml retail spray bottle Fragrance Care Tips Apply to pulse points such as wrists, neck and behind the ears. Avoid rubbing the fragrance after application, as this can affect how the scent develops. Store the bottle in a cool, dry place away from direct sunlight and heat. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on skin chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality or fragrance performance.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/billie-eilish-your-turn-ii-edp-30ml",
-      "source_price": 109,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/billie-eilish-your-turn-ii-edp-30ml",
-          "brand": "Billie Eilish",
-          "name": "Billie Eilish Your Turn II EDP 30ml",
-          "size": "30ml",
-          "price": 109,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/02-box-and-bottle_6550a2c8-44f3-4899-9ecc-4a5df6e79bd4.webp?v=1781828646"
         }
       ]
     },
@@ -210881,10 +210965,6 @@
     {
       "retailer_slug": "chemist-warehouse-nz",
       "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
-    },
-    {
-      "retailer_slug": "the-warehouse",
-      "error": "Client error '403 Forbidden' for url 'https://www.thewarehouse.co.nz/c/health-beauty/fragrances?sr=perfume&sz=48'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
     }
   ]
 }
