@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T08:22:13.156Z",
-  "count": 4278,
+  "generated_at": "2026-10-23T08:18:57.183Z",
+  "count": 4285,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -85242,6 +85242,34 @@
       ]
     },
     {
+      "brand": "Diesel",
+      "name": "D Red Le Parfum by Diesel 100ml Parfum for Men",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 124.99,
+      "price_per_100ml": 124.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/diesel-d-red-le-parfum.png?v=1792721956",
+      "description": "D Red Le Parfum by Diesel 100ml Parfum Spray for Men Diesel D Red Le Parfum is a bold, masculine fragrance that combines fresh lavender and sparkling grapefruit for an energetic start. As it settles, warm leather emerges, creating a refined depth. Designed to reflect confidence and individuality, this scent balances freshness and intensity, leaving a lasting impression. Designer: Diesel Year Introduced: 2025 Type: Parfum Category: Men Fragrance Notes: D Red gets even more desirable. The vibrance of diesel red energy, meets the darkness of the rave. Coming into life by a striking double lacquering technique. The torrid hot freshness of D Red Le Parfum: the freshness of a juicy grapefruit encounters the richness & spicyness of saffron, an unexpected blend contrasted by the mystery of hot dark leather. This olfactive rave promises to last all night. Top Notes: Grapefruit Essence, Bourbon Geranium Madagascar, Aldehydes. Heart Notes: Saffron accord, Lavande Diva & Lavender Provence, Apple Accord. Base notes: Amber Wood Accord, Vetiver Essence From Haiti, Leather Accord. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/d-red-le-parfum-by-diesel-100ml-parfum-for-men",
+      "source_price": 124.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/d-red-le-parfum-by-diesel-100ml-parfum-for-men",
+          "brand": "Diesel",
+          "name": "D Red Le Parfum by Diesel 100ml Parfum for Men",
+          "size": "100ml",
+          "price": 124.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/diesel-d-red-le-parfum.png?v=1792721956"
+        }
+      ]
+    },
+    {
       "brand": "Others",
       "name": "Beyond Me by Gissah 200ml EDP",
       "size": "200ml",
@@ -96344,6 +96372,34 @@
       ]
     },
     {
+      "brand": "Mont Blanc",
+      "name": "Legend Elixir by Mont Blanc 100ml Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 149.99,
+      "price_per_100ml": 149.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mont-blanc-legend-elixir.png?v=1792719088",
+      "description": "Legend Elixir by Mont Blanc 100ml Parfum Spray for Men A tribute to the man who knows where he comes from, what he has overcome, and who he has become, Montblanc Legend Elixir stands as a symbol of impactful masculinity. Opulent and modern, the fougère, ambery fragrance is presented inside the iconic Montblanc Legend perfume bottle, its mirror-effect, silver lacquering reflecting the elegance and intensity of the Elixir housed inside. Designer: Mont Blanc Year Introduced: 2026 Type: Parfum Category: Men Fragrance Notes: The most powerful concentration in the Legend collection, this Montblanc perfume sparks open with the verdant, sharp aromas of bergamot and lavender. Punctuated by pink peppercorn, the aromatic undertones are balanced by the delicate florality of Iris Germanic and the fruity sweetness of Pomarose . At the base, the rich depth of vanilla blends with the woody, amber notes of Ambrofix and resinous accents of Cistus and Benzoin, creating a charismatic and resolutely sensual trail. Continuing its legacy of storytelling through scent, each men's fragrance in the franchise expresses a different facet of the Montblanc Legend Man. Timeless, iconic, and unapologetically bold, the collection explores the full expression of masculinity with confidence and poise. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/legend-elixir-by-mont-blanc-100ml-parfum",
+      "source_price": 149.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/legend-elixir-by-mont-blanc-100ml-parfum",
+          "brand": "Mont Blanc",
+          "name": "Legend Elixir by Mont Blanc 100ml Parfum",
+          "size": "100ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mont-blanc-legend-elixir.png?v=1792719088"
+        }
+      ]
+    },
+    {
       "brand": "CARVEN",
       "name": "CARVEN Ma Griffe 100ml EDP",
       "size": "100ml",
@@ -98538,6 +98594,56 @@
           "price": 155.9,
           "currency": "NZD",
           "image_url": null
+        }
+      ]
+    },
+    {
+      "brand": "Jean Paul Gaultier",
+      "name": "Jean Paul Gaultier Le Male In Blue EDP 125ml",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 194.99,
+      "price_per_100ml": 155.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-le-male-in-blue.png?v=1785896694",
+      "description": "Le Male In Blue by Jean Paul Gaultier 125ml Eau De Parfum Spray for Men In deep blue, the Gaultier sailor charts a new course. Le Male In Blue, a new wave in a limited edition that turns the tides. Clad in metallic blue streaked with translucent black, it becomes a mighty wave ready to rock the boat. The wave unfolds, carried by its spicy aromatic trail. Iconic lavender is swept away by a blue intensity. Metallic anise flares like a sail thrown to the wind, its strength sealed in by profoundly potent benzoin. So, who will tame this wave, divert it and make it an object of legend? Only a true sailor is up to the task. Le Male In Blue: a limited edition for those who face the wave without backing down. Designer: Jean Paul Gaultier Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Le Male In Blue surges straight ahead. Its spicy aromatic trail charts the course and invokes the wave. Iconic lavender makes the first move, before being swept away by the blue intensity. Invigorating metallic anise flares like a sail thrown to the wind, its strength sealed in by deep benzoin. This is a fragrance tailored to the dauntless sailor. The iconic silhouette is clad in deep, metallic blue with translucent streaks of black, molded directly onto the glass. Its transparent, marine-inspired forms hint at the strength that lies beneath. Le Male In Blue does not follow the wave; it calls it forth. Bathed in an intense hue of blue, the slightest movement beckons us to dive in. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/le-male-in-blue-by-jean-paul-gaultier-125ml-edp",
+      "source_price": 194.99,
+      "source_count": 3,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/le-male-in-blue-by-jean-paul-gaultier-125ml-edp",
+          "brand": "Jean Paul Gaultier",
+          "name": "Le Male In Blue by Jean Paul Gaultier 125ml EDP",
+          "size": "125ml",
+          "price": 194.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-le-male-in-blue.png?v=1785896694"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-male-in-blue-edt-125ml",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Male In Blue EDP 125ml",
+          "size": "125ml",
+          "price": 214,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean_Paul_Gaultier_Le_Male_In_Blue_EDT_125ml.jpg?v=1786416928"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-male-in-blue-edp-125ml",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Male In Blue EDP 125ml",
+          "size": "125ml",
+          "price": 225,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045000-0.png?v=1787175130"
         }
       ]
     },
@@ -105771,45 +105877,6 @@
           "price": 171,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20012705-1.jpg?v=1746481652"
-        }
-      ]
-    },
-    {
-      "brand": "Jean Paul Gaultier",
-      "name": "Jean Paul Gaultier Le Male In Blue EDP 125ml",
-      "size": "125ml",
-      "size_ml": 125,
-      "price": 214,
-      "price_per_100ml": 171.2,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean_Paul_Gaultier_Le_Male_In_Blue_EDT_125ml.jpg?v=1786416928",
-      "description": "Jean Paul Gaultier Le Male In Blue EDP 125ml for Men Jean Paul Gaultier Le Male In Blue EDP 125ml for Men is a 2026 limited-edition spicy aromatic Eau de Parfum built around blue lavender, a metallic anise accord and deep benzoin. It gives the iconic Le Male style a bolder blue character, balancing aromatic freshness with smooth resinous warmth. This 125ml Eau de Parfum suits men who enjoy lavender-led fragrances with a distinctive spicy edge and a warm, confident dry-down. Its fresh-to-warm profile works for daytime, evenings, social occasions and signature wear, particularly through spring, autumn and cooler summer evenings. Shop Jean Paul Gaultier perfumes from Gadgets Online NZ, a New Zealand-owned retailer operating since 2008, with our Mount Eden, Auckland store, NZ-wide delivery and Auckland pickup when stock and order status allow. This fragrance is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Key Aromatic Note: Blue lavender. Spicy Accord: Anise accord. Warm Base Note: Benzoin. Scent Profile Le Male In Blue opens with the familiar aromatic clarity of lavender, intensified by a cool blue character. Metallic anise adds a crisp spicy twist before deep benzoin anchors the composition with smooth, resinous warmth. The result is spicy, aromatic and confident without losing the recognisable Le Male identity. Who Is It For? This Jean Paul Gaultier men’s perfume is recommended for customers who enjoy aromatic lavender fragrances, modern spice and warm benzoin. It is a strong choice for Le Male fans wanting a limited-edition Eau de Parfum with a fresher, more streamlined direction. When to Wear Daytime: Work, weekends, travel and polished casual wear. Evening: Dinners, dates, social events and relaxed nights out. Season: Well suited to spring, autumn and cooler summer evenings in New Zealand. Occasion: Everyday signature wear, gifting and limited-edition collecting. Longevity & Sillage As an Eau de Parfum with lavender, anise and benzoin, Le Male In Blue is designed to offer a defined aromatic trail with warm depth. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Jean Paul Gaultier Fragrances to Explore Jean Paul Gaultier Le Male Le Parfum EDP Intense 125ml — a smooth amber-woody Le Male interpretation with cardamom and vanilla. Jean Paul Gaultier Le Male Elixir Parfum 125ml — a warmer, sweeter Le Male direction with rich intensity. Jean Paul Gaultier Ultra Male EDT Intense 125ml — a bold aromatic-sweet option with strong evening character. Similar Designer Fragrances Dior Sauvage EDP 100ml — a fresh spicy aromatic Eau de Parfum with warm vanilla depth. Chanel Bleu De Chanel EDP 100ml — a refined woody aromatic fragrance with polished versatility. Yves Saint Laurent Y EDP 100ml — a modern aromatic fougère with crisp freshness and woody warmth. Premium & Niche Alternatives Nishane Hacivat X Extrait de Parfum 50ml — a bright premium citrus-chypre woody alternative. Parfums de Marly Layton EDP 125ml — a premium aromatic fragrance with lavender, fruit and warm vanilla character. Xerjoff Naxos EDP 100ml — a luxurious lavender-led aromatic fragrance with honeyed warmth. Explore More Fragrances Browse more Jean Paul Gaultier perfumes , men’s perfumes and perfumes and fragrances from Gadgets Online NZ. Why Buy From Gadgets Online NZ? New Zealand-owned retailer operating since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Jean Paul Gaultier Fragrance: Le Male In Blue Size: 125ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Spicy Aromatic Launch Year: 2026 Format: Retail spray bottle Edition: Limited Edition Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Jean Paul Gaultier Le Male In Blue EDP 125ml retail spray bottle with presentation tin Fragrance Care Tips Apply to pulse points such as the wrists, neck and behind the ears. Avoid rubbing the fragrance after application, as this can affect how the scent develops. Store the bottle in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on skin chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-male-in-blue-edt-125ml",
-      "source_price": 214,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-male-in-blue-edt-125ml",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Male In Blue EDP 125ml",
-          "size": "125ml",
-          "price": 214,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean_Paul_Gaultier_Le_Male_In_Blue_EDT_125ml.jpg?v=1786416928"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-male-in-blue-edp-125ml",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Male In Blue EDP 125ml",
-          "size": "125ml",
-          "price": 225,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045000-0.png?v=1787175130"
         }
       ]
     },
@@ -113718,6 +113785,34 @@
           "price": 224.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/histoires-tubereuse-nuit-blanche.png?v=1791257888"
+        }
+      ]
+    },
+    {
+      "brand": "Hugo Boss",
+      "name": "Alive Sparkling Lavender by Hugo Boss 80ml EDP for Women",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 149.99,
+      "price_per_100ml": 187.49,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/hugo-boss-sparkling-lavender.png?v=1792639809",
+      "description": "Alive Sparkling Lavender by Hugo Boss 80ml Eau De Parfum Spray for Women Illuminate your summer vibe with BOSS Alive Sparkling Lavender, a glowing new limited-edition fragrance for women. With a burst of floral lavender, this uplifting scent expresses boundless bliss and femininity. Designer: Hugo Boss Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Dazzling with positive spirit, this floral-woody scent radiates a vibrant rhythm of independence. BOSS Alive Sparkling Lavender opens with bright, vivacious white lavender essence, which flows into a green, gracious heart of jasmine absolute that enhances the fragrance’s floral allure. A creamy yet refreshing coconut accord adds a signature touch and leaves a captivating trail. The iconic BOSS Alive bottle is embellished in a radiant blue translucent lacquered finish, evoking the summery mood of this fragrance. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/alive-sparkling-lavender-by-hugo-boss-80ml-edp-for-women",
+      "source_price": 149.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/alive-sparkling-lavender-by-hugo-boss-80ml-edp-for-women",
+          "brand": "Hugo Boss",
+          "name": "Alive Sparkling Lavender by Hugo Boss 80ml EDP for Women",
+          "size": "80ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/hugo-boss-sparkling-lavender.png?v=1792639809"
         }
       ]
     },
@@ -133988,6 +134083,45 @@
       ]
     },
     {
+      "brand": "Jean Paul Gaultier",
+      "name": "Divine Couture by Jean Paul Gaultier 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 224.99,
+      "price_per_100ml": 224.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-divine-couture-50ml_1bdb99ce-fc5a-438f-ba04-4b39468732f5.png?v=1792720945",
+      "description": "Divine Couture by Jean Paul Gaultier 100ml Eau De Parfum Spray for Women In 2026, Gaultier Divine rises to new heights. A new chapter begins, cut from the very fabric of haute couture. Born from Gaultier’s imagination, the divinity asserts herself: no speeches, just style. This fragrance doesn’t suggest — it declares. It attracts, ignites, and leaves its mark. Gaultier Divine Couture is not just a perfume. It’s a piece of fashion worn on the skin, an act of empowerment. Designer: Jean Paul Gaultier Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: A bold raspberry takes center stage — vivid, playful, and anything but ordinary. It meets a light yet daring meringue, with a subtle and unexpected gourmand twist. As the scent settles, golden benzoin wraps the skin in a smooth, warm embrace. A fruity amber fragrance — sensual, lasting, and utterly divine in attitude. Its lacquered, intense pink bottle catches every eye. But it’s the conical, iconic corset that turns it into a true haute couture piece: a bold, refined weave shaping a perfectly tailored silhouette. At the top, a golden piercing seals the look — a final touch, unmistakably Gaultier. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/divine-couture-by-jean-paul-gaultier-100ml-edp",
+      "source_price": 224.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/divine-couture-by-jean-paul-gaultier-100ml-edp",
+          "brand": "Jean Paul Gaultier",
+          "name": "Divine Couture by Jean Paul Gaultier 100ml EDP",
+          "size": "100ml",
+          "price": 224.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-divine-couture-50ml_1bdb99ce-fc5a-438f-ba04-4b39468732f5.png?v=1792720945"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-divine-couture-edp-100ml",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Divine Couture EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean_Paul_Gaultier_Divine_Couture_EDP_100ml.jpg?v=1781828221"
+        }
+      ]
+    },
+    {
       "brand": "Hugo Boss",
       "name": "Hugo Boss The Scent for Him EDP Intense 100ml",
       "size": "100ml",
@@ -134629,6 +134763,34 @@
           "price": 204.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/ysl-libre.png?v=1576376512"
+        }
+      ]
+    },
+    {
+      "brand": "Thierry Mugler",
+      "name": "Alien Pulp by Thierry Mugler 90ml EDP",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 204.99,
+      "price_per_100ml": 227.77,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mugler-alien-pulp-90ml.png?v=1792719982",
+      "description": "Alien Pulp by Thierry Mugler 90ml Eau de Parfum Spray for Women Enter a dimension of sensuality with Alien Pulp Eau de Parfum, a fruity floral fragrance bursting with vibrant femininity. Designed by Dominique Ropion, Master Perfumer and originator of the classic Alien Eau de Parfum this EDP was designed to provide an olfactive experience you can almost taste. Designer: Thierry Mugler Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Alien Pulp EDP reimagines the iconic Alien signature with a modern, fruity twist — radiant, bold, and utterly unforgettable. This fruity and floral fragrance is great for the Spring and Summer seasons. Juicy pink raspberry radiates with pulpy sweetness, wrapped in the creamy glow of jasmine for a supra-sensual signature that lingers beautifully on the skin. A zesty tang of sweet orange and green mandarin essences enhances this further. Velvety woods add balance and depth, creating an addictive contrast of brightness and warmth. The Alien Pulp bottle embodies Mugler’s visionary design. Sculpted like a modern talisman, it glows with an ombré from juicy pink to crystal-clear, reflecting the fragrance’s delicious, sunlit energy. Born refillable, every bottle can be recharged with the 100ml refill, merging indulgence with sustainability in true Mugler fashion. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/alien-pulp-by-thierry-mugler-90ml-edp",
+      "source_price": 204.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/alien-pulp-by-thierry-mugler-90ml-edp",
+          "brand": "Thierry Mugler",
+          "name": "Alien Pulp by Thierry Mugler 90ml EDP",
+          "size": "90ml",
+          "price": 204.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mugler-alien-pulp-90ml.png?v=1792719982"
         }
       ]
     },
@@ -137488,6 +137650,45 @@
           "price": 234.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jo-malone-mimosa-cardamom-100ml.png?v=1719792597"
+        }
+      ]
+    },
+    {
+      "brand": "Gucci",
+      "name": "Gucci Flora Gorgeous Orchid Intense by Gucci 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 234.99,
+      "price_per_100ml": 234.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/gucci-flora-gorgeous-orchid-intense-100ml.png?v=1792722798",
+      "description": "Gucci Flora Gorgeous Orchid Intense by Gucci 100ml Eau De Parfum Spray for Women Let your boldest dreams take shape with Gucci Flora Gorgeous Orchid Eau de Parfum Intense. This long-lasting Floral Gourmand Woody scent blends gourmand notes with radiant florals, breathy facets, and deep ambered nuances. It evokes a kaleidoscope of empowering sensations, beautifully balancing the contrast between rounded sweetness and salty luminosity to tell a story of deep strength, unique power, and self-belief. Designer: Gucci Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Its intensely mesmerizing and contrasting layers magnify the ambery radiance of Vanilla Orchid, found at the heart of the original Gucci Flora Gorgeous Orchid Eau de Parfum. Here, Vanilla Orchid merges floral facets with enveloping vanilla notes. The Salty Ozonic Accord breezes in with mineral energy, while the intensity of Dark Cocoa Accord unveils a deep allure. This scent transports you to an inspiring golden landscape, where wild flowers bloom and fresh air awakens the spirit – illuminating your dream path. The bottle is dressed in golden glass to reflect the hour before sunset when the soft, gilded light makes anything feel possible. The eponymous painting of vibrant blooms in rich hues, created by artist Vittorio Accornero for Gucci in 1966, adorns both the bottle and outer packaging. The bottle gleams with an ‘Intense’ label in a nod to the scent’s depth. It boasts the highest concentration of scent in the Flora collection. Awaken your creative powers with Gucci Flora Gorgeous Orchid Eau de Parfum Intense. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/gucci-flora-gorgeous-orchid-intense-by-gucci-100ml-edp",
+      "source_price": 234.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/gucci-flora-gorgeous-orchid-intense-by-gucci-100ml-edp",
+          "brand": "Gucci",
+          "name": "Gucci Flora Gorgeous Orchid Intense by Gucci 100ml EDP",
+          "size": "100ml",
+          "price": 234.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/gucci-flora-gorgeous-orchid-intense-100ml.png?v=1792722798"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/gucci-flora-gorgeous-orchid-edp-intense-100ml",
+          "brand": "Gucci",
+          "name": "Gucci Flora Gorgeous Orchid EDP Intense 100ml",
+          "size": "100ml",
+          "price": 293,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/gucci-flora-gorgeous-orchid-edp-intense-100ml-3616306727601-01.webp?v=1792298409"
         }
       ]
     },
@@ -145343,6 +145544,34 @@
           "price": 169.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/15881427615774.jpg?v=1778270402"
+        }
+      ]
+    },
+    {
+      "brand": "Chloe",
+      "name": "Nomade Jardin D'Egypte by Chloe 50ml EDP",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 129.99,
+      "price_per_100ml": 259.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/chloe-nomade-jardin-d_egypte.png?v=1792710625",
+      "description": "Nomade Jardin D'Egypte by Chloe 50ml Eau De Parfum Spray for Women Chloé Nomade Jardin d’Égypte takes us back to the homeland of Chloé founder Gaby Aghion, with the third chapter in Nomade’s Égypte story. Paying tribute to the emblematic papyrus plant which represents eternal life and renewal, Jardin d’Égypte is an intense and vibrant Eau de Parfum for Women inspired by a verdant garden. Designer: Chloe Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: The perfume opens with the solar notes of the cassie flower, which delicately entwine with the vegetal freshness of papyrus, evoking a summer garden at dawn. Enriched by the opulent, honeyed accents of sun-dried dates and luscious fig accords, the scent unfolds into the heady depth of the kyphi accord, an ancient, alchemical blend of essential oils that mingles spiced cinnamon bark with the creamy richness of sandalwood and resinous myrrh. Finally, a bespoke solarwood accord blends with the velvety smoothness of sandalwood oil and musky ambrette absolute, lingering with irresistible sensuality and depth. Perfumer Caroline Dumur drew inspiration from a verdant garden filled with fresh greenery, sweet flowers and fruit-bearing trees to create this intense and vibrant fragrance for women. This Chloé perfume is presented in the line’s iconic bottle, now adorned with a vibrant green braid in the colour of the Egyptian papyrus plant. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/nomade-jardin-degypte-by-chloe-50ml-edp",
+      "source_price": 129.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/nomade-jardin-degypte-by-chloe-50ml-edp",
+          "brand": "Chloe",
+          "name": "Nomade Jardin D'Egypte by Chloe 50ml EDP",
+          "size": "50ml",
+          "price": 129.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/chloe-nomade-jardin-d_egypte.png?v=1792710625"
         }
       ]
     },
@@ -210965,6 +211194,10 @@
     {
       "retailer_slug": "chemist-warehouse-nz",
       "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
+    },
+    {
+      "retailer_slug": "the-warehouse",
+      "error": "Client error '403 Forbidden' for url 'https://www.thewarehouse.co.nz/c/health-beauty/fragrances?sr=perfume&sz=48'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
     }
   ]
 }
