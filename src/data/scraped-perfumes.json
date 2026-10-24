@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T08:18:57.183Z",
-  "count": 4285,
+  "generated_at": "2026-10-24T07:56:23.713Z",
+  "count": 4289,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -851,34 +851,6 @@
       ]
     },
     {
-      "brand": "CS Company NZ Auckland",
-      "name": "David Beckham Intimately Men Body Spray 150ml",
-      "size": "150ml",
-      "size_ml": 150,
-      "price": 6.49,
-      "price_per_100ml": 4.33,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/66452/2DF_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/66452/david-beckham-intimately-men-body-spray-150ml",
-      "source_price": 6.49,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/66452/david-beckham-intimately-men-body-spray-150ml",
-          "brand": "CS Company NZ Auckland",
-          "name": "David Beckham Intimately Men Body Spray 150ml",
-          "size": "150ml",
-          "price": 6.49,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/66452/2DF_200.jpg"
-        }
-      ]
-    },
-    {
       "brand": "Lynx",
       "name": "LYNX Body Spray Excite 150mL",
       "size": "150ml",
@@ -1325,6 +1297,34 @@
       ]
     },
     {
+      "brand": "CS Company NZ Auckland",
+      "name": "David Beckham Intimately Men Body Spray 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 7.99,
+      "price_per_100ml": 5.33,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/66452/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/66452/david-beckham-intimately-men-body-spray-150ml",
+      "source_price": 7.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/66452/david-beckham-intimately-men-body-spray-150ml",
+          "brand": "CS Company NZ Auckland",
+          "name": "David Beckham Intimately Men Body Spray 150ml",
+          "size": "150ml",
+          "price": 7.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/66452/2DF_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Top Brand",
       "name": "Lynx Body Spray Dark Temptation 150mL",
       "size": "150ml",
@@ -1349,6 +1349,34 @@
           "price": 7.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/LYNXBodySprayDarkTemptation150mL.png?v=1687898419"
+        }
+      ]
+    },
+    {
+      "brand": "CS Company NZ Auckland",
+      "name": "David Beckham Classic Body Spray 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 7.99,
+      "price_per_100ml": 5.33,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/80347/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/80347/david-beckham-classic-body-spray-150ml",
+      "source_price": 7.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/80347/david-beckham-classic-body-spray-150ml",
+          "brand": "CS Company NZ Auckland",
+          "name": "David Beckham Classic Body Spray 150ml",
+          "size": "150ml",
+          "price": 7.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/80347/2DF_200.jpg"
         }
       ]
     },
@@ -16519,6 +16547,34 @@
       ]
     },
     {
+      "brand": "David",
+      "name": "David Beckham Classic Blue Eau De Toilette 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 24.99,
+      "price_per_100ml": 24.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/124274/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/124274/david-beckham-classic-blue-eau-de-toilette-100ml",
+      "source_price": 24.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/124274/david-beckham-classic-blue-eau-de-toilette-100ml",
+          "brand": "David",
+          "name": "David Beckham Classic Blue Eau De Toilette 100ml",
+          "size": "100ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/124274/2DF_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Ted Baker",
       "name": "TED BAKER LimitedE EDT Spray 100ml",
       "size": "100ml",
@@ -17041,34 +17097,6 @@
           "price": 19.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3412244510073.webp?v=1773003076"
-        }
-      ]
-    },
-    {
-      "brand": "CS Company NZ Auckland",
-      "name": "David Beckham Intimately For Men Eau De Toilette 75ml",
-      "size": "75ml",
-      "size_ml": 75,
-      "price": 19.99,
-      "price_per_100ml": 26.65,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57736/3DF_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/57736/david-beckham-intimately-for-men-eau-de-toilette-75ml",
-      "source_price": 19.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/57736/david-beckham-intimately-for-men-eau-de-toilette-75ml",
-          "brand": "CS Company NZ Auckland",
-          "name": "David Beckham Intimately For Men Eau De Toilette 75ml",
-          "size": "75ml",
-          "price": 19.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57736/3DF_200.jpg"
         }
       ]
     },
@@ -19076,6 +19104,34 @@
           "price": 33,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/salvatore-incanto-edp_1024x1024_b72f770a-7131-474d-a04f-7955896f697b.jpg?v=1619049838"
+        }
+      ]
+    },
+    {
+      "brand": "CS Company NZ Auckland",
+      "name": "David Beckham Intimately For Men Eau De Toilette 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 24.99,
+      "price_per_100ml": 33.32,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57736/3DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/57736/david-beckham-intimately-for-men-eau-de-toilette-75ml",
+      "source_price": 24.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/57736/david-beckham-intimately-for-men-eau-de-toilette-75ml",
+          "brand": "CS Company NZ Auckland",
+          "name": "David Beckham Intimately For Men Eau De Toilette 75ml",
+          "size": "75ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57736/3DF_200.jpg"
         }
       ]
     },
@@ -74065,45 +74121,6 @@
       ]
     },
     {
-      "brand": "Paco Rabanne",
-      "name": "Paco Rabanne Invictus Eau De Toilette 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 99.99,
-      "price_per_100ml": 99.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/72531/3DF_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/72531/paco-rabanne-invictus-eau-de-toilette-100ml",
-      "source_price": 99.99,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/72531/paco-rabanne-invictus-eau-de-toilette-100ml",
-          "brand": "Paco Rabanne",
-          "name": "Paco Rabanne Invictus Eau De Toilette 100ml",
-          "size": "100ml",
-          "price": 99.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/72531/3DF_200.jpg"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/rabanne-invictus-edt-100ml",
-          "brand": "Paco Rabanne",
-          "name": "Paco Rabanne Invictus EDT 100ml",
-          "size": "100ml",
-          "price": 99.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/15357748183070.jpg?v=1780227666"
-        }
-      ]
-    },
-    {
       "brand": "John Varvatos",
       "name": "Artisan Forest by John Varvatos 125ml EDP",
       "size": "125ml",
@@ -78650,6 +78667,34 @@
       ]
     },
     {
+      "brand": "Rabanne",
+      "name": "Rabanne 1 Million Lucky Eau De Toilette 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 109.99,
+      "price_per_100ml": 109.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/91707/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/91707/rabanne-1-million-lucky-eau-de-toilette-100ml",
+      "source_price": 109.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/91707/rabanne-1-million-lucky-eau-de-toilette-100ml",
+          "brand": "Rabanne",
+          "name": "Rabanne 1 Million Lucky Eau De Toilette 100ml",
+          "size": "100ml",
+          "price": 109.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/91707/F2D_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Versace",
       "name": "Versace Yellow Diamond EDT Spray 90ml",
       "size": "90ml",
@@ -83152,6 +83197,45 @@
           "price": 59.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mykonos-verve.png?v=1790718311"
+        }
+      ]
+    },
+    {
+      "brand": "Paco Rabanne",
+      "name": "Paco Rabanne Invictus Eau De Toilette 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 119.99,
+      "price_per_100ml": 119.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/72531/3DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/72531/paco-rabanne-invictus-eau-de-toilette-100ml",
+      "source_price": 119.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/72531/paco-rabanne-invictus-eau-de-toilette-100ml",
+          "brand": "Paco Rabanne",
+          "name": "Paco Rabanne Invictus Eau De Toilette 100ml",
+          "size": "100ml",
+          "price": 119.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/72531/3DF_200.jpg"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/rabanne-invictus-edt-100ml",
+          "brand": "Paco Rabanne",
+          "name": "Paco Rabanne Invictus EDT 100ml",
+          "size": "100ml",
+          "price": 139.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/15357748183070.jpg?v=1780227666"
         }
       ]
     },
@@ -89626,6 +89710,34 @@
       ]
     },
     {
+      "brand": "Paco Rabanne",
+      "name": "Paco Rabanne Pure XS Eau De Parfum 80ml",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 109.99,
+      "price_per_100ml": 137.49,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/91175/3DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/91175/paco-rabanne-pure-xs-eau-de-parfum-80ml",
+      "source_price": 109.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/91175/paco-rabanne-pure-xs-eau-de-parfum-80ml",
+          "brand": "Paco Rabanne",
+          "name": "Paco Rabanne Pure XS Eau De Parfum 80ml",
+          "size": "80ml",
+          "price": 109.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/91175/3DF_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Bvlgari",
       "name": "BVLGARI Goldea The Roman Night EDP 50ml for Women",
       "size": "50ml",
@@ -94012,34 +94124,6 @@
           "price": 74.99,
           "currency": "NZD",
           "image_url": null
-        }
-      ]
-    },
-    {
-      "brand": "Paco Rabanne",
-      "name": "Paco Rabanne 1 Million Eau De Toilette 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 74.99,
-      "price_per_100ml": 149.98,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/55172/3DF_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/55172/paco-rabanne-1-million-eau-de-toilette-50ml",
-      "source_price": 74.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/55172/paco-rabanne-1-million-eau-de-toilette-50ml",
-          "brand": "Paco Rabanne",
-          "name": "Paco Rabanne 1 Million Eau De Toilette 50ml",
-          "size": "50ml",
-          "price": 74.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/55172/3DF_200.jpg"
         }
       ]
     },
@@ -122201,6 +122285,34 @@
           "price": 59.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/Ariana-Grande-Cloud-Eau-De-Parfum-30ml_800x_c684accb-8293-4add-af1a-3f9f2e87dbc8.jpg?v=1714610615"
+        }
+      ]
+    },
+    {
+      "brand": "Paco Rabanne",
+      "name": "Paco Rabanne 1 Million Eau De Toilette 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 99.99,
+      "price_per_100ml": 199.98,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/55172/3DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/55172/paco-rabanne-1-million-eau-de-toilette-50ml",
+      "source_price": 99.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/55172/paco-rabanne-1-million-eau-de-toilette-50ml",
+          "brand": "Paco Rabanne",
+          "name": "Paco Rabanne 1 Million Eau De Toilette 50ml",
+          "size": "50ml",
+          "price": 99.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/55172/3DF_200.jpg"
         }
       ]
     },
@@ -211191,10 +211303,6 @@
     }
   ],
   "errors": [
-    {
-      "retailer_slug": "chemist-warehouse-nz",
-      "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
-    },
     {
       "retailer_slug": "the-warehouse",
       "error": "Client error '403 Forbidden' for url 'https://www.thewarehouse.co.nz/c/health-beauty/fragrances?sr=perfume&sz=48'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
