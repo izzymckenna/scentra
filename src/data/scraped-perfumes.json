@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T08:10:10.302Z",
-  "count": 4289,
+  "generated_at": "2026-10-26T08:35:27.143Z",
+  "count": 4297,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -903,6 +903,101 @@
           "price": 4.49,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3d275618/images/hi-res/53/B4/R2988272_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "DAISE Oh So Body Mist 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 4.49,
+      "price_per_100ml": 4.49,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw339d916b/images/hi-res/33/0B/R2988271_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-oh-so-100ml/R2988271.html",
+      "source_price": 4.49,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-oh-so-100ml/R2988271.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Oh So 100ml",
+          "size": "100ml",
+          "price": 4.49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw339d916b/images/hi-res/33/0B/R2988271_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/daise-oh-so-body-mist-100ml",
+          "brand": "Daise",
+          "name": "DAISE Oh So Body Mist 100ml",
+          "size": "100ml",
+          "price": 8.39,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/59b8a285-aae2-40f3-b02c-caec30909463.jpg?v=1783607644"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Hello 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 4.49,
+      "price_per_100ml": 4.49,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw29afbcac/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
+      "source_price": 4.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Hello 100ml",
+          "size": "100ml",
+          "price": 4.49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw29afbcac/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Lowkey 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 4.49,
+      "price_per_100ml": 4.49,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw92f61aec/images/hi-res/B8/6C/R2988251_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-lowkey-100ml/R2988251.html",
+      "source_price": 4.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-lowkey-100ml/R2988251.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Lowkey 100ml",
+          "size": "100ml",
+          "price": 4.49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw92f61aec/images/hi-res/B8/6C/R2988251_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -5012,73 +5107,6 @@
     },
     {
       "brand": "Daise",
-      "name": "DAISE Oh So Body Mist 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 8,
-      "price_per_100ml": 8,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc9e3405a/images/hi-res/33/0B/R2988271_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-oh-so-100ml/R2988271.html",
-      "source_price": 8,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-oh-so-100ml/R2988271.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Oh So 100ml",
-          "size": "100ml",
-          "price": 8,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc9e3405a/images/hi-res/33/0B/R2988271_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/daise-oh-so-body-mist-100ml",
-          "brand": "Daise",
-          "name": "DAISE Oh So Body Mist 100ml",
-          "size": "100ml",
-          "price": 8.39,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/59b8a285-aae2-40f3-b02c-caec30909463.jpg?v=1783607644"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
-      "name": "Daise Body Mist Hello 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 8,
-      "price_per_100ml": 8,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
-      "source_price": 8,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Hello 100ml",
-          "size": "100ml",
-          "price": 8,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwf6985bc5/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
       "name": "Daise Body Mist Happy 100ml",
       "size": "100ml",
       "size_ml": 100,
@@ -5102,34 +5130,6 @@
           "price": 8,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwb0fbb87b/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
-      "name": "Daise Body Mist Lowkey 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 8,
-      "price_per_100ml": 8,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw13c6fac7/images/hi-res/B8/6C/R2988251_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-lowkey-100ml/R2988251.html",
-      "source_price": 8,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-lowkey-100ml/R2988251.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Lowkey 100ml",
-          "size": "100ml",
-          "price": 8,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw13c6fac7/images/hi-res/B8/6C/R2988251_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -6574,6 +6574,62 @@
           "price": 24.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/guess-mykonos-breeze-shimmer-fragrance-mist.png?v=1638149298"
+        }
+      ]
+    },
+    {
+      "brand": "Delicious Destinations",
+      "name": "Delicious Destinations Jungle Body Mist 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 10,
+      "price_per_100ml": 10,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043772-0.jpg?v=1792985137",
+      "description": "Delicious Destinations is a new range of lightly scented, gorgeous body mists that indulge your senses with with every spray The scented water spray provides a light aromatic sensation on the body.",
+      "source_name": "unichem-shopify-suggest",
+      "source_url": "https://www.unichem.co.nz/products/delicious-destinations-jungle-body-mist-100ml",
+      "source_price": 10,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/delicious-destinations-jungle-body-mist-100ml",
+          "brand": "Delicious Destinations",
+          "name": "Delicious Destinations Jungle Body Mist 100ml",
+          "size": "100ml",
+          "price": 10,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043772-0.jpg?v=1792985137"
+        }
+      ]
+    },
+    {
+      "brand": "Delicious Destinations",
+      "name": "Delicious Destinations Quench Body Mist 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 10,
+      "price_per_100ml": 10,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043771-0.jpg?v=1792985090",
+      "description": "Delicious Destinations is a new range of lightly scented, gorgeous body mists that indulge your senses with with every spray The scented water spray provides a light aromatic sensation on the body.",
+      "source_name": "unichem-shopify-suggest",
+      "source_url": "https://www.unichem.co.nz/products/delicious-destinations-quench-body-mist-100ml",
+      "source_price": 10,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/delicious-destinations-quench-body-mist-100ml",
+          "brand": "Delicious Destinations",
+          "name": "Delicious Destinations Quench Body Mist 100ml",
+          "size": "100ml",
+          "price": 10,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043771-0.jpg?v=1792985090"
         }
       ]
     },
@@ -14993,6 +15049,34 @@
           "price": 20,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11278051-1.jpg?v=1723594656"
+        }
+      ]
+    },
+    {
+      "brand": "Candy Treats",
+      "name": "Candy Treats Marshmallow Muse EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 20,
+      "price_per_100ml": 20,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043768-0.jpg?v=1792984899",
+      "description": "Candy Treats Marshmallow Muse Eau de Parfum delivers a sweet, gourmand scent profile perfect for those who love playful, dessert-inspired fragrances 100ml Eau de Parfum in an eye-catching pink chocolate bar-inspired bottle design that makes a delightful addition to any vanity SCENT PROFILE: Marshmallow Muse offers a deliciously sweet aroma reminiscent of fluffy marshmallows and confectionery treats, creating a comforting and indulgent olfactory experience",
+      "source_name": "unichem-shopify-suggest",
+      "source_url": "https://www.unichem.co.nz/products/candy-treats-marshmallow-muse-edp-100ml",
+      "source_price": 20,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/candy-treats-marshmallow-muse-edp-100ml",
+          "brand": "Candy Treats",
+          "name": "Candy Treats Marshmallow Muse EDP 100ml",
+          "size": "100ml",
+          "price": 20,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043768-0.jpg?v=1792984899"
         }
       ]
     },
@@ -24424,6 +24508,34 @@
           "price": 40,
           "currency": "NZD",
           "image_url": null
+        }
+      ]
+    },
+    {
+      "brand": "Cacharel",
+      "name": "Cacharel pOUR L HOMME Eau De Toilette Spray 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 40,
+      "price_per_100ml": 40,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/03708947805_XL.jpg?v=1693493489",
+      "description": "A spicy and woody fragrance w ith the notes of vegetal hinoki betel leaf cedar wood and cardamom. Perfect for office or evening wear.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/cacharel-edt-100ml",
+      "source_price": 40,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/cacharel-edt-100ml",
+          "brand": "Cacharel",
+          "name": "Cacharel pOUR L HOMME Eau De Toilette Spray 100ml",
+          "size": "100ml",
+          "price": 40,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/03708947805_XL.jpg?v=1693493489"
         }
       ]
     },
@@ -92261,34 +92373,6 @@
       ]
     },
     {
-      "brand": "Gucci",
-      "name": "Gucci Rush For Women Eau De Toilette 75ml",
-      "size": "75ml",
-      "size_ml": 75,
-      "price": 109.99,
-      "price_per_100ml": 146.65,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/52517/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/52517/gucci-rush-for-women-eau-de-toilette-75ml",
-      "source_price": 109.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/52517/gucci-rush-for-women-eau-de-toilette-75ml",
-          "brand": "Gucci",
-          "name": "Gucci Rush For Women Eau De Toilette 75ml",
-          "size": "75ml",
-          "price": 109.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/52517/F2D_200.jpg"
-        }
-      ]
-    },
-    {
       "brand": "Ralph Lauren",
       "name": "POLO Red EDP 75ml",
       "size": "75ml",
@@ -103810,6 +103894,34 @@
           "price": 249.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/dior-homme-150ml.png?v=1634874412"
+        }
+      ]
+    },
+    {
+      "brand": "Gucci",
+      "name": "Gucci Guilty Pour Homme Eau De Toilette 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 149.99,
+      "price_per_100ml": 166.66,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/66497/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/66497/gucci-guilty-pour-homme-eau-de-toilette-90ml",
+      "source_price": 149.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/66497/gucci-guilty-pour-homme-eau-de-toilette-90ml",
+          "brand": "Gucci",
+          "name": "Gucci Guilty Pour Homme Eau De Toilette 90ml",
+          "size": "90ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/66497/F2D_200.jpg"
         }
       ]
     },
@@ -115496,34 +115608,6 @@
       ]
     },
     {
-      "brand": "Gucci",
-      "name": "Gucci Flora Gorgeous Orchid Eau De Parfum 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 189.99,
-      "price_per_100ml": 189.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157432/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/157432/gucci-flora-gorgeous-orchid-eau-de-parfum-100ml",
-      "source_price": 189.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/157432/gucci-flora-gorgeous-orchid-eau-de-parfum-100ml",
-          "brand": "Gucci",
-          "name": "Gucci Flora Gorgeous Orchid Eau De Parfum 100ml",
-          "size": "100ml",
-          "price": 189.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157432/F2D_200.jpg"
-        }
-      ]
-    },
-    {
       "brand": "V Canto",
       "name": "Mirabile by V Canto 100ml EDP",
       "size": "100ml",
@@ -123172,6 +123256,34 @@
           "price": 159.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/30276e8f-d63a-424e-8e67-97b25529886c.jpg?v=1783457832"
+        }
+      ]
+    },
+    {
+      "brand": "Gucci",
+      "name": "Gucci Rush For Women Eau De Toilette 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 149.99,
+      "price_per_100ml": 199.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/52517/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/52517/gucci-rush-for-women-eau-de-toilette-75ml",
+      "source_price": 149.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/52517/gucci-rush-for-women-eau-de-toilette-75ml",
+          "brand": "Gucci",
+          "name": "Gucci Rush For Women Eau De Toilette 75ml",
+          "size": "75ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/52517/F2D_200.jpg"
         }
       ]
     },
@@ -132840,6 +132952,34 @@
       ]
     },
     {
+      "brand": "Gucci",
+      "name": "Gucci Guilty Pour Femme Eau De Parfum 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 199.99,
+      "price_per_100ml": 222.21,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/99177/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/99177/gucci-guilty-pour-femme-eau-de-parfum-90ml",
+      "source_price": 199.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/99177/gucci-guilty-pour-femme-eau-de-parfum-90ml",
+          "brand": "Gucci",
+          "name": "Gucci Guilty Pour Femme Eau De Parfum 90ml",
+          "size": "90ml",
+          "price": 199.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/99177/F2D_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Kate Spade",
       "name": "Kate Spade Pop EDP 40ml",
       "size": "40ml",
@@ -135636,6 +135776,34 @@
           "price": 148,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dolce---Gabbana-Devotion-Intense-50ML-EDP-for-Women-8057971188284.jpg?v=1781827651"
+        }
+      ]
+    },
+    {
+      "brand": "Gucci",
+      "name": "Gucci Flora Gorgeous Orchid Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 229.99,
+      "price_per_100ml": 229.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157432/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/157432/gucci-flora-gorgeous-orchid-eau-de-parfum-100ml",
+      "source_price": 229.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/157432/gucci-flora-gorgeous-orchid-eau-de-parfum-100ml",
+          "brand": "Gucci",
+          "name": "Gucci Flora Gorgeous Orchid Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 229.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157432/F2D_200.jpg"
         }
       ]
     },
@@ -171076,6 +171244,45 @@
       ]
     },
     {
+      "brand": "Gucci",
+      "name": "Gucci Bloom Eau De Parfum 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 179.99,
+      "price_per_100ml": 359.98,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/89813/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/89813/gucci-bloom-eau-de-parfum-50ml",
+      "source_price": 179.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/89813/gucci-bloom-eau-de-parfum-50ml",
+          "brand": "Gucci",
+          "name": "Gucci Bloom Eau De Parfum 50ml",
+          "size": "50ml",
+          "price": 179.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/89813/F2D_200.jpg"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/gucci-bloom-parfum-50ml",
+          "brand": "Gucci",
+          "name": "Gucci Bloom Parfum 50ml",
+          "size": "50ml",
+          "price": 204,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/GucciBloomParfum50ml.jpg?v=1781828420"
+        }
+      ]
+    },
+    {
       "brand": "Parfums De Marly",
       "name": "Greenley by Parfums De Marly 125ml EDP",
       "size": "125ml",
@@ -172768,6 +172975,34 @@
           "price": 109.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/burberry-goddess-30ml.png?v=1720389482"
+        }
+      ]
+    },
+    {
+      "brand": "Gucci",
+      "name": "Gucci Guilty For Women Eau De Toilette 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 109.99,
+      "price_per_100ml": 366.63,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/64285/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/64285/gucci-guilty-for-women-eau-de-toilette-30ml",
+      "source_price": 109.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/64285/gucci-guilty-for-women-eau-de-toilette-30ml",
+          "brand": "Gucci",
+          "name": "Gucci Guilty For Women Eau De Toilette 30ml",
+          "size": "30ml",
+          "price": 109.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/64285/F2D_200.jpg"
         }
       ]
     },
@@ -211302,14 +211537,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "retailer_slug": "chemist-warehouse-nz",
-      "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
-    },
-    {
-      "retailer_slug": "the-warehouse",
-      "error": "Client error '403 Forbidden' for url 'https://www.thewarehouse.co.nz/c/health-beauty/fragrances?sr=perfume&sz=48'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
-    }
-  ]
+  "errors": []
 }
