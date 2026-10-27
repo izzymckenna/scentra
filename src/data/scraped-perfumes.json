@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T08:35:27.143Z",
-  "count": 4297,
+  "generated_at": "2026-10-27T08:42:43.785Z",
+  "count": 4309,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -6585,13 +6585,24 @@
       "price": 10,
       "price_per_100ml": 10,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043772-0.jpg?v=1792985137",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043772-0.jpg?v=1793050377",
       "description": "Delicious Destinations is a new range of lightly scented, gorgeous body mists that indulge your senses with with every spray The scented water spray provides a light aromatic sensation on the body.",
-      "source_name": "unichem-shopify-suggest",
-      "source_url": "https://www.unichem.co.nz/products/delicious-destinations-jungle-body-mist-100ml",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/delicious-destinations-jungle-body-mist-100ml",
       "source_price": 10,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/delicious-destinations-jungle-body-mist-100ml",
+          "brand": "Delicious Destinations",
+          "name": "Delicious Destinations Jungle Body Mist 100ml",
+          "size": "100ml",
+          "price": 10,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043772-0.jpg?v=1793050377"
+        },
         {
           "retailer_slug": "unichem",
           "source_name": "unichem-shopify-suggest",
@@ -6613,13 +6624,24 @@
       "price": 10,
       "price_per_100ml": 10,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043771-0.jpg?v=1792985090",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043771-0.jpg?v=1793050380",
       "description": "Delicious Destinations is a new range of lightly scented, gorgeous body mists that indulge your senses with with every spray The scented water spray provides a light aromatic sensation on the body.",
-      "source_name": "unichem-shopify-suggest",
-      "source_url": "https://www.unichem.co.nz/products/delicious-destinations-quench-body-mist-100ml",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/delicious-destinations-quench-body-mist-100ml",
       "source_price": 10,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/delicious-destinations-quench-body-mist-100ml",
+          "brand": "Delicious Destinations",
+          "name": "Delicious Destinations Quench Body Mist 100ml",
+          "size": "100ml",
+          "price": 10,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043771-0.jpg?v=1793050380"
+        },
         {
           "retailer_slug": "unichem",
           "source_name": "unichem-shopify-suggest",
@@ -6630,6 +6652,45 @@
           "price": 10,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043771-0.jpg?v=1792985090"
+        }
+      ]
+    },
+    {
+      "brand": "Delicious Destinations",
+      "name": "Delicious Destinations Beach Babe Body Mist 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 10,
+      "price_per_100ml": 10,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043769-0.jpg?v=1793050377",
+      "description": "Delicious Destinations is a new range of lightly scented, gorgeous body mists that indulge your senses with with every spray. The scented water spray provides a light aromatic sensation on the body.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/delicious-destinations-beach-babe-body-mist-100ml",
+      "source_price": 10,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/delicious-destinations-beach-babe-body-mist-100ml",
+          "brand": "Delicious Destinations",
+          "name": "Delicious Destinations Beach Babe Body Mist 100ml",
+          "size": "100ml",
+          "price": 10,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043769-0.jpg?v=1793050377"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/delicious-destinations-beach-babe-body-mist-100ml",
+          "brand": "Delicious Destinations",
+          "name": "Delicious Destinations Beach Babe Body Mist 100ml",
+          "size": "100ml",
+          "price": 10,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043769-0.jpg?v=1792985042"
         }
       ]
     },
@@ -15060,13 +15121,24 @@
       "price": 20,
       "price_per_100ml": 20,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20043768-0.jpg?v=1792984899",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043768-0.jpg?v=1793050378",
       "description": "Candy Treats Marshmallow Muse Eau de Parfum delivers a sweet, gourmand scent profile perfect for those who love playful, dessert-inspired fragrances 100ml Eau de Parfum in an eye-catching pink chocolate bar-inspired bottle design that makes a delightful addition to any vanity SCENT PROFILE: Marshmallow Muse offers a deliciously sweet aroma reminiscent of fluffy marshmallows and confectionery treats, creating a comforting and indulgent olfactory experience",
-      "source_name": "unichem-shopify-suggest",
-      "source_url": "https://www.unichem.co.nz/products/candy-treats-marshmallow-muse-edp-100ml",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/candy-treats-marshmallow-muse-edp-100ml",
       "source_price": 20,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/candy-treats-marshmallow-muse-edp-100ml",
+          "brand": "Candy Treats",
+          "name": "Candy Treats Marshmallow Muse EDP 100ml",
+          "size": "100ml",
+          "price": 20,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20043768-0.jpg?v=1793050378"
+        },
         {
           "retailer_slug": "unichem",
           "source_name": "unichem-shopify-suggest",
@@ -16507,10 +16579,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/14653082140702.jpg?v=1759461741",
       "description": "Feel the vibe and feel comforted with this new adidas fragrance. Calming and warming, when you just want to hang out and relax, comfortably. With notes of Vanilla and Mandarin. The long lasting fragrance, with orange natural essential oil, has a vegan formula and is dermatologically tested. The packaging is made with recycled materials.",
       "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/adidas-get-comfy-edp-100ml?_pos=6&_psq=edp&_psid=35c0c1f03&_ss=e",
+      "source_url": "https://www.bargainchemist.co.nz/products/adidas-get-comfy-edp-100ml",
       "source_price": 24.99,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/adidas-get-comfy-edp-100ml",
+          "brand": "Adidas",
+          "name": "Adidas Get Comfy EDP 100ml",
+          "size": "100ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/14653082140702.jpg?v=1759461741"
+        },
         {
           "retailer_slug": "bargain-chemist",
           "source_name": "bargain-chemist-shopify-suggest",
@@ -49775,6 +49858,90 @@
       ]
     },
     {
+      "brand": "Rayhaan",
+      "name": "Equinox by Rayhaan 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-equinox_d2218e0e-4d72-435f-b5af-24b86b64bf54.png?v=1792021720",
+      "description": "Equinox by Rayhaan 100ml Eau De Parfum Spray Discover Rayhaan Equinox, a soft, elegant fragrance that captures the beauty of a fresh spring morning. Equinox blends delicate florals with creamy vanilla and warm, smooth woods, creating a beautifully balanced scent that feels luminous, comforting and refined. Designer: Rayhaan Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Rayhaan Equinox is a unisex fragrance with a luminous, elegant and balanced character. This fragrance opens with a lively burst of grapefruit and orange blossom, creating a clean and uplifting first impression. As it settles, jasmine sambac and white tea bring a soft floral heart with a calm, elegant feel. The scent finishes with vanilla and sandalwood, adding a creamy, lasting warmth that feels polished and inviting. Rayhaan Equinox is a versatile fragrance that brings together citrus, floral, and warm notes in a way that feels both current and timeless. Find your perfect balance with Equinox and leave a trail of effortless elegance wherever you go. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/equinox-by-rayhaan-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/equinox-by-rayhaan-100ml-edp",
+          "brand": "Rayhaan",
+          "name": "Equinox by Rayhaan 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-equinox_d2218e0e-4d72-435f-b5af-24b86b64bf54.png?v=1792021720"
+        }
+      ]
+    },
+    {
+      "brand": "Rayhaan",
+      "name": "Vanilla Vibe by Rayhaan 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-vanilla-vibe.png?v=1792024431",
+      "description": "Vanilla Vibe by Rayhaan 100ml Eau De Parfum Spray Warm, captivating, and beautifully indulgent, Vanilla Vibe by Rayhaan is a unisex fragrance that blends fruity sweetness, elegant florals, and deep woody warmth. A rich and captivating take on vanilla, Vanilla Vibe blends warm plum and sweet freesia with a decadent heart of vanilla and musk. Designer: Rayhaan Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Vanilla Vibe opens with juicy plum and delicate freesia, creating a smooth and inviting introduction. The heart unfolds with luxurious tuberose and rich Madagascar vanilla, adding a creamy floral sweetness. As it settles, amber, labdanum, cashmere wood, and oud create a warm, sophisticated base with a deep and memorable finish. Embrace the warmth of Vanilla Vibe and leave an irresistibly smooth and sophisticated trail wherever you go. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/vanilla-vibe-by-rayhaan-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/vanilla-vibe-by-rayhaan-100ml-edp",
+          "brand": "Rayhaan",
+          "name": "Vanilla Vibe by Rayhaan 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-vanilla-vibe.png?v=1792024431"
+        }
+      ]
+    },
+    {
+      "brand": "Rayhaan",
+      "name": "Vantage by Rayhaan 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-vantage.png?v=1792023557",
+      "description": "Vantage by Rayhaan 100ml Eau De Parfum Spray A fragrance built for command. Rayhaan Vantage - a brilliant paradox: fiercely driven toward a single destination yet wide open to every unexpected possibility along the way. Vantage is a crisp, resinous and quietly commanding fragrance from Rayhaan, built around the cool clarity of frankincense and myrrh. Designer: Rayhaan Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Bold, aromatic, and beautifully sophisticated, Vantage by Rayhaan is a unisex fragrance that combines vibrant spices with rich resins and earthy woods. This captivating fragrance opens with aromatic cardamom, crisp juniper berries, and bright bergamot, creating a fresh and invigorating introduction. The heart reveals the rich, resinous depth of frankincense and myrrh, adding a mysterious character. A warm base of creamy vanilla, sacred palo santo, and glowing amber brings sweetness, depth, and sensuality, creating a sophisticated and memorable fragrance. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/vantage-by-rayhaan-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/vantage-by-rayhaan-100ml-edp",
+          "brand": "Rayhaan",
+          "name": "Vantage by Rayhaan 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-vantage.png?v=1792023557"
+        }
+      ]
+    },
+    {
       "brand": "Ralph Lauren",
       "name": "RALPH Polo Red Mens EDP 200ml",
       "size": "200ml",
@@ -53407,90 +53574,6 @@
           "price": 74.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/nusuk-gladius.png?v=1791944513"
-        }
-      ]
-    },
-    {
-      "brand": "Rayhaan",
-      "name": "Equinox by Rayhaan 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 74.99,
-      "price_per_100ml": 74.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-equinox_d2218e0e-4d72-435f-b5af-24b86b64bf54.png?v=1792021720",
-      "description": "Equinox by Rayhaan 100ml Eau De Parfum Spray Discover Rayhaan Equinox, a soft, elegant fragrance that captures the beauty of a fresh spring morning. Equinox blends delicate florals with creamy vanilla and warm, smooth woods, creating a beautifully balanced scent that feels luminous, comforting and refined. Designer: Rayhaan Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Rayhaan Equinox is a unisex fragrance with a luminous, elegant and balanced character. This fragrance opens with a lively burst of grapefruit and orange blossom, creating a clean and uplifting first impression. As it settles, jasmine sambac and white tea bring a soft floral heart with a calm, elegant feel. The scent finishes with vanilla and sandalwood, adding a creamy, lasting warmth that feels polished and inviting. Rayhaan Equinox is a versatile fragrance that brings together citrus, floral, and warm notes in a way that feels both current and timeless. Find your perfect balance with Equinox and leave a trail of effortless elegance wherever you go. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/equinox-by-rayhaan-100ml-edp",
-      "source_price": 74.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/equinox-by-rayhaan-100ml-edp",
-          "brand": "Rayhaan",
-          "name": "Equinox by Rayhaan 100ml EDP",
-          "size": "100ml",
-          "price": 74.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-equinox_d2218e0e-4d72-435f-b5af-24b86b64bf54.png?v=1792021720"
-        }
-      ]
-    },
-    {
-      "brand": "Rayhaan",
-      "name": "Vanilla Vibe by Rayhaan 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 74.99,
-      "price_per_100ml": 74.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-vanilla-vibe.png?v=1792024431",
-      "description": "Vanilla Vibe by Rayhaan 100ml Eau De Parfum Spray Warm, captivating, and beautifully indulgent, Vanilla Vibe by Rayhaan is a unisex fragrance that blends fruity sweetness, elegant florals, and deep woody warmth. A rich and captivating take on vanilla, Vanilla Vibe blends warm plum and sweet freesia with a decadent heart of vanilla and musk. Designer: Rayhaan Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Vanilla Vibe opens with juicy plum and delicate freesia, creating a smooth and inviting introduction. The heart unfolds with luxurious tuberose and rich Madagascar vanilla, adding a creamy floral sweetness. As it settles, amber, labdanum, cashmere wood, and oud create a warm, sophisticated base with a deep and memorable finish. Embrace the warmth of Vanilla Vibe and leave an irresistibly smooth and sophisticated trail wherever you go. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/vanilla-vibe-by-rayhaan-100ml-edp",
-      "source_price": 74.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/vanilla-vibe-by-rayhaan-100ml-edp",
-          "brand": "Rayhaan",
-          "name": "Vanilla Vibe by Rayhaan 100ml EDP",
-          "size": "100ml",
-          "price": 74.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-vanilla-vibe.png?v=1792024431"
-        }
-      ]
-    },
-    {
-      "brand": "Rayhaan",
-      "name": "Vantage by Rayhaan 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 74.99,
-      "price_per_100ml": 74.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-vantage.png?v=1792023557",
-      "description": "Vantage by Rayhaan 100ml Eau De Parfum Spray A fragrance built for command. Rayhaan Vantage - a brilliant paradox: fiercely driven toward a single destination yet wide open to every unexpected possibility along the way. Vantage is a crisp, resinous and quietly commanding fragrance from Rayhaan, built around the cool clarity of frankincense and myrrh. Designer: Rayhaan Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Bold, aromatic, and beautifully sophisticated, Vantage by Rayhaan is a unisex fragrance that combines vibrant spices with rich resins and earthy woods. This captivating fragrance opens with aromatic cardamom, crisp juniper berries, and bright bergamot, creating a fresh and invigorating introduction. The heart reveals the rich, resinous depth of frankincense and myrrh, adding a mysterious character. A warm base of creamy vanilla, sacred palo santo, and glowing amber brings sweetness, depth, and sensuality, creating a sophisticated and memorable fragrance. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/vantage-by-rayhaan-100ml-edp",
-      "source_price": 74.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/vantage-by-rayhaan-100ml-edp",
-          "brand": "Rayhaan",
-          "name": "Vantage by Rayhaan 100ml EDP",
-          "size": "100ml",
-          "price": 74.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rayhaan-vantage.png?v=1792023557"
         }
       ]
     },
@@ -66046,21 +66129,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Fragrance-Story-The-Must-Exceptional-100ML-EDP-for-Women-791126270735.jpg?v=1781827682",
       "description": "Fragrance Story The Must Exceptional Parfum 100ml for Women Fragrance Story The Must Exceptional Parfum 100ml for Women is a fruity Floral Woody Musk perfume combining juicy pear, exotic lychee and zesty grapefruit with Damask rose, smoky incense, earthy vetiver, creamy vanilla, musk and mossy Evernyl. It begins bright and expressive before developing into a warmer, smoother and more sensual fragrance. The Must Exceptional balances playful fruit with a more sophisticated floral and woody foundation. Pear and lychee bring sweetness and brightness, while grapefruit adds a fresh citrus edge. Damask rose softens the centre of the fragrance as incense and vetiver introduce smoky, earthy depth. Vanilla, musk and Evernyl create a warm, softly sweet and mossy dry-down. Available from Gadgets Online NZ, a New Zealand-owned retailer serving customers since 2008. Shop online with NZ-wide delivery or choose Auckland pickup when available from our Mount Eden store. Fragrance Notes Top Notes: Pear, lychee, grapefruit Heart Notes: Damask rose, incense, vetiver Base Notes: Vanilla, musk, Evernyl Scent Profile The fragrance opens with juicy pear and lychee, sharpened by fresh grapefruit. Damask rose introduces an elegant floral character through the heart, while incense and vetiver add a smoky, earthy contrast. The base blends creamy vanilla, soft musk and mossy Evernyl for a warm and memorable finish. Its overall profile is fruity, citrusy, floral, musky, softly smoky, woody and gently sweet. Who Is It For? Designed for women who enjoy fruity floral perfumes but want more depth than a straightforward sweet fragrance. It is particularly suitable for someone who appreciates rose, musk and vanilla balanced by smoky incense, earthy vetiver and a mossy woody dry-down. When to Wear Best seasons: Spring, autumn, winter and cooler summer evenings Occasions: Everyday wear, date nights, dinners, celebrations, special occasions and gifting Time of day: Daytime through evening Longevity & Sillage The bright fruit and citrus notes are generally most noticeable after application before the fragrance develops into its warmer rose, incense, vetiver, vanilla and musk character. Its scent presence may gradually become softer and closer to the skin during wear. Longevity, projection and sillage can vary depending on skin chemistry, application, weather and storage conditions. How to Wear & Layer Apply to pulse points such as the wrists, neck and behind the ears. Use on clean, moisturised skin to help the fragrance remain noticeable for longer. Layer with an unscented lotion to preserve the perfume’s original fruit, floral and woody balance. Pair with a soft rose or clean-musk body product to emphasise its floral and musky character. Pair with a lightly vanilla-scented lotion for a warmer and sweeter dry-down. Avoid very strong gourmand or heavily smoky products that may overpower its fruit and rose opening. Scent Pairing Suggestions The Must Exceptional pairs naturally with pear, lychee, rose, clean musk, vanilla and subtle woody body products. A rose or musk lotion can enhance its feminine floral character, while a light vanilla moisturiser can bring greater warmth to the base without overwhelming the vetiver and Evernyl. More Fragrance Story Fragrances Fragrance Story Envy EDP 100ml – a men’s fragrance from the same contemporary fragrance house. Fragrance Story Drug EDP 100ml – another distinctive men’s scent from Fragrance Story, subject to availability. Explore all perfumes and fragrances in NZ . Similar Designer Fragrances Narciso Rodriguez For Her EDP 100ml – a refined floral-musk perfume with a smooth and intimate character. Coach Floral EDP 90ml – a bright fruity floral alternative with a fresh feminine profile. Chanel Chance Eau Tendre EDP 100ml – an elegant fruity floral fragrance with a polished soft-musk finish. Premium & Niche Alternatives Parfums de Marly Delina EDP 75ml – a luxurious lychee and rose-led floral fragrance with greater richness and projection. Parfums de Marly Delina La Rosée EDP 75ml – a fresher and more transparent interpretation of lychee, rose and soft musk. Parfums de Marly Delina Exclusif Parfum 75ml – a deeper rose, incense and vanilla fragrance suited to formal evenings and luxury gifting. Explore More Fragrances Browse more women’s perfumes , perfumes and fragrances , luxury niche perfumes and latest fragrance arrivals . Why Buy From Gadgets Online NZ? New Zealand-owned business serving customers since 2008. Mount Eden, Auckland retail store for local support. NZ-wide delivery and Auckland pickup when available. GST invoice supplied with eligible purchases. Brand-new product in original retail packaging unless clearly stated otherwise. Product Details Brand: Fragrance Story Fragrance: The Must Exceptional Concentration: Parfum Size: 100ml Gender: Women Fragrance Family: Floral Woody Musk Scent Character: Fruity, floral, musky, softly smoky, woody and gently sweet Fragrance Positioning: Contemporary fragrance Packaging: Original retail packaging Fragrance Care Tips Apply to pulse points without rubbing the fragrance into the skin. Allow the perfume to dry naturally after application. Store upright in a cool, dry place away from heat, humidity and direct sunlight. Keep the bottle inside its box when possible to help protect it from light exposure. Disclaimer: Fragrance performance, longevity, projection, scent impression and recommendations can vary depending on skin chemistry, application, weather and storage conditions. Product packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect the product’s authenticity or expected fragrance quality. Product images may include digitally enhanced backgrounds for presentation; the bottle and packaging are not intentionally altered.",
       "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/fragrance-story-the-must-exceptional-100ml-edp-for-women",
+      "source_url": "https://www.gadgetsonline.co.nz/products/fragrance-story-the-must-exceptional-100ml-edp-for-women?_pos=6&_psq=fragrance&_psid=e5e8c3d2f&_ss=e",
       "source_price": 89,
       "source_count": 3,
       "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/fragrance-story-the-must-exceptional-100ml-edp-for-women",
-          "brand": "Fragrance Story",
-          "name": "Fragrance Story The Must Exceptional Parfum 100ml",
-          "size": "100ml",
-          "price": 89,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Fragrance-Story-The-Must-Exceptional-100ML-EDP-for-Women-791126270735.jpg?v=1781827682"
-        },
         {
           "retailer_slug": "gadgets-online",
           "source_name": "gadgets-online-shopify-suggest",
@@ -66080,6 +66152,17 @@
           "name": "Fragrance Story The Must Exceptional Parfum 100ml",
           "size": "100ml",
           "price": 89,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Fragrance-Story-The-Must-Exceptional-100ML-EDP-for-Women-791126270735.jpg?v=1781827682"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/fragrance-story-the-must-exceptional-100ml-edp-for-women",
+          "brand": "Fragrance Story",
+          "name": "Fragrance Story The Must Exceptional Parfum 100ml",
+          "size": "100ml",
+          "price": 95,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Fragrance-Story-The-Must-Exceptional-100ML-EDP-for-Women-791126270735.jpg?v=1781827682"
         }
@@ -87692,6 +87775,62 @@
       ]
     },
     {
+      "brand": "Ralph Lauren",
+      "name": "Polo 67 Extreme by Ralph Lauren 125ml EDP for Men",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 164.99,
+      "price_per_100ml": 131.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ralph-polo-67-extreme.png?v=1792727974",
+      "description": "Polo 67 Extreme by Ralph Lauren 125ml Eau De Parfum Spray for Men Polo 67 Eau de Parfum Extreme is the boldest expression of the Polo 67 story yet — crafted for the man who refuses limits and designs his own future. More intense, more powerful, and more refined, this men’s cologne elevates the iconic Polo 67 DNA into a statement of ambition and self-belief. It’s more than a scent, it’s a statement: Design Your Dreams. Designer: Ralph Lauren Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Polo 67 Eau de Parfum Extreme is power scent. The woody ambery fragrance opens with a crisp burst of bergamot essence and lemon oil, setting a fresh, energized tone. Its heart reveals the signature pineapple accord, layered with aromatic clary sage and geranium bourbon sourced from Madagascar, enhanced by a warm solar accord for modern depth. As it dries down, rich leather, Virginia cedarwood, and vetiver create a refined, long-lasting base that feels confident and commanding. It’s built for evenings, standout moments, and any time presence matters most. The bottle is the trophy of the Polo 67 franchise. Finished in sleek chrome, it reflects strength, precision, and modern masculinity. The iconic Polo 67 logo appears in signature midnight blue, standing out against the silver finish as a symbol of ambition and drive. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/polo-67-extreme-by-ralph-lauren-125ml-edp-for-men",
+      "source_price": 164.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/polo-67-extreme-by-ralph-lauren-125ml-edp-for-men",
+          "brand": "Ralph Lauren",
+          "name": "Polo 67 Extreme by Ralph Lauren 125ml EDP for Men",
+          "size": "125ml",
+          "price": 164.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ralph-polo-67-extreme.png?v=1792727974"
+        }
+      ]
+    },
+    {
+      "brand": "Ralph Lauren",
+      "name": "Polo Red Extreme by Ralph Lauren 125ml EDP",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 164.99,
+      "price_per_100ml": 131.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ralph-polo-red-extreme-125ml.png?v=1793061768",
+      "description": "Polo Red Extreme by Ralph Lauren 125ml Eau De Parfum Spray for Men Ralph Lauren introduces Polo Red Eau de Parfum Extreme, the most potent and captivating interpretation of the iconic Polo Red legacy. This is not merely a men’s fragrance; it's an adrenaline-fueled journey, an olfactory declaration for the man who lives life on the edge, pushing boundaries and embracing the thrill of the unknown. Designer: Ralph Lauren Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Polo Red Eau de Parfum Extreme unveils a beautifully crafted amber, woody and leathery cologne. This fragrance is an intricate symphony designed to be profoundly addictive. It opens with an electrifying surge of bright red ginger, a vibrant and fiery top note that immediately commands attention. As the scent evolves, it reveals a warm and rich vanilla bourbon. This smooth, and deeply luxurious middle note, wraps the wearer in an irresistible embrace. The fragrance journey culminates in the rugged, unyielding embrace of a leather accord. This powerful base note anchors the composition, providing a raw, masculine olfaction that is both refined and untamed, perfect for the colder Fall and Winter seasons. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/polo-red-extreme-by-ralph-lauren-125ml-edp",
+      "source_price": 164.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/polo-red-extreme-by-ralph-lauren-125ml-edp",
+          "brand": "Ralph Lauren",
+          "name": "Polo Red Extreme by Ralph Lauren 125ml EDP",
+          "size": "125ml",
+          "price": 164.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ralph-polo-red-extreme-125ml.png?v=1793061768"
+        }
+      ]
+    },
+    {
       "brand": "Jean Paul Gaultier",
       "name": "Jean Paul Gaultier Le Male EDT 75ml",
       "size": "75ml",
@@ -96568,6 +96707,34 @@
       ]
     },
     {
+      "brand": "Kenzo",
+      "name": "L'Eau Pure by Kenzo 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 149.99,
+      "price_per_100ml": 149.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/kenzo-l_eau-pure-100ml.png?v=1793054869",
+      "description": "L'Eau Pure by Kenzo 100ml Eau De Parfum Spray Discover L'Eau Pure, the new colourful Eau de Parfum inspired by the poetic vision of the House’s founder, Kenzo Takada: \"Water does not have any colour. Therefore, I wanted it to be full of colours. Full of fruits, flowers, freshness and happiness\". L’Eau Pure was designed to be the most environmentally responsible fragrance possible. Made with 91% ingredients of natural origin, its refined, minimalist bottle is a modern take on the purity of a water drop. Designer: Kenzo Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: L’Eau Pure, an Eau de Parfum for all, is fresh and intense, delicately pure and deeply contrasting. At the heart of this creation, the most powerful aquatic molecule in the perfumer's palette, Aquozone, releases crystalline notes with an exceptionally long-lasting trail. The invigorating freshness of Italian mandarin and lemon blends harmoniously with the soothing softness of Provençal white lavender. Enriched with musk and Australian sandalwood, L'Eau Pure exudes an enveloping, sensual depth. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/leau-pure-by-kenzo-100ml-edp",
+      "source_price": 149.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/leau-pure-by-kenzo-100ml-edp",
+          "brand": "Kenzo",
+          "name": "L'Eau Pure by Kenzo 100ml EDP",
+          "size": "100ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/kenzo-l_eau-pure-100ml.png?v=1793054869"
+        }
+      ]
+    },
+    {
       "brand": "CARVEN",
       "name": "CARVEN Ma Griffe 100ml EDP",
       "size": "100ml",
@@ -99218,6 +99385,67 @@
           "price": 197.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-le-beau-le-parfum---b.png?v=1784862962"
+        }
+      ]
+    },
+    {
+      "brand": "Jean Paul Gaultier",
+      "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 197.99,
+      "price_per_100ml": 158.39,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-le-beau-narcisse---b.png?v=1792717058",
+      "description": "Le Beau Narcisse by Jean Paul Gaultier 125ml Eau De Parfum Spray for Men Le Beau Narcisse steps forward, wrapped in a golden scarf, drawn to a radiance he knows intimately, his own. In the mirror, he admires himself: desired, impossible to resist. No gesture required. Every line of his body seduces in silence. On his skin, bergamot flashes bright and fresh, giving way to a carnal bloom of musk. Tonka bean follows, rich and indulgent, leaving a voluptuous trail. An amber-musk scent that lingers like breath on skin, a forbidden caress. Le Beau Narcisse never pursues attention. He pulls it toward him. Designer: Jean Paul Gaultier Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Le Beau Narcisse stands out like a flash of light in a paradise covered in gold. Bare skin, muscles taut; he says nothing, his scent speaks for him. An amber-musk fragrance crafted for addiction. It opens with the crisp vitality of bergamot. Then musk unfolds, sensual. At last, tonka bean leaves its fiery, resolutely voluptuous trail. A fragrance like a forbidden caress, a lingering breath. Le Beau Narcisse doesn’t chase attention; he draws it in irresistibly. Le Beau Narcisse stands tall, his sculpted chest draped with a golden scarf resting on a shoulder set with a blue stone. The bottle unveils a light blue juice, as captivating as it is alluring. An object of desire with assertive sensuality. Housed in a blue metal case, engraved with golden swirls and adorned with a sapphire-toned stone. An exceptional gift set, guardian of an incandescent fragrance. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/le-beau-narcisse-by-jean-paul-gaultier-125ml-edp",
+      "source_price": 197.99,
+      "source_count": 4,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/le-beau-narcisse-by-jean-paul-gaultier-125ml-edp",
+          "brand": "Jean Paul Gaultier",
+          "name": "Le Beau Narcisse by Jean Paul Gaultier 125ml EDP",
+          "size": "125ml",
+          "price": 197.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-le-beau-narcisse---b.png?v=1792717058"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
+          "size": "125ml",
+          "price": 225,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/JeanPaulGaultierLeBeauNarcisseEDP125ml.jpg?v=1781828452"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
+          "size": "125ml",
+          "price": 250,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040531-0.jpg?v=1779658247"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml?_pos=10&_psq=Chanel&_psid=5ceb5d9d3&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
+          "size": "125ml",
+          "price": 250,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040531-0.jpg?v=1779658247"
         }
       ]
     },
@@ -102457,6 +102685,34 @@
           "price": 164.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jo-milano-game-of-spades-blind-bid.png?v=1791510350"
+        }
+      ]
+    },
+    {
+      "brand": "Azzaro",
+      "name": "Forever Wanted Absolu by Azzaro 100ml Parfum for Men",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 164.99,
+      "price_per_100ml": 164.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/azzaro-forever-wanted-absolu_a51ef26a-0b96-40ff-a462-9ee250f4c2fc.png?v=1793052265",
+      "description": "Forever Wanted Absolu by Azzaro 100ml Parfum Spray for Men The Azzaro Wanted man is a bold individual who defies destiny and seizes every single moment with unwavering confidence and magnetic charisma. This fragrance is his ultimate signature, creating an addictive scent trail that leaves absolutely no one indifferent. A captivating blend of amber, woody notes, and vibrant intensity—this cologne embodies passion, power, and an irresistible trail that’s impossible to forget. Designer: Azzaro Year Introduced: 2026 Type: Parfum Category: Men Fragrance Notes: Azzaro Forever Wanted Absolu is a captivating Eau de Parfum where deep amber and woody notes meet vibrant intensity for an unparalleled olfactory experience. The smoky allure of a sophisticated duo of incense fuses seamlessly with the warm sensuality of a boozy whiskey accord and rich vanilla, creating an unforgettable and addictive up to 24-hour intensity. Designed for the man who lives without limits or compromise, this fragrance expresses itself with maximum power on the skin to command attention. This ambery aromatic blend is meticulously designed to seduce and is impossible for anyone to forget. You will achieve a bold, masculine presence that remains fresh and powerful from morning to night. The iconic Azzaro Wanted bottle, instantly recognizable with its barrel shape, returns with new intensity. Cloaked in deep bronze and gold, it reflects the rich, powerful essence of the Absolu it contains. A statement bottle for a fragrance that dares to go further. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/forever-wanted-absolu-by-azzaro-100ml-parfum-for-men",
+      "source_price": 164.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/forever-wanted-absolu-by-azzaro-100ml-parfum-for-men",
+          "brand": "Azzaro",
+          "name": "Forever Wanted Absolu by Azzaro 100ml Parfum for Men",
+          "size": "100ml",
+          "price": 164.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/azzaro-forever-wanted-absolu_a51ef26a-0b96-40ff-a462-9ee250f4c2fc.png?v=1793052265"
         }
       ]
     },
@@ -110811,6 +111067,45 @@
       ]
     },
     {
+      "brand": "Jimmy Choo",
+      "name": "Jimmy Choo I Want Choo With Love 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 179.99,
+      "price_per_100ml": 179.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jimmy-choo-i-want-choo-with-love-100ml_77fadc3e-bc6c-4ba8-8220-afb5706f9e30.png?v=1793055895",
+      "description": "I Want Choo With Love by Jimmy Choo 100ml Eau De Parfum Spray for Women I Want Choo With Love is a floral fruity ambery eau de parfum that celebrates love, friendship and self-confidence. It brings a modern, luminous, pink vanilla fragrance into the ‘I Want Choo’ line-up. The bottle, captivating and sculptural, complements the luxurious and joyful energy of the new fragrance. Designer: Jimmy Choo Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: It begins its olfactory journey with light and refreshing raspberry, orange flower and mandarin essence followed by vibrant notes of rose infusion, hibiscus, and freesia. It finishes with creamy base notes of vanilla, sandalwood, and musk for a sophisticated, empowering perfume synonymous with Jimmy Choo’s daring DNA. A celebration of the optimistic strength and support that comes from the love of friends and chosen family, I Want Choo With Love empowers self-confidence and inspires an innate sense of self-love. Radiating love in every way, the new fragrance creates an irresistible desire to share this powerful feeling with others. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/i-want-choo-with-love-by-jimmy-choo-100ml-edp",
+      "source_price": 179.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/i-want-choo-with-love-by-jimmy-choo-100ml-edp",
+          "brand": "Jimmy Choo",
+          "name": "I Want Choo With Love by Jimmy Choo 100ml EDP",
+          "size": "100ml",
+          "price": 179.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jimmy-choo-i-want-choo-with-love-100ml_77fadc3e-bc6c-4ba8-8220-afb5706f9e30.png?v=1793055895"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/jimmy-choo-i-want-choo-with-love-edp-100ml-for-women",
+          "brand": "Jimmy Choo",
+          "name": "Jimmy Choo I Want Choo With Love EDP 100ml",
+          "size": "100ml",
+          "price": 219,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/JimmyChooIWantChooWithLoveEDP100mlforWomen.jpg?v=1781827862"
+        }
+      ]
+    },
+    {
       "brand": "Abercrombie & Fitch",
       "name": "Abercrombie & Fitch 100 Passion Men EDT 30ml",
       "size": "30ml",
@@ -110962,56 +111257,6 @@
           "price": 54,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20038017-0.jpg?v=1770248093"
-        }
-      ]
-    },
-    {
-      "brand": "Jean Paul Gaultier",
-      "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
-      "size": "125ml",
-      "size_ml": 125,
-      "price": 225,
-      "price_per_100ml": 180,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/JeanPaulGaultierLeBeauNarcisseEDP125ml.jpg?v=1781828452",
-      "description": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml for Men Jean Paul Gaultier Le Beau Narcisse EDP 125ml for Men is a floral woody musk fragrance that blends sparkling bergamot and creamy coconut with soft musk, orange blossom, tonka bean, vanilla and vetiver. The opening feels bright and smooth before the musky floral heart adds sensuality, while the base creates warmth, sweetness and woody depth. Le Beau Narcisse balances tropical creaminess with floral brightness and a polished musk-vanilla dry-down. This generous 125ml Eau de Parfum is well suited to men who enjoy contemporary designer fragrances with citrus freshness, coconut softness and warm aromatic depth. Buy Jean Paul Gaultier perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Bergamot and coconut. Heart Notes: Musk and orange blossom. Base Notes: Tonka bean, vanilla and vetiver. Scent Profile Le Beau Narcisse opens with bright bergamot softened by creamy coconut. Musk and orange blossom then create a smooth floral heart before tonka bean, vanilla and vetiver settle into a warm, softly sweet and woody base. The overall profile is citrusy, creamy, musky, floral and woody. Who Is It For? This Jean Paul Gaultier men’s perfume is ideal for customers who enjoy bergamot, coconut, musk, orange blossom, vanilla and vetiver. It is a strong choice for someone seeking a modern Le Beau fragrance with a smoother musky-floral direction and a larger format for regular wear. When to Wear Daytime: Weekends, travel, lunches and polished warm-weather wear. Evening: Dates, dinners, celebrations and social occasions. Season: Especially suited to spring, summer evenings and mild autumn weather. Occasion: Signature scent wear, fragrance rotation and gifting. Longevity & Sillage As an Eau de Parfum built around bergamot, coconut, musk, orange blossom, tonka bean, vanilla and vetiver, Le Beau Narcisse is designed to create a noticeable fresh-creamy opening followed by a warm musky-woody trail. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Jean Paul Gaultier Le Beau Fragrances to Explore Jean Paul Gaultier Le Beau Narcisse EDP 75ml — the same musky floral-woody fragrance in a smaller presentation. Jean Paul Gaultier Le Beau EDT 125ml — a fresher bergamot, coconut and tonka bean expression. Jean Paul Gaultier Le Beau Paradise Garden EDP 125ml — a greener aquatic interpretation with mint, fig and sandalwood. Similar Designer Fragrances Emporio Armani Stronger With You EDT 100ml — cardamom, sage, vanilla and chestnut share the aromatic and warmly sweet dry-down. Dior Sauvage Parfum 100ml — bergamot, sandalwood, tonka bean and vanilla provide a polished citrus-woody alternative. Yves Saint Laurent Y EDP 100ml — apple, ginger, sage, geranium, tonka bean and woods offer a fresher aromatic interpretation. Premium & Niche Alternatives Chanel Allure Homme Edition Blanche EDP 100ml — citrus, pepper, sandalwood, vanilla and musk echo the creamy fresh-and-warm contrast. Acqua di Parma Fico di Amalfi EDT 100ml — citrus, fig, jasmine and cedar offer a premium Mediterranean floral-fruity direction. Creed Himalaya EDP 100ml — citrus, sandalwood, musk and amber provide a refined niche musky-woody alternative. Explore More Fragrances Browse more Jean Paul Gaultier perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Jean Paul Gaultier Fragrance: Le Beau Narcisse Size: 125ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Floral Woody Musk Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Jean Paul Gaultier Le Beau Narcisse EDP 125ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying, as this can affect how the scent develops. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml",
-      "source_price": 225,
-      "source_count": 3,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
-          "size": "125ml",
-          "price": 225,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/JeanPaulGaultierLeBeauNarcisseEDP125ml.jpg?v=1781828452"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
-          "size": "125ml",
-          "price": 250,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040531-0.jpg?v=1779658247"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml?_pos=10&_psq=Chanel&_psid=5ceb5d9d3&_ss=e",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
-          "size": "125ml",
-          "price": 250,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040531-0.jpg?v=1779658247"
         }
       ]
     },
@@ -116633,6 +116878,34 @@
           "price": 189.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/lancome-tresor-100ml-edp---2.png?v=1535773502"
+        }
+      ]
+    },
+    {
+      "brand": "Prada",
+      "name": "Luna Rossa Carbon by Prada 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 189.99,
+      "price_per_100ml": 189.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-luna-rossa-carbon-100ml-edp.png?v=1793067996",
+      "description": "Luna Rossa Carbon by Prada 100ml Eau De Parfum Spray for Men Born from the fusion of natural strength and technical innovation, Luna Rossa Carbon Eau de Parfum draws inspiration from the emblematic power of carbon, embodying uncompromising intensity. This modern, dark gourmand scent blends fresh, iconic lavender with warm, addictive licorice and refined cypress. Advanced technology unveils the purest facets of each ingredient, pushing the boundaries of olfactive intensity. Designer: Prada Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Inspired by carbon's emblematic power, this fragrance embodies uncompromising intensity. Born from nature, augmented by tech, it invites you to surpass performances and explore new horizons. Prada crafted a modern dark and gourmand signature. This fragrance fuses fresh, iconic lavender with a warm, addictive licorice accord and sophisticated cypress. Technology reveals the purest facets of these ingredients, pushing olfactive intensity boundaries. The Carbon Eau de Parfum bottle embodies this spirit. Its sophisticated design, inspired by carbon's essence, features intense lacquering with a soft-matte finish. This bold statement represents intensity, crafted for those striving for peak performances. Luna Rossa Carbon Eau de Parfum, the new captivating intensity by Prada, born from the fusion of natural strength and technical innovation. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/luna-rossa-carbon-by-prada-100ml-edp",
+      "source_price": 189.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/luna-rossa-carbon-by-prada-100ml-edp",
+          "brand": "Prada",
+          "name": "Luna Rossa Carbon by Prada 100ml EDP",
+          "size": "100ml",
+          "price": 189.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/prada-luna-rossa-carbon-100ml-edp.png?v=1793067996"
         }
       ]
     },
@@ -129508,6 +129781,56 @@
       ]
     },
     {
+      "brand": "Viktor & Rolf",
+      "name": "Viktor & Rolf Flowerbomb Pretty Peony EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 214.99,
+      "price_per_100ml": 214.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/flowerbomb-pretty-peony-100ml.png?v=1793062129",
+      "description": "Flowerbomb Pretty Peony by Viktor & Rolf 100ml Eau De Parfum Spray for Women Introducing Flowerbomb Pretty Peony Eau de Parfum by Viktor&Rolf. This is a bold, fruity and floral fragrance designed for confident, modern women. An unapologetically girly perfume for those who dare to be pretty powerful, pretty playful, and pretty provocative. Designer: Viktor & Rolf Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Strawberry bursts open with a juicy, tantalizing sweetness — fresh, playful, and deliciously captivating. Peony blossoms at the heart, providing a soft floral yet crisp, fresh elegant scent that teases the senses, evoking femininity and romance. Musk lingers intimately to the skin — grounded and irresistibly addictive. Vanilla rounds out the base with a creamy, sweet embrace, warm and enveloping, leaving a lasting trail that is both soft and daringly unforgettable. The instantly-recognizable diamond grenade shape gets a bold new look. Exuding feminine strength in a pretty, powerful hot pink, Flowerbomb Pretty Peony is bold and beautiful, on kin and on your shelf. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/flowerbomb-pretty-peony-by-viktor-rolf-100ml-edp",
+      "source_price": 214.99,
+      "source_count": 3,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/flowerbomb-pretty-peony-by-viktor-rolf-100ml-edp",
+          "brand": "Viktor & Rolf",
+          "name": "Flowerbomb Pretty Peony by Viktor & Rolf 100ml EDP",
+          "size": "100ml",
+          "price": 214.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/flowerbomb-pretty-peony-100ml.png?v=1793062129"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/viktor-rolf-flowerbomb-pretty-peony-edp-100ml",
+          "brand": "Viktor & Rolf",
+          "name": "Viktor & Rolf Flowerbomb Pretty Peony EDP 100ml",
+          "size": "100ml",
+          "price": 287,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/15_62f36ac2-22f2-4442-b698-146c6a315f4c.jpg?v=1781828219"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/viktor-rolf-flowerbomb-pretty-peony-edp-100ml",
+          "brand": "Viktor & Rolf",
+          "name": "Viktor & Rolf Flowerbomb Pretty Peony EDP 100ml",
+          "size": "100ml",
+          "price": 341,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041677-0.jpg?v=1776202329"
+        }
+      ]
+    },
+    {
       "brand": "Dolce & Gabbana",
       "name": "Dolce & Gabbana K by Dolce & Gabbana EDP 100ml",
       "size": "100ml",
@@ -131161,34 +131484,6 @@
           "price": 218.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/2678068_jml_heroes_lime-basil-and-mandarin.jpg?v=1728878751"
-        }
-      ]
-    },
-    {
-      "brand": "Jimmy Choo",
-      "name": "Jimmy Choo I Want Choo With Love 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 219,
-      "price_per_100ml": 219,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/JimmyChooIWantChooWithLoveEDP100mlforWomen.jpg?v=1781827862",
-      "description": "Jimmy Choo I Want Choo With Love EDP 100ml for Women Jimmy Choo I Want Choo With Love EDP 100ml is the full-size expression of Jimmy Choo’s radiant floral fruity ambery fragrance for women. Raspberry, orange blossom petals and Italian mandarin lead into rose, hibiscus flower and freesia before settling over vanilla, sandalwood and white musk. The 100ml bottle is the hero format for frequent wearers and customers searching for the core I Want Choo With Love perfume. It offers a generous full-size presentation for everyday routines, romantic occasions, celebrations, gifting and an established fragrance wardrobe. Gadgets Online NZ is a New Zealand-owned retailer established in 2008, with a physical store in Mount Eden, Auckland. Shop online with NZ-wide delivery or select Auckland pickup when available. A GST invoice is supplied, and products are sold in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Raspberry, orange blossom petals and Italian mandarin Heart Notes: Rose infusion, hibiscus flower and freesia Base Notes: Vanilla, sandalwood and white musk Scent Profile With Love opens with juicy raspberry, luminous orange blossom petals and bright Italian mandarin. Rose infusion gives the heart a romantic centre, while hibiscus flower and freesia add fresh floral movement. Vanilla and sandalwood soften the dry-down, and white musk creates a clean, polished trail that keeps the fragrance modern and versatile. Who Is It For? Made for women who enjoy expressive yet approachable designer perfumes built around berries, rose, soft vanilla, creamy woods and musk. The 100ml format suits regular users, signature-scent wearers and gift buyers choosing the principal bottle in the With Love range. When to Wear Day: Work, brunch, shopping, lunches, travel and polished everyday wear. Evening: Date nights, dinners, drinks, parties, celebrations and special occasions. Season: A natural fit for spring and summer, with vanilla, sandalwood and musk supporting year-round versatility. Occasion: Frequent wear, signature-scent use, gifting, romantic events and confident social styling. Longevity & Sillage As an Eau de Parfum, With Love is intended to provide a fuller raspberry, floral and musky scent impression than a lighter concentration, with enough presence for daytime polish and evening occasions. Projection gradually softens after application. Performance varies with body chemistry, application, weather and storage. More I Want Choo With Love Fragrances Jimmy Choo I Want Choo With Love EDP 40ml – the compact option for handbags, travel, gifting or first-time purchase. Jimmy Choo I Want Choo With Love EDP 60ml – the balanced mid-size option for regular use and gifting. Jimmy Choo I Want Choo With Love EDP 2ml Vial Sample – a low-commitment way to test the fragrance on skin. Jimmy Choo I Want Choo With Love EDP 100ml 3-Piece Gift Set – a gift-ready presentation with full-size fragrance and travel accessories. Similar Designer Fragrances Burberry Her EDP 100ml – a vibrant fruity floral fragrance with berry brightness and soft musk. Prada Paradoxe EDP 90ml – a polished floral amber perfume with white-floral and musky character. Valentino Donna Born In Roma EDP 100ml – a modern floral-vanilla fragrance with confident evening versatility. Premium & Niche Alternatives Chanel Coco Mademoiselle EDP 100ml – an iconic premium chypre floral perfume with citrus, rose, jasmine and patchouli. Parfums de Marly Delina EDP 75ml – a niche rose-led fragrance with bright fruit and refined floral depth. Parfums de Marly Delina La Rosée EDP 75ml – a fresher niche rose alternative with luminous, airy styling. Explore More Fragrances Shop the Jimmy Choo Perfumes NZ collection Explore Women’s Perfumes in New Zealand Browse all Perfumes & Fragrances Discover Perfume Gift Sets Why Buy From Gadgets Online NZ? NZ-owned and operating since 2008. Physical retail store in Mount Eden, Auckland. NZ-wide delivery. Auckland pickup available when stock and order status allow. GST invoice supplied with every order. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Jimmy Choo Fragrance: Jimmy Choo I Want Choo With Love Size: 100ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Fruity Ambery Formulation: Retail spray bottle Packaging: Signature metallic pink-gold I Want Choo With Love presentation in a branded retail box; packaging details may vary with manufacturer updates. What’s Included: One Jimmy Choo I Want Choo With Love EDP 100ml retail spray bottle. Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing the fragrance after spraying, as this can affect how the scent develops. Store the bottle upright in a cool, dry place away from direct sunlight, heat and humidity. Begin with a lighter application and add gradually when a stronger scent presence is preferred. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/jimmy-choo-i-want-choo-with-love-edp-100ml-for-women",
-      "source_price": 219,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/jimmy-choo-i-want-choo-with-love-edp-100ml-for-women",
-          "brand": "Jimmy Choo",
-          "name": "Jimmy Choo I Want Choo With Love EDP 100ml",
-          "size": "100ml",
-          "price": 219,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/JimmyChooIWantChooWithLoveEDP100mlforWomen.jpg?v=1781827862"
         }
       ]
     },
@@ -139614,6 +139909,34 @@
       ]
     },
     {
+      "brand": "Chloe",
+      "name": "Nomade Jardin D'Egypte by Chloe 75ml EDP",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 179.99,
+      "price_per_100ml": 239.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/chloe-nomade-jardin-d_egypte-75ml.png?v=1793056322",
+      "description": "Nomade Jardin D'Egypte by Chloe 75ml Eau De Parfum Spray for Women Chloé Nomade Jardin d’Égypte takes us back to the homeland of Chloé founder Gaby Aghion, with the third chapter in Nomade’s Égypte story. Paying tribute to the emblematic papyrus plant which represents eternal life and renewal, Jardin d’Égypte is an intense and vibrant Eau de Parfum for Women inspired by a verdant garden. Designer: Chloe Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: The perfume opens with the solar notes of the cassie flower, which delicately entwine with the vegetal freshness of papyrus, evoking a summer garden at dawn. Enriched by the opulent, honeyed accents of sun-dried dates and luscious fig accords, the scent unfolds into the heady depth of the kyphi accord, an ancient, alchemical blend of essential oils that mingles spiced cinnamon bark with the creamy richness of sandalwood and resinous myrrh. Finally, a bespoke solarwood accord blends with the velvety smoothness of sandalwood oil and musky ambrette absolute, lingering with irresistible sensuality and depth. Perfumer Caroline Dumur drew inspiration from a verdant garden filled with fresh greenery, sweet flowers and fruit-bearing trees to create this intense and vibrant fragrance for women. This Chloé perfume is presented in the line’s iconic bottle, now adorned with a vibrant green braid in the colour of the Egyptian papyrus plant. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/nomade-jardin-degypte-by-chloe-75ml-edp",
+      "source_price": 179.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/nomade-jardin-degypte-by-chloe-75ml-edp",
+          "brand": "Chloe",
+          "name": "Nomade Jardin D'Egypte by Chloe 75ml EDP",
+          "size": "75ml",
+          "price": 179.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/chloe-nomade-jardin-d_egypte-75ml.png?v=1793056322"
+        }
+      ]
+    },
+    {
       "brand": "Lacoste",
       "name": "Lacoste L.12.12 Rose EDP 35ml",
       "size": "35ml",
@@ -143415,6 +143738,34 @@
           "price": 249.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/goldfield-pacific-rock-flower.png?v=1792537376"
+        }
+      ]
+    },
+    {
+      "brand": "Valentino",
+      "name": "Valentino Donna Born In Roma Purple Melancholia 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 249.99,
+      "price_per_100ml": 249.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/valentino-donna-born-in-roma-purple-melancholia-100ml.png?v=1793050834",
+      "description": "Valentino Donna Born In Roma Purple Melancholia by Valentino 100ml Eau De Parfum Spray A new hue in the Born in Roma wardrobe. Purple Melancholia celebrates a moment of deep and positive introspection, it's a nostalgic embrace of the experiences that have shaped who you are and the exaltation of a journey that releases authentic emotions and celebrates the uniqueness. A chypre-fruity fragrance with succulent notes of plum and Madagascar vanilla to unlock your memories. Designer: Valentino Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Inspired by Rome, a place where past and present coexist, Born in Roma fragrances tell a story of self-expression: a celebration of people living life freely, while embracing their heritage. Born in Roma Purple Melancholia takes you on a journey; inviting you to rediscover memories that define you and makes you unique. Born form the desire to enjoy life at its fullest, this fragrance opens with a chypre-fruity succulent note of plum which blossoms into a flowery Osmanthus and rich vanilla extract, that lingers like a memory, wrapped in a bottle as timeless as the moments it recalls. Unlock memories with every wear, experience the irresistible blend of confidence and allure. A scent designed not just to be worn, but to be remembered. Purple Melancholia invites you to reflect on comforting memories as it brings ease and warmth. A bold nod to the iconic Rockstud, the perfume bottle pairs a striking black leather label with a melancholia purple hue, enhancing its classic design with a modern, magnetic edge. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/valentino-donna-born-in-roma-purple-melancholia-100ml-edp",
+      "source_price": 249.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/valentino-donna-born-in-roma-purple-melancholia-100ml-edp",
+          "brand": "Valentino",
+          "name": "Valentino Donna Born In Roma Purple Melancholia 100ml EDP",
+          "size": "100ml",
+          "price": 249.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/valentino-donna-born-in-roma-purple-melancholia-100ml.png?v=1793050834"
         }
       ]
     },
@@ -147628,6 +147979,67 @@
       ]
     },
     {
+      "brand": "Yves Saint Laurent",
+      "name": "Yves Saint Laurent Libre Berry Crush EDP 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 239.99,
+      "price_per_100ml": 266.66,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ysl-libre-berry-crush-90ml.png?v=1793069821",
+      "description": "Libre Berry Crush by Yves Saint Laurent 90ml Eau De Parfum Spray for Women Libre Berry Crush is a new fruity floral craving. A delectable reinterpretation of Libre's iconic floral lavender, infused with the irresistible juiciness of raspberries. Sweet yet bold, indulgent yet exhilarating. The taste of freedom, freshly crushed. Designer: YSL Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Libre’s floral heart now bursts with fruity intensity, dripping in deliciousness. Tangy raspberry accord is crushed into Libre's bold floral signature between invigorating lavender from France and sensual orange blossom from Morocco. This vibrant blend effortlessly melts into a creamy coconut accord, balancing freshness with irresistible warmth and addictive indulgence. A new fragrance good enough to devour. A reflection of the Libre woman's insatiable hunger for freedom. The iconic Libre bottle is more daring than ever, embracing the vibrancy of juicy berries. Its sleek, tuxedo-inspired silhouette now radiates with scarlet hues, reminiscent of pulpy raspberries. Gold chains, an asymmetrical black cap and the iconic Cassandre logo seal this statement of unapologetic femininity, with a hint of impertinence. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/libre-berry-crush-by-yves-saint-laurent-90ml-edp",
+      "source_price": 239.99,
+      "source_count": 4,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/libre-berry-crush-by-yves-saint-laurent-90ml-edp",
+          "brand": "Yves Saint Laurent",
+          "name": "Libre Berry Crush by Yves Saint Laurent 90ml EDP",
+          "size": "90ml",
+          "price": 239.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ysl-libre-berry-crush-90ml.png?v=1793069821"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml?_pos=6&_psq=Yves+Saint+Laurent&_psid=75d6fff17&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Libre Berry Crush EDP 90ml",
+          "size": "90ml",
+          "price": 345,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml?_pos=10&_psq=Yves+Saint+Laurent&_psid=d736ca118&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Libre Berry Crush EDP 90ml",
+          "size": "90ml",
+          "price": 345,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Libre Berry Crush EDP 90ml",
+          "size": "90ml",
+          "price": 358,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457"
+        }
+      ]
+    },
+    {
       "brand": "Maison Margiela",
       "name": "MAISON Margiela Replica Sunday Morning EDT (R)able 30ml",
       "size": "30ml",
@@ -149683,6 +150095,34 @@
       ]
     },
     {
+      "brand": "Paco Rabanne",
+      "name": "Million Red by Rabanne 90ml Parfum",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 249.99,
+      "price_per_100ml": 277.77,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-million-gold-red.png?v=1792726606",
+      "description": "Million Red by Rabanne 90ml Parfum Spray for Women Million Red For Her is Rabanne's Parfum built around coconut, ylang-ylang, and vanilla. More gourmand. More radiant. More irresistible. Million Red For Her reinvents the art of attraction with a fragrance where every detail is designed to captivate. Blending confident sensuality with contemporary glamour, it unveils a new gourmand signature that doesn't chase attention—it naturally attracts it. Designer: Rabanne Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Million Red For Her reinvents gourmand fragrance with a luminous, sensual and intensely addictive signature. Creamy coconut opens the fragrance with an unexpected gourmand accord. Radiant ylang-ylang illuminates the heart before vanilla wraps the scent in addictive warmth. A composition where gourmand richness, luminosity, and sensuality exist in perfect balance. An intense, long-lasting gourmand trail. Designed to transition effortlessly from day to night, Million Red For Her gradually reveals the full richness of its personality, leaving behind a luminous and unforgettable impression. With Million Red For Her, Rabanne introduces a new olfactory territory within the Million Gold For Her collection. Its bold red bottle retains the iconic XL Link, inspired by the House's fashion heritage and signature metal craftsmanship. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/million-red-by-paco-rabanne-90ml-parfum",
+      "source_price": 249.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/million-red-by-paco-rabanne-90ml-parfum",
+          "brand": "Paco Rabanne",
+          "name": "Million Red by Rabanne 90ml Parfum",
+          "size": "90ml",
+          "price": 249.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-million-gold-red.png?v=1792726606"
+        }
+      ]
+    },
+    {
       "brand": "Dolce & Gabbana",
       "name": "Dolce & Gabbana Light Blue Pour Homme EDP 50ml",
       "size": "50ml",
@@ -151381,6 +151821,34 @@
       ]
     },
     {
+      "brand": "Paco Rabanne",
+      "name": "Olympea Elixir by Rabanne 80ml EDP Intense",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 224.99,
+      "price_per_100ml": 281.24,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-olympea-elixir.png?v=1793061092",
+      "description": "Olympea Elixir by Rabanne 80ml Eau De Parfum Intense Spray for Women Let your summer aura shine bright with Olympea Elixir by Rabanne: An intense, solar feminine signature of juicy pineapple, precious jasmine and tropical monoi that captures the warmth of golden sunset rays as they drench the skin in light. Crafted for the Amazonian goddess who reveals her radiance at golden hour, Olympea Elixir is an intense feminine signature inspired by the warm caress of sun upon the skin. Designer: Rabanne Year Introduced: 2026 Type: Parfum Intense Category: Women Fragrance Notes: Golden hour. Sun-warmed skin. Olympea Elixir by Rabanne captures that endless-summer feeling: a femininity bathed in light—warm, radiant, and self-assured. A burst of juicy pineapple opens the dance, soft yet vibrant. Precious jasmine glows at the heart, then tropical monoi seals a deliciously addictive solar sensuality. Like a halo of sunshine in a scent, it’s crafted for the eternal goddess revealing her inner light at sunset. Solar, powerful, and irresistibly feminine, this intense elixir captures the feeling of endless summer, made for the woman who shines effortlessly, from dusk till dark. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/olympea-elixir-by-rabanne-80ml-edp-intense",
+      "source_price": 224.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/olympea-elixir-by-rabanne-80ml-edp-intense",
+          "brand": "Paco Rabanne",
+          "name": "Olympea Elixir by Rabanne 80ml EDP Intense",
+          "size": "80ml",
+          "price": 224.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-olympea-elixir.png?v=1793061092"
+        }
+      ]
+    },
+    {
       "brand": "Jimmy Choo",
       "name": "Jimmy Choo I Want Choo 60ml EDP Set 2pcs",
       "size": "60ml",
@@ -152993,45 +153461,6 @@
           "price": 214.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/dolce_desire.jpg?v=1383515036"
-        }
-      ]
-    },
-    {
-      "brand": "Viktor & Rolf",
-      "name": "Viktor & Rolf Flowerbomb Pretty Peony EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 287,
-      "price_per_100ml": 287,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/15_62f36ac2-22f2-4442-b698-146c6a315f4c.jpg?v=1781828219",
-      "description": "Viktor & Rolf Flowerbomb Pretty Peony EDP 100ml for Women Viktor & Rolf Flowerbomb Pretty Peony EDP 100ml is a floral fruity fragrance for women, designed around a playful fruity floral with bright strawberry, airy peony and a soft musky vanilla finish. It expresses the Viktor & Rolf approach through a distinctive composition that feels fresh, playful and romantic without losing the recognisable character of its fragrance line. The opening introduces juicy strawberry. As it develops, peony shape the centre of the fragrance before musk and vanilla create the lasting dry-down. The movement between these stages gives this edition its own identity rather than presenting it as a simple size variation. The 100ml format is a generous choice for established wearers, frequent use or a substantial fragrance gift. This product is currently listed with stock available through Gadgets Online NZ. Fragrance Notes Opening: Juicy strawberry Heart: Peony Base: Musk and vanilla Scent Profile The fragrance has a playful fruity floral with bright strawberry, airy peony and a soft musky vanilla finish. The opening establishes its first impression, the heart develops the main theme, and the base gives the composition its warmth, texture and persistence. Overall, the style is fresh, playful and romantic, making it clearly differentiated from the other Flowerbomb and Spicebomb interpretations. Who Is It For? This fragrance is recommended for women who enjoy floral fruity compositions and want a scent that feels fresh, playful and romantic. It is particularly relevant for customers comparing fragrances by note character, concentration and occasion rather than selecting only by brand name. When to Wear Suitable occasions include everyday, special occasion wear. Its profile is particularly well suited to spring and summer styling, although fragrance preference is personal and application can be adjusted for the weather, venue and time of day. Longevity & Sillage As an Eau de Parfum, it is designed to deliver a fuller scent impression and persistent dry-down. Longevity and sillage vary with skin chemistry, application, temperature and environment, so begin with a measured application and adjust for the setting. More Viktor & Rolf Women’s Fragrances to Explore Viktor & Rolf Flowerbomb Ruby Orchid EDP 50ml offers a fruitier option shaped by peach, ruby orchid and creamy vanilla. It provides a related direction for comparison rather than an identical scent. Viktor & Rolf Flowerbomb Pretty Peony EDP 50ml offers a brighter playful floral with strawberry, peony, musk and vanilla. It provides a related direction for comparison rather than an identical scent. Viktor & Rolf Flowerbomb Dew EDP 50ml offers a softer musky floral with pear, iris, rose and clean white musk. It provides a related direction for comparison rather than an identical scent. Viktor & Rolf Bonbon EDP 50ml offers a caramel-centred fruity gourmand with peach, citrus and smooth woods. It provides a related direction for comparison rather than an identical scent. Similar Designer Fragrances Christian Dior Miss Dior EDP 100ml offers a polished floral-amber comparison with a romantic rose-led character. It provides a related direction for comparison rather than an identical scent. Giorgio Armani My Way Intense EDP 50ml offers a creamy white-floral alternative with greater tuberose emphasis. It provides a related direction for comparison rather than an identical scent. Gucci Bloom Intense EDP 100ml offers a fuller white-floral bouquet for customers prioritising floral intensity. It provides a related direction for comparison rather than an identical scent. Premium & Niche Alternatives Chanel Coco Mademoiselle Intense EDP 50ml offers a refined citrus, patchouli and amber alternative with a structured luxury dry-down. It provides a related direction for comparison rather than an identical scent. Christian Dior Miss Dior Parfum 50ml offers a concentrated fruity-floral composition with jasmine and ambery woods. It provides a related direction for comparison rather than an identical scent. Yves Saint Laurent Libre Flowers & Flames EDP 50ml offers a solar white-floral contrast with creamy warmth and a modern signature. It provides a related direction for comparison rather than an identical scent. Explore More Fragrances Compare the wider Viktor & Rolf perfume collection . Use fragrance family, concentration, size and occasion to identify the most suitable option. Why Buy From Gadgets Online NZ? Shop with a New Zealand-owned retailer online or through our Mount Eden, Auckland store. Receive a GST invoice with your purchase. Products are supplied brand new in their retail presentation unless clearly stated otherwise. Browse NZ-wide delivery and Auckland pickup options where available. Product Details Brand: Viktor & Rolf Fragrance: Flowerbomb Pretty Peony Concentration: Eau de Parfum (EDP) Size: 100ml Gender: Women Fragrance family: Floral Fruity Format: Spray Packaging: Branded retail packaging; design and production details may vary by batch What’s Included One Viktor & Rolf Flowerbomb Pretty Peony EDP 100ml retail spray bottle in original branded retail packaging. Fragrance Care Tips Apply to pulse points such as the neck and wrists, beginning with a lighter application. Avoid rubbing the fragrance after spraying, as this can affect how the scent develops. Store bottles upright in a cool, dry place away from direct sunlight, heat and humidity. Keep caps secure and avoid prolonged temperature changes to help preserve the fragrance. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/viktor-rolf-flowerbomb-pretty-peony-edp-100ml",
-      "source_price": 287,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/viktor-rolf-flowerbomb-pretty-peony-edp-100ml",
-          "brand": "Viktor & Rolf",
-          "name": "Viktor & Rolf Flowerbomb Pretty Peony EDP 100ml",
-          "size": "100ml",
-          "price": 287,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/15_62f36ac2-22f2-4442-b698-146c6a315f4c.jpg?v=1781828219"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/viktor-rolf-flowerbomb-pretty-peony-edp-100ml",
-          "brand": "Viktor & Rolf",
-          "name": "Viktor & Rolf Flowerbomb Pretty Peony EDP 100ml",
-          "size": "100ml",
-          "price": 341,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041677-0.jpg?v=1776202329"
         }
       ]
     },
@@ -161365,6 +161794,122 @@
       ]
     },
     {
+      "brand": "Marc Jacobs",
+      "name": "Marc Jacobs Perfect Absolute EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 159.99,
+      "price_per_100ml": 319.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/marc-jacobs-perfect-absolute-50ml.png?v=1793057456",
+      "description": "Perfect Absolute by Marc Jacobs 50ml Eau De Parfum Spray for Women Embrace the new Perfect Marc Jacobs Absolute, a celebration of empowerment, positive affirmation and believing in yourself. Rooted in the universal belief that you are perfect as you are, this fragrance embodies the transformative power of self-affirmation. Designer: Marc Jacobs Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Precious. Bold. Extraordinary. A luxurious, concentrated take on our original Eau De Parfum, Perfect Absolute features a caramelized fig accord, luscious blooming jasmine absolu blend and a rich amber accord. Make a precious and bold statement of self-love. It's Perfect, just like you. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/perfect-absolute-by-marc-jacobs-50ml-edp",
+      "source_price": 159.99,
+      "source_count": 9,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/perfect-absolute-by-marc-jacobs-50ml-edp",
+          "brand": "Marc Jacobs",
+          "name": "Perfect Absolute by Marc Jacobs 50ml EDP",
+          "size": "50ml",
+          "price": 159.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/marc-jacobs-perfect-absolute-50ml.png?v=1793057456"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
+          "size": "50ml",
+          "price": 236,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=4&_psq=Marc+Jacobs&_psid=5a6f01633&_ss=e",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
+          "size": "50ml",
+          "price": 236,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=6&_psq=Marc+Jacobs&_psid=a48afef7b&_ss=e",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
+          "size": "50ml",
+          "price": 236,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=7&_psq=Marc+Jacobs&_psid=69b922972&_ss=e",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
+          "size": "50ml",
+          "price": 236,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=4&_psq=Marc+Jacobs&_psid=a68131de7&_ss=e",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
+          "size": "50ml",
+          "price": 236,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=6&_psq=Marc+Jacobs&_psid=78b1df306&_ss=e",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
+          "size": "50ml",
+          "price": 236,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=7&_psq=Marc+Jacobs&_psid=8e8a46a9b&_ss=e",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
+          "size": "50ml",
+          "price": 236,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=6&_psq=Marc+Jacobs&_psid=bc8ec5a14&_ss=e",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
+          "size": "50ml",
+          "price": 236,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
+        }
+      ]
+    },
+    {
       "brand": "Christian Dior",
       "name": "Dior Homme Parfum by Christian Dior 75ml Parfum",
       "size": "75ml",
@@ -166842,6 +167387,34 @@
       ]
     },
     {
+      "brand": "Valentino",
+      "name": "Valentino Donna Born In Roma Purple Melancholia 50ml EDP",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 169.99,
+      "price_per_100ml": 339.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/valentino-donna-born-in-roma-purple-melancholia-50ml.png?v=1793058743",
+      "description": "Valentino Donna Born In Roma Purple Melancholia by Valentino 50ml Eau De Parfum Spray A new hue in the Born in Roma wardrobe. Purple Melancholia celebrates a moment of deep and positive introspection, it's a nostalgic embrace of the experiences that have shaped who you are and the exaltation of a journey that releases authentic emotions and celebrates the uniqueness. A chypre-fruity fragrance with succulent notes of plum and Madagascar vanilla to unlock your memories. Designer: Valentino Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Inspired by Rome, a place where past and present coexist, Born in Roma fragrances tell a story of self-expression: a celebration of people living life freely, while embracing their heritage. Born in Roma Purple Melancholia takes you on a journey; inviting you to rediscover memories that define you and makes you unique. Born form the desire to enjoy life at its fullest, this fragrance opens with a chypre-fruity succulent note of plum which blossoms into a flowery Osmanthus and rich vanilla extract, that lingers like a memory, wrapped in a bottle as timeless as the moments it recalls. Unlock memories with every wear, experience the irresistible blend of confidence and allure. A scent designed not just to be worn, but to be remembered. Purple Melancholia invites you to reflect on comforting memories as it brings ease and warmth. A bold nod to the iconic Rockstud, the perfume bottle pairs a striking black leather label with a melancholia purple hue, enhancing its classic design with a modern, magnetic edge. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/valentino-donna-born-in-roma-purple-melancholia-50ml-edp",
+      "source_price": 169.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/valentino-donna-born-in-roma-purple-melancholia-50ml-edp",
+          "brand": "Valentino",
+          "name": "Valentino Donna Born In Roma Purple Melancholia 50ml EDP",
+          "size": "50ml",
+          "price": 169.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/valentino-donna-born-in-roma-purple-melancholia-50ml.png?v=1793058743"
+        }
+      ]
+    },
+    {
       "brand": "Versace",
       "name": "Versace Eros Pour Homme EDT 10ml",
       "size": "10ml",
@@ -171279,6 +171852,34 @@
           "price": 204,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/GucciBloomParfum50ml.jpg?v=1781828420"
+        }
+      ]
+    },
+    {
+      "brand": "Burberry",
+      "name": "Burberry Goddess Amber Vanilla 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 179.99,
+      "price_per_100ml": 359.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/burberry-goddess-amber-vanilla-50ml.png?v=1793068889",
+      "description": "Burberry Goddess Amber Vanilla by Burberry 50ml Eau De Parfum Intense Spray for Women Embrace your most feminine, sensual and captivating self with Burberry Goddess Amber Vanilla Eau de Parfum Intense. Luminous lavender essence, maple syrup accord, roasted vanilla and an ambery base create a sensual fragrance with a lasting impression. Designer: Burberry Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: In this new Amber Vanilla expression, Burberry Goddess Eau de Parfum Intense reflects a deeper femininity. At the top of the fragrance, a luminous lavender essence meets a maple syrup accord, while the signature gourmand trio of vanilla extracts at its heart has a new indulgent dimension: caramelised, roasted vanilla. When combined with an amber base, the scent is sensual and captivating, leaving a lasting impression of sweet, sophisticated warmth. Evoking the dark-golden glow of sunset, the fragrance is offered in a square glass bottle featuring an amber gradient and finished with the collection’s signature golden cap and medallion. ** Boxed Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/burberry-goddess-amber-vanilla-by-burberry-50ml-edp",
+      "source_price": 179.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/burberry-goddess-amber-vanilla-by-burberry-50ml-edp",
+          "brand": "Burberry",
+          "name": "Burberry Goddess Amber Vanilla by Burberry 50ml EDP",
+          "size": "50ml",
+          "price": 179.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/burberry-goddess-amber-vanilla-50ml.png?v=1793068889"
         }
       ]
     },
@@ -177646,56 +178247,6 @@
           "price": 114.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/mugler-angel-nova-30ml.png?v=1633395292"
-        }
-      ]
-    },
-    {
-      "brand": "Yves Saint Laurent",
-      "name": "Yves Saint Laurent Libre Berry Crush EDP 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 345,
-      "price_per_100ml": 383.33,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457",
-      "description": "Sweet yet bold, indulgent yet exhilarating. The taste of freedom, freshly crushed. THE SCENT. FRESHLY CRUSHED BERRIES, GOOD ENOUGH TO DEVOUR LIBRE’s floral heart now bursts with fruity intensity, dripping in deliciousness. Tangy raspberry is crushed into LIBRE's bold floral signature between invigorating lavender from France and sensual orange blossom from Morocco. This vibrant blend effortlessly melts into a creamy coconut accord, balancing freshness with irresistible warmth and addictive indulgence. A new fragrance good enough to devour. A reflection of the LIBRE woman's insatiable hunger for freedom. THE BOTTLE. A VIBRANT JEWEL, TINTED IN BERRY-RED HUES. The iconic LIBRE bottle is more daring than ever, embracing the vibrancy of juicy berries. Its sleek, tuxedo-inspired silhouette now radiates with scarlet hues, reminiscent of pulpy raspberries. Gold chains, an asymmetrical black cap and the iconic Cassandre logo seal this statement of unapologetic femininity.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml?_pos=6&_psq=Yves+Saint+Laurent&_psid=75d6fff17&_ss=e",
-      "source_price": 345,
-      "source_count": 3,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml?_pos=6&_psq=Yves+Saint+Laurent&_psid=75d6fff17&_ss=e",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Libre Berry Crush EDP 90ml",
-          "size": "90ml",
-          "price": 345,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml?_pos=10&_psq=Yves+Saint+Laurent&_psid=d736ca118&_ss=e",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Libre Berry Crush EDP 90ml",
-          "size": "90ml",
-          "price": 345,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-libre-berry-crush-edp-90ml",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Libre Berry Crush EDP 90ml",
-          "size": "90ml",
-          "price": 358,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20041318-0.jpg?v=1770933457"
         }
       ]
     },
@@ -191330,111 +191881,6 @@
       ]
     },
     {
-      "brand": "Marc Jacobs",
-      "name": "Marc Jacobs Perfect Absolute EDP 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 236,
-      "price_per_100ml": 472,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999",
-      "description": "Precious. Bold. Extraordinary. Embrace the new Perfect Marc Jacobs Absolute, a celebration of empowerment, positive affirmation and believing in yourself. Rooted in the universal belief that you are perfect as you are, this fragrance embodies the transformative power of self-affirmation. A luxurious, concentrated take on our original eau de parfum, Perfect Absolute features a caramelized fig accord, luscious blooming jasmine absolu blend and a rich amber accord. Make a precious and bold statement of self-love. It’s Perfect, just like you.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml",
-      "source_price": 236,
-      "source_count": 8,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml",
-          "brand": "Marc Jacobs",
-          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
-          "size": "50ml",
-          "price": 236,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=4&_psq=Marc+Jacobs&_psid=5a6f01633&_ss=e",
-          "brand": "Marc Jacobs",
-          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
-          "size": "50ml",
-          "price": 236,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=6&_psq=Marc+Jacobs&_psid=a48afef7b&_ss=e",
-          "brand": "Marc Jacobs",
-          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
-          "size": "50ml",
-          "price": 236,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=7&_psq=Marc+Jacobs&_psid=69b922972&_ss=e",
-          "brand": "Marc Jacobs",
-          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
-          "size": "50ml",
-          "price": 236,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=4&_psq=Marc+Jacobs&_psid=a68131de7&_ss=e",
-          "brand": "Marc Jacobs",
-          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
-          "size": "50ml",
-          "price": 236,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=6&_psq=Marc+Jacobs&_psid=78b1df306&_ss=e",
-          "brand": "Marc Jacobs",
-          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
-          "size": "50ml",
-          "price": 236,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=7&_psq=Marc+Jacobs&_psid=8e8a46a9b&_ss=e",
-          "brand": "Marc Jacobs",
-          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
-          "size": "50ml",
-          "price": 236,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-perfect-absolute-edp-50ml?_pos=6&_psq=Marc+Jacobs&_psid=bc8ec5a14&_ss=e",
-          "brand": "Marc Jacobs",
-          "name": "Marc Jacobs Perfect Absolute EDP 50ml",
-          "size": "50ml",
-          "price": 236,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039669-4.jpg?v=1771886999"
-        }
-      ]
-    },
-    {
       "brand": "Kenzo",
       "name": "Kenzo Flower Ikebana Indigo EDP 40ml",
       "size": "40ml",
@@ -200485,14 +200931,14 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/102_0156.jpg?v=1789528123",
       "description": "Crashing waves, white sand beaches stretching on forever, and the warmth of the sun on your skin. Beach captures the feeling of a perfect summer’s day, with fresh ocean air, sea salt and crisp fruits that transport you straight to the coast. Lovingly hand-poured in small batches in Aotearoa, our Eau de Parfum comes in 10ml, 30ml and 100ml .",
       "source_name": "miller-road-shopify-suggest",
-      "source_url": "https://millerroad.co.nz/products/new-system-wipbeach-perfume",
+      "source_url": "https://millerroad.co.nz/products/beach-perfume",
       "source_price": 55,
-      "source_count": 6,
+      "source_count": 7,
       "sources": [
         {
           "retailer_slug": "miller-road",
           "source_name": "miller-road-shopify-suggest",
-          "source_url": "https://millerroad.co.nz/products/new-system-wipbeach-perfume",
+          "source_url": "https://millerroad.co.nz/products/beach-perfume",
           "brand": "Miller Road Fragrances",
           "name": "Beach Perfume",
           "size": "10ml",
@@ -200510,6 +200956,17 @@
           "price": 55,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/30_ml_peach_78b762ef-eaf0-4144-ac1a-f61e2ae64550.png?v=1773631922"
+        },
+        {
+          "retailer_slug": "miller-road",
+          "source_name": "miller-road-shopify-suggest",
+          "source_url": "https://millerroad.co.nz/products/new-system-wipbeach-perfume",
+          "brand": "Miller Road Fragrances",
+          "name": "Beach Perfume",
+          "size": "10ml",
+          "price": 55,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/102_0156.jpg?v=1789528123"
         },
         {
           "retailer_slug": "miller-road",
@@ -200874,10 +201331,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/Copyofpics_1120x1530px_copy2_2a33381f-38d2-44df-97b7-98734512b370.png?v=1787009731",
       "description": "Fresh Linen Perfume is designed to be a soft, intimate fragrance that feels both familiar and refined, like a quiet moment you never want to end. Steam rising from a cup of tea. Morning sunlight drifting across freshly laundered sheets. Nowhere to be but here. Effortlessly calm, endlessly comforting. Notes: Citrus, Bergamot, Jasmine, Lavender, Cedarwood, Moss, White Tea. Compact & Convenient. Easy-to-use roller format that fits seamlessly into bags and pockets. Our Organic Coconut oil-based formula offers a long-lasting, good for the skin, alcohol free fragrance. Buy any 3 x 10ml perfumes a free cosmetic bag - perfect for carrying your scents on the go! This gift will be automatically applied to your cart . Please note: The cosmetic bag is exclusive to this offer and cannot be purchased separately.",
       "source_name": "miller-road-shopify-suggest",
-      "source_url": "https://millerroad.co.nz/products/new-system-wip-fresh-linen-perfume-oil-roller-ball",
+      "source_url": "https://millerroad.co.nz/products/fresh-linen-perfume-oil-roller-ball",
       "source_price": 55,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        {
+          "retailer_slug": "miller-road",
+          "source_name": "miller-road-shopify-suggest",
+          "source_url": "https://millerroad.co.nz/products/fresh-linen-perfume-oil-roller-ball",
+          "brand": "Miller Road Fragrances",
+          "name": "Fresh Linen Perfume Oil Roller Ball",
+          "size": "10ml",
+          "price": 55,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/Copyofpics_1120x1530px_copy2_2a33381f-38d2-44df-97b7-98734512b370.png?v=1787009731"
+        },
         {
           "retailer_slug": "miller-road",
           "source_name": "miller-road-shopify-suggest",
@@ -201024,10 +201492,21 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/DSCN1938.jpg?v=1783391921",
       "description": "Vanilla, but not as you know it. Warm, sophisticated, and undeniably addictive. Better Than Vanilla leaves behind sugary sweetness in favour of soft florals, rich amber, creamy tonka bean, and a velvety musk that lingers beautifully on the skin. Our 10ml Roller Ball is made for fragrance on the go. The compact size slips easily into your handbag, pocket, or travel bag, making it perfect for touch-ups throughout the day. Simply roll onto your pulse points whenever you need a little boost of confidence or a moment of indulgence. Notes: Orange Blossom, Jasmine, Vanilla Orchid, Brown Sugar, Tonka Bean, Amber, Musk, Patchouli",
       "source_name": "miller-road-shopify-suggest",
-      "source_url": "https://millerroad.co.nz/products/new-system-wip-better-than-vanilla-perfume-oil-roller-ball",
+      "source_url": "https://millerroad.co.nz/products/better-than-vanilla-perfume-oil-roller-ball",
       "source_price": 55,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        {
+          "retailer_slug": "miller-road",
+          "source_name": "miller-road-shopify-suggest",
+          "source_url": "https://millerroad.co.nz/products/better-than-vanilla-perfume-oil-roller-ball",
+          "brand": "Miller Road Fragrances",
+          "name": "Better Than Vanilla Perfume Oil Roller Ball",
+          "size": "10ml",
+          "price": 55,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/DSCN1938.jpg?v=1783391921"
+        },
         {
           "retailer_slug": "miller-road",
           "source_name": "miller-road-shopify-suggest",
@@ -211537,5 +212016,14 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "retailer_slug": "chemist-warehouse-nz",
+      "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
+    },
+    {
+      "retailer_slug": "the-warehouse",
+      "error": "Client error '403 Forbidden' for url 'https://www.thewarehouse.co.nz/c/health-beauty/fragrances?sr=perfume&sz=48'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+    }
+  ]
 }
