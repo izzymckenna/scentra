@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T09:25:55.734Z",
-  "count": 4350,
+  "generated_at": "2026-10-30T09:40:57.082Z",
+  "count": 4353,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -12383,6 +12383,34 @@
       ]
     },
     {
+      "brand": "Bargain Chemist",
+      "name": "JOVAN White Musk W Cologne Spr 96ml",
+      "size": "96ml",
+      "size_ml": 96,
+      "price": 14.99,
+      "price_per_100ml": 15.61,
+      "currency": "NZD",
+      "image_url": null,
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/jovan-white-musk-w-cologne-spr-96ml",
+      "source_price": 14.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/jovan-white-musk-w-cologne-spr-96ml",
+          "brand": "Bargain Chemist",
+          "name": "JOVAN White Musk W Cologne Spr 96ml",
+          "size": "96ml",
+          "price": 14.99,
+          "currency": "NZD",
+          "image_url": null
+        }
+      ]
+    },
+    {
       "brand": "Body Lux",
       "name": "Body Lux Angelic Pink EDT 35ml",
       "size": "35ml",
@@ -17884,6 +17912,34 @@
       ]
     },
     {
+      "brand": "Elizabeth Arden",
+      "name": "Elizabeth Arden Green Tea EDT 100ml Set 2pc MD26",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 25,
+      "price_per_100ml": 25,
+      "currency": "NZD",
+      "image_url": null,
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/ea-green-tea-edt-100ml-set-2pc-md26",
+      "source_price": 25,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ea-green-tea-edt-100ml-set-2pc-md26",
+          "brand": "Elizabeth Arden",
+          "name": "Elizabeth Arden Green Tea EDT 100ml Set 2pc MD26",
+          "size": "100ml",
+          "price": 25,
+          "currency": "NZD",
+          "image_url": null
+        }
+      ]
+    },
+    {
       "brand": "Adidas",
       "name": "ADIDAS 75ML EDT SPRAY WOMEN FRUIT RHYTHM",
       "size": "75ml",
@@ -19848,34 +19904,6 @@
           "price": 64.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/joop_200ml.jpg?v=1463351244"
-        }
-      ]
-    },
-    {
-      "brand": "Elizabeth Arden",
-      "name": "Elizabeth Arden Green Tea EDT 100ml Set 2pc MD26",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 32.99,
-      "price_per_100ml": 32.99,
-      "currency": "NZD",
-      "image_url": null,
-      "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/ea-green-tea-edt-100ml-set-2pc-md26",
-      "source_price": 32.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/ea-green-tea-edt-100ml-set-2pc-md26",
-          "brand": "Elizabeth Arden",
-          "name": "Elizabeth Arden Green Tea EDT 100ml Set 2pc MD26",
-          "size": "100ml",
-          "price": 32.99,
-          "currency": "NZD",
-          "image_url": null
         }
       ]
     },
@@ -76987,6 +77015,34 @@
       ]
     },
     {
+      "brand": "Bargain Chemist",
+      "name": "BOSS Just Different EDT 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 79.99,
+      "price_per_100ml": 106.65,
+      "currency": "NZD",
+      "image_url": null,
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/boss-just-different-edt-75ml",
+      "source_price": 79.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/boss-just-different-edt-75ml",
+          "brand": "Bargain Chemist",
+          "name": "BOSS Just Different EDT 75ml",
+          "size": "75ml",
+          "price": 79.99,
+          "currency": "NZD",
+          "image_url": null
+        }
+      ]
+    },
+    {
       "brand": "Coach",
       "name": "Coach Dreams Sunset by Coach 150ml EDP",
       "size": "150ml",
@@ -81890,7 +81946,7 @@
           "brand": "Davidoff",
           "name": "Davidoff Cool Water 30ml EDT 2pc Set",
           "size": "30ml",
-          "price": 39.99,
+          "price": 35,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/1-9a3b33e5c0-318057741.webp?v=1757288362"
         },
@@ -99777,6 +99833,34 @@
       ]
     },
     {
+      "brand": "Bargain Chemist",
+      "name": "BOSS The Scent For Her EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 157.99,
+      "price_per_100ml": 157.99,
+      "currency": "NZD",
+      "image_url": null,
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/boss-the-scent-for-her-edt-100ml",
+      "source_price": 157.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/boss-the-scent-for-her-edt-100ml",
+          "brand": "Bargain Chemist",
+          "name": "BOSS The Scent For Her EDT 100ml",
+          "size": "100ml",
+          "price": 157.99,
+          "currency": "NZD",
+          "image_url": null
+        }
+      ]
+    },
+    {
       "brand": "Ralph Lauren",
       "name": "Ralph Lauren Romance EDP Vapo 50ml",
       "size": "50ml",
@@ -110893,45 +110977,6 @@
       ]
     },
     {
-      "brand": "Carolina Herrera",
-      "name": "Carolina Herrera Bad Boy Cobalt EDP Absolute 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 179.99,
-      "price_per_100ml": 179.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/carolina-bad-boy-cobalt-absolute.png?v=1785893743",
-      "description": "Bad Boy Cobalt Absolute by Carolina Herrera 100ml Eau De Parfum Absolute Spray for Men Bad Boy Cobalt Absolute is the most luxurious and seductive Bad Boy yet. This daring fragrance explores a deeper expression of modern masculinity, where smooth refinement meets magnetic intensity. Rich, sensual and unapologetically bold, it captures the strength of Bad Boy with an elevated, more opulent signature. Designer: Carolina Herrera Year Introduced: 2025 Type: EDP Category: Men Fragrance Notes: Bad Boy Cobalt Absolute is seduction at full power. Sleek, smoldering and impossible to resist, he’s not trying to be sexy – he just is. Charged with intensity, he’s Cobalt turned all the way up. Bad Boy Cobalt Absolute opens with the freshness of blue lavender and blue sage, balanced by the mineral richness of white truffle. As the fragrance deepens, the base notes become a masterclass in sensuality – golden vanilla and oakwood linger on the skin, radiating warmth, confidence and masculine sophistication. The iconic lightning bolt is reimagined in deep cobalt blue, pulsing with electric energy and adorned with a golden ridged plate – a sculptural detail that catches the light with dramatic precision. It’s the most ornate design in the Bad Boy collection to date, a striking symbol of sophistication and modern luxury. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/bad-boy-cobalt-absolute-by-carolina-herrera-100ml-edp",
-      "source_price": 179.99,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/bad-boy-cobalt-absolute-by-carolina-herrera-100ml-edp",
-          "brand": "Carolina Herrera",
-          "name": "Bad Boy Cobalt Absolute by Carolina Herrera 100ml EDP",
-          "size": "100ml",
-          "price": 179.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/carolina-bad-boy-cobalt-absolute.png?v=1785893743"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/carolina-herrera-bad-boy-cobalt-edp-absolute-100ml",
-          "brand": "Carolina Herrera",
-          "name": "Carolina Herrera Bad Boy Cobalt EDP Absolute 100ml",
-          "size": "100ml",
-          "price": 265,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040551-0.jpg?v=1781041711"
-        }
-      ]
-    },
-    {
       "brand": "Paco Rabanne",
       "name": "One Million Elixir by Paco Rabanne 100ml Parfum",
       "size": "100ml",
@@ -118937,6 +118982,45 @@
           "price": 249.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
+        }
+      ]
+    },
+    {
+      "brand": "Carolina Herrera",
+      "name": "Carolina Herrera Bad Boy Cobalt EDP Absolute 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 194.99,
+      "price_per_100ml": 194.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/carolina-bad-boy-cobalt-absolute.png?v=1785893743",
+      "description": "Bad Boy Cobalt Absolute by Carolina Herrera 100ml Eau De Parfum Absolute Spray for Men Bad Boy Cobalt Absolute is the most luxurious and seductive Bad Boy yet. This daring fragrance explores a deeper expression of modern masculinity, where smooth refinement meets magnetic intensity. Rich, sensual and unapologetically bold, it captures the strength of Bad Boy with an elevated, more opulent signature. Designer: Carolina Herrera Year Introduced: 2025 Type: EDP Category: Men Fragrance Notes: Bad Boy Cobalt Absolute is seduction at full power. Sleek, smoldering and impossible to resist, he’s not trying to be sexy – he just is. Charged with intensity, he’s Cobalt turned all the way up. Bad Boy Cobalt Absolute opens with the freshness of blue lavender and blue sage, balanced by the mineral richness of white truffle. As the fragrance deepens, the base notes become a masterclass in sensuality – golden vanilla and oakwood linger on the skin, radiating warmth, confidence and masculine sophistication. The iconic lightning bolt is reimagined in deep cobalt blue, pulsing with electric energy and adorned with a golden ridged plate – a sculptural detail that catches the light with dramatic precision. It’s the most ornate design in the Bad Boy collection to date, a striking symbol of sophistication and modern luxury. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/bad-boy-cobalt-absolute-by-carolina-herrera-100ml-edp",
+      "source_price": 194.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/bad-boy-cobalt-absolute-by-carolina-herrera-100ml-edp",
+          "brand": "Carolina Herrera",
+          "name": "Bad Boy Cobalt Absolute by Carolina Herrera 100ml EDP",
+          "size": "100ml",
+          "price": 194.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/carolina-bad-boy-cobalt-absolute.png?v=1785893743"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/carolina-herrera-bad-boy-cobalt-edp-absolute-100ml",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera Bad Boy Cobalt EDP Absolute 100ml",
+          "size": "100ml",
+          "price": 265,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040551-0.jpg?v=1781041711"
         }
       ]
     },
@@ -140181,6 +140265,221 @@
       ]
     },
     {
+      "brand": "Prada",
+      "name": "Prada Paradigme EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 239,
+      "price_per_100ml": 239,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/PradaParadigmeEDP100mlforMen_22d6714c-ffd6-4df0-945b-33cfd564ede0.jpg?v=1781827781",
+      "description": "Prada Paradigme EDP 100ml for Men Prada Paradigme EDP 100ml for Men is an amber woody Eau de Parfum combining Calabrian bergamot heart and airy musks with Bourbon geranium, Peru balsam, benzoin resin and guaiac wood. It balances fresh aromatic brightness with warm resinous and woody depth. This 100ml Eau de Parfum is ideal for men who enjoy bergamot, aromatic geranium, soft musks, balsamic resins and guaiac wood. It suits work, evenings, formal occasions, gifting and polished year-round fragrance styling. Buy Prada perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Calabrian bergamot heart and airy musks. Heart Notes: Bourbon geranium. Base Notes: Peru balsam, benzoin resin and guaiac wood. Scent Profile Prada Paradigme opens with Calabrian bergamot heart and airy musks before developing into an aromatic Bourbon geranium heart. Peru balsam, benzoin resin and guaiac wood create a warm, resinous and refined woody dry-down. Who Is It For? This Prada men’s perfume is ideal for customers who enjoy modern amber woody fragrances, bergamot, geranium, musks, balsamic resins and guaiac wood. It is a strong choice for customers wanting a contemporary Prada signature scent with fresh and warm contrasts. When to Wear Daytime: Work, meetings, travel and polished everyday fragrance styling. Evening: Dinners, date nights, celebrations and smart evening events. Season: Suitable year-round, especially autumn, winter and mild New Zealand weather. Occasion: A premium gifting choice for customers who enjoy modern aromatic and amber woody fragrances. Longevity & Sillage As an Eau de Parfum, Prada Paradigme is designed to provide a balanced amber woody scent impression with bergamot, geranium, musks, balsamic resins and guaiac wood. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Prada Paradigme Fragrances to Explore Prada Paradigme EDP 50ml — the compact 50ml size of the same bergamot, geranium and resinous woody fragrance. Prada L'Homme EDT 100ml — a clean iris-and-amber Eau de Toilette. Prada L'Homme Intense EDP 100ml — a richer iris, amber, patchouli and tonka bean fragrance. Prada Luna Rossa Ocean Le Parfum 100ml — a deep Luna Rossa Ocean fragrance with lemon, saffron and oakwood. Similar Designer Fragrances Dolce & Gabbana K Intense EDP 100ml — a modern woody amber perfume with saffron, fig and warm woods. Dolce & Gabbana Devotion Pour Homme EDP 100ml — a contemporary woody spicy fragrance with citrus, coffee and patchouli. Christian Dior Homme EDT 100ml — a polished woody fragrance with clean, refined character. Premium & Niche Alternatives Frédéric Malle Musc Ravageur EDP 50ml — a warm niche amber spicy perfume with musk, vanilla and sandalwood. Bond No. 9 New Haarlem EDP 100ml — a niche aromatic gourmand with lavender, coffee and warm amber tones. Christian Dior Homme Parfum 125ml — a premium iris amber woody fragrance with richer formal styling. Explore More Fragrances Browse more Prada perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Prada Fragrance: Paradigme Size: 100ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Amber Woody Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Prada Paradigme EDP 100ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying, as this can affect how the scent develops. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/prada-paradigme-edp-100ml-for-men",
+      "source_price": 239,
+      "source_count": 18,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/prada-paradigme-edp-100ml-for-men",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 239,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/PradaParadigmeEDP100mlforMen_22d6714c-ffd6-4df0-945b-33cfd564ede0.jpg?v=1781827781"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=4&_psq=fragrance&_psid=7ccc1632f&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=3&_psq=fragrance&_psid=fc4050720&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=9&_psq=fragrance&_psid=d3615fefa&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=5&_psq=fragrance&_psid=2de63c658&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=1c22bf5bc&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=32ebe2039&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=70de84995&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=bc3c2989e&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=b29e7eccb&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=bb56c32f3&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=1&_psq=edp&_psid=77e55a01c&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=3&_psq=edp&_psid=b8d1b3761&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=10&_psq=fragrance&_psid=4f6e5318e&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=1&_psq=fragrance&_psid=1e8cbf874&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=1&_psq=fragrance&_psid=fb8d744bb&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=4&_psq=fragrance&_psid=113bdbf6b&_ss=e",
+          "brand": "Prada",
+          "name": "Prada Paradigme EDP 100ml",
+          "size": "100ml",
+          "price": 275,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
+        }
+      ]
+    },
+    {
       "brand": "Kenzo",
       "name": "Kenzo Flower Eau De Parfum 50ml",
       "size": "50ml",
@@ -142804,221 +143103,6 @@
           "price": 247,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/GucciBloomAmbrosiaD_OroEDP100ml.jpg?v=1781828429"
-        }
-      ]
-    },
-    {
-      "brand": "Prada",
-      "name": "Prada Paradigme EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 247,
-      "price_per_100ml": 247,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/PradaParadigmeEDP100mlforMen_22d6714c-ffd6-4df0-945b-33cfd564ede0.jpg?v=1781827781",
-      "description": "Prada Paradigme EDP 100ml for Men Prada Paradigme EDP 100ml for Men is an amber woody Eau de Parfum combining Calabrian bergamot heart and airy musks with Bourbon geranium, Peru balsam, benzoin resin and guaiac wood. It balances fresh aromatic brightness with warm resinous and woody depth. This 100ml Eau de Parfum is ideal for men who enjoy bergamot, aromatic geranium, soft musks, balsamic resins and guaiac wood. It suits work, evenings, formal occasions, gifting and polished year-round fragrance styling. Buy Prada perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Mount Eden, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Calabrian bergamot heart and airy musks. Heart Notes: Bourbon geranium. Base Notes: Peru balsam, benzoin resin and guaiac wood. Scent Profile Prada Paradigme opens with Calabrian bergamot heart and airy musks before developing into an aromatic Bourbon geranium heart. Peru balsam, benzoin resin and guaiac wood create a warm, resinous and refined woody dry-down. Who Is It For? This Prada men’s perfume is ideal for customers who enjoy modern amber woody fragrances, bergamot, geranium, musks, balsamic resins and guaiac wood. It is a strong choice for customers wanting a contemporary Prada signature scent with fresh and warm contrasts. When to Wear Daytime: Work, meetings, travel and polished everyday fragrance styling. Evening: Dinners, date nights, celebrations and smart evening events. Season: Suitable year-round, especially autumn, winter and mild New Zealand weather. Occasion: A premium gifting choice for customers who enjoy modern aromatic and amber woody fragrances. Longevity & Sillage As an Eau de Parfum, Prada Paradigme is designed to provide a balanced amber woody scent impression with bergamot, geranium, musks, balsamic resins and guaiac wood. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Prada Paradigme Fragrances to Explore Prada Paradigme EDP 50ml — the compact 50ml size of the same bergamot, geranium and resinous woody fragrance. Prada L'Homme EDT 100ml — a clean iris-and-amber Eau de Toilette. Prada L'Homme Intense EDP 100ml — a richer iris, amber, patchouli and tonka bean fragrance. Prada Luna Rossa Ocean Le Parfum 100ml — a deep Luna Rossa Ocean fragrance with lemon, saffron and oakwood. Similar Designer Fragrances Dolce & Gabbana K Intense EDP 100ml — a modern woody amber perfume with saffron, fig and warm woods. Dolce & Gabbana Devotion Pour Homme EDP 100ml — a contemporary woody spicy fragrance with citrus, coffee and patchouli. Christian Dior Homme EDT 100ml — a polished woody fragrance with clean, refined character. Premium & Niche Alternatives Frédéric Malle Musc Ravageur EDP 50ml — a warm niche amber spicy perfume with musk, vanilla and sandalwood. Bond No. 9 New Haarlem EDP 100ml — a niche aromatic gourmand with lavender, coffee and warm amber tones. Christian Dior Homme Parfum 125ml — a premium iris amber woody fragrance with richer formal styling. Explore More Fragrances Browse more Prada perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Mount Eden, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Prada Fragrance: Paradigme Size: 100ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Amber Woody Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Prada Paradigme EDP 100ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying, as this can affect how the scent develops. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/prada-paradigme-edp-100ml-for-men",
-      "source_price": 247,
-      "source_count": 18,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/prada-paradigme-edp-100ml-for-men",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 247,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/PradaParadigmeEDP100mlforMen_22d6714c-ffd6-4df0-945b-33cfd564ede0.jpg?v=1781827781"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=4&_psq=fragrance&_psid=7ccc1632f&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=3&_psq=fragrance&_psid=fc4050720&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=9&_psq=fragrance&_psid=d3615fefa&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=5&_psq=fragrance&_psid=2de63c658&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=1c22bf5bc&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=32ebe2039&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=70de84995&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=bc3c2989e&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=b29e7eccb&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=2&_psq=edp&_psid=bb56c32f3&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=1&_psq=edp&_psid=77e55a01c&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=3&_psq=edp&_psid=b8d1b3761&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=10&_psq=fragrance&_psid=4f6e5318e&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=1&_psq=fragrance&_psid=1e8cbf874&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=1&_psq=fragrance&_psid=fb8d744bb&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradigme-edp-100ml?_pos=4&_psq=fragrance&_psid=113bdbf6b&_ss=e",
-          "brand": "Prada",
-          "name": "Prada Paradigme EDP 100ml",
-          "size": "100ml",
-          "price": 275,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
         }
       ]
     },
@@ -162716,6 +162800,45 @@
       ]
     },
     {
+      "brand": "Jean Paul Gaultier",
+      "name": "Divine Couture by Jean Paul Gaultier 50ml EDP",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 159.99,
+      "price_per_100ml": 319.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-divine-couture-50ml---b.png?v=1793324172",
+      "description": "Divine Couture by Jean Paul Gaultier 50ml Eau De Parfum Spray for Women In 2026, Gaultier Divine rises to new heights. A new chapter begins, cut from the very fabric of haute couture. Born from Gaultier’s imagination, the divinity asserts herself: no speeches, just style. This fragrance doesn’t suggest — it declares. It attracts, ignites, and leaves its mark. Gaultier Divine Couture is not just a perfume. It’s a piece of fashion worn on the skin, an act of empowerment. Designer: Jean Paul Gaultier Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: A bold raspberry takes center stage — vivid, playful, and anything but ordinary. It meets a light yet daring meringue, with a subtle and unexpected gourmand twist. As the scent settles, golden benzoin wraps the skin in a smooth, warm embrace. A fruity amber fragrance — sensual, lasting, and utterly divine in attitude. Its lacquered, intense pink bottle catches every eye. But it’s the conical, iconic corset that turns it into a true haute couture piece: a bold, refined weave shaping a perfectly tailored silhouette. At the top, a golden piercing seals the look — a final touch, unmistakably Gaultier. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/divine-couture-by-jean-paul-gaultier-50ml-edp",
+      "source_price": 159.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/divine-couture-by-jean-paul-gaultier-50ml-edp",
+          "brand": "Jean Paul Gaultier",
+          "name": "Divine Couture by Jean Paul Gaultier 50ml EDP",
+          "size": "50ml",
+          "price": 159.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-divine-couture-50ml---b.png?v=1793324172"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-divine-couture-edp-50ml",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Divine Couture EDP 50ml",
+          "size": "50ml",
+          "price": 203,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean_Paul_Gaultier_Divine_Couture_EDP_50ml.jpg?v=1781828221"
+        }
+      ]
+    },
+    {
       "brand": "Christian Dior",
       "name": "Dior Homme Parfum by Christian Dior 75ml Parfum",
       "size": "75ml",
@@ -167901,45 +168024,6 @@
           "price": 339,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/DiorJ_adoreIntenseParfum100ml.jpg?v=1781828155"
-        }
-      ]
-    },
-    {
-      "brand": "Jean Paul Gaultier",
-      "name": "Divine Couture by Jean Paul Gaultier 50ml EDP",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 169.99,
-      "price_per_100ml": 339.98,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-divine-couture-50ml.png?v=1785895601",
-      "description": "Divine Couture by Jean Paul Gaultier 50ml Eau De Parfum Spray for Women In 2026, Gaultier Divine rises to new heights. A new chapter begins, cut from the very fabric of haute couture. Born from Gaultier’s imagination, the divinity asserts herself: no speeches, just style. This fragrance doesn’t suggest — it declares. It attracts, ignites, and leaves its mark. Gaultier Divine Couture is not just a perfume. It’s a piece of fashion worn on the skin, an act of empowerment. Designer: Jean Paul Gaultier Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: A bold raspberry takes center stage — vivid, playful, and anything but ordinary. It meets a light yet daring meringue, with a subtle and unexpected gourmand twist. As the scent settles, golden benzoin wraps the skin in a smooth, warm embrace. A fruity amber fragrance — sensual, lasting, and utterly divine in attitude. Its lacquered, intense pink bottle catches every eye. But it’s the conical, iconic corset that turns it into a true haute couture piece: a bold, refined weave shaping a perfectly tailored silhouette. At the top, a golden piercing seals the look — a final touch, unmistakably Gaultier. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/divine-couture-by-jean-paul-gaultier-50ml-edp",
-      "source_price": 169.99,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/divine-couture-by-jean-paul-gaultier-50ml-edp",
-          "brand": "Jean Paul Gaultier",
-          "name": "Divine Couture by Jean Paul Gaultier 50ml EDP",
-          "size": "50ml",
-          "price": 169.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-divine-couture-50ml.png?v=1785895601"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-divine-couture-edp-50ml",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Divine Couture EDP 50ml",
-          "size": "50ml",
-          "price": 203,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean_Paul_Gaultier_Divine_Couture_EDP_50ml.jpg?v=1781828221"
         }
       ]
     },
