@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T10:31:26.997Z",
-  "count": 4510,
+  "generated_at": "2026-11-04T10:32:46.746Z",
+  "count": 4529,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -907,6 +907,34 @@
       ]
     },
     {
+      "brand": "CS Company NZ Auckland",
+      "name": "David Beckham Classic Body Spray 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 6.49,
+      "price_per_100ml": 4.33,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/80347/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/80347/david-beckham-classic-body-spray-150ml",
+      "source_price": 6.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/80347/david-beckham-classic-body-spray-150ml",
+          "brand": "CS Company NZ Auckland",
+          "name": "David Beckham Classic Body Spray 150ml",
+          "size": "150ml",
+          "price": 6.49,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/80347/2DF_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Chanel",
       "name": "Chanel No. 5 L'Eau EDT 100ml",
       "size": "5l",
@@ -1574,34 +1602,6 @@
           "price": 7.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/LYNXBodySprayDarkTemptation150mL.png?v=1687898419"
-        }
-      ]
-    },
-    {
-      "brand": "CS Company NZ Auckland",
-      "name": "David Beckham Classic Body Spray 150ml",
-      "size": "150ml",
-      "size_ml": 150,
-      "price": 7.99,
-      "price_per_100ml": 5.33,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/80347/2DF_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/80347/david-beckham-classic-body-spray-150ml",
-      "source_price": 7.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/80347/david-beckham-classic-body-spray-150ml",
-          "brand": "CS Company NZ Auckland",
-          "name": "David Beckham Classic Body Spray 150ml",
-          "size": "150ml",
-          "price": 7.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/80347/2DF_200.jpg"
         }
       ]
     },
@@ -2468,34 +2468,6 @@
       ]
     },
     {
-      "brand": "Hello Kitty",
-      "name": "Hello Kitty Grape Body Spray 75g",
-      "size": "75g",
-      "size_ml": null,
-      "price": 5.5,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwbb3daba0/images/hi-res/CA/ED/R1865310_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/hello-kitty-grape-body-spray-75g/R1865310.html",
-      "source_price": 5.5,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/hello-kitty-grape-body-spray-75g/R1865310.html",
-          "brand": "Hello Kitty",
-          "name": "Hello Kitty Grape Body Spray 75g",
-          "size": "75g",
-          "price": 5.5,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwbb3daba0/images/hi-res/CA/ED/R1865310_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
       "brand": "Revlon",
       "name": "CHARLIE Body Spray Black 75ml",
       "size": "75ml",
@@ -2776,6 +2748,34 @@
       ]
     },
     {
+      "brand": "Guess",
+      "name": "Guess Travel Stories Fiji Hair And Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 15.39,
+      "price_per_100ml": 6.16,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw665b8059/images/hi-res/0E/61/R3023029_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/guess-travel-stories-fiji-hair-and-body-mist-250ml/R3023029.html",
+      "source_price": 15.39,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/guess-travel-stories-fiji-hair-and-body-mist-250ml/R3023029.html",
+          "brand": "Guess",
+          "name": "Guess Travel Stories Fiji Hair And Body Mist 250ml",
+          "size": "250ml",
+          "price": 15.39,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw665b8059/images/hi-res/0E/61/R3023029_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Dear Body",
       "name": "Dear Body Fresh Pomegranate Fragrance Mist 88ml",
       "size": "88ml",
@@ -2867,6 +2867,34 @@
           "price": 14.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/100572/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Hello Kitty",
+      "name": "Hello Kitty Grape Body Spray 75g",
+      "size": "75g",
+      "size_ml": null,
+      "price": 6.49,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwbb3daba0/images/hi-res/CA/ED/R1865310_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/hello-kitty-grape-body-spray-75g/R1865310.html",
+      "source_price": 6.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/hello-kitty-grape-body-spray-75g/R1865310.html",
+          "brand": "Hello Kitty",
+          "name": "Hello Kitty Grape Body Spray 75g",
+          "size": "75g",
+          "price": 6.49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwbb3daba0/images/hi-res/CA/ED/R1865310_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -3659,6 +3687,315 @@
           "price": 16.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/172863/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Ariana Grande",
+      "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+      "size": "236ml",
+      "size_ml": 236,
+      "price": 16.99,
+      "price_per_100ml": 7.2,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/100573/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/100573/ariana-grande-sweet-like-candy-body-mist-236ml",
+      "source_price": 16.99,
+      "source_count": 24,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/100573/ariana-grande-sweet-like-candy-body-mist-236ml",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 16.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/100573/F2D_200.jpg"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=body+mist&_psid=d2f72e665&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=4&_psq=Ariana+Grande&_psid=ffc8a328d&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=4&_psq=Ariana+Grande&_psid=1e03738e7&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=2&_psq=body+mist&_psid=0821662f6&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=17fc6ed2a&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=2&_psq=body+mist&_psid=804ab0ae7&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=b39d182e9&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=29c224bb1&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=8&_psq=body+mist&_psid=60da60f7f&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=0b898e901&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=640baaaeb&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=cc07e3a19&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=51c13ad33&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=63ac1ee2f&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=3&_psq=Ariana+Grande&_psid=64411a527&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=8&_psq=body+mist&_psid=c6b38236f&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=a8d004a91&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=Ariana+Grande&_psid=6b0860914&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=Ariana+Grande&_psid=0dc240e8d&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=Ariana+Grande&_psid=ea7bcb7c1&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=body+mist&_psid=935d5f83e&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
+          "size": "236ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
+        }
+      ]
+    },
+    {
+      "brand": "Escentials Brands",
+      "name": "Ariana Grande Thank U Next Body Mist 236ml",
+      "size": "236ml",
+      "size_ml": 236,
+      "price": 16.99,
+      "price_per_100ml": 7.2,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/112674/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/112674/ariana-grande-thank-u-next-body-mist-236ml",
+      "source_price": 16.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/112674/ariana-grande-thank-u-next-body-mist-236ml",
+          "brand": "Escentials Brands",
+          "name": "Ariana Grande Thank U Next Body Mist 236ml",
+          "size": "236ml",
+          "price": 16.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/112674/F2D_200.jpg"
         }
       ]
     },
@@ -5863,34 +6200,6 @@
       ]
     },
     {
-      "brand": "Guess",
-      "name": "Guess Travel Stories Fiji Hair And Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 21.99,
-      "price_per_100ml": 8.8,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw665b8059/images/hi-res/0E/61/R3023029_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/guess-travel-stories-fiji-hair-and-body-mist-250ml/R3023029.html",
-      "source_price": 21.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/guess-travel-stories-fiji-hair-and-body-mist-250ml/R3023029.html",
-          "brand": "Guess",
-          "name": "Guess Travel Stories Fiji Hair And Body Mist 250ml",
-          "size": "250ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw665b8059/images/hi-res/0E/61/R3023029_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
       "brand": "Daise",
       "name": "Daise Body Mist Sunny 100ml",
       "size": "100ml",
@@ -6629,6 +6938,34 @@
       ]
     },
     {
+      "brand": "VV Love",
+      "name": "VV Love Shining Rock EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 9.99,
+      "price_per_100ml": 9.99,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw78fe4673/images/hi-res/0F/90/R3054369_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-shining-rock-edt-100ml/R3054369.html",
+      "source_price": 9.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-shining-rock-edt-100ml/R3054369.html",
+          "brand": "VV Love",
+          "name": "VV Love Shining Rock EDT 100ml",
+          "size": "100ml",
+          "price": 9.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw78fe4673/images/hi-res/0F/90/R3054369_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Daise",
       "name": "Daise Body Mist Oh So 100ml",
       "size": "100ml",
@@ -7020,276 +7357,6 @@
           "price": 9.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/138609/F2D_200.jpg"
-        }
-      ]
-    },
-    {
-      "brand": "Ariana Grande",
-      "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-      "size": "236ml",
-      "size_ml": 236,
-      "price": 24.99,
-      "price_per_100ml": 10.59,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973",
-      "description": "Ariana Grande Sweet Like Candy Body Mist is an irresistible floral fragrance featuring delicious gourmand notes of marshmallow and vanilla. A sweet, powdery, fun fragrance for the young at heart. Middle Notes: Honeysuckle, Plumeria, Jasmine. Base Notes: Cashmere Accord, Vanilla, Marshmallow.",
-      "source_name": "unichem-shopify-suggest",
-      "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml",
-      "source_price": 24.99,
-      "source_count": 23,
-      "sources": [
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=body+mist&_psid=d2f72e665&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=4&_psq=Ariana+Grande&_psid=ffc8a328d&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=4&_psq=Ariana+Grande&_psid=1e03738e7&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=2&_psq=body+mist&_psid=0821662f6&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=17fc6ed2a&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=2&_psq=body+mist&_psid=804ab0ae7&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=Ariana+Grande&_psid=889e93e2c&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=b39d182e9&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=29c224bb1&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=8&_psq=body+mist&_psid=60da60f7f&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=0b898e901&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=640baaaeb&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=cc07e3a19&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=51c13ad33&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=63ac1ee2f&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=3&_psq=Ariana+Grande&_psid=64411a527&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=8&_psq=body+mist&_psid=c6b38236f&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20024737-0.jpg?v=1773028973"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=5&_psq=Ariana+Grande&_psid=a8d004a91&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=Ariana+Grande&_psid=6b0860914&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=Ariana+Grande&_psid=0dc240e8d&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=Ariana+Grande&_psid=ea7bcb7c1&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/ariana-grande-sweet-like-candy-body-mist-236ml?_pos=6&_psq=body+mist&_psid=935d5f83e&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande Sweet Like Candy Body Mist 236ml",
-          "size": "236ml",
-          "price": 24.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20024737-0.jpg?v=1737425393"
         }
       ]
     },
@@ -8041,7 +8108,7 @@
       "price": 29.99,
       "price_per_100ml": 12,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw15b8fc75/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
       "source_url": "https://www.thewarehouse.co.nz/p/victorias-secret-velvet-petal-body-mist-250ml/R2559464.html",
@@ -8057,7 +8124,7 @@
           "size": "250ml",
           "price": 29.99,
           "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8922c41c/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292"
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw15b8fc75/images/hi-res/5D/6C/R2559464_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -9699,34 +9766,6 @@
           "price": 10.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw9d5e712a/images/hi-res/84/FA/R3032454_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist South of the Sahara 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 10.99,
-      "price_per_100ml": 12.21,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwff833e4c/images/hi-res/0C/F8/R3032452_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-south-of-the-sahara-90ml/R3032452.html",
-      "source_price": 10.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-south-of-the-sahara-90ml/R3032452.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist South of the Sahara 90ml",
-          "size": "90ml",
-          "price": 10.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwff833e4c/images/hi-res/0C/F8/R3032452_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -11536,34 +11575,6 @@
           "price": 32.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20038024-0.jpg?v=1769484692"
-        }
-      ]
-    },
-    {
-      "brand": "Designer Brands",
-      "name": "Designer Brands Fragrance Vanille Intense Eau de Parfum 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 13.29,
-      "price_per_100ml": 13.29,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwaaa8c981/images/hi-res/2B/E4/R3026573_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/designer-brands-fragrance-vanille-intense-eau-de-parfum-100ml/R3026573.html",
-      "source_price": 13.29,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/designer-brands-fragrance-vanille-intense-eau-de-parfum-100ml/R3026573.html",
-          "brand": "Designer Brands",
-          "name": "Designer Brands Fragrance Vanille Intense Eau de Parfum 100ml",
-          "size": "100ml",
-          "price": 13.29,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwaaa8c981/images/hi-res/2B/E4/R3026573_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -15668,6 +15679,34 @@
     },
     {
       "brand": "Designer Brands",
+      "name": "Designer Brands Fragrance Vanille Intense Eau de Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 18.99,
+      "price_per_100ml": 18.99,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwaaa8c981/images/hi-res/2B/E4/R3026573_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/designer-brands-fragrance-vanille-intense-eau-de-parfum-100ml/R3026573.html",
+      "source_price": 18.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/designer-brands-fragrance-vanille-intense-eau-de-parfum-100ml/R3026573.html",
+          "brand": "Designer Brands",
+          "name": "Designer Brands Fragrance Vanille Intense Eau de Parfum 100ml",
+          "size": "100ml",
+          "price": 18.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwaaa8c981/images/hi-res/2B/E4/R3026573_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Designer Brands",
       "name": "DB Cherry Ripe Special Edition EDP 100ml",
       "size": "100ml",
       "size_ml": 100,
@@ -17735,34 +17774,6 @@
       ]
     },
     {
-      "brand": "Elizabeth Arden",
-      "name": "Elizabeth Arden 5th Avenue Eau De Parfum 125ml",
-      "size": "125ml",
-      "size_ml": 125,
-      "price": 29.99,
-      "price_per_100ml": 23.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/48464/3DF_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/48464/elizabeth-arden-5th-avenue-eau-de-parfum-125ml",
-      "source_price": 29.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/48464/elizabeth-arden-5th-avenue-eau-de-parfum-125ml",
-          "brand": "Elizabeth Arden",
-          "name": "Elizabeth Arden 5th Avenue Eau De Parfum 125ml",
-          "size": "125ml",
-          "price": 29.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/48464/3DF_200.jpg"
-        }
-      ]
-    },
-    {
       "brand": "Ted Baker",
       "name": "Ted Baker WOMAN EDT SPRAY 100ml",
       "size": "100ml",
@@ -17787,6 +17798,34 @@
           "price": 24,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_9_27797db9-0e7b-40e4-aa29-15d523350bfb.jpg?v=1683858586"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist South of the Sahara 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 21.99,
+      "price_per_100ml": 24.43,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw43a7a2e4/images/hi-res/0C/F8/R3032452_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-south-of-the-sahara-90ml/R3032452.html",
+      "source_price": 21.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-south-of-the-sahara-90ml/R3032452.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist South of the Sahara 90ml",
+          "size": "90ml",
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw43a7a2e4/images/hi-res/0C/F8/R3032452_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -19573,6 +19612,34 @@
           "price": 24.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/9920304775198.jpg?v=1759461741"
+        }
+      ]
+    },
+    {
+      "brand": "Elizabeth Arden",
+      "name": "Elizabeth Arden 5th Avenue Eau De Parfum 125ml",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 34.99,
+      "price_per_100ml": 27.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/48464/3DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/48464/elizabeth-arden-5th-avenue-eau-de-parfum-125ml",
+      "source_price": 34.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/48464/elizabeth-arden-5th-avenue-eau-de-parfum-125ml",
+          "brand": "Elizabeth Arden",
+          "name": "Elizabeth Arden 5th Avenue Eau De Parfum 125ml",
+          "size": "125ml",
+          "price": 34.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/48464/3DF_200.jpg"
         }
       ]
     },
@@ -22045,6 +22112,34 @@
       ]
     },
     {
+      "brand": "Viktor & Rolf",
+      "name": "Viktor & Rolf Flowerbomb EDP 3 Piece Giftset",
+      "size": null,
+      "size_ml": null,
+      "price": 34,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwbd3ec9ac/images/hi-res/A5/6C/R3071012_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/viktor-rolf-flowerbomb-edp-3-piece-giftset/R3071012.html",
+      "source_price": 34,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/viktor-rolf-flowerbomb-edp-3-piece-giftset/R3071012.html",
+          "brand": "Viktor & Rolf",
+          "name": "Viktor & Rolf Flowerbomb EDP 3 Piece Giftset",
+          "size": null,
+          "price": 34,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwbd3ec9ac/images/hi-res/A5/6C/R3071012_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "CS Company NZ Auckland",
       "name": "Davidoff Cool Water For Men Eau De Toilette 125ml",
       "size": "125ml",
@@ -22962,6 +23057,34 @@
           "price": 34.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/50634/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Britney Spears",
+      "name": "Britney Spears Fantasy Intense Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 34.99,
+      "price_per_100ml": 34.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/107411/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/107411/britney-spears-fantasy-intense-eau-de-parfum-100ml",
+      "source_price": 34.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/107411/britney-spears-fantasy-intense-eau-de-parfum-100ml",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Fantasy Intense Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 34.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/107411/F2D_200.jpg"
         }
       ]
     },
@@ -27066,6 +27189,34 @@
       ]
     },
     {
+      "brand": "Elizabeth",
+      "name": "Elizabeth Taylor White Diamonds Eau De Toilette 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 39.99,
+      "price_per_100ml": 39.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/49754/3DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/49754/elizabeth-taylor-white-diamonds-eau-de-toilette-100ml",
+      "source_price": 39.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/49754/elizabeth-taylor-white-diamonds-eau-de-toilette-100ml",
+          "brand": "Elizabeth",
+          "name": "Elizabeth Taylor White Diamonds Eau De Toilette 100ml",
+          "size": "100ml",
+          "price": 39.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/49754/3DF_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Cacharel",
       "name": "Cacharel Eau De Toilette Spray 100ml",
       "size": "100ml",
@@ -28454,6 +28605,62 @@
           "price": 32.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/beckham-true-instinct.png?v=1737766177"
+        }
+      ]
+    },
+    {
+      "brand": "LOreal Luxe New Zealand Auckland",
+      "name": "Ralph Lauren Polo Sport Fresh Eau De Toilette 125ml",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 54.99,
+      "price_per_100ml": 43.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/111109/2DB_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/111109/ralph-lauren-polo-sport-fresh-eau-de-toilette-125ml",
+      "source_price": 54.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/111109/ralph-lauren-polo-sport-fresh-eau-de-toilette-125ml",
+          "brand": "LOreal Luxe New Zealand Auckland",
+          "name": "Ralph Lauren Polo Sport Fresh Eau De Toilette 125ml",
+          "size": "125ml",
+          "price": 54.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/111109/2DB_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Joop!",
+      "name": "Joop! Homme Le Parfum 125ml",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 54.99,
+      "price_per_100ml": 43.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/115680/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/115680/joop!-homme-le-parfum-125ml",
+      "source_price": 54.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/115680/joop!-homme-le-parfum-125ml",
+          "brand": "Joop!",
+          "name": "Joop! Homme Le Parfum 125ml",
+          "size": "125ml",
+          "price": 54.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/115680/2DF_200.jpg"
         }
       ]
     },
@@ -30560,34 +30767,6 @@
       ]
     },
     {
-      "brand": "LOreal Luxe New Zealand Auckland",
-      "name": "Ralph Lauren Polo Sport Fresh Eau De Toilette 125ml",
-      "size": "125ml",
-      "size_ml": 125,
-      "price": 59.99,
-      "price_per_100ml": 47.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/111109/2DB_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/111109/ralph-lauren-polo-sport-fresh-eau-de-toilette-125ml",
-      "source_price": 59.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/111109/ralph-lauren-polo-sport-fresh-eau-de-toilette-125ml",
-          "brand": "LOreal Luxe New Zealand Auckland",
-          "name": "Ralph Lauren Polo Sport Fresh Eau De Toilette 125ml",
-          "size": "125ml",
-          "price": 59.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/111109/2DB_200.jpg"
-        }
-      ]
-    },
-    {
       "brand": "Al Wataniah",
       "name": "Attar Al Wesal by Al Wataniah 100ml EDP",
       "size": "100ml",
@@ -31569,34 +31748,6 @@
       ]
     },
     {
-      "brand": "Viktor & Rolf",
-      "name": "Viktor & Rolf Flowerbomb EDP 3 Piece Giftset",
-      "size": null,
-      "size_ml": null,
-      "price": 49,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwbd3ec9ac/images/hi-res/A5/6C/R3071012_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/viktor-rolf-flowerbomb-edp-3-piece-giftset/R3071012.html",
-      "source_price": 49,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/viktor-rolf-flowerbomb-edp-3-piece-giftset/R3071012.html",
-          "brand": "Viktor & Rolf",
-          "name": "Viktor & Rolf Flowerbomb EDP 3 Piece Giftset",
-          "size": null,
-          "price": 49,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwbd3ec9ac/images/hi-res/A5/6C/R3071012_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
       "brand": "Katy Perry",
       "name": "Katy Perry Perry Killer Queen EDP 100ml",
       "size": "100ml",
@@ -31710,34 +31861,6 @@
           "price": 49.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/al-wataniah-special-oud---2.png?v=1789012512"
-        }
-      ]
-    },
-    {
-      "brand": "Britney Spears",
-      "name": "Britney Spears Fantasy Intense Eau De Parfum 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 49.99,
-      "price_per_100ml": 49.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/107411/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/107411/britney-spears-fantasy-intense-eau-de-parfum-100ml",
-      "source_price": 49.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/107411/britney-spears-fantasy-intense-eau-de-parfum-100ml",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Fantasy Intense Eau De Parfum 100ml",
-          "size": "100ml",
-          "price": 49.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/107411/F2D_200.jpg"
         }
       ]
     },
@@ -32822,6 +32945,34 @@
           "price": 49.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/171714/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Davidoff",
+      "name": "Davidoff Cool Water Reborn For Men Eau De Parfum Intense 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 49.99,
+      "price_per_100ml": 49.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/143674/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/143674/davidoff-cool-water-reborn-for-men-eau-de-parfum-intense-100ml",
+      "source_price": 49.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/143674/davidoff-cool-water-reborn-for-men-eau-de-parfum-intense-100ml",
+          "brand": "Davidoff",
+          "name": "Davidoff Cool Water Reborn For Men Eau De Parfum Intense 100ml",
+          "size": "100ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/143674/F2D_200.jpg"
         }
       ]
     },
@@ -35283,6 +35434,73 @@
           "price": 109.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/82401/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Lattafa",
+      "name": "Lattafa Eclaire Pistachio Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 54.99,
+      "price_per_100ml": 54.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/162915/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/162915/lattafa-eclaire-pistachio-eau-de-parfum-100ml",
+      "source_price": 54.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/162915/lattafa-eclaire-pistachio-eau-de-parfum-100ml",
+          "brand": "Lattafa",
+          "name": "Lattafa Eclaire Pistachio Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 54.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/162915/F2D_200.jpg"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/lattafa-eclaire-pistache-edp-100ml-unisex",
+          "brand": "Lattafa",
+          "name": "Lattafa Eclaire Pistache EDP 100ml",
+          "size": "100ml",
+          "price": 75,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/LattafaEclairePistacheEDP100mlUnisex.jpg?v=1781827845"
+        }
+      ]
+    },
+    {
+      "brand": "Guess",
+      "name": "Guess Seductive Man Eau De Toilette 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 54.99,
+      "price_per_100ml": 54.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/69601/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/69601/guess-seductive-man-eau-de-toilette-100ml",
+      "source_price": 54.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/69601/guess-seductive-man-eau-de-toilette-100ml",
+          "brand": "Guess",
+          "name": "Guess Seductive Man Eau De Toilette 100ml",
+          "size": "100ml",
+          "price": 54.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/69601/F2D_200.jpg"
         }
       ]
     },
@@ -38138,45 +38356,6 @@
       ]
     },
     {
-      "brand": "Lattafa",
-      "name": "Lattafa Eclaire Pistachio Eau De Parfum 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 59.99,
-      "price_per_100ml": 59.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/162915/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/162915/lattafa-eclaire-pistachio-eau-de-parfum-100ml",
-      "source_price": 59.99,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/162915/lattafa-eclaire-pistachio-eau-de-parfum-100ml",
-          "brand": "Lattafa",
-          "name": "Lattafa Eclaire Pistachio Eau De Parfum 100ml",
-          "size": "100ml",
-          "price": 59.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/162915/F2D_200.jpg"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/lattafa-eclaire-pistache-edp-100ml-unisex",
-          "brand": "Lattafa",
-          "name": "Lattafa Eclaire Pistache EDP 100ml",
-          "size": "100ml",
-          "price": 85,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/LattafaEclairePistacheEDP100mlUnisex.jpg?v=1781827845"
-        }
-      ]
-    },
-    {
       "brand": "Oscar De La Renta",
       "name": "OSCAR MEN EDT Spray 100ml",
       "size": "100ml",
@@ -40036,6 +40215,34 @@
           "price": 119.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/67386/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Juicy Couture",
+      "name": "Juicy Couture I Love Juicy Couture Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 59.99,
+      "price_per_100ml": 59.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85148/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/85148/juicy-couture-i-love-juicy-couture-eau-de-parfum-100ml",
+      "source_price": 59.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/85148/juicy-couture-i-love-juicy-couture-eau-de-parfum-100ml",
+          "brand": "Juicy Couture",
+          "name": "Juicy Couture I Love Juicy Couture Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 59.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85148/F2D_200.jpg"
         }
       ]
     },
@@ -46275,6 +46482,34 @@
           "price": 49.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/164721/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Lattafa",
+      "name": "Lattafa Give Me Gourmand Cookie Crave Eau De Parfum 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 49.99,
+      "price_per_100ml": 66.65,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/164717/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/164717/lattafa-give-me-gourmand-cookie-crave-eau-de-parfum-75ml",
+      "source_price": 49.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/164717/lattafa-give-me-gourmand-cookie-crave-eau-de-parfum-75ml",
+          "brand": "Lattafa",
+          "name": "Lattafa Give Me Gourmand Cookie Crave Eau De Parfum 75ml",
+          "size": "75ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/164717/F2D_200.jpg"
         }
       ]
     },
@@ -63627,6 +63862,34 @@
       ]
     },
     {
+      "brand": "Hugo Boss",
+      "name": "Hugo Boss Bottled Night Eau De Toilette 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 79.99,
+      "price_per_100ml": 79.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/63982/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/63982/hugo-boss-bottled-night-eau-de-toilette-100ml",
+      "source_price": 79.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/63982/hugo-boss-bottled-night-eau-de-toilette-100ml",
+          "brand": "Hugo Boss",
+          "name": "Hugo Boss Bottled Night Eau De Toilette 100ml",
+          "size": "100ml",
+          "price": 79.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/63982/2DF_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Delta Goodrem",
       "name": "Dream by Delta Goodrem EDP 30ml",
       "size": "30ml",
@@ -70185,34 +70448,6 @@
           "price": 89.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-too-damn-good---2.png?v=1784513965"
-        }
-      ]
-    },
-    {
-      "brand": "CS Company NZ Auckland",
-      "name": "Marc Jacobs Daisy Eau De Toilette 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 89.99,
-      "price_per_100ml": 89.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57912/2DF_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/57912/marc-jacobs-daisy-eau-de-toilette-100ml",
-      "source_price": 89.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/57912/marc-jacobs-daisy-eau-de-toilette-100ml",
-          "brand": "CS Company NZ Auckland",
-          "name": "Marc Jacobs Daisy Eau De Toilette 100ml",
-          "size": "100ml",
-          "price": 89.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57912/2DF_200.jpg"
         }
       ]
     },
@@ -78909,6 +79144,73 @@
       ]
     },
     {
+      "brand": "Jimmy Choo",
+      "name": "Jimmy Choo Blossom Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 99.99,
+      "price_per_100ml": 99.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/75115/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/75115/jimmy-choo-blossom-eau-de-parfum-100ml",
+      "source_price": 99.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/75115/jimmy-choo-blossom-eau-de-parfum-100ml",
+          "brand": "Jimmy Choo",
+          "name": "Jimmy Choo Blossom Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 99.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/75115/F2D_200.jpg"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/jimmy-choo-blossom-edp-100ml-for-women",
+          "brand": "Jimmy Choo",
+          "name": "Jimmy Choo Blossom EDP 100ml",
+          "size": "100ml",
+          "price": 105,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/jimmy-choo-blossom-edp-100ml-for-women-741676.jpg?v=1781826381"
+        }
+      ]
+    },
+    {
+      "brand": "Carolina Herrera",
+      "name": "Carolina Herrera Bad Boy Eau De Toilette 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 149.99,
+      "price_per_100ml": 99.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/109776/3DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/109776/carolina-herrera-bad-boy-eau-de-toilette-150ml",
+      "source_price": 149.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/109776/carolina-herrera-bad-boy-eau-de-toilette-150ml",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera Bad Boy Eau De Toilette 150ml",
+          "size": "150ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/109776/3DF_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Victoria's Secret",
       "name": "Victoria’s Secret Love Is Heavenly EDP Spray 50ml",
       "size": "50ml",
@@ -79267,6 +79569,34 @@
           "price": 7.34,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/15942699712542.jpg?v=1779375169"
+        }
+      ]
+    },
+    {
+      "brand": "CS Company NZ Auckland",
+      "name": "Marc Jacobs Daisy Eau De Toilette 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 104.99,
+      "price_per_100ml": 104.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57912/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/57912/marc-jacobs-daisy-eau-de-toilette-100ml",
+      "source_price": 104.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/57912/marc-jacobs-daisy-eau-de-toilette-100ml",
+          "brand": "CS Company NZ Auckland",
+          "name": "Marc Jacobs Daisy Eau De Toilette 100ml",
+          "size": "100ml",
+          "price": 104.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57912/2DF_200.jpg"
         }
       ]
     },
@@ -85277,6 +85607,34 @@
       ]
     },
     {
+      "brand": "Tommy Hilfiger",
+      "name": "Tommy Hilfiger Tommy Girl Eau De Toilette 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 34.99,
+      "price_per_100ml": 116.63,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57455/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/57455/tommy-hilfiger-tommy-girl-eau-de-toilette-30ml",
+      "source_price": 34.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/57455/tommy-hilfiger-tommy-girl-eau-de-toilette-30ml",
+          "brand": "Tommy Hilfiger",
+          "name": "Tommy Hilfiger Tommy Girl Eau De Toilette 30ml",
+          "size": "30ml",
+          "price": 34.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57455/F2D_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Mont Blanc",
       "name": "Mont Blanc Explorer Platinum EDP 60ml",
       "size": "60ml",
@@ -88625,6 +88983,34 @@
       ]
     },
     {
+      "brand": "Narciso",
+      "name": "Narciso Rodriguez All Of Me Eau De Parfum 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 109.99,
+      "price_per_100ml": 122.21,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/132024/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/132024/narciso-rodriguez-all-of-me-eau-de-parfum-90ml",
+      "source_price": 109.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/132024/narciso-rodriguez-all-of-me-eau-de-parfum-90ml",
+          "brand": "Narciso",
+          "name": "Narciso Rodriguez All Of Me Eau De Parfum 90ml",
+          "size": "90ml",
+          "price": 109.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/132024/F2D_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Paco Rabanne",
       "name": "Ultraviolet by Paco Rabanne 80ml EDP",
       "size": "80ml",
@@ -89921,34 +90307,6 @@
           "price": 69.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-atlas.png?v=1711488466"
-        }
-      ]
-    },
-    {
-      "brand": "LOreal Luxe New Zealand Auckland",
-      "name": "Yves Saint Laurent Opium For Women Eau De Toilette 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 114.99,
-      "price_per_100ml": 127.77,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/62322/2DF_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/62322/yves-saint-laurent-opium-for-women-eau-de-toilette-90ml",
-      "source_price": 114.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/62322/yves-saint-laurent-opium-for-women-eau-de-toilette-90ml",
-          "brand": "LOreal Luxe New Zealand Auckland",
-          "name": "Yves Saint Laurent Opium For Women Eau De Toilette 90ml",
-          "size": "90ml",
-          "price": 114.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/62322/2DF_200.jpg"
         }
       ]
     },
@@ -92161,34 +92519,6 @@
       ]
     },
     {
-      "brand": "Tommy Hilfiger",
-      "name": "Tommy Hilfiger Tommy Girl Eau De Toilette 30ml",
-      "size": "30ml",
-      "size_ml": 30,
-      "price": 39.99,
-      "price_per_100ml": 133.3,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57455/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/57455/tommy-hilfiger-tommy-girl-eau-de-toilette-30ml",
-      "source_price": 39.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/57455/tommy-hilfiger-tommy-girl-eau-de-toilette-30ml",
-          "brand": "Tommy Hilfiger",
-          "name": "Tommy Hilfiger Tommy Girl Eau De Toilette 30ml",
-          "size": "30ml",
-          "price": 39.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57455/F2D_200.jpg"
-        }
-      ]
-    },
-    {
       "brand": "Juicy Couture",
       "name": "Juicy Couture Viva La Juicy Rose EDP 30ml for Women",
       "size": "30ml",
@@ -93045,6 +93375,34 @@
           "price": 99.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/156653/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Kenzo",
+      "name": "Kenzo Flower Ikebana Eau De Parfum 75ml 3 Piece Set",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 99.99,
+      "price_per_100ml": 133.32,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157326/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/157326/kenzo-flower-ikebana-eau-de-parfum-75ml-3-piece-set",
+      "source_price": 99.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/157326/kenzo-flower-ikebana-eau-de-parfum-75ml-3-piece-set",
+          "brand": "Kenzo",
+          "name": "Kenzo Flower Ikebana Eau De Parfum 75ml 3 Piece Set",
+          "size": "75ml",
+          "price": 99.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157326/F2D_200.jpg"
         }
       ]
     },
@@ -104871,6 +105229,45 @@
       ]
     },
     {
+      "brand": "Kenzo",
+      "name": "Kenzo Flower Eau De Parfum 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 79.99,
+      "price_per_100ml": 159.98,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/117584/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/117584/kenzo-flower-eau-de-toilette-50ml",
+      "source_price": 79.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/117584/kenzo-flower-eau-de-toilette-50ml",
+          "brand": "Kenzo",
+          "name": "Kenzo Flower Eau De Toilette 50ml",
+          "size": "50ml",
+          "price": 79.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/117584/F2D_200.jpg"
+        },
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/85719/kenzo-flower-eau-de-parfum-50ml",
+          "brand": "Kenzo",
+          "name": "Kenzo Flower Eau De Parfum 50ml",
+          "size": "50ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85719/F2D_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Giorgio Armani",
       "name": "Giorgio Armani Acqua Di Gio For Men Eau De Toilette 100ml",
       "size": "100ml",
@@ -104923,34 +105320,6 @@
           "price": 159.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/Screenshot2026-05-04200204.jpg?v=1777881818"
-        }
-      ]
-    },
-    {
-      "brand": "Kenzo",
-      "name": "Kenzo Flower Ikebana Eau De Parfum 75ml 3 Piece Set",
-      "size": "75ml",
-      "size_ml": 75,
-      "price": 119.99,
-      "price_per_100ml": 159.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157326/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/157326/kenzo-flower-ikebana-eau-de-parfum-75ml-3-piece-set",
-      "source_price": 119.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/157326/kenzo-flower-ikebana-eau-de-parfum-75ml-3-piece-set",
-          "brand": "Kenzo",
-          "name": "Kenzo Flower Ikebana Eau De Parfum 75ml 3 Piece Set",
-          "size": "75ml",
-          "price": 119.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157326/F2D_200.jpg"
         }
       ]
     },
@@ -105324,6 +105693,34 @@
           "price": 199.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157718/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Dolce & Gabbana",
+      "name": "Dolce & Gabbana For Women The One Eau De Parfum 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 119.99,
+      "price_per_100ml": 159.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57663/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/57663/dolce-gabbana-for-women-the-one-eau-de-parfum-75ml",
+      "source_price": 119.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/57663/dolce-gabbana-for-women-the-one-eau-de-parfum-75ml",
+          "brand": "Dolce & Gabbana",
+          "name": "Dolce & Gabbana For Women The One Eau De Parfum 75ml",
+          "size": "75ml",
+          "price": 119.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57663/F2D_200.jpg"
         }
       ]
     },
@@ -108627,6 +109024,34 @@
           "price": 149.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/66497/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Roberto Cavalli",
+      "name": "Roberto Cavalli Verde Assoluto EDP 75ml Giftset 3pcs",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 125,
+      "price_per_100ml": 166.67,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045908-0.jpg?v=1793770028",
+      "description": "This season, the jungle is yours. This luxurious set—featuring a 75ML Eau de Parfum, 15ML purse spray, and 100ML body lotion—reveals a lush blend of radiant citrus and creamy white florals, softened by warm woods and a touch of praline. Sensual yet effortless, it lingers on the skin like a soft glow under holiday lights. Olfactive Family: Woody Vanilla Floral TOP Notes: Bergamot, Pink Pepper, Mandarin MID Notes: Honeysuckle, Tuberose, Gardenia DRY DOWN Notes: Cedarwood, Amberwoods, Sandalwood, Praline",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/roberto-cavalli-verde-assoluto-edp-75ml-giftset-3pcs",
+      "source_price": 125,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/roberto-cavalli-verde-assoluto-edp-75ml-giftset-3pcs",
+          "brand": "Roberto Cavalli",
+          "name": "Roberto Cavalli Verde Assoluto EDP 75ml Giftset 3pcs",
+          "size": "75ml",
+          "price": 125,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045908-0.jpg?v=1793770028"
         }
       ]
     },
@@ -112559,6 +112984,34 @@
           "price": 177,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039323-0_f92a0a89-06ce-4339-b160-55be17fc242e.jpg?v=1787002548"
+        }
+      ]
+    },
+    {
+      "brand": "LOreal Luxe New Zealand Auckland",
+      "name": "Yves Saint Laurent Opium For Women Eau De Toilette 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 159.99,
+      "price_per_100ml": 177.77,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/62322/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/62322/yves-saint-laurent-opium-for-women-eau-de-toilette-90ml",
+      "source_price": 159.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/62322/yves-saint-laurent-opium-for-women-eau-de-toilette-90ml",
+          "brand": "LOreal Luxe New Zealand Auckland",
+          "name": "Yves Saint Laurent Opium For Women Eau De Toilette 90ml",
+          "size": "90ml",
+          "price": 159.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/62322/2DF_200.jpg"
         }
       ]
     },
@@ -120325,6 +120778,34 @@
       ]
     },
     {
+      "brand": "Roberto Cavalli",
+      "name": "Roberto Cavalli Serpentine Noir Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 189,
+      "price_per_100ml": 189,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045904-0.jpg?v=1793742316",
+      "description": "A Woody Leather Ambery fragrance capturing the irresistible power of temptation, blending fiery spices, sensual woods, and dark leathery notes into a hypnotic and intensely magnetic trail. This Parfum opens with the radiant sparkle of Pink Pepper, refreshing Bergamot zest, and luscious spiced Cardamom that ignites the fragrance with an addictive warmth, while rich Leather unveils a daring strength. Wrapped in the glow of Saffron and deep Woods, the scent leaves behind a powerful and unforgettable trail - an intoxicating statement of confidence, intensity, and fearless femininity. Bold, captivating, and irresistibly sensual. Olfactive Family: Woody Leather Ambery TOP: Cardamom, Raspberry, Apple MID: Saffron, Violet, Patchouli DRY: Leather, Oud, Amber",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/roberto-cavalli-serpentine-noir-parfum-100ml",
+      "source_price": 189,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/roberto-cavalli-serpentine-noir-parfum-100ml",
+          "brand": "Roberto Cavalli",
+          "name": "Roberto Cavalli Serpentine Noir Parfum 100ml",
+          "size": "100ml",
+          "price": 189,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045904-0.jpg?v=1793742316"
+        }
+      ]
+    },
+    {
       "brand": "Ralph Lauren",
       "name": "Polo Blue EDP 125ml",
       "size": "125ml",
@@ -121690,6 +122171,45 @@
           "price": 189.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/106437/2DF_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Burberry",
+      "name": "Burberry Her Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 189.99,
+      "price_per_100ml": 189.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/92194/2DF_200.jpg",
+      "description": "Burberry Her Parfum 100ml is a fragrance in the Burberry Her collection presented in a parfum concentration. It features a scent composition with cherry at the top, followed by amber notes, and a vanilla base.",
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/92194/burberry-her-eau-de-parfum-100ml",
+      "source_price": 189.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/92194/burberry-her-eau-de-parfum-100ml",
+          "brand": "Burberry",
+          "name": "Burberry Her Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 189.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/92194/2DF_200.jpg"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-parfum-100ml",
+          "brand": "Burberry",
+          "name": "Burberry Her Parfum 100ml",
+          "size": "100ml",
+          "price": 310,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040959-0.jpg?v=1773878420"
         }
       ]
     },
@@ -128763,34 +129283,6 @@
       ]
     },
     {
-      "brand": "Gucci",
-      "name": "Gucci Gorgeous Gardenia Eau De Parfum 100ml + 10ml Set",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 199.99,
-      "price_per_100ml": 199.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157723/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/157723/gucci-gorgeous-gardenia-eau-de-parfum-100ml-10ml-set",
-      "source_price": 199.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/157723/gucci-gorgeous-gardenia-eau-de-parfum-100ml-10ml-set",
-          "brand": "Gucci",
-          "name": "Gucci Gorgeous Gardenia Eau De Parfum 100ml + 10ml Set",
-          "size": "100ml",
-          "price": 199.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157723/F2D_200.jpg"
-        }
-      ]
-    },
-    {
       "brand": "Jean Paul Gaultier",
       "name": "Jean Paul Gaultier La Belle EDP 100ml 2pc Set",
       "size": "100ml",
@@ -129270,6 +129762,34 @@
           "price": 227,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20035233-0.jpg?v=1770248075"
+        }
+      ]
+    },
+    {
+      "brand": "Jean",
+      "name": "Jean Paul Gaultier Le Male Elixir Parfum 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 149.99,
+      "price_per_100ml": 199.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157717/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/157717/jean-paul-gaultier-le-male-elixir-parfum-75ml",
+      "source_price": 149.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/157717/jean-paul-gaultier-le-male-elixir-parfum-75ml",
+          "brand": "Jean",
+          "name": "Jean Paul Gaultier Le Male Elixir Parfum 75ml",
+          "size": "75ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157717/F2D_200.jpg"
         }
       ]
     },
@@ -130154,7 +130674,7 @@
       "price_per_100ml": 203,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036687-0.png?v=1769484716",
-      "description": "Le Sel d’Issey Eau de Parfum is the new intense perfume for men by Issey Miyake. When touched by salt, nature is enhanced. Emotions are strengthened, experiences are amplified. The senses are ignited as salt brings flavor to life, with even more intensity.",
+      "description": "Le Sel d’Issey Parfum — the new woody-marine-leather perfume for men Discover the new intense perfume for men in the Le Sel d’Issey fragrance line — Le Sel d’Issey Parfum. Enhanced with a leather facet, the original Le Sel d’Issey signature is taken to a new dimension. As the cold sea meets the incandescent land, salt turns black, concentrating its essence. The power of salt in a woody-marine-leather men’s fragrance For this new intensified masculine fragrance, Quentin Bisch, the renowned perfumer behind the entire Le Sel d’Issey collection, has created a long-lasting marine scent with refined leather and woody accents. An encounter between the ultra-freshness of the sea and the heated rocks of the land — two polarities pushed to the extreme. • TOP: The energy of a vivid salty accord is enhanced by a vibrant saffron accord • HEART: Natural-origin marine seaweed meets the depth of dark woody notes • BASE: The warmth of a natural-origin amber accord contrasts with the oceanic notes of natural-origin oakmoss Le Sel d’Issey Parfum is a long-lasting vegan perfume made with 92% natural-origin ingredients. How to intensify your Le Sel d’Issey experience Begin your daily ritual with Le Sel d’Issey Shower Gel and matching Deodorant Spray, then apply Le Sel d’Issey Parfum to your pulse points for a long-lasting trail. A warm and vibrant perfume bottle As if forged in salt, Tokujin Yoshioka’s design embodies a deep vibration, featuring a glossy black cap and a dark gradient bottle made with 20% recycled glass. The matte brown outer box is made using 10% upcycled natural seaweed.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/issey-miyake-le-sel-edp-100ml",
       "source_price": 203,
@@ -131246,6 +131766,34 @@
           "price": 204.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/juliette-liquid-illusion-100ml.png?v=1788995192"
+        }
+      ]
+    },
+    {
+      "brand": "Thierry Mugler",
+      "name": "Angel Blush by Thierry Mugler 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 204.99,
+      "price_per_100ml": 204.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mugler-angel-blush-100ml.png?v=1785894908",
+      "description": "Angel Blush by Thierry Mugler 100ml Eau De Parfum Spray for Women - Refillable Star Discover a luminous interpretation of the iconic Angel signature by Mugler with Angel Blush Eau de Parfum. This creamy gourmand perfume expresses Mugler’s artistry through a smooth, indulgent sensation of pure pleasure. Angel Blush is designed for the woman who desires a radiant, soft, and deeply sensual fragrance — one that melts into the skin like a second skin and leaves a lasting, intimate trail long after the moment has passed. Designer: Thierry Mugler Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Angel Blush is an amber gourmand musky fragrance in the evolution of the best-selling Angel collection. It opens with the luminous softness of an almond milk accord, revealing a tender creaminess that awakens the senses with a gently sweet, nutty warmth. At its heart, a \"creamy musk from heaven\" unfolds with profound sensuality, wrapping the wearer in a refined, enveloping cocoon. The base lingers with warm sandalwood blended with vanilla and patchouli, prolonging the addictive creaminess and leaving a soft, radiant impression on the skin. The iconic Angel talisman star is reimagined in a luminous blush glow — radiant, creamy, and celestial. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/angel-blush-by-thierry-mugler-100ml-edp",
+      "source_price": 204.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/angel-blush-by-thierry-mugler-100ml-edp",
+          "brand": "Thierry Mugler",
+          "name": "Angel Blush by Thierry Mugler 100ml EDP",
+          "size": "100ml",
+          "price": 204.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mugler-angel-blush-100ml.png?v=1785894908"
         }
       ]
     },
@@ -135116,6 +135664,34 @@
       ]
     },
     {
+      "brand": "Jo Malone",
+      "name": "Jo Malone Wild Bluebell Eau De Cologne 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 214.99,
+      "price_per_100ml": 214.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/106166/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/106166/jo-malone-wild-bluebell-eau-de-cologne-100ml",
+      "source_price": 214.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/106166/jo-malone-wild-bluebell-eau-de-cologne-100ml",
+          "brand": "Jo Malone",
+          "name": "Jo Malone Wild Bluebell Eau De Cologne 100ml",
+          "size": "100ml",
+          "price": 214.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/106166/F2D_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Dolce & Gabbana",
       "name": "Dolce & Gabbana K by Dolce & Gabbana EDP 100ml",
       "size": "100ml",
@@ -137686,6 +138262,34 @@
       ]
     },
     {
+      "brand": "Gucci",
+      "name": "Gucci Gorgeous Gardenia Eau De Parfum 100ml + 10ml Set",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 219.99,
+      "price_per_100ml": 219.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157723/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/157723/gucci-gorgeous-gardenia-eau-de-parfum-100ml-10ml-set",
+      "source_price": 219.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/157723/gucci-gorgeous-gardenia-eau-de-parfum-100ml-10ml-set",
+          "brand": "Gucci",
+          "name": "Gucci Gorgeous Gardenia Eau De Parfum 100ml + 10ml Set",
+          "size": "100ml",
+          "price": 219.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/157723/F2D_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Mugler",
       "name": "Thierry Mugler Angel Refillable Eau De Parfum 100ml",
       "size": "100ml",
@@ -137738,34 +138342,6 @@
           "price": 219.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/106152/F2D_200.jpg"
-        }
-      ]
-    },
-    {
-      "brand": "Jo Malone",
-      "name": "Jo Malone Wild Bluebell Eau De Cologne 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 219.99,
-      "price_per_100ml": 219.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/106166/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/106166/jo-malone-wild-bluebell-eau-de-cologne-100ml",
-      "source_price": 219.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/106166/jo-malone-wild-bluebell-eau-de-cologne-100ml",
-          "brand": "Jo Malone",
-          "name": "Jo Malone Wild Bluebell Eau De Cologne 100ml",
-          "size": "100ml",
-          "price": 219.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/106166/F2D_200.jpg"
         }
       ]
     },
@@ -139494,34 +140070,6 @@
           "price": 224.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/oriza-l-legrand-violettes-du-czar.png?v=1784853472"
-        }
-      ]
-    },
-    {
-      "brand": "Thierry Mugler",
-      "name": "Angel Blush by Thierry Mugler 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 224.99,
-      "price_per_100ml": 224.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mugler-angel-blush-100ml.png?v=1785894908",
-      "description": "Angel Blush by Thierry Mugler 100ml Eau De Parfum Spray for Women - Refillable Star Discover a luminous interpretation of the iconic Angel signature by Mugler with Angel Blush Eau de Parfum. This creamy gourmand perfume expresses Mugler’s artistry through a smooth, indulgent sensation of pure pleasure. Angel Blush is designed for the woman who desires a radiant, soft, and deeply sensual fragrance — one that melts into the skin like a second skin and leaves a lasting, intimate trail long after the moment has passed. Designer: Thierry Mugler Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Angel Blush is an amber gourmand musky fragrance in the evolution of the best-selling Angel collection. It opens with the luminous softness of an almond milk accord, revealing a tender creaminess that awakens the senses with a gently sweet, nutty warmth. At its heart, a \"creamy musk from heaven\" unfolds with profound sensuality, wrapping the wearer in a refined, enveloping cocoon. The base lingers with warm sandalwood blended with vanilla and patchouli, prolonging the addictive creaminess and leaving a soft, radiant impression on the skin. The iconic Angel talisman star is reimagined in a luminous blush glow — radiant, creamy, and celestial. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/angel-blush-by-thierry-mugler-100ml-edp",
-      "source_price": 224.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/angel-blush-by-thierry-mugler-100ml-edp",
-          "brand": "Thierry Mugler",
-          "name": "Angel Blush by Thierry Mugler 100ml EDP",
-          "size": "100ml",
-          "price": 224.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mugler-angel-blush-100ml.png?v=1785894908"
         }
       ]
     },
@@ -144954,34 +145502,6 @@
           "price": 275,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037873-0_df13ef73-fa83-4a2f-9bef-85ce4d46d796.jpg?v=1758244458"
-        }
-      ]
-    },
-    {
-      "brand": "Kenzo",
-      "name": "Kenzo Flower Eau De Parfum 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 119.99,
-      "price_per_100ml": 239.98,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85719/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/85719/kenzo-flower-eau-de-parfum-50ml",
-      "source_price": 119.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/85719/kenzo-flower-eau-de-parfum-50ml",
-          "brand": "Kenzo",
-          "name": "Kenzo Flower Eau De Parfum 50ml",
-          "size": "50ml",
-          "price": 119.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85719/F2D_200.jpg"
         }
       ]
     },
@@ -153458,6 +153978,34 @@
       ]
     },
     {
+      "brand": "Paco Rabanne",
+      "name": "Million Red by Rabanne 90ml Parfum",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 239.99,
+      "price_per_100ml": 266.66,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-million-gold-red.png?v=1792726606",
+      "description": "Million Red by Rabanne 90ml Parfum Spray for Women Million Red For Her is Rabanne's Parfum built around coconut, ylang-ylang, and vanilla. More gourmand. More radiant. More irresistible. Million Red For Her reinvents the art of attraction with a fragrance where every detail is designed to captivate. Blending confident sensuality with contemporary glamour, it unveils a new gourmand signature that doesn't chase attention—it naturally attracts it. Designer: Rabanne Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Million Red For Her reinvents gourmand fragrance with a luminous, sensual and intensely addictive signature. Creamy coconut opens the fragrance with an unexpected gourmand accord. Radiant ylang-ylang illuminates the heart before vanilla wraps the scent in addictive warmth. A composition where gourmand richness, luminosity, and sensuality exist in perfect balance. An intense, long-lasting gourmand trail. Designed to transition effortlessly from day to night, Million Red For Her gradually reveals the full richness of its personality, leaving behind a luminous and unforgettable impression. With Million Red For Her, Rabanne introduces a new olfactory territory within the Million Gold For Her collection. Its bold red bottle retains the iconic XL Link, inspired by the House's fashion heritage and signature metal craftsmanship. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/million-red-by-paco-rabanne-90ml-parfum",
+      "source_price": 239.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/million-red-by-paco-rabanne-90ml-parfum",
+          "brand": "Paco Rabanne",
+          "name": "Million Red by Rabanne 90ml Parfum",
+          "size": "90ml",
+          "price": 239.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-million-gold-red.png?v=1792726606"
+        }
+      ]
+    },
+    {
       "brand": "Maison Margiela",
       "name": "MAISON Margiela Replica Sunday Morning EDT (R)able 30ml",
       "size": "30ml",
@@ -155570,34 +156118,6 @@
           "price": 249.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/ysl-libre-le-parfum-90ml.png?v=1671395219"
-        }
-      ]
-    },
-    {
-      "brand": "Paco Rabanne",
-      "name": "Million Red by Rabanne 90ml Parfum",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 249.99,
-      "price_per_100ml": 277.77,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-million-gold-red.png?v=1792726606",
-      "description": "Million Red by Rabanne 90ml Parfum Spray for Women Million Red For Her is Rabanne's Parfum built around coconut, ylang-ylang, and vanilla. More gourmand. More radiant. More irresistible. Million Red For Her reinvents the art of attraction with a fragrance where every detail is designed to captivate. Blending confident sensuality with contemporary glamour, it unveils a new gourmand signature that doesn't chase attention—it naturally attracts it. Designer: Rabanne Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Million Red For Her reinvents gourmand fragrance with a luminous, sensual and intensely addictive signature. Creamy coconut opens the fragrance with an unexpected gourmand accord. Radiant ylang-ylang illuminates the heart before vanilla wraps the scent in addictive warmth. A composition where gourmand richness, luminosity, and sensuality exist in perfect balance. An intense, long-lasting gourmand trail. Designed to transition effortlessly from day to night, Million Red For Her gradually reveals the full richness of its personality, leaving behind a luminous and unforgettable impression. With Million Red For Her, Rabanne introduces a new olfactory territory within the Million Gold For Her collection. Its bold red bottle retains the iconic XL Link, inspired by the House's fashion heritage and signature metal craftsmanship. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/million-red-by-paco-rabanne-90ml-parfum",
-      "source_price": 249.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/million-red-by-paco-rabanne-90ml-parfum",
-          "brand": "Paco Rabanne",
-          "name": "Million Red by Rabanne 90ml Parfum",
-          "size": "90ml",
-          "price": 249.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-million-gold-red.png?v=1792726606"
         }
       ]
     },
@@ -163291,6 +163811,34 @@
       ]
     },
     {
+      "brand": "LOreal Luxe New Zealand Auckland",
+      "name": "Thierry Mugler Angel Eau De Parfum Refillable 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 149.99,
+      "price_per_100ml": 299.98,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/101822/ADD5_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/101822/thierry-mugler-angel-eau-de-parfum-refillable-50ml",
+      "source_price": 149.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/101822/thierry-mugler-angel-eau-de-parfum-refillable-50ml",
+          "brand": "LOreal Luxe New Zealand Auckland",
+          "name": "Thierry Mugler Angel Eau De Parfum Refillable 50ml",
+          "size": "50ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/101822/ADD5_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Maison Crivelli",
       "name": "Maison Crivelli Absinthe Boreale EDP 100ml",
       "size": "100ml",
@@ -163772,7 +164320,7 @@
       "price_per_100ml": 302,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036686-0.png?v=1769484716",
-      "description": "Le Sel d’Issey Eau de Parfum is the new intense perfume for men by Issey Miyake. When touched by salt, nature is enhanced. Emotions are strengthened, experiences are amplified. The senses are ignited as salt brings flavor to life, with even more intensity.",
+      "description": "Le Sel d’Issey Parfum — the new woody-marine-leather perfume for men Discover the new intense perfume for men in the Le Sel d’Issey fragrance line — Le Sel d’Issey Parfum. Enhanced with a leather facet, the original Le Sel d’Issey signature is taken to a new dimension. As the cold sea meets the incandescent land, salt turns black, concentrating its essence. The power of salt in a woody-marine-leather men’s fragrance For this new intensified masculine fragrance, Quentin Bisch, the renowned perfumer behind the entire Le Sel d’Issey collection, has created a long-lasting marine scent with refined leather and woody accents. An encounter between the ultra-freshness of the sea and the heated rocks of the land — two polarities pushed to the extreme. • TOP: The energy of a vivid salty accord is enhanced by a vibrant saffron accord • HEART: Natural-origin marine seaweed meets the depth of dark woody notes • BASE: The warmth of a natural-origin amber accord contrasts with the oceanic notes of natural-origin oakmoss Le Sel d’Issey Parfum is a long-lasting vegan perfume made with 92% natural-origin ingredients. How to intensify your Le Sel d’Issey experience Begin your daily ritual with Le Sel d’Issey Shower Gel and matching Deodorant Spray, then apply Le Sel d’Issey Parfum to your pulse points for a long-lasting trail. A warm and vibrant perfume bottle As if forged in salt, Tokujin Yoshioka’s design embodies a deep vibration, featuring a glossy black cap and a dark gradient bottle made with 20% recycled glass. The matte brown outer box is made using 10% upcycled natural seaweed.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/issey-miyake-le-sel-edp-50ml",
       "source_price": 151,
@@ -165288,34 +165836,6 @@
       ]
     },
     {
-      "brand": "Burberry",
-      "name": "Burberry Her Parfum 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 310,
-      "price_per_100ml": 310,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040959-0.jpg?v=1773878420",
-      "description": "Burberry Her Parfum 100ml is a fragrance in the Burberry Her collection presented in a parfum concentration. It features a scent composition with cherry at the top, followed by amber notes, and a vanilla base.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-parfum-100ml",
-      "source_price": 310,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/burberry-her-parfum-100ml",
-          "brand": "Burberry",
-          "name": "Burberry Her Parfum 100ml",
-          "size": "100ml",
-          "price": 310,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040959-0.jpg?v=1773878420"
-        }
-      ]
-    },
-    {
       "brand": "Christian Dior",
       "name": "Christian Dior Homme Intense EDP 50ml For Men",
       "size": "50ml",
@@ -166391,6 +166911,34 @@
           "price": 285,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Yyes-Saint-Larent-Libre-Flower---Flames-EDP-90ml-3614274151701.jpg?v=1781827756"
+        }
+      ]
+    },
+    {
+      "brand": "Roberto Cavalli",
+      "name": "Roberto Cavalli Serpentine Noir Parfum 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 95,
+      "price_per_100ml": 316.67,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045905-0.jpg?v=1793742316",
+      "description": "A Woody Leather Ambery fragrance capturing the irresistible power of temptation, blending fiery spices, sensual woods, and dark leathery notes into a hypnotic and intensely magnetic trail. This Parfum opens with the radiant sparkle of Pink Pepper, refreshing Bergamot zest, and luscious spiced Cardamom that ignites the fragrance with an addictive warmth, while rich Leather unveils a daring strength. Wrapped in the glow of Saffron and deep Woods, the scent leaves behind a powerful and unforgettable trail - an intoxicating statement of confidence, intensity, and fearless femininity. Bold, captivating, and irresistibly sensual. Olfactive Family: Woody Leather Ambery TOP: Cardamom, Raspberry, Apple MID: Saffron, Violet, Patchouli DRY: Leather, Oud, Amber",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/roberto-cavalli-serpentine-noir-parfum-30ml",
+      "source_price": 95,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/roberto-cavalli-serpentine-noir-parfum-30ml",
+          "brand": "Roberto Cavalli",
+          "name": "Roberto Cavalli Serpentine Noir Parfum 30ml",
+          "size": "30ml",
+          "price": 95,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045905-0.jpg?v=1793742316"
         }
       ]
     },
@@ -174380,6 +174928,34 @@
           "price": 349,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/BBP100.jpg?v=1670919178"
+        }
+      ]
+    },
+    {
+      "brand": "Carolina",
+      "name": "Carolina Herrera Bad Boy Le Parfum 10ml",
+      "size": "10ml",
+      "size_ml": 10,
+      "price": 34.99,
+      "price_per_100ml": 349.9,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/158003/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/158003/carolina-herrera-bad-boy-le-parfum-10ml",
+      "source_price": 34.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/158003/carolina-herrera-bad-boy-le-parfum-10ml",
+          "brand": "Carolina",
+          "name": "Carolina Herrera Bad Boy Le Parfum 10ml",
+          "size": "10ml",
+          "price": 34.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/158003/F2D_200.jpg"
         }
       ]
     },
@@ -216087,6 +216663,34 @@
       ]
     },
     {
+      "brand": "Boadicea The Victorious",
+      "name": "Aqua Sapphire by Boadicea The Victorious 100ml Pure Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 1049.99,
+      "price_per_100ml": 1049.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/boadicea-aqua-sapphire.png?v=1790555559",
+      "description": "Aqua Sapphire by Boadicea The Victorious 100ml Pure Parfum Spray The Aqua Sapphire Pure Perfume from Boadicea The Victorious is inspired by the tempestuous and enticing nature of the sea. Alive with luxe floral accords that sit alongside waves of aquatic and citrus notes, it’s a scent that’s both tantalizing and contemporary. Designer: Boadicea The Victorious Year Introduced: 2021 Type: Pure Parfum Category: Unisex Fragrance Notes: Aqua Sapphire is a unique marine perfume, inspired by eternal seas and island nations. Head notes are awash with pineapple, rum, saffron and boozy davana. A briny seaweed with facets of iodine and salt is allied to classic Rose de Mai and soft cashmere woods and musks. The notes roll through the surf of Aqua Sapphire hinting at hidden depths. Cypriol has a bitter herbal quality and is used in the base notes suggesting beach fires glowing in the dark as flowers dream and the sea whispers. Soft mosses, vanilla and amber reinforce Aqua Sapphire’s stylish take on the ozonic fragrances, playing rich liqueur gourmand notes against the romance of roses and the freshness of coastal sea spray. All this housed in a glittering aquatic perfume and bottled in an aqua blue version of the Boadicea flask. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/aqua-sapphire-by-boadicea-the-victorious-100ml-pure-parfum",
+      "source_price": 1049.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/aqua-sapphire-by-boadicea-the-victorious-100ml-pure-parfum",
+          "brand": "Boadicea The Victorious",
+          "name": "Aqua Sapphire by Boadicea The Victorious 100ml Pure Parfum",
+          "size": "100ml",
+          "price": 1049.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/boadicea-aqua-sapphire.png?v=1790555559"
+        }
+      ]
+    },
+    {
       "brand": "Eight&Bob",
       "name": "Eight & Bob Agneta 50ml Extrait",
       "size": "50ml",
@@ -216443,34 +217047,6 @@
           "price": 539,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/2302_BARROIS-Ganymede_Extrait.jpg?v=1695753824"
-        }
-      ]
-    },
-    {
-      "brand": "Boadicea The Victorious",
-      "name": "Aqua Sapphire by Boadicea The Victorious 100ml Pure Parfum",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 1097.99,
-      "price_per_100ml": 1097.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/boadicea-aqua-sapphire.png?v=1790555559",
-      "description": "Aqua Sapphire by Boadicea The Victorious 100ml Pure Parfum Spray The Aqua Sapphire Pure Perfume from Boadicea The Victorious is inspired by the tempestuous and enticing nature of the sea. Alive with luxe floral accords that sit alongside waves of aquatic and citrus notes, it’s a scent that’s both tantalizing and contemporary. Designer: Boadicea The Victorious Year Introduced: 2021 Type: Pure Parfum Category: Unisex Fragrance Notes: Aqua Sapphire is a unique marine perfume, inspired by eternal seas and island nations. Head notes are awash with pineapple, rum, saffron and boozy davana. A briny seaweed with facets of iodine and salt is allied to classic Rose de Mai and soft cashmere woods and musks. The notes roll through the surf of Aqua Sapphire hinting at hidden depths. Cypriol has a bitter herbal quality and is used in the base notes suggesting beach fires glowing in the dark as flowers dream and the sea whispers. Soft mosses, vanilla and amber reinforce Aqua Sapphire’s stylish take on the ozonic fragrances, playing rich liqueur gourmand notes against the romance of roses and the freshness of coastal sea spray. All this housed in a glittering aquatic perfume and bottled in an aqua blue version of the Boadicea flask. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/aqua-sapphire-by-boadicea-the-victorious-100ml-pure-parfum",
-      "source_price": 1097.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/aqua-sapphire-by-boadicea-the-victorious-100ml-pure-parfum",
-          "brand": "Boadicea The Victorious",
-          "name": "Aqua Sapphire by Boadicea The Victorious 100ml Pure Parfum",
-          "size": "100ml",
-          "price": 1097.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/boadicea-aqua-sapphire.png?v=1790555559"
         }
       ]
     },
