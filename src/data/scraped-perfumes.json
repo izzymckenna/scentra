@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T10:26:53.529Z",
-  "count": 4566,
+  "generated_at": "2026-11-07T09:40:29.244Z",
+  "count": 4568,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -473,6 +473,34 @@
           "price": 8.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/lunbo-1-13.jpg?v=1710386971"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Fragrance Mist Coconut Freeze 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 8.99,
+      "price_per_100ml": 3.6,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6941fa30/images/hi-res/6A/08/R2917380_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-fragrance-mist-coconut-freeze-250ml/R2917380.html",
+      "source_price": 8.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-fragrance-mist-coconut-freeze-250ml/R2917380.html",
+          "brand": "VV Love",
+          "name": "VV Love Fragrance Mist Coconut Freeze 250ml",
+          "size": "250ml",
+          "price": 8.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6941fa30/images/hi-res/6A/08/R2917380_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -2626,7 +2654,7 @@
       "price": 8.99,
       "price_per_100ml": 5.99,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2f2e842d/images/hi-res/40/F0/R3022223_30.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1972b307/images/hi-res/40/F0/R3022223_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
       "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-tuberose-vanilla-150ml/R3022223.html",
@@ -2642,7 +2670,7 @@
           "size": "150ml",
           "price": 8.99,
           "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw2f2e842d/images/hi-res/40/F0/R3022223_30.jpg?sw=292&sh=292"
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1972b307/images/hi-res/40/F0/R3022223_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -2699,6 +2727,34 @@
           "price": 8.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw93d157bd/images/hi-res/69/68/R2935371_40.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Body Mist Jasmine And Amber 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 8.99,
+      "price_per_100ml": 5.99,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa23a9fe4/images/hi-res/D9/5F/R3022224_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-jasmine-and-amber-150ml/R3022224.html",
+      "source_price": 8.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-jasmine-and-amber-150ml/R3022224.html",
+          "brand": "VV Love",
+          "name": "VV Love Body Mist Jasmine And Amber 150ml",
+          "size": "150ml",
+          "price": 8.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa23a9fe4/images/hi-res/D9/5F/R3022224_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -3766,7 +3822,7 @@
       "price_per_100ml": 7.2,
       "currency": "NZD",
       "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/100573/F2D_200.jpg",
-      "description": null,
+      "description": "Ariana Grande Sweet Like Candy Body Mist is an irresistible floral fragrance featuring delicious gourmand notes of marshmallow and vanilla. A sweet, powdery, fun fragrance for the young at heart. Middle Notes: Honeysuckle, Plumeria, Jasmine. Base Notes: Cashmere Accord, Vanilla, Marshmallow.",
       "source_name": "chemist-warehouse-search-suggest",
       "source_url": "https://www.chemistwarehouse.co.nz/buy/100573/ariana-grande-sweet-like-candy-body-mist-236ml",
       "source_price": 16.99,
@@ -8136,7 +8192,7 @@
       "price": 11.99,
       "price_per_100ml": null,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw9720d183/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5c10d543/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
       "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-4-pack/R3030297.html",
@@ -8152,7 +8208,7 @@
           "size": null,
           "price": 11.99,
           "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw9720d183/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292"
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5c10d543/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292"
         },
         {
           "retailer_slug": "the-warehouse",
@@ -165097,7 +165153,7 @@
       "price": 270,
       "price_per_100ml": 300,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046298-0.jpg?v=1793943718",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046298-0.jpg?v=1794000875",
       "description": "The olfactive pact between the zesty brightness of a fresh Ginger shot and a spicy liquorous woody depth. This composition offers a bold and magnetic presence designed for a confident and free-spirited man. The fragrance is built around three signature notes to infuse the bold feeling of unstoppable passion: - Top note: Sparkling Ginger shot from Peru, delivering a zesty and aphrodisiac freshness. - Heart note: Exclusive Cinnamon Liquor accord, offering an addictive, spicy, and gourmand warmth to the trail. - Base note: Patchouli essence, magnified by carnal woods, wrapping the scent in a powerful, vibrant, and bold woodiness. This signature performs beautifully year-round and leaves a lasting sillage that melts onto the skin, forming an indelible addiction. A masterpiece created by the visionary perfumer Marie Salamagne. The VENDETTA Uomo Eau de Parfum bottle is a couture masterpiece featuring iconic and timeless codes. A bold graphic V sculpted directly into the architectural glass structures the silhouette as a brand tribute. The design combines structural strength with a pleated cap, a subtle tribute to the folds found in Valentino couture garments. Conceived as a pair with the VENDETTA Donna Eau de Parfum, this signature bottle reflects a timeless couture heritage and the authentic Valentino identity.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-uomo-edp-90ml",
@@ -165113,7 +165169,7 @@
           "size": "90ml",
           "price": 270,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046298-0.jpg?v=1793943718"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046298-0.jpg?v=1794000875"
         }
       ]
     },
@@ -180425,7 +180481,7 @@
       "price": 182,
       "price_per_100ml": 364,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046297-0.jpg?v=1793944210",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046297-0.jpg?v=1794000873",
       "description": "The olfactive pact between the zesty brightness of a fresh Ginger shot and a spicy liquorous woody depth. This composition offers a bold and magnetic presence designed for a confident and free-spirited man. The fragrance is built around three signature notes to infuse the bold feeling of unstoppable passion: - Top note: Sparkling Ginger shot from Peru, delivering a zesty and aphrodisiac freshness. - Heart note: Exclusive Cinnamon Liquor accord, offering an addictive, spicy, and gourmand warmth to the trail. - Base note: Patchouli essence, magnified by carnal woods, wrapping the scent in a powerful, vibrant, and bold woodiness. This signature performs beautifully year-round and leaves a lasting sillage that melts onto the skin, forming an indelible addiction. A masterpiece created by the visionary perfumer Marie Salamagne. The VENDETTA Uomo Eau de Parfum bottle is a couture masterpiece featuring iconic and timeless codes. A bold graphic V sculpted directly into the architectural glass structures the silhouette as a brand tribute. The design combines structural strength with a pleated cap, a subtle tribute to the folds found in Valentino couture garments. Conceived as a pair with the VENDETTA Donna Eau de Parfum, this signature bottle reflects a timeless couture heritage and the authentic Valentino identity.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-uomo-edp-50ml",
@@ -180441,7 +180497,7 @@
           "size": "50ml",
           "price": 182,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046297-0.jpg?v=1793944210"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046297-0.jpg?v=1794000873"
         }
       ]
     },
@@ -182317,7 +182373,7 @@
       "price": 336,
       "price_per_100ml": 373.33,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046300-0.jpg?v=1793944316",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046300-0.jpg?v=1794000871",
       "description": "The olfactive pact between the solar carnality of Tuberose, the addictive brightness of a Red Orange Nectar accord, and the unctuosity of enveloping woods. A bold and sensual presence designed for a confident and magnetic woman. The fragrance is built around three signature notes to infuse the bold feeling of unstoppable passion: - Top note: Narcotic Tuberose Osmobloom from Colombia, offering a warm, solar, and unctuous carnality. - Heart note: Exclusive Red Orange Nectar accord, inspired by the Tarocco Rosso, a deep red-pulp Italian variety, bringing an addictive, liqueur-like sweetness to the trail. - Base note: Sandalwood, a creamy, mysterious wood anchoring the fragrance with profound and magnetic sensuality. This signature performs beautifully year-round and leaves a lasting sillage that melts onto the skin, forming an indelible addiction. A masterpiece co-created by Master Perfumer Dominique Ropion and the talented perfumer Andrew Everett. The VENDETTA Donna Eau de Parfum bottle is a masterpiece featuring iconic and timeless codes. A bold graphic V sculpted directly into the architectural glass structures the silhouette as a brand tribute. The fragrance is further enhanced by its deep red hue, echoing the iconic Rosso Valentino signature color as a symbol of passion, intensity, and bold emotion. Radiant within the sculptural clear glass, the color of the juice becomes a visual extension of the scent’s character. The design combines structural strength with a black pleated cap, a subtle tribute to the folds found in Valentino couture garments. Conceived as a pair with the VENDETTA Uomo Eau de Parfum, this signature bottle reflects a timeless couture heritage and the authentic Valentino identity.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-donna-edp-90ml",
@@ -182333,7 +182389,7 @@
           "size": "90ml",
           "price": 336,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046300-0.jpg?v=1793944316"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046300-0.jpg?v=1794000871"
         }
       ]
     },
@@ -200126,7 +200182,7 @@
       "price": 237,
       "price_per_100ml": 474,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046299-0.jpg?v=1793944264",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046299-0.jpg?v=1794000870",
       "description": "The olfactive pact between the solar carnality of Tuberose, the addictive brightness of a Red Orange Nectar accord, and the unctuosity of enveloping woods. A bold and sensual presence designed for a confident and magnetic woman. The fragrance is built around three signature notes to infuse the bold feeling of unstoppable passion: - Top note: Narcotic Tuberose Osmobloom from Colombia, offering a warm, solar, and unctuous carnality. - Heart note: Exclusive Red Orange Nectar accord, inspired by the Tarocco Rosso, a deep red-pulp Italian variety, bringing an addictive, liqueur-like sweetness to the trail. - Base note: Sandalwood, a creamy, mysterious wood anchoring the fragrance with profound and magnetic sensuality. This signature performs beautifully year-round and leaves a lasting sillage that melts onto the skin, forming an indelible addiction. A masterpiece co-created by Master Perfumer Dominique Ropion and the talented perfumer Andrew Everett. The VENDETTA Donna Eau de Parfum bottle is a masterpiece featuring iconic and timeless codes. A bold graphic V sculpted directly into the architectural glass structures the silhouette as a brand tribute. The fragrance is further enhanced by its deep red hue, echoing the iconic Rosso Valentino signature color as a symbol of passion, intensity, and bold emotion. Radiant within the sculptural clear glass, the color of the juice becomes a visual extension of the scent’s character. The design combines structural strength with a black pleated cap, a subtle tribute to the folds found in Valentino couture garments. Conceived as a pair with the VENDETTA Uomo Eau de Parfum, this signature bottle reflects a timeless couture heritage and the authentic Valentino identity.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-donna-edp-50ml",
@@ -200142,7 +200198,7 @@
           "size": "50ml",
           "price": 237,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046299-0.jpg?v=1793944264"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046299-0.jpg?v=1794000870"
         }
       ]
     },
@@ -220664,5 +220720,10 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "retailer_slug": "chemist-warehouse-nz",
+      "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
+    }
+  ]
 }
