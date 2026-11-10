@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T10:57:39.543Z",
-  "count": 4587,
+  "generated_at": "2026-11-10T10:49:14.048Z",
+  "count": 4607,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -505,34 +505,6 @@
       ]
     },
     {
-      "brand": "Sabrina",
-      "name": "Sabrina Carpenter Cherry Baby Body Spray 236ml Exclusive",
-      "size": "236ml",
-      "size_ml": 236,
-      "price": 8.99,
-      "price_per_100ml": 3.81,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/151669/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/151669/sabrina-carpenter-cherry-baby-body-spray-236ml-exclusive",
-      "source_price": 8.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/151669/sabrina-carpenter-cherry-baby-body-spray-236ml-exclusive",
-          "brand": "Sabrina",
-          "name": "Sabrina Carpenter Cherry Baby Body Spray 236ml Exclusive",
-          "size": "236ml",
-          "price": 8.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/151669/F2D_200.jpg"
-        }
-      ]
-    },
-    {
       "brand": "Vera Wang",
       "name": "Vera Wang Embrace Green Tea & Pear Body Mist 240ml",
       "size": "240ml",
@@ -707,6 +679,34 @@
           "price": 10.49,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/6a34c61ca3ad75b54f30b613cadd78f0.jpg?v=1729732856"
+        }
+      ]
+    },
+    {
+      "brand": "Sabrina",
+      "name": "Sabrina Carpenter Cherry Baby Body Spray 236ml Exclusive",
+      "size": "236ml",
+      "size_ml": 236,
+      "price": 9.99,
+      "price_per_100ml": 4.23,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/151669/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/151669/sabrina-carpenter-cherry-baby-body-spray-236ml-exclusive",
+      "source_price": 9.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/151669/sabrina-carpenter-cherry-baby-body-spray-236ml-exclusive",
+          "brand": "Sabrina",
+          "name": "Sabrina Carpenter Cherry Baby Body Spray 236ml Exclusive",
+          "size": "236ml",
+          "price": 9.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/151669/F2D_200.jpg"
         }
       ]
     },
@@ -998,6 +998,62 @@
           "price": 6.49,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/87467/2DF_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "CS Company NZ Auckland",
+      "name": "David Beckham Instinct Sport Body Spray 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 6.49,
+      "price_per_100ml": 4.33,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/66432/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/66432/david-beckham-instinct-sport-body-spray-150ml",
+      "source_price": 6.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/66432/david-beckham-instinct-sport-body-spray-150ml",
+          "brand": "CS Company NZ Auckland",
+          "name": "David Beckham Instinct Sport Body Spray 150ml",
+          "size": "150ml",
+          "price": 6.49,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/66432/2DF_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "David",
+      "name": "David Beckham True Instinct Body Spray 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 6.49,
+      "price_per_100ml": 4.33,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/133676/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/133676/david-beckham-true-instinct-body-spray-150ml",
+      "source_price": 6.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/133676/david-beckham-true-instinct-body-spray-150ml",
+          "brand": "David",
+          "name": "David Beckham True Instinct Body Spray 150ml",
+          "size": "150ml",
+          "price": 6.49,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/133676/2DF_200.jpg"
         }
       ]
     },
@@ -3783,7 +3839,7 @@
       "price_per_100ml": 7.2,
       "currency": "NZD",
       "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/100573/F2D_200.jpg",
-      "description": "Ariana Grande Sweet Like Candy Body Mist is an irresistible floral fragrance featuring delicious gourmand notes of marshmallow and vanilla. A sweet, powdery, fun fragrance for the young at heart. Middle Notes: Honeysuckle, Plumeria, Jasmine. Base Notes: Cashmere Accord, Vanilla, Marshmallow.",
+      "description": null,
       "source_name": "chemist-warehouse-search-suggest",
       "source_url": "https://www.chemistwarehouse.co.nz/buy/100573/ariana-grande-sweet-like-candy-body-mist-236ml",
       "source_price": 16.99,
@@ -9216,6 +9272,17 @@
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.0 90ml",
+          "size": "90ml",
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1ff7f125/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
           "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.6-90ml/R2984884.html",
           "brand": "MCoBeauty",
           "name": "MCoBeauty Fragrance Mist No.6 90ml",
@@ -9234,17 +9301,6 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6b75a6de/images/hi-res/F0/37/R3032448_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.0 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd354113d/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
         },
         {
           "retailer_slug": "the-warehouse",
@@ -12964,21 +13020,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0697/2702/7418/files/black-chicken-remedies-repel-botanical-body-spray__78063.jpg?v=1766113116",
       "description": "Black Chicken Remedies Step Repel Botanical Body Spray: Natural aromatic mist made with essential oils traditionally used to deter bugs and support outdoor comfort. With a refreshing blend of lemongrass, citronella, catnip, and peppermint, it helps you feel calm, uplifted, and comfortable in your skin, whether you’re lounging by the water, hiking through the bush, or enjoying a backyard dinner. Features a targeted blend of essential oils traditionally used to help deter mosquitoes and other pesky insects. Compact, non-sticky and easy to use – perfect for travel, camping, or everyday carry Beyond its functional aroma, this plant-based formula is designed to be gentle on skin and uplifting to the senses. The refreshing citrus and herbal notes leave behind no sticky residue; just a clean, invigorating scent that makes every spray feel like a breath of fresh air. Whether you're hosting a garden gathering, heading on a hike, or enjoying a picnic at the park, Repel Botanical Body Spray is a safe, natural addition to your outdoor ritual. Free from synthetic fragrance and harsh chemicals, this 100% natural mist is suitable for the whole family (ages 2+). Lightweight and travel-friendly, it fits easily in your bag, ready to refresh and support you wherever your adventures take you.",
       "source_name": "healthpost-shopify-suggest",
-      "source_url": "https://www.healthpost.co.nz/products/black-chicken-remedies-repel-botanical-body-spray",
+      "source_url": "https://www.healthpost.co.nz/products/black-chicken-remedies-repel-botanical-body-spray?_pos=1&_psq=body+mist&_psid=de81cbf68&_ss=e",
       "source_price": 15.1,
       "source_count": 7,
       "sources": [
-        {
-          "retailer_slug": "healthpost",
-          "source_name": "healthpost-shopify-suggest",
-          "source_url": "https://www.healthpost.co.nz/products/black-chicken-remedies-repel-botanical-body-spray",
-          "brand": "Black Chicken Remedies",
-          "name": "Repel Botanical Body Spray",
-          "size": null,
-          "price": 15.1,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0697/2702/7418/files/black-chicken-remedies-repel-botanical-body-spray__78063.jpg?v=1766113116"
-        },
         {
           "retailer_slug": "healthpost",
           "source_name": "healthpost-shopify-suggest",
@@ -13020,6 +13065,17 @@
           "name": "Repel Botanical Body Spray",
           "size": null,
           "price": 15.1,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0697/2702/7418/files/black-chicken-remedies-repel-botanical-body-spray__78063.jpg?v=1766113116"
+        },
+        {
+          "retailer_slug": "healthpost",
+          "source_name": "healthpost-shopify-suggest",
+          "source_url": "https://www.healthpost.co.nz/products/black-chicken-remedies-repel-botanical-body-spray",
+          "brand": "Black Chicken Remedies",
+          "name": "Repel Botanical Body Spray",
+          "size": null,
+          "price": 18.9,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0697/2702/7418/files/black-chicken-remedies-repel-botanical-body-spray__78063.jpg?v=1766113116"
         },
@@ -17916,7 +17972,7 @@
       "price": 21.99,
       "price_per_100ml": null,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa88724dc/images/hi-res/1C/32/R2919954_30.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd0faa107/images/hi-res/1C/32/R2919954_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
       "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.3/R2919954.html",
@@ -17932,7 +17988,7 @@
           "size": null,
           "price": 21.99,
           "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa88724dc/images/hi-res/1C/32/R2919954_30.jpg?sw=292&sh=292"
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd0faa107/images/hi-res/1C/32/R2919954_30.jpg?sw=292&sh=292"
         },
         {
           "retailer_slug": "the-warehouse",
@@ -17955,6 +18011,34 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw0a4ebc2a/images/hi-res/F7/0E/R2919953_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist Spa Day",
+      "size": null,
+      "size_ml": null,
+      "price": 21.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwef257867/images/hi-res/FE/44/R3064364_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-spa-day/R3064364.html",
+      "source_price": 21.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-spa-day/R3064364.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist Spa Day",
+          "size": null,
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwef257867/images/hi-res/FE/44/R3064364_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -21341,6 +21425,34 @@
       ]
     },
     {
+      "brand": "Elizabeth",
+      "name": "Elizabeth Arden Provocative Woman Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 29.99,
+      "price_per_100ml": 29.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/117874/3DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/117874/elizabeth-arden-provocative-woman-eau-de-parfum-100ml",
+      "source_price": 29.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/117874/elizabeth-arden-provocative-woman-eau-de-parfum-100ml",
+          "brand": "Elizabeth",
+          "name": "Elizabeth Arden Provocative Woman Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 29.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/117874/3DF_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "CS Company NZ Auckland",
       "name": "Joop! Homme Eau De Toilette 200ml",
       "size": "200ml",
@@ -23815,6 +23927,45 @@
     },
     {
       "brand": "Britney Spears",
+      "name": "Britney Spears Curious Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 34.99,
+      "price_per_100ml": 34.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/49700/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/49700/britney-spears-curious-eau-de-parfum-100ml",
+      "source_price": 34.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/49700/britney-spears-curious-eau-de-parfum-100ml",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Curious Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 34.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/49700/F2D_200.jpg"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-curious-women-100ml-edp",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Curious EDP 100ml",
+          "size": "100ml",
+          "price": 45,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney_spears_curious_women_edp_100ml.jpg?v=1777621910"
+        }
+      ]
+    },
+    {
+      "brand": "Britney Spears",
       "name": "Britney Spears Fantasy Intimate EDP 100ml",
       "size": "100ml",
       "size_ml": 100,
@@ -25015,6 +25166,34 @@
           "price": 54.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/image_64.jpg?v=1588821598"
+        }
+      ]
+    },
+    {
+      "brand": "Davidoff",
+      "name": "Davidoff Cool Water Man Oceanic Edition Eau De Toilette 125ml",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 44.99,
+      "price_per_100ml": 35.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/121733/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/121733/davidoff-cool-water-man-oceanic-edition-eau-de-toilette-125ml",
+      "source_price": 44.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/121733/davidoff-cool-water-man-oceanic-edition-eau-de-toilette-125ml",
+          "brand": "Davidoff",
+          "name": "Davidoff Cool Water Man Oceanic Edition Eau De Toilette 125ml",
+          "size": "125ml",
+          "price": 44.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/121733/2DF_200.jpg"
         }
       ]
     },
@@ -36488,6 +36667,34 @@
       ]
     },
     {
+      "brand": "Elizabeth Arden",
+      "name": "Elizabeth Arden White Tea Eau De Toilette 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 54.99,
+      "price_per_100ml": 54.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/89771/3DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/89771/elizabeth-arden-white-tea-eau-de-toilette-100ml",
+      "source_price": 54.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/89771/elizabeth-arden-white-tea-eau-de-toilette-100ml",
+          "brand": "Elizabeth Arden",
+          "name": "Elizabeth Arden White Tea Eau De Toilette 100ml",
+          "size": "100ml",
+          "price": 54.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/89771/3DF_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Calvin Klein",
       "name": "CK Everyone EDT 100ml",
       "size": "100ml",
@@ -41365,6 +41572,34 @@
           "price": 59.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57839/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Juicy",
+      "name": "Juicy Couture Viva La Juicy Rose Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 59.99,
+      "price_per_100ml": 59.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/117870/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/117870/juicy-couture-viva-la-juicy-rose-eau-de-parfum-100ml",
+      "source_price": 59.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/117870/juicy-couture-viva-la-juicy-rose-eau-de-parfum-100ml",
+          "brand": "Juicy",
+          "name": "Juicy Couture Viva La Juicy Rose Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 59.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/117870/F2D_200.jpg"
         }
       ]
     },
@@ -47639,6 +47874,34 @@
           "price": 49.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/164716/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Lattafa",
+      "name": "Lattafa Give Me Gourmand Mallow Madness Eau De Parfum 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 49.99,
+      "price_per_100ml": 66.65,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/164720/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/164720/lattafa-give-me-gourmand-mallow-madness-eau-de-parfum-75ml",
+      "source_price": 49.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/164720/lattafa-give-me-gourmand-mallow-madness-eau-de-parfum-75ml",
+          "brand": "Lattafa",
+          "name": "Lattafa Give Me Gourmand Mallow Madness Eau De Parfum 75ml",
+          "size": "75ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/164720/F2D_200.jpg"
         }
       ]
     },
@@ -56389,6 +56652,67 @@
       ]
     },
     {
+      "brand": "Rabanne",
+      "name": "Rabanne 1 Million EDT 200ml",
+      "size": "200ml",
+      "size_ml": 200,
+      "price": 149,
+      "price_per_100ml": 74.5,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/rabanne-1-million-edt-200ml-01-official-bottle.webp?v=1793499337",
+      "description": "Rabanne 1 Million EDT 200ml for Men Rabanne 1 Million EDT 200ml brings the original 1 Million fragrance to a generous full-size spray: bright citrus and mint, warm spice, and a smooth leather-amber finish. Launched in 2008 and created by Christophe Raynaud, Olivier Pescheux and Michel Girard, this Eau de Toilette balances an energetic opening with the richness that made the gold-bar bottle a recognisable designer signature. The 200ml size is a considered choice for an existing 1 Million wearer who reaches for it regularly, or for gifting someone whose favourite fragrance you already know. Choose it for its lively-to-warm scent development and substantial home-dressing-table format. This is the original Eau de Toilette ; the Parfum, Royal and Elixir versions are separate interpretations with different scent profiles. Discover authentic perfumes in NZ at Gadgets Online NZ , a New Zealand-owned business serving customers since 2008. Shop online or in-store in Mount Eden, Auckland, with NZ-wide delivery and store pickup when stock and order status allow. Supplied as a brand-new retail fragrance in original packaging. Fragrance Family Fresh spicy woody, with leather and amber facets. The opening is bright rather than purely sweet; the heart introduces warmth, and the dry-down gives the fragrance its more rounded, dressed-up character. Fragrance Notes Top Notes: Blood mandarin, grapefruit and mint. Heart Notes: Cinnamon, rose and spicy notes. Base Notes: Leather, amber, woody notes and Indian patchouli. The notes describe the fragrance's olfactory character; they are not an ingredient list. Scent Profile At first spray, mandarin and grapefruit give 1 Million a tangy lift, with mint adding a cooler edge. As that first brightness settles, cinnamon becomes more noticeable and rose softens the spicy heart. The later impression is warmer and more enveloping, with leather, amber, woods and patchouli giving the fragrance depth. For someone choosing between fresh everyday scents and richer evening perfumes, 1 Million offers elements of both. Its citrus opening feels lively, while the warmer finish suits an evening wardrobe. Let it develop on your own skin before judging the whole fragrance from the first spray. Who Is It For? Created for men and suited to anyone who enjoys a noticeable spicy fragrance with citrus freshness and a leather-amber finish. The 200ml bottle particularly suits a repeat wearer. If you prefer discreet, barely-there scents or very dry, unsweetened woods, try the fragrance on skin before committing to the larger size. When to Wear Daytime: A light application for cooler days, weekends and smart-casual outings; use restraint in shared indoor spaces. Evening: Dinners, date nights, parties, celebrations and occasions that call for a more expressive fragrance. Season: Especially comfortable in autumn, winter and cooler New Zealand evenings. In spring and summer, start lightly and assess the scent as the day warms up. Occasion: A substantial birthday, Christmas or milestone gift for someone who already enjoys the original 1 Million EDT. Longevity & Sillage Expect a more outgoing opening that gradually settles into a warmer trail closer to the skin. Rabanne gives an indicative wear time of around six to eight hours on skin, but this is guidance rather than a guarantee. Skin chemistry, temperature, application and storage all affect longevity and projection. A larger bottle provides more fragrance; it does not change the concentration or strength of the EDT. How to Wear Apply a small amount to clean, dry skin at the neck or wrists, then allow it to settle without rubbing. Start with fewer sprays indoors or in warm weather and adjust on a later wear. Avoid the face, eyes and irritated skin. If applying to clothing, first test an inconspicuous area because fragrance can mark delicate fabrics. Layering For a clear impression of 1 Million, pair it with an unscented body wash and moisturiser. Apply fragrance after the moisturiser has absorbed. If experimenting with another fragrance, test a small amount first: additional sweet or spicy scents can make the combination feel much heavier. Layering is a personal styling choice and does not guarantee longer wear. Brand Story Rabanne's fashion heritage gives 1 Million a natural affinity with metallic finishes and statement design. The gold-bar bottle translates that visual identity into an object for the dressing table. The original EDT introduced the 1 Million line in 2008; its lasting appeal lies in the contrast between a fresh opening and a warmer, more opulent finish. More Rabanne Fragrances to Explore Rabanne 1 Million EDT 100ml — the same original Eau de Toilette in a smaller bottle. Rabanne 1 Million Parfum 200ml — explore a different interpretation of 1 Million in the same generous size. Rabanne 1 Million Royal Parfum 50ml — another direction within the Million family, in a more compact format. Similar Designer Fragrances Viktor & Rolf Spicebomb Extreme EDP 90ml — another designer fragrance to consider if warm spice and evening wear are priorities. Jean Paul Gaultier Le Male Le Parfum EDP Intense 125ml — compare another expressive designer option for dressed-up occasions. Premium & Niche Alternatives Parfums de Marly Herod EDP 125ml — explore a premium alternative if a warm evening fragrance is your next purchase. Parfums de Marly Layton EDP 125ml — another niche fragrance to sample when building a wardrobe beyond designer favourites. These are discovery suggestions with their own compositions, rather than identical substitutes for 1 Million. Explore More Fragrances Explore more Rabanne perfumes and discover fragrances in NZ across our men's perfumes , women's perfumes , unisex fragrances and perfume gift sets . Browse the full perfumes and fragrances collection for more scents in NZ. Why Buy From Gadgets Online NZ? New Zealand-owned business serving customers since 2008. Authentic fragrances with local customer support. Shop online or visit our Mount Eden, Auckland store. NZ-wide delivery and Auckland pickup when available. Brand-new fragrance in original retail packaging. Product Details Brand: Rabanne, formerly known as Paco Rabanne. Fragrance: 1 Million, original Eau de Toilette. Size: 200ml. Concentration: Eau de Toilette. Suggested Audience: Men. Fragrance Family: Fresh spicy woody with leather and amber facets. Format: Full-size retail spray bottle. What's Included: One Rabanne 1 Million EDT 200ml spray bottle in original retail packaging. Fragrance Care Tips Store upright in a cool, dry place away from direct sunlight, heat and humidity. Keep the bottle and spray mechanism clean and dry. Keep fragrance away from flames and heat sources, and out of children's reach. Disclaimer: Fragrance performance, longevity and scent impressions vary with skin chemistry, application, climate and storage. Packaging, branding and liquid colour may vary between production batches or manufacturer updates; these variations do not by themselves indicate a difference in authenticity. Both Paco Rabanne and Rabanne branding may appear on original packaging. Product photography retains the real bottle and packaging; AI-generated fragrance education still lifes are illustrative. Authenticity is assured.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/paco-rabanne-one-million-200ml-edt-for-men",
+      "source_price": 149,
+      "source_count": 4,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/paco-rabanne-one-million-200ml-edt-for-men",
+          "brand": "Rabanne",
+          "name": "Rabanne 1 Million EDT 200ml",
+          "size": "200ml",
+          "price": 149,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/rabanne-1-million-edt-200ml-01-official-bottle.webp?v=1793499337"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/rabanne-1-million-parfum-200ml",
+          "brand": "Rabanne",
+          "name": "Rabanne 1 Million Parfum 200ml",
+          "size": "200ml",
+          "price": 209,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/rabanne-1-million-parfum-200ml-official-hero.jpg?v=1792190843"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/rabanne-1-million-edt-200ml",
+          "brand": "Rabanne",
+          "name": "Rabanne 1 Million EDT 200ml",
+          "size": "200ml",
+          "price": 290,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046143-0.png?v=1794264885"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/rabanne-1-million-parfum-200ml",
+          "brand": "Rabanne",
+          "name": "Rabanne 1 Million Parfum 200ml",
+          "size": "200ml",
+          "price": 320,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046144-0.jpg?v=1792445618"
+        }
+      ]
+    },
+    {
       "brand": "Bujairami",
       "name": "Fairy Dust by Bujairami 100ml EDP",
       "size": "100ml",
@@ -62250,34 +62574,6 @@
       ]
     },
     {
-      "brand": "Lattafa",
-      "name": "Lattafa Give Me Gourmand Mallow Madness Eau De Parfum 75ml",
-      "size": "75ml",
-      "size_ml": 75,
-      "price": 59.99,
-      "price_per_100ml": 79.99,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/164720/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/164720/lattafa-give-me-gourmand-mallow-madness-eau-de-parfum-75ml",
-      "source_price": 59.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/164720/lattafa-give-me-gourmand-mallow-madness-eau-de-parfum-75ml",
-          "brand": "Lattafa",
-          "name": "Lattafa Give Me Gourmand Mallow Madness Eau De Parfum 75ml",
-          "size": "75ml",
-          "price": 59.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/164720/F2D_200.jpg"
-        }
-      ]
-    },
-    {
       "brand": "Khadlaj",
       "name": "Nuha Bon Bon by Khadlaj 85ml EDP for Women",
       "size": "85ml",
@@ -65429,6 +65725,34 @@
           "price": 79.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/VLJGoldCouture100ml.jpg?v=1793155924"
+        }
+      ]
+    },
+    {
+      "brand": "Burberry",
+      "name": "Burberry Brit For Her Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 79.99,
+      "price_per_100ml": 79.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57703/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/57703/burberry-brit-for-her-eau-de-parfum-100ml",
+      "source_price": 79.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/57703/burberry-brit-for-her-eau-de-parfum-100ml",
+          "brand": "Burberry",
+          "name": "Burberry Brit For Her Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 79.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/57703/2DF_200.jpg"
         }
       ]
     },
@@ -68703,6 +69027,34 @@
           "price": 84.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-musamam-white-intense.png?v=1701294297"
+        }
+      ]
+    },
+    {
+      "brand": "LOreal Luxe New Zealand Auckland",
+      "name": "Ralph Lauren Ralph Eau De Toilette 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 84.99,
+      "price_per_100ml": 84.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/55055/2DB_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/55055/ralph-lauren-ralph-eau-de-toilette-100ml",
+      "source_price": 84.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/55055/ralph-lauren-ralph-eau-de-toilette-100ml",
+          "brand": "LOreal Luxe New Zealand Auckland",
+          "name": "Ralph Lauren Ralph Eau De Toilette 100ml",
+          "size": "100ml",
+          "price": 84.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/55055/2DB_200.jpg"
         }
       ]
     },
@@ -85268,6 +85620,34 @@
       ]
     },
     {
+      "brand": "LOreal Luxe New Zealand Auckland",
+      "name": "Ralph Lauren Polo Blue Eau De Parfum 125ml",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 139.99,
+      "price_per_100ml": 111.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85622/ADD3_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/85622/ralph-lauren-polo-blue-eau-de-parfum-125ml",
+      "source_price": 139.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/85622/ralph-lauren-polo-blue-eau-de-parfum-125ml",
+          "brand": "LOreal Luxe New Zealand Auckland",
+          "name": "Ralph Lauren Polo Blue Eau De Parfum 125ml",
+          "size": "125ml",
+          "price": 139.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85622/ADD3_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Dolce & Gabbana",
       "name": "Dolce & Gabbana Pour Femme EDT 100ml",
       "size": "100ml",
@@ -90174,7 +90554,7 @@
           "brand": "Narciso Rodriguez",
           "name": "Narciso Rodriguez For Her Eau De Toilette 100ml",
           "size": "100ml",
-          "price": 139.99,
+          "price": 119.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/86867/F2D_200.jpg"
         }
@@ -93320,6 +93700,62 @@
           "price": 129.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/89893/3DF_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Dolce & Gabbana",
+      "name": "Dolce & Gabbana For Women The Only One Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 129.99,
+      "price_per_100ml": 129.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/91162/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/91162/dolce-gabbana-for-women-the-only-one-eau-de-parfum-100ml",
+      "source_price": 129.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/91162/dolce-gabbana-for-women-the-only-one-eau-de-parfum-100ml",
+          "brand": "Dolce & Gabbana",
+          "name": "Dolce & Gabbana For Women The Only One Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 129.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/91162/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Hugo",
+      "name": "Hugo Boss Bottled Absolu Parfum Intense 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 129.99,
+      "price_per_100ml": 129.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/141763/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/141763/hugo-boss-bottled-absolu-parfum-intense-100ml",
+      "source_price": 129.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/141763/hugo-boss-bottled-absolu-parfum-intense-100ml",
+          "brand": "Hugo",
+          "name": "Hugo Boss Bottled Absolu Parfum Intense 100ml",
+          "size": "100ml",
+          "price": 129.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/141763/2DF_200.jpg"
         }
       ]
     },
@@ -103475,6 +103911,67 @@
       ]
     },
     {
+      "brand": "Jean Paul Gaultier",
+      "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
+      "size": "125ml",
+      "size_ml": 125,
+      "price": 189.99,
+      "price_per_100ml": 151.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-le-beau-narcisse---b.png?v=1792717058",
+      "description": "Le Beau Narcisse by Jean Paul Gaultier 125ml Eau De Parfum Spray for Men Le Beau Narcisse steps forward, wrapped in a golden scarf, drawn to a radiance he knows intimately, his own. In the mirror, he admires himself: desired, impossible to resist. No gesture required. Every line of his body seduces in silence. On his skin, bergamot flashes bright and fresh, giving way to a carnal bloom of musk. Tonka bean follows, rich and indulgent, leaving a voluptuous trail. An amber-musk scent that lingers like breath on skin, a forbidden caress. Le Beau Narcisse never pursues attention. He pulls it toward him. Designer: Jean Paul Gaultier Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Le Beau Narcisse stands out like a flash of light in a paradise covered in gold. Bare skin, muscles taut; he says nothing, his scent speaks for him. An amber-musk fragrance crafted for addiction. It opens with the crisp vitality of bergamot. Then musk unfolds, sensual. At last, tonka bean leaves its fiery, resolutely voluptuous trail. A fragrance like a forbidden caress, a lingering breath. Le Beau Narcisse doesn’t chase attention; he draws it in irresistibly. Le Beau Narcisse stands tall, his sculpted chest draped with a golden scarf resting on a shoulder set with a blue stone. The bottle unveils a light blue juice, as captivating as it is alluring. An object of desire with assertive sensuality. Housed in a blue metal case, engraved with golden swirls and adorned with a sapphire-toned stone. An exceptional gift set, guardian of an incandescent fragrance. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/le-beau-narcisse-by-jean-paul-gaultier-125ml-edp",
+      "source_price": 189.99,
+      "source_count": 4,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/le-beau-narcisse-by-jean-paul-gaultier-125ml-edp",
+          "brand": "Jean Paul Gaultier",
+          "name": "Le Beau Narcisse by Jean Paul Gaultier 125ml EDP",
+          "size": "125ml",
+          "price": 189.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-le-beau-narcisse---b.png?v=1792717058"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
+          "size": "125ml",
+          "price": 225,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/JeanPaulGaultierLeBeauNarcisseEDP125ml.jpg?v=1781828452"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
+          "size": "125ml",
+          "price": 250,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040531-0.jpg?v=1779658247"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml?_pos=10&_psq=Chanel&_psid=5ceb5d9d3&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
+          "size": "125ml",
+          "price": 250,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040531-0.jpg?v=1779658247"
+        }
+      ]
+    },
+    {
       "brand": "Roberto Cavalli",
       "name": "Roberto Cavalli Verde Assoluto EDP 75ml",
       "size": "75ml",
@@ -105882,67 +106379,6 @@
           "price": 197.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-le-beau-le-parfum---b.png?v=1784862962"
-        }
-      ]
-    },
-    {
-      "brand": "Jean Paul Gaultier",
-      "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
-      "size": "125ml",
-      "size_ml": 125,
-      "price": 197.99,
-      "price_per_100ml": 158.39,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-le-beau-narcisse---b.png?v=1792717058",
-      "description": "Le Beau Narcisse by Jean Paul Gaultier 125ml Eau De Parfum Spray for Men Le Beau Narcisse steps forward, wrapped in a golden scarf, drawn to a radiance he knows intimately, his own. In the mirror, he admires himself: desired, impossible to resist. No gesture required. Every line of his body seduces in silence. On his skin, bergamot flashes bright and fresh, giving way to a carnal bloom of musk. Tonka bean follows, rich and indulgent, leaving a voluptuous trail. An amber-musk scent that lingers like breath on skin, a forbidden caress. Le Beau Narcisse never pursues attention. He pulls it toward him. Designer: Jean Paul Gaultier Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Le Beau Narcisse stands out like a flash of light in a paradise covered in gold. Bare skin, muscles taut; he says nothing, his scent speaks for him. An amber-musk fragrance crafted for addiction. It opens with the crisp vitality of bergamot. Then musk unfolds, sensual. At last, tonka bean leaves its fiery, resolutely voluptuous trail. A fragrance like a forbidden caress, a lingering breath. Le Beau Narcisse doesn’t chase attention; he draws it in irresistibly. Le Beau Narcisse stands tall, his sculpted chest draped with a golden scarf resting on a shoulder set with a blue stone. The bottle unveils a light blue juice, as captivating as it is alluring. An object of desire with assertive sensuality. Housed in a blue metal case, engraved with golden swirls and adorned with a sapphire-toned stone. An exceptional gift set, guardian of an incandescent fragrance. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/le-beau-narcisse-by-jean-paul-gaultier-125ml-edp",
-      "source_price": 197.99,
-      "source_count": 4,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/le-beau-narcisse-by-jean-paul-gaultier-125ml-edp",
-          "brand": "Jean Paul Gaultier",
-          "name": "Le Beau Narcisse by Jean Paul Gaultier 125ml EDP",
-          "size": "125ml",
-          "price": 197.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/jean-paul-le-beau-narcisse---b.png?v=1792717058"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
-          "size": "125ml",
-          "price": 225,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/JeanPaulGaultierLeBeauNarcisseEDP125ml.jpg?v=1781828452"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
-          "size": "125ml",
-          "price": 250,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040531-0.jpg?v=1779658247"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/jean-paul-gaultier-le-beau-narcisse-edp-125ml?_pos=10&_psq=Chanel&_psid=5ceb5d9d3&_ss=e",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Beau Narcisse EDP 125ml",
-          "size": "125ml",
-          "price": 250,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20040531-0.jpg?v=1779658247"
         }
       ]
     },
@@ -110026,6 +110462,34 @@
           "price": 49.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/156499/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "CS Company NZ Auckland",
+      "name": "Marc Jacobs Daisy Eau De Toilette 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 49.99,
+      "price_per_100ml": 166.63,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/108209/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/108209/marc-jacobs-daisy-eau-de-toilette-30ml",
+      "source_price": 49.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/108209/marc-jacobs-daisy-eau-de-toilette-30ml",
+          "brand": "CS Company NZ Auckland",
+          "name": "Marc Jacobs Daisy Eau De Toilette 30ml",
+          "size": "30ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/108209/2DF_200.jpg"
         }
       ]
     },
@@ -124188,6 +124652,34 @@
       ]
     },
     {
+      "brand": "LOreal Luxe New Zealand Auckland",
+      "name": "Giorgio Armani Si Passione Eau De Parfum 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 189.99,
+      "price_per_100ml": 189.99,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/87771/2DB_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/87771/giorgio-armani-si-passione-eau-de-parfum-100ml",
+      "source_price": 189.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/87771/giorgio-armani-si-passione-eau-de-parfum-100ml",
+          "brand": "LOreal Luxe New Zealand Auckland",
+          "name": "Giorgio Armani Si Passione Eau De Parfum 100ml",
+          "size": "100ml",
+          "price": 189.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/87771/2DB_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Marc Jacobs",
       "name": "Marc Jacobs Daisy Love EDT 50ml",
       "size": "50ml",
@@ -125583,89 +126075,6 @@
           "price": 194,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046124-0.jpg?v=1792532057"
-        }
-      ]
-    },
-    {
-      "brand": "Yves Saint Laurent",
-      "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 174.99,
-      "price_per_100ml": 194.43,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/77228/2DF_200.jpg",
-      "description": "The seductively intoxicating and iconic fragrance from Yves Saint Laurent Beauté. The opening notes of adrenaline-rich coffee and the sweet sensuality of vanilla recline into the softness of white flowers for a modern, young addictive fragrance. Confident & bold, the BLACK OPIUM woman embodies the new Yves Saint Laurent spirit. She expresses a femininity glamourous yet impertinent. Always searching for new experiences, nothing will stop her. THE FRAGRANCE The electrifying energy of black coffee meets the assertive femininity of white flowers. A vibrant, sensual and addictive contrast of light and dark. Black coffee accord - Orange blossom - Cedarwood - Patchouli THE BOTTLE More irresistible than ever, the BLACK OPIUM bottle is reinvented in an unconditionally rock decor, absolutely feminine. The black glitter finish electrifies the intense black lacquer and reveals a blazing ring of burning femininity. THE INSPIRATION A modern, young & vibrant interpretation of addiction. BLACK OPIUM, a fragrance like a shot of adrenalin, the necessary energy for a life more & more intense. OLFACTORY FAMILY Oriental floral gourmand NOTES - Top notes: Black Coffee Accord - Middle notes: Orange Blossom - Base notes: Patchouli, Cedarwood",
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/77228/yves-saint-laurent-black-opium-eau-de-parfum-90ml",
-      "source_price": 174.99,
-      "source_count": 6,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/77228/yves-saint-laurent-black-opium-eau-de-parfum-90ml",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Black Opium Eau De Parfum 90ml",
-          "size": "90ml",
-          "price": 174.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/77228/2DF_200.jpg"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/yves-saint-laurent-black-opium-edp-90ml-for-women?_pos=7&_psq=Yves+Saint+Laurent&_psid=3dc8e2801&_ss=e",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
-          "size": "90ml",
-          "price": 219.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/yves-saint-laurent-black-opium-edp-90ml-for-women?_pos=6&_psq=Yves+Saint+Laurent&_psid=c877dadd3&_ss=e",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
-          "size": "90ml",
-          "price": 249.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/yves-saint-laurent-black-opium-edp-90ml-for-women?_pos=6&_psq=Yves+Saint+Laurent&_psid=748b31240&_ss=e",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
-          "size": "90ml",
-          "price": 249.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/yves-saint-laurent-black-opium-edp-90ml-for-women?_pos=8&_psq=eau+de+parfum&_psid=df89a2af7&_ss=e",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
-          "size": "90ml",
-          "price": 249.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/yves-saint-laurent-black-opium-edp-90ml-for-women?_pos=6&_psq=eau+de+parfum&_psid=c48589470&_ss=e",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
-          "size": "90ml",
-          "price": 249.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
         }
       ]
     },
@@ -129964,6 +130373,34 @@
           "price": 135,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/gxh_11064165-1.jpg?v=1758674794"
+        }
+      ]
+    },
+    {
+      "brand": "Cosmax",
+      "name": "Jimmy Choo I Want Choo Eau De Parfum 40ml",
+      "size": "40ml",
+      "size_ml": 40,
+      "price": 79.99,
+      "price_per_100ml": 199.97,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/115400/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/115400/jimmy-choo-i-want-choo-eau-de-parfum-40ml",
+      "source_price": 79.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/115400/jimmy-choo-i-want-choo-eau-de-parfum-40ml",
+          "brand": "Cosmax",
+          "name": "Jimmy Choo I Want Choo Eau De Parfum 40ml",
+          "size": "40ml",
+          "price": 79.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/115400/F2D_200.jpg"
         }
       ]
     },
@@ -140584,6 +141021,89 @@
       ]
     },
     {
+      "brand": "Yves Saint Laurent",
+      "name": "Yves Saint Laurent Black Opium Eau De Parfum 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 199.99,
+      "price_per_100ml": 222.21,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/77228/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/77228/yves-saint-laurent-black-opium-eau-de-parfum-90ml",
+      "source_price": 199.99,
+      "source_count": 6,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/77228/yves-saint-laurent-black-opium-eau-de-parfum-90ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium Eau De Parfum 90ml",
+          "size": "90ml",
+          "price": 199.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/77228/2DF_200.jpg"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/yves-saint-laurent-black-opium-edp-90ml-for-women?_pos=7&_psq=Yves+Saint+Laurent&_psid=3dc8e2801&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
+          "size": "90ml",
+          "price": 219.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/yves-saint-laurent-black-opium-edp-90ml-for-women?_pos=6&_psq=Yves+Saint+Laurent&_psid=c877dadd3&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
+          "size": "90ml",
+          "price": 249.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/yves-saint-laurent-black-opium-edp-90ml-for-women?_pos=6&_psq=Yves+Saint+Laurent&_psid=748b31240&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
+          "size": "90ml",
+          "price": 249.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/yves-saint-laurent-black-opium-edp-90ml-for-women?_pos=8&_psq=eau+de+parfum&_psid=df89a2af7&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
+          "size": "90ml",
+          "price": 249.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/yves-saint-laurent-black-opium-edp-90ml-for-women?_pos=6&_psq=eau+de+parfum&_psid=c48589470&_ss=e",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Black Opium Eau de Parfum 90ml",
+          "size": "90ml",
+          "price": 249.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10459406925854.jpg?v=1778343921"
+        }
+      ]
+    },
+    {
       "brand": "Gucci",
       "name": "Gucci Guilty Pour Femme Eau De Parfum 90ml",
       "size": "90ml",
@@ -141945,6 +142465,67 @@
       ]
     },
     {
+      "brand": "Paco Rabanne",
+      "name": "Fame In Love by Paco Rabanne 80ml Parfum Elixir",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 179.99,
+      "price_per_100ml": 224.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-fame-in-love-80ml_81bfcb2a-38b1-4c8e-bd40-f1a4be724433.png?v=1785893444",
+      "description": "Fame In Love by Paco Rabanne 80ml Parfum Elixir Spray for Women Unveil the most irresistible Fame feminine signature, infused with Rabanne’s unmistakable flair: Fame In Love Parfum Elixir. A flirty new love language for the playful Rabanne girl, heightened by a luscious burst of strawberry. Because love is always red. Designer: Paco Rabanne Year Introduced: 2025 Type: Parfum Elixir Category: Women Fragrance Notes: Truly. Madly. Deeply in love. Fame falls head over heels for Fame In Love Parfum Elixir. Indulge in the yummiest Fame feminine signature yet, with an unmistakable Rabanne twist. A super-juicy strawberry extract that turns the intense woody fruity floral scent into a new, playful love language for the ultimate Parisian It-girl. Fame In Love forms the ultimate power couple with the new Phantom In Red Parfum Elixir. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/fame-in-love-by-paco-rabanne-80ml-parfum-elixir",
+      "source_price": 179.99,
+      "source_count": 4,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/fame-in-love-by-paco-rabanne-80ml-parfum-elixir",
+          "brand": "Paco Rabanne",
+          "name": "Fame In Love by Paco Rabanne 80ml Parfum Elixir",
+          "size": "80ml",
+          "price": 179.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-fame-in-love-80ml_81bfcb2a-38b1-4c8e-bd40-f1a4be724433.png?v=1785893444"
+        },
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/fame-in-love-by-paco-rabanne-80ml-parfum-elixir?_pos=2&_psq=Paco+Rabanne&_psid=c03cd1a08&_ss=e",
+          "brand": "Paco Rabanne",
+          "name": "Fame In Love by Paco Rabanne 80ml Parfum Elixir",
+          "size": "80ml",
+          "price": 189.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-fame-in-love-80ml_81bfcb2a-38b1-4c8e-bd40-f1a4be724433.png?v=1785893444"
+        },
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/fame-in-love-by-paco-rabanne-80ml-parfum-elixir?_pos=2&_psq=Paco+Rabanne&_psid=3c37adf29&_ss=e",
+          "brand": "Paco Rabanne",
+          "name": "Fame In Love by Paco Rabanne 80ml Parfum Elixir",
+          "size": "80ml",
+          "price": 189.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-fame-in-love-80ml_81bfcb2a-38b1-4c8e-bd40-f1a4be724433.png?v=1785893444"
+        },
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/fame-in-love-by-paco-rabanne-80ml-parfum-elixir?_pos=6&_psq=Paco+Rabanne&_psid=7ffd01b87&_ss=e",
+          "brand": "Paco Rabanne",
+          "name": "Fame In Love by Paco Rabanne 80ml Parfum Elixir",
+          "size": "80ml",
+          "price": 189.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-fame-in-love-80ml_81bfcb2a-38b1-4c8e-bd40-f1a4be724433.png?v=1785893444"
+        }
+      ]
+    },
+    {
       "brand": "Hugo Boss",
       "name": "Hugo Boss The Scent for Him EDP Intense 100ml",
       "size": "100ml",
@@ -143130,34 +143711,6 @@
           "price": 265,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045773-0.jpg?v=1791322092"
-        }
-      ]
-    },
-    {
-      "brand": "Carolina Herrera",
-      "name": "Carolina Herrera Good Girl Eau De Parfum 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 114.99,
-      "price_per_100ml": 229.98,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85538/F2D_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/85538/carolina-herrera-good-girl-eau-de-parfum-50ml",
-      "source_price": 114.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/85538/carolina-herrera-good-girl-eau-de-parfum-50ml",
-          "brand": "Carolina Herrera",
-          "name": "Carolina Herrera Good Girl Eau De Parfum 50ml",
-          "size": "50ml",
-          "price": 114.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85538/F2D_200.jpg"
         }
       ]
     },
@@ -145895,67 +146448,6 @@
       ]
     },
     {
-      "brand": "Paco Rabanne",
-      "name": "Fame In Love by Paco Rabanne 80ml Parfum Elixir",
-      "size": "80ml",
-      "size_ml": 80,
-      "price": 189.99,
-      "price_per_100ml": 237.49,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-fame-in-love-80ml_81bfcb2a-38b1-4c8e-bd40-f1a4be724433.png?v=1785893444",
-      "description": "Fame In Love by Paco Rabanne 80ml Parfum Elixir Spray for Women Unveil the most irresistible Fame feminine signature, infused with Rabanne’s unmistakable flair: Fame In Love Parfum Elixir. A flirty new love language for the playful Rabanne girl, heightened by a luscious burst of strawberry. Because love is always red. Designer: Paco Rabanne Year Introduced: 2025 Type: Parfum Elixir Category: Women Fragrance Notes: Truly. Madly. Deeply in love. Fame falls head over heels for Fame In Love Parfum Elixir. Indulge in the yummiest Fame feminine signature yet, with an unmistakable Rabanne twist. A super-juicy strawberry extract that turns the intense woody fruity floral scent into a new, playful love language for the ultimate Parisian It-girl. Fame In Love forms the ultimate power couple with the new Phantom In Red Parfum Elixir. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/fame-in-love-by-paco-rabanne-80ml-parfum-elixir",
-      "source_price": 189.99,
-      "source_count": 4,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/fame-in-love-by-paco-rabanne-80ml-parfum-elixir",
-          "brand": "Paco Rabanne",
-          "name": "Fame In Love by Paco Rabanne 80ml Parfum Elixir",
-          "size": "80ml",
-          "price": 189.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-fame-in-love-80ml_81bfcb2a-38b1-4c8e-bd40-f1a4be724433.png?v=1785893444"
-        },
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/fame-in-love-by-paco-rabanne-80ml-parfum-elixir?_pos=2&_psq=Paco+Rabanne&_psid=c03cd1a08&_ss=e",
-          "brand": "Paco Rabanne",
-          "name": "Fame In Love by Paco Rabanne 80ml Parfum Elixir",
-          "size": "80ml",
-          "price": 189.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-fame-in-love-80ml_81bfcb2a-38b1-4c8e-bd40-f1a4be724433.png?v=1785893444"
-        },
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/fame-in-love-by-paco-rabanne-80ml-parfum-elixir?_pos=2&_psq=Paco+Rabanne&_psid=3c37adf29&_ss=e",
-          "brand": "Paco Rabanne",
-          "name": "Fame In Love by Paco Rabanne 80ml Parfum Elixir",
-          "size": "80ml",
-          "price": 189.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-fame-in-love-80ml_81bfcb2a-38b1-4c8e-bd40-f1a4be724433.png?v=1785893444"
-        },
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/fame-in-love-by-paco-rabanne-80ml-parfum-elixir?_pos=6&_psq=Paco+Rabanne&_psid=7ffd01b87&_ss=e",
-          "brand": "Paco Rabanne",
-          "name": "Fame In Love by Paco Rabanne 80ml Parfum Elixir",
-          "size": "80ml",
-          "price": 189.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-fame-in-love-80ml_81bfcb2a-38b1-4c8e-bd40-f1a4be724433.png?v=1785893444"
-        }
-      ]
-    },
-    {
       "brand": "Jean Paul Gaultier",
       "name": "Scandal Intense by Jean Paul Gaultier 80ml EDP for Women",
       "size": "80ml",
@@ -147021,6 +147513,34 @@
       ]
     },
     {
+      "brand": "Gucci",
+      "name": "Gucci Bamboo Eau De Parfum 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 119.99,
+      "price_per_100ml": 239.98,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/76448/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/76448/gucci-bamboo-eau-de-parfum-50ml",
+      "source_price": 119.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/76448/gucci-bamboo-eau-de-parfum-50ml",
+          "brand": "Gucci",
+          "name": "Gucci Bamboo Eau De Parfum 50ml",
+          "size": "50ml",
+          "price": 119.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/76448/F2D_200.jpg"
+        }
+      ]
+    },
+    {
       "brand": "Giorgio Armani",
       "name": "Si Parfum by Giorgio Armani 100ml Parfum",
       "size": "100ml",
@@ -147608,34 +148128,6 @@
           "price": 240,
           "currency": "NZD",
           "image_url": null
-        }
-      ]
-    },
-    {
-      "brand": "LOreal New Zealand Auckland",
-      "name": "Thierry Mugler Alien Refillable Eau De Parfum 60ml",
-      "size": "60ml",
-      "size_ml": 60,
-      "price": 144.99,
-      "price_per_100ml": 241.65,
-      "currency": "NZD",
-      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/109568/ADD6_200.jpg",
-      "description": null,
-      "source_name": "chemist-warehouse-search-suggest",
-      "source_url": "https://www.chemistwarehouse.co.nz/buy/109568/thierry-mugler-alien-refillable-eau-de-parfum-60ml",
-      "source_price": 144.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "chemist-warehouse-nz",
-          "source_name": "chemist-warehouse-search-suggest",
-          "source_url": "https://www.chemistwarehouse.co.nz/buy/109568/thierry-mugler-alien-refillable-eau-de-parfum-60ml",
-          "brand": "LOreal New Zealand Auckland",
-          "name": "Thierry Mugler Alien Refillable Eau De Parfum 60ml",
-          "size": "60ml",
-          "price": 144.99,
-          "currency": "NZD",
-          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/109568/ADD6_200.jpg"
         }
       ]
     },
@@ -153406,6 +153898,34 @@
           "price": 259,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/dior-addict-rosy-glow-edp-100ml-01-original-bottle.webp?v=1793512730"
+        }
+      ]
+    },
+    {
+      "brand": "Carolina Herrera",
+      "name": "Carolina Herrera Good Girl Eau De Parfum 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 129.99,
+      "price_per_100ml": 259.98,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85538/F2D_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/85538/carolina-herrera-good-girl-eau-de-parfum-50ml",
+      "source_price": 129.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/85538/carolina-herrera-good-girl-eau-de-parfum-50ml",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera Good Girl Eau De Parfum 50ml",
+          "size": "50ml",
+          "price": 129.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/85538/F2D_200.jpg"
         }
       ]
     },
@@ -164285,6 +164805,34 @@
           "price": 89.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/GXH_20024521-1.webp?v=1763605545"
+        }
+      ]
+    },
+    {
+      "brand": "LOreal New Zealand Auckland",
+      "name": "Thierry Mugler Alien Refillable Eau De Parfum 60ml",
+      "size": "60ml",
+      "size_ml": 60,
+      "price": 179.99,
+      "price_per_100ml": 299.98,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/109568/ADD6_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/109568/thierry-mugler-alien-refillable-eau-de-parfum-60ml",
+      "source_price": 179.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/109568/thierry-mugler-alien-refillable-eau-de-parfum-60ml",
+          "brand": "LOreal New Zealand Auckland",
+          "name": "Thierry Mugler Alien Refillable Eau De Parfum 60ml",
+          "size": "60ml",
+          "price": 179.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/109568/ADD6_200.jpg"
         }
       ]
     },
@@ -181715,6 +182263,73 @@
           "price": 109.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/106167/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Gucci",
+      "name": "Gucci Flora Gorgeous Magnolia Eau De Parfum 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 109.99,
+      "price_per_100ml": 366.63,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/4131727_na_1f.jpg?v=1757285776",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/gucci-flora-gorg-magnolia-edp-30ml",
+      "source_price": 109.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/gucci-flora-gorg-magnolia-edp-30ml",
+          "brand": "Gucci",
+          "name": "Gucci Flora Gorgeous Magnolia EDP 30ml",
+          "size": "30ml",
+          "price": 109.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/4131727_na_1f.jpg?v=1757285776"
+        },
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/141248/gucci-flora-gorgeous-magnolia-eau-de-parfum-30ml",
+          "brand": "Gucci",
+          "name": "Gucci Flora Gorgeous Magnolia Eau De Parfum 30ml",
+          "size": "30ml",
+          "price": 119.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/141248/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "LOreal Luxe New Zealand Auckland",
+      "name": "Yves Saint Laurent Black Opium Eau De Parfum 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 109.99,
+      "price_per_100ml": 366.63,
+      "currency": "NZD",
+      "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/77444/2DF_200.jpg",
+      "description": null,
+      "source_name": "chemist-warehouse-search-suggest",
+      "source_url": "https://www.chemistwarehouse.co.nz/buy/77444/yves-saint-laurent-black-opium-eau-de-parfum-30ml",
+      "source_price": 109.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "chemist-warehouse-nz",
+          "source_name": "chemist-warehouse-search-suggest",
+          "source_url": "https://www.chemistwarehouse.co.nz/buy/77444/yves-saint-laurent-black-opium-eau-de-parfum-30ml",
+          "brand": "LOreal Luxe New Zealand Auckland",
+          "name": "Yves Saint Laurent Black Opium Eau De Parfum 30ml",
+          "size": "30ml",
+          "price": 109.99,
+          "currency": "NZD",
+          "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/77444/2DF_200.jpg"
         }
       ]
     },
@@ -221274,10 +221889,5 @@
       ]
     }
   ],
-  "errors": [
-    {
-      "retailer_slug": "chemist-warehouse-nz",
-      "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
-    }
-  ]
+  "errors": []
 }
