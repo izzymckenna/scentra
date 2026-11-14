@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T10:35:50.370Z",
-  "count": 4646,
+  "generated_at": "2026-11-14T09:51:26.505Z",
+  "count": 4647,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -3923,7 +3923,7 @@
       "price_per_100ml": 7.2,
       "currency": "NZD",
       "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/100573/F2D_200.jpg",
-      "description": null,
+      "description": "Ariana Grande Sweet Like Candy Body Mist is an irresistible floral fragrance featuring delicious gourmand notes of marshmallow and vanilla. A sweet, powdery, fun fragrance for the young at heart. Middle Notes: Honeysuckle, Plumeria, Jasmine. Base Notes: Cashmere Accord, Vanilla, Marshmallow.",
       "source_name": "chemist-warehouse-search-suggest",
       "source_url": "https://www.chemistwarehouse.co.nz/buy/100573/ariana-grande-sweet-like-candy-body-mist-236ml",
       "source_price": 16.99,
@@ -25272,67 +25272,6 @@
       ]
     },
     {
-      "brand": "Britney Spears",
-      "name": "Britney Spears Midnight Fantasy EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 35.59,
-      "price_per_100ml": 35.59,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BRITNEYSPEARSMIDNIGHTFANTASYEDP100ML_2.jpg?v=1731022416",
-      "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/bs-mnight-fantasy-edp-100ml",
-      "source_price": 35.59,
-      "source_count": 4,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/bs-mnight-fantasy-edp-100ml",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Midnight Fantasy EDP 100ml",
-          "size": "100ml",
-          "price": 35.59,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BRITNEYSPEARSMIDNIGHTFANTASYEDP100ML_2.jpg?v=1731022416"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/bs-mnight-fantasy-edp-100ml?_pos=7&_psq=Britney+Spears&_psid=1f1189209&_ss=e",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Midnight Fantasy EDP 100ml",
-          "size": "100ml",
-          "price": 39.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BRITNEYSPEARSMIDNIGHTFANTASYEDP100ML_2.jpg?v=1731022416"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/bs-mnight-fantasy-edp-100ml?_pos=5&_psq=Britney+Spears&_psid=4073a3494&_ss=e",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Midnight Fantasy EDP 100ml",
-          "size": "100ml",
-          "price": 39.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BRITNEYSPEARSMIDNIGHTFANTASYEDP100ML_2.jpg?v=1731022416"
-        },
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/midnight-fantasy-britney-spears-100ml-edp?_pos=1&_psq=Britney+Spears&_psid=e25205e24&_ss=e",
-          "brand": "Britney Spears",
-          "name": "Midnight Fantasy by Britney Spears 100ml EDP",
-          "size": "100ml",
-          "price": 44.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/britney_midnight_fantasy_100ml_-_2.jpg?v=1508810612"
-        }
-      ]
-    },
-    {
       "brand": "Elizabeth Arden",
       "name": "Elizabeth Arden 5th Ave NYC Red EDP 70ml",
       "size": "70ml",
@@ -26996,6 +26935,67 @@
           "price": 19.99,
           "currency": "NZD",
           "image_url": null
+        }
+      ]
+    },
+    {
+      "brand": "Britney Spears",
+      "name": "Britney Spears Midnight Fantasy EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 39.99,
+      "price_per_100ml": 39.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BRITNEYSPEARSMIDNIGHTFANTASYEDP100ML_2.jpg?v=1731022416",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/bs-mnight-fantasy-edp-100ml",
+      "source_price": 39.99,
+      "source_count": 4,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/bs-mnight-fantasy-edp-100ml",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Midnight Fantasy EDP 100ml",
+          "size": "100ml",
+          "price": 39.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BRITNEYSPEARSMIDNIGHTFANTASYEDP100ML_2.jpg?v=1731022416"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/bs-mnight-fantasy-edp-100ml?_pos=7&_psq=Britney+Spears&_psid=1f1189209&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Midnight Fantasy EDP 100ml",
+          "size": "100ml",
+          "price": 39.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BRITNEYSPEARSMIDNIGHTFANTASYEDP100ML_2.jpg?v=1731022416"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/bs-mnight-fantasy-edp-100ml?_pos=5&_psq=Britney+Spears&_psid=4073a3494&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Midnight Fantasy EDP 100ml",
+          "size": "100ml",
+          "price": 39.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BRITNEYSPEARSMIDNIGHTFANTASYEDP100ML_2.jpg?v=1731022416"
+        },
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/midnight-fantasy-britney-spears-100ml-edp?_pos=1&_psq=Britney+Spears&_psid=e25205e24&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Midnight Fantasy by Britney Spears 100ml EDP",
+          "size": "100ml",
+          "price": 44.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/britney_midnight_fantasy_100ml_-_2.jpg?v=1508810612"
         }
       ]
     },
@@ -55358,34 +55358,6 @@
       ]
     },
     {
-      "brand": "Juicy Couture",
-      "name": "Viva La Juicy Sucre EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 71.19,
-      "price_per_100ml": 71.19,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/VLJSucre100ml.jpg?v=1793155461",
-      "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/viva-la-juicy-sucre-edp-100ml",
-      "source_price": 71.19,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/viva-la-juicy-sucre-edp-100ml",
-          "brand": "Juicy Couture",
-          "name": "Viva La Juicy Sucre EDP 100ml",
-          "size": "100ml",
-          "price": 71.19,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/VLJSucre100ml.jpg?v=1793155461"
-        }
-      ]
-    },
-    {
       "brand": "Armaf",
       "name": "Armaf Club De Nuit Maleka EDP 105ml",
       "size": "105ml",
@@ -63045,6 +63017,34 @@
           "price": 130,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11007675-0.jpg?v=1758688469"
+        }
+      ]
+    },
+    {
+      "brand": "Juicy Couture",
+      "name": "Viva La Juicy Sucre EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 79.99,
+      "price_per_100ml": 79.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/VLJSucre100ml.jpg?v=1793155461",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/viva-la-juicy-sucre-edp-100ml",
+      "source_price": 79.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/viva-la-juicy-sucre-edp-100ml",
+          "brand": "Juicy Couture",
+          "name": "Viva La Juicy Sucre EDP 100ml",
+          "size": "100ml",
+          "price": 79.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/VLJSucre100ml.jpg?v=1793155461"
         }
       ]
     },
@@ -72439,7 +72439,7 @@
           "brand": "Jimmy Choo",
           "name": "Jimmy Choo Man EDT 100ml",
           "size": "100ml",
-          "price": 92.55,
+          "price": 103.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/products/jimmy_choo_man_grande-2.jpg?v=1622698467"
         },
@@ -80976,7 +80976,7 @@
           "brand": "Paco Rabanne",
           "name": "Paco Rabanne Invictus EDT 100ml",
           "size": "100ml",
-          "price": 124.59,
+          "price": 139.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/15357748183070.jpg?v=1780227666"
         },
@@ -109564,6 +109564,34 @@
           "price": 194,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20015760-0.jpg?v=1769484736"
+        }
+      ]
+    },
+    {
+      "brand": "Versace",
+      "name": "Versace Crystal Noir EDP 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 144.99,
+      "price_per_100ml": 161.1,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/6924188_00_W500_H652.avif?v=1794440062",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/versace-crystal-noir-w-edp-90ml",
+      "source_price": 144.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/versace-crystal-noir-w-edp-90ml",
+          "brand": "Versace",
+          "name": "Versace Crystal Noir EDP 90ml",
+          "size": "90ml",
+          "price": 144.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/6924188_00_W500_H652.avif?v=1794440062"
         }
       ]
     },
@@ -223014,5 +223042,10 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "retailer_slug": "chemist-warehouse-nz",
+      "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
+    }
+  ]
 }
