@@ -1,63 +1,46 @@
 {
-  "generated_at": "2026-11-14T09:51:26.505Z",
+  "generated_at": "2026-11-15T10:27:10.438Z",
   "count": 4647,
   "cheapest": {
-    "brand": "VV Love",
-    "name": "VV Love Hello Mist Body Mist 250ml",
+    "brand": "Dear Body",
+    "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
     "size": "250ml",
     "size_ml": 250,
-    "price": 4.19,
-    "price_per_100ml": 1.68,
+    "price": 5,
+    "price_per_100ml": 2,
     "currency": "NZD",
-    "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw469a5880/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292",
+    "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5-67.jpg?v=1748562595",
     "description": null,
-    "source_name": "the-warehouse-fragrance-page",
-    "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
-    "source_price": 4.19,
-    "source_count": 1,
+    "source_name": "bargain-chemist-shopify-suggest",
+    "source_url": "https://www.bargainchemist.co.nz/products/dear-body-sparkl-pink-fmist-250ml?_pos=10&_psq=fragrance&_psid=4d6ca826b&_ss=e",
+    "source_price": 5,
+    "source_count": 2,
     "sources": [
       {
-        "retailer_slug": "the-warehouse",
-        "source_name": "the-warehouse-fragrance-page",
-        "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
-        "brand": "VV Love",
-        "name": "VV Love Hello Mist Body Mist 250ml",
+        "retailer_slug": "bargain-chemist",
+        "source_name": "bargain-chemist-shopify-suggest",
+        "source_url": "https://www.bargainchemist.co.nz/products/dear-body-sparkl-pink-fmist-250ml?_pos=10&_psq=fragrance&_psid=4d6ca826b&_ss=e",
+        "brand": "Dear Body",
+        "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
         "size": "250ml",
-        "price": 4.19,
+        "price": 5,
         "currency": "NZD",
-        "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw469a5880/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292"
+        "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5-67.jpg?v=1748562595"
+      },
+      {
+        "retailer_slug": "bargain-chemist",
+        "source_name": "bargain-chemist-shopify-suggest",
+        "source_url": "https://www.bargainchemist.co.nz/products/dear-body-sparkl-pink-fmist-250ml",
+        "brand": "Dear Body",
+        "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
+        "size": "250ml",
+        "price": 13.49,
+        "currency": "NZD",
+        "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5-67.jpg?v=1748562595"
       }
     ]
   },
   "results": [
-    {
-      "brand": "VV Love",
-      "name": "VV Love Hello Mist Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 4.19,
-      "price_per_100ml": 1.68,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw469a5880/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
-      "source_price": 4.19,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
-          "brand": "VV Love",
-          "name": "VV Love Hello Mist Body Mist 250ml",
-          "size": "250ml",
-          "price": 4.19,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw469a5880/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
     {
       "brand": "Dear Body",
       "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
@@ -122,6 +105,34 @@
           "price": 6,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/1_-mist-_-2-4.png?v=1710301966"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Hello Mist Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 6.99,
+      "price_per_100ml": 2.8,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa92de684/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
+      "source_price": 6.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
+          "brand": "VV Love",
+          "name": "VV Love Hello Mist Body Mist 250ml",
+          "size": "250ml",
+          "price": 6.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa92de684/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292"
         }
       ]
     },
