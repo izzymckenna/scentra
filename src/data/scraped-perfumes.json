@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T10:27:10.438Z",
-  "count": 4647,
+  "generated_at": "2026-11-16T10:41:57.775Z",
+  "count": 4693,
   "cheapest": {
     "brand": "Dear Body",
     "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
@@ -200,7 +200,7 @@
       "price": 4.5,
       "price_per_100ml": 3,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/adidasa.webp?v=1794783194",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/adidas-bsp-dynamic-pulse-150ml",
@@ -216,7 +216,7 @@
           "size": "150ml",
           "price": 4.5,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/adidasa.webp?v=1794783194"
         }
       ]
     },
@@ -690,6 +690,34 @@
           "price": 10.49,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/6a34c61ca3ad75b54f30b613cadd78f0.jpg?v=1729732856"
+        }
+      ]
+    },
+    {
+      "brand": "Dear Body",
+      "name": "Dear Body Chic Season Fragrance Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 10.49,
+      "price_per_100ml": 4.2,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/chic-season.png?v=1794771218",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/dear-body-chic-season-frg-mist-250ml",
+      "source_price": 10.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/dear-body-chic-season-frg-mist-250ml",
+          "brand": "Dear Body",
+          "name": "Dear Body Chic Season Fragrance Mist 250ml",
+          "size": "250ml",
+          "price": 10.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/chic-season.png?v=1794771218"
         }
       ]
     },
@@ -4331,7 +4359,7 @@
       "price": 14.99,
       "price_per_100ml": 7.5,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/english-rose-mist-200ml-p45-359_medium_20341b23-8afe-4c52-a9c8-e6cd211c92a2.jpg?v=1794769233",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/yar-body-mist-english-rose-200ml",
@@ -4347,7 +4375,7 @@
           "size": "200ml",
           "price": 14.99,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/english-rose-mist-200ml-p45-359_medium_20341b23-8afe-4c52-a9c8-e6cd211c92a2.jpg?v=1794769233"
         }
       ]
     },
@@ -7788,6 +7816,34 @@
           "price": 10.49,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw92b14776/images/hi-res/75/F8/R3023693_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "So...?",
+      "name": "So...? Unique Coco Loco Body Mist",
+      "size": null,
+      "size_ml": null,
+      "price": 10.49,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw23272517/images/hi-res/E1/2F/R3023691_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-coco-loco-body-mist/R3023691.html",
+      "source_price": 10.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-coco-loco-body-mist/R3023691.html",
+          "brand": "So...?",
+          "name": "So...? Unique Coco Loco Body Mist",
+          "size": null,
+          "price": 10.49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw23272517/images/hi-res/E1/2F/R3023691_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -13770,7 +13826,7 @@
       "price": 19.99,
       "price_per_100ml": 15.99,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/yardley-english-honeysuckle_1500x1500_8358e4ed-22df-4b0d-97ab-48dc8c8239c1.webp?v=1794769198",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/yar-honeysuckle-edt-spray-125ml",
@@ -13786,7 +13842,7 @@
           "size": "125ml",
           "price": 19.99,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/yardley-english-honeysuckle_1500x1500_8358e4ed-22df-4b0d-97ab-48dc8c8239c1.webp?v=1794769198"
         }
       ]
     },
@@ -13798,7 +13854,7 @@
       "price": 19.99,
       "price_per_100ml": 15.99,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/lilac-pear-eau-de-toilette-125ml-p37-235_image.jpg?v=1794769151",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/yar-lilac-pear-edt-spray-125ml",
@@ -13814,7 +13870,7 @@
           "size": "125ml",
           "price": 19.99,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/lilac-pear-eau-de-toilette-125ml-p37-235_image.jpg?v=1794769151"
         }
       ]
     },
@@ -16034,7 +16090,7 @@
       "price": 9.49,
       "price_per_100ml": 18.98,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/adidasfra.webp?v=1794783374",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/adidas-edt-spray-pure-game-50ml",
@@ -16050,7 +16106,7 @@
           "size": "50ml",
           "price": 9.49,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/adidasfra.webp?v=1794783374"
         },
         {
           "retailer_slug": "bargain-chemist",
@@ -16128,7 +16184,7 @@
       "price": 9.49,
       "price_per_100ml": 18.98,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/force.webp?v=1794783578",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/adidas-team-force-edt-spray-50ml",
@@ -16144,7 +16200,7 @@
           "size": "50ml",
           "price": 9.49,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/force.webp?v=1794783578"
         },
         {
           "retailer_slug": "bargain-chemist",
@@ -19365,6 +19421,34 @@
       ]
     },
     {
+      "brand": "Adidas",
+      "name": "ADIDAS Team Force 100ml EDT 3pc Set",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 24.99,
+      "price_per_100ml": 24.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_787c96c6-355f-465d-a020-8db7fd46ad11.webp?v=1794783081",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/adidas-teamfrc-100ml-edt-3pc-set-x23",
+      "source_price": 24.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/adidas-teamfrc-100ml-edt-3pc-set-x23",
+          "brand": "Adidas",
+          "name": "ADIDAS Team Force 100ml EDT 3pc Set",
+          "size": "100ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_787c96c6-355f-465d-a020-8db7fd46ad11.webp?v=1794783081"
+        }
+      ]
+    },
+    {
       "brand": "Elizabeth Arden",
       "name": "Elizabeth Arden Green Tea EDT 100ml Set 2pc",
       "size": "100ml",
@@ -22246,7 +22330,7 @@
       "price": 64.99,
       "price_per_100ml": 32.49,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/joop.webp?v=1794795470",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/joop-homme-edt-ns-200ml",
@@ -22262,7 +22346,7 @@
           "size": "200ml",
           "price": 64.99,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/joop.webp?v=1794795470"
         },
         {
           "retailer_slug": "bargain-chemist",
@@ -35757,7 +35841,7 @@
       "price": 54.99,
       "price_per_100ml": 54.99,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/calvin-klein-contradiction-men_700x700_879be93e-0728-44f2-a469-ee9dd1a04301.webp?v=1794795303",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/ck-contradiction-men-edt-100ml",
@@ -35773,7 +35857,7 @@
           "size": "100ml",
           "price": 54.99,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/calvin-klein-contradiction-men_700x700_879be93e-0728-44f2-a469-ee9dd1a04301.webp?v=1794795303"
         }
       ]
     },
@@ -42007,6 +42091,34 @@
       ]
     },
     {
+      "brand": "Bargain Chemist",
+      "name": "EA Red Door EDT 100ml GSet 3pc X26",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 59.99,
+      "price_per_100ml": 59.99,
+      "currency": "NZD",
+      "image_url": null,
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/ea-red-door-edt-100ml-gset-3pc-x26",
+      "source_price": 59.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ea-red-door-edt-100ml-gset-3pc-x26",
+          "brand": "Bargain Chemist",
+          "name": "EA Red Door EDT 100ml GSet 3pc X26",
+          "size": "100ml",
+          "price": 59.99,
+          "currency": "NZD",
+          "image_url": null
+        }
+      ]
+    },
+    {
       "brand": "Elizabeth Arden",
       "name": "Elizabeth Arden 5th Avenue EDP Spray 75ml",
       "size": "75ml",
@@ -46897,6 +47009,34 @@
           "price": 64.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/171686/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Bargain Chemist",
+      "name": "EA Wht Diam EDT 100ml G/Set 3pc X26",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 64.99,
+      "price_per_100ml": 64.99,
+      "currency": "NZD",
+      "image_url": null,
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/ea-wht-diam-edt-100ml-gset-3pc-x26",
+      "source_price": 64.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ea-wht-diam-edt-100ml-gset-3pc-x26",
+          "brand": "Bargain Chemist",
+          "name": "EA Wht Diam EDT 100ml G/Set 3pc X26",
+          "size": "100ml",
+          "price": 64.99,
+          "currency": "NZD",
+          "image_url": null
         }
       ]
     },
@@ -54980,6 +55120,258 @@
       ]
     },
     {
+      "brand": "Bujairami",
+      "name": "33 by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-33.png?v=1794788566",
+      "description": "33 by Bujairami 100ml Eau De Parfum Spray A smooth and sophisticated fragrance that blends creamy woods with soft florals and warm leathery depth. 33 by Bujairami is inspired by Santal 33 from Le Labo. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: 33 opens with the warm spice of cardamom, softened by delicate violet and powdery iris for a refined and elegant introduction. The heart develops into a rich woody blend, where sandalwood and Virginia cedar create a smooth, creamy depth, while papyrus adds a dry, slightly smoky character. As it settles, leather and amber bring warmth and sophistication, leaving a soft yet commanding trail that lingers beautifully. 33 is a refined fragrance journey of creamy woods, soft florals, and warm leathery elegance. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/33-by-bujairami-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/33-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "33 by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-33.png?v=1794788566"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Bad Obsession by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-bad-obsession.png?v=1794782329",
+      "description": "Bad Obsession by Bujairami 100ml Eau De Parfum Spray Bad Obsession by Bujairami is inspired by Goddess Amber Vanilla from Burberry. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Top Notes: Lavender Essence and Maple Syrup Accord. Heart Notes: Vanilla Absolute, Vanilla Caviar, Vanilla Infusion, and Caramelised Roasted Vanilla. Base Notes: Amber Accord. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/bad-obsession-by-bujairami-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/bad-obsession-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Bad Obsession by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-bad-obsession.png?v=1794782329"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Cherry Lightning by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-cherry-lightning.png?v=1794785157",
+      "description": "Cherry Lightning by Bujairami 100ml Eau De Parfum Spray Cherry Lightning by Bujairami is inspired by Electric Cherry from Tom Ford. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Top notes: Cherry, Ginger. Middle notes: Jasmine. Base notes: Pink Pepper, Musk. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/cherry-lightning-by-bujairami-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/cherry-lightning-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Cherry Lightning by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-cherry-lightning.png?v=1794785157"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Omega by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-omega.png?v=1794782747",
+      "description": "Omega by Bujairami 100ml Eau De Parfum Spray Omega by Bujairami is inspired by Paradigme Le Parfum from Prada. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: A refined and sensual fragrance opening with fresh bergamot. The heart blends smooth leathery vanilla with the sweet, aromatic nuances of gourmand geranium, while Amberever, Peru balsam, benzoin resin, and guaiac wood create a warm, rich, and resinous finish. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/omega-by-bujairami-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/omega-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Omega by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-omega.png?v=1794782747"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Overdrive by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-overdrive.png?v=1794787862",
+      "description": "Overdrive by Bujairami 100ml Eau De Parfum Spray Overdrive by Bujairami is inspired by Prada L'Homme. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Top notes are Neroli, Black Pepper, Cardamom and Carrot Seeds; Middle notes are Iris, Violet, Geranium and Mate; Base notes are Amber, Cedar, Sandalwood and Patchouli. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/overdrive-by-bujairami-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/overdrive-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Overdrive by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-overdrive.png?v=1794787862"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Pure Chemistry by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-pure-chemistry.png?v=1794782456",
+      "description": "Pure Chemistry by Bujairami 100ml Eau De Parfum Spray Pure Chemistry by Bujairami is inspired by Prada Paradoxe Sweet Chemistry. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Top notes: Blackcurrant Syrup Accord. Heart notes: Orange Blossom Absolute. Base notes: Neroli Milk Accord. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/pure-chemistry-by-bujairami-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/pure-chemistry-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Pure Chemistry by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-pure-chemistry.png?v=1794782456"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Senorita by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-senorita.png?v=1794782578",
+      "description": "Senorita by Bujairami 100ml Eau De Parfum Spray Senorita by Bujairami is inspired by Coco Mademoiselle Crush Absolu from Chanel. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Top Notes: Lychee and Grapefruit. Heart Notes: Rose and Jasmine. Base Notes: Patchouli, Amber Accord, Vanilla, and Vetiver. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/senorita-by-bujairami-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/senorita-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Senorita by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-senorita.png?v=1794782578"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Siege by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-siege.png?v=1794785643",
+      "description": "Siege by Bujairami 100ml Eau De Parfum Spray A bold and contemporary fragrance that blends tropical fruits with aromatic freshness and a deep suede-oud base. Siege by Bujairami is inspired by Blockade from Mind Games. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Siege opens with a vibrant burst of juicy mango and bergamot, sharpened by pink pepper and the green freshness of tomato leaf for a modern, energetic introduction. The heart unfolds into a unique blend of mango blossom and lavender, softened by watery cyclamen while star anise adds an aromatic spicy edge. As it settles, amber and patchouli create warmth and depth, while oud and suede bring a smooth, smoky richness that lingers with confidence and character. Siege is a daring fragrance journey of tropical freshness, aromatic spice, and deep suede-oud intensity. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/siege-by-bujairami-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/siege-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Siege by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-siege.png?v=1794785643"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Sugarbabe by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 69.99,
+      "price_per_100ml": 69.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-sugarbabe.png?v=1794781038",
+      "description": "Sugarbabe by Bujairami 100ml Eau De Parfum Spray Sugarbabe by Bujairami is inspired by Boujee Kitty Caramel Milk | 22 from Kayali Fragrances. Designer: Bujairami Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Top: Salted caramel, caramel milk, and coconut. Heart: White chocolate, vanilla caviar, and marshmallow fluff. Base: Caramel santal, soft musk, tonka bean, praline, and vanilla. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/sugarbabe-by-bujairami-100ml-edp",
+      "source_price": 69.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/sugarbabe-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Sugarbabe by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 69.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-sugarbabe.png?v=1794781038"
+        }
+      ]
+    },
+    {
       "brand": "Ralph Lauren",
       "name": "RALPH Polo Red Mens EDP 200ml",
       "size": "200ml",
@@ -56108,6 +56500,90 @@
           "price": 109.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-art-of-arabia-III.png?v=1711400943"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Stylish by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 72.99,
+      "price_per_100ml": 72.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-stylish.png?v=1794783511",
+      "description": "Stylish by Bujairami 100ml Eau De Parfum Spray Stylish by Bujairami is inspired by 1 Million Black from Paco Rabanne. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Top Notes: Roasted Pineapple / Tropical Notes, Blood Orange, Cardamom. Heart Notes: Vanilla Trio (Madagascar Vanilla, Bourbon Vanilla, and Classic Vanilla), Coconut, Clary Sage. Base Notes: Ebony Wood, Tonka Bean, Patchouli. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/stylish-by-bujairami-100ml-edp",
+      "source_price": 72.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/stylish-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Stylish by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 72.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-stylish.png?v=1794783511"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Unbeatable by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 72.99,
+      "price_per_100ml": 72.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-unbeatable.png?v=1794788096",
+      "description": "Unbeatable by Bujairami 100ml Eau De Parfum Spray Unbeatable by Bujairami is inspired by Invictus Elixir from Rabanne. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Top Notes: Salted Mineral Accord, Salt, and Grapefruit. Middle Notes: Aromatic Cypress, Lavender, and Coconut. Base Notes: Vanilla Caviar, Benzoin, Cedar, and Moss. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/unbeatable-by-bujairami-100ml-edp",
+      "source_price": 72.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/unbeatable-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Unbeatable by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 72.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-unbeatable.png?v=1794788096"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Zesty by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 72.99,
+      "price_per_100ml": 72.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-zesty.png?v=1794783804",
+      "description": "Zesty by Bujairami 100ml Eau De Parfum Spray Zesty by Bujairami is inspired by Taormina Orange from Tom Ford. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Top Notes: Blood orange, green mandarin, and lime. Middle Notes: Bitter orange and orange blossom. Base Notes: Oakmoss, patchouli, and musk. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/zesty-by-bujairami-100ml-edp",
+      "source_price": 72.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/zesty-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Zesty by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 72.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-zesty.png?v=1794783804"
         }
       ]
     },
@@ -59012,6 +59488,146 @@
       ]
     },
     {
+      "brand": "Bujairami",
+      "name": "Exclusif by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 74.99,
+      "price_per_100ml": 74.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-exclusif.png?v=1794782921",
+      "description": "Exclusif by Bujairami 100ml Eau De Parfum Spray Exclusif by Bujairami is inspired by Althaïr Exclusif from Parfums de Marly. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Top Notes: Amaretto, saffron, and bergamot. Heart Notes: Praline, cinnamon, orange blossom, and cardamom. Base Notes: Bourbon vanilla, guaiac wood, and Ambrox Super. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/exclusif-by-bujairami-100ml-edp",
+      "source_price": 74.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/exclusif-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Exclusif by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 74.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-exclusif.png?v=1794782921"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Full Throttle by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 74.99,
+      "price_per_100ml": 74.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-full-throttle.png?v=1794788323",
+      "description": "Full Throttle by Bujairami 100ml Eau De Parfum Spray A dynamic and sophisticated eau de parfum that combines vibrant citrus, aromatic herbs, and warm woody accords for a fragrance full of energy and refinement. Full Throttle by Bujairami is inspired by Speed Legends Living on the edge from Ex Nihilo. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Full Throttle opens with an invigorating blend of sparkling bergamot and juicy mandarin, lifted by the subtle spice of pink pepper for a fresh and energetic introduction. The heart reveals aromatic clary sage paired with the rich sweetness of blackcurrant, creating a perfectly balanced contrast of herbal freshness and fruity depth. As it settles, earthy vetiver and creamy tonka bean form a smooth, sophisticated base, leaving a warm, refined, and long-lasting trail that exudes confidence. Full Throttle is a bold fragrance journey of vibrant citrus, aromatic freshness, and smooth woody warmth. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/full-throttle-by-bujairami-100ml-edp",
+      "source_price": 74.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/full-throttle-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Full Throttle by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 74.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-full-throttle.png?v=1794788323"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Rocky by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 74.99,
+      "price_per_100ml": 74.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-rocky.png?v=1794786530",
+      "description": "Rocky by Bujairami 100ml Eau De Parfum Spray Rocky by Bujairami is inspired by Grey Vetiver from Tom Ford. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: Top notes are Grapefruit, Orange Blossom and Sage; Middle notes are Nutmeg, Orris Root and Pimento; Base notes are Vetiver, Woodsy Notes, Oakmoss and Amber. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/rocky-by-bujairami-100ml-edp",
+      "source_price": 74.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/rocky-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Rocky by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 74.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-rocky.png?v=1794786530"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Skin2Skin by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 74.99,
+      "price_per_100ml": 74.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-skin-2-skin.png?v=1794790539",
+      "description": "Skin2Skin by Bujairami 100ml Eau De Parfum Spray Skin2Skin is a soft and intimate gourmand fragrance that blends creamy vanilla sweetness with warm musky depth. Smooth, comforting, and subtly sensual, it creates a cozy scent that feels warm, delicate, and effortlessly addictive. Skin2Skin by Bujairami is inspired by Tihota from Indult. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Skin2Skin opens with the luxurious sweetness of Tahitian vanilla paired with delicate cane sugar, creating a warm and comforting introduction that feels soft and inviting. As the fragrance develops, a creamy almond milk accord blends with rich tonka bean, adding a smooth gourmand character that enhances the fragrance’s cozy and indulgent feel. In the dry down, white musk and amber emerge to create a warm, skin-like finish that lingers softly, leaving a subtle yet addictive trail. Skin2Skin — a comforting fragrance journey where creamy vanilla, soft gourmand notes, and warm musk melt into an intimate and elegant scent. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/skin2skin-by-bujairami-100ml-edp",
+      "source_price": 74.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/skin2skin-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Skin2Skin by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 74.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-skin-2-skin.png?v=1794790539"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Why Not? by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 74.99,
+      "price_per_100ml": 74.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-why-not.png?v=1794783092",
+      "description": "Why Not? by Bujairami 100ml Eau De Parfum Spray Why Not? by Bujairami is inspired by I Will from Giorgio Armani. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Men Fragrance Notes: A refined aromatic fragrance opening with bright Calabrian bergamot and warm cardamom. The heart blends Provence lavender, violet leaf, and sage, while Madagascar vanilla, woodleather, and patchouli create a smooth, warm, and sophisticated finish. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/why-not-by-bujairami-100ml-edp",
+      "source_price": 74.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/why-not-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Why Not? by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 74.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-why-not.png?v=1794783092"
+        }
+      ]
+    },
+    {
       "brand": "Versace",
       "name": "Versace Eros PH EDT 200ml",
       "size": "200ml",
@@ -61345,6 +61961,34 @@
           "price": 78.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mykonos-monaco-royale.png?v=1788305308"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Candy Carousel by Bujairami 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 78.99,
+      "price_per_100ml": 78.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-candy-carousel.png?v=1794785861",
+      "description": "Candy Carousel by Bujairami 100ml Eau De Parfum Spray Candy Carousel is a playful gourmand fragrance that captures the joy of sweet treats and carnival delights. Rich, sugary, and irresistibly comforting, it blends fruity brightness with buttery sweetness and warm creamy notes. Candy Carousel by Bujairami is inspired by L'eau de Parfum from Cirque du Soleil. Designer: Bujairami Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Candy Carousel opens with a sugary burst of cotton candy and crisp red apple, lifted by the bright freshness of bergamot for a lively and joyful introduction. As the fragrance develops, a unique gourmand heart of buttery popcorn unfolds, softened by delicate freesia and powdery iris petals, adding an airy floral touch to the sweetness. In the dry down, creamy caramel and rich vanilla bean melt into warm amber and smooth sandalwood, creating a deliciously comforting and long-lasting finish. Candy Carousel is a whimsical blend of sweet treats and creamy warmth for a truly indulgent fragrance journey. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/candy-carousel-by-bujairami-100ml-edp",
+      "source_price": 78.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/candy-carousel-by-bujairami-100ml-edp",
+          "brand": "Bujairami",
+          "name": "Candy Carousel by Bujairami 100ml EDP",
+          "size": "100ml",
+          "price": 78.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-candy-carousel.png?v=1794785861"
         }
       ]
     },
@@ -69724,6 +70368,118 @@
       ]
     },
     {
+      "brand": "Bujairami",
+      "name": "Last Flame by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 84.99,
+      "price_per_100ml": 84.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-last-flame.png?v=1794790178",
+      "description": "Last Flame by Bujairami 100ml Extrait De Parfum Spray Last Flame by Bujairami is inspired by Line 618 from Amouage. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Unisex Fragrance Notes: Top Notes: Hojari Frankincense, Black Pepper, Pineapple, Peach, and Plum. Heart Notes: Pine, Heliotrope, and Coconut Milk. Base Notes: Patchouli, Sandalwood, Guaiacwood, and Leather. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/last-flame-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 84.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/last-flame-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Last Flame by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 84.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-last-flame.png?v=1794790178"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Legacy by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 84.99,
+      "price_per_100ml": 84.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-legacy---2.png?v=1794792625",
+      "description": "Legacy by Bujairami 100ml Extrait De Parfum Spray A refined and powerful Extrait de Parfum that blends vibrant citrus, warm spices, and creamy gourmand accords with rich woody undertones. Bold yet sophisticated, Legacy delivers exceptional depth, longevity, and a memorable scent trail for those who appreciate timeless elegance with a modern edge. Legacy by Bujairami is inspired by Althaïr from Parfums de Marly. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Unisex Fragrance Notes: Legacy opens with a radiant burst of Italian bergamot and orange blossom, elevated by the warm spice of Ceylon cinnamon and aromatic Guatemalan cardamom, creating a vibrant and distinguished introduction. The heart unfolds with smooth bourbon vanilla and resinous elemi, adding a creamy warmth balanced by a fresh, subtly balsamic character that enhances the fragrance’s sophistication. As it settles, smoky guaiac wood blends seamlessly with modern ambroxan, rich praline, and soft musk, leaving a warm, woody, and irresistibly long-lasting trail that exudes confidence and refinement. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/legacy-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 84.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/legacy-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Legacy by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 84.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-legacy---2.png?v=1794792625"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Real Deal by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 84.99,
+      "price_per_100ml": 84.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-real-deal.png?v=1794792148",
+      "description": "Real Deal by Bujairami 100ml Extrait De Parfum Spray A fresh and sophisticated Extrait de Parfum that blends vibrant citrus, crisp green accords, aromatic tea, and smooth woods into a modern fragrance full of character. Clean, invigorating, and exceptionally long-lasting, Real Deal is a refined scent that embodies confidence and effortless elegance. Real Deal by Bujairami is inspired by Silver Mountain Water from Creed. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Unisex Fragrance Notes: Real Deal opens with a vibrant burst of sparkling bergamot, juicy mandarin orange, luminous neroli, blackcurrant bud, and fresh green galbanum, creating an energetic and refreshing first impression. The heart reveals a refined blend of aromatic green tea, juicy blackcurrant, and crisp salty ozonic accords, adding a cool, airy freshness that evokes the feeling of a coastal breeze. As it settles, soft musk, creamy sandalwood, and aromatic petitgrain create a smooth, woody base that lingers beautifully on the skin with clean sophistication and understated elegance. Real Deal is a refreshing fragrance journey of vibrant citrus, aromatic tea, and elegant woody freshness. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/real-deal-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 84.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/real-deal-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Real Deal by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 84.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-real-deal.png?v=1794792148"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Top Tier by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 84.99,
+      "price_per_100ml": 84.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-top-tier-extrait.png?v=1794789304",
+      "description": "Top Tier by Bujairami 100ml Extrait De Parfum Spray Top Tier by Bujairami is inspired by Tuxedo Extrait de Parfum from Yves Saint Laurent. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Unisex Fragrance Notes: A bold and sophisticated fragrance opening with spicy saffron, vibrant pink pepper, and fresh bergamot. The heart blends green violet leaf with rich leather and elegant rose, while patchouli, oak, and vanilla bean create a warm, earthy, and sensual finish. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/top-tier-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 84.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/top-tier-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Top Tier by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 84.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-top-tier-extrait.png?v=1794789304"
+        }
+      ]
+    },
+    {
       "brand": "Lattafa",
       "name": "Lattafa Eclaire EDP 100ml",
       "size": "100ml",
@@ -74617,6 +75373,174 @@
           "price": 89.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/91938/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Delulu by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 89.99,
+      "price_per_100ml": 89.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-delulu.png?v=1794790819",
+      "description": "Delulu by Bujairami 100ml Extrait De Parfum Spray Delulu by Bujairami is inspired by The Hedonist Extrait de Parfum from Ex Nihilo. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Unisex Fragrance Notes: A vibrant woody fragrance opening with sparkling grapefruit, fresh bergamot, and spicy ginger. The heart blends aromatic Akigalawood and cedarwood with juicy lychee, while amber woods, vetiver, tonka bean, and patchouli create a warm, smooth, and sophisticated finish. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/delulu-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/delulu-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Delulu by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-delulu.png?v=1794790819"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Final Boss by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 89.99,
+      "price_per_100ml": 89.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-final-boss.png?v=1794791466",
+      "description": "Final Boss by Bujairami 100ml Extrait De Parfum Spray Final Boss by Bujairami is inspired by Sauvage Extrait from Dior. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Men Fragrance Notes: Top Notes: Bergamot, Lavender Essence from Provence, Ambroxan. Heart Notes: Vietnamese Oud Essence. Base Notes: Virginia Cedarwood, Atlas Cedar, Indonesian Patchouli, Madagascan Vetiver. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/final-boss-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/final-boss-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Final Boss by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-final-boss.png?v=1794791466"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "High Society by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 89.99,
+      "price_per_100ml": 89.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-high-society-extrait.png?v=1794789012",
+      "description": "High Society by Bujairami 100ml Extrait De Parfum Spray High Society by Bujairami is inspired by Brompton Immortals Extrait de Parfum from Ex Nihilo. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Unisex Fragrance Notes: Top Notes: Saffron, Pink Pepper. Middle Notes: Bulgarian Rose, Jasmine Absolute, Ylang-Ylang. Base Notes: Vanilla, White Musk, Olibanum, Patchouli. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/high-society-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/high-society-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "High Society by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-high-society-extrait.png?v=1794789012"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Loco by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 89.99,
+      "price_per_100ml": 89.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-loco.png?v=1794789699",
+      "description": "Loco by Bujairami 100ml Extrait De Parfum Spray Loco by Bujairami is inspired by Sedley from Parfums De Marly. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Unisex Fragrance Notes: Top Notes: Bergamot, Spearmint, Orange. Heart Notes: Geranium, Lavandin, Pine. Base Notes: Sandalwood, Ambrox, White Musks. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/loco-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/loco-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Loco by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-loco.png?v=1794789699"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Sacred Order by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 89.99,
+      "price_per_100ml": 89.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-sacred-order.png?v=1794791666",
+      "description": "Sacred Order by Bujairami 100ml Extrait De Parfum Spray A luxurious and powerful fragrance that blends vibrant fruits with rich florals and a deep oud-leather base. Sacred Order by Bujairami is inspired by Sequence from Amouage. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Men Fragrance Notes: Sacred Order opens with a striking blend of juicy raspberry and lychee, elevated by saffron for a warm and slightly exotic introduction. The heart reveals a rich floral composition, where rose and osmanthus create elegance and depth, softened by the creamy warmth of tonka bean. As it settles, leather and oud form a bold, smoky foundation, while amberwood adds smooth modern warmth and impressive longevity. Sacred Order is a commanding fragrance journey of vibrant fruits, floral richness, and deep oud-leather intensity. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/sacred-order-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/sacred-order-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Sacred Order by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-sacred-order.png?v=1794791666"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Shadow Script by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 89.99,
+      "price_per_100ml": 89.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-shadow-script-extrait.png?v=1794789910",
+      "description": "Shadow Script by Bujairami 100ml Extrait De Parfum Spray A bold and sophisticated extrait de parfum that combines smoky resins, aromatic spices, elegant woods, and smooth suede into a luxurious fragrance with remarkable depth. Shadow Script by Bujairami is inspired by Purpose 50 from Amouage. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Unisex Fragrance Notes: Shadow Script opens with an intriguing blend of smoky frankincense, vibrant bergamot, pink pepper, and warm pimento, creating a bold and sophisticated introduction with aromatic intensity. The heart reveals an elegant composition of earthy papyrus, creamy sandalwood, refined vetiver, and velvety rose, adding depth and balance with a seamless fusion of woody and floral accords. As it settles, rich Akigalawood, soft suede, Mystikal, creamy vanilla, and exotic saffron create a warm, smoky, and irresistibly smooth base that lingers beautifully on the skin with exceptional richness and character. Shadow Script is a captivating fragrance journey of smoky resins, elegant woods, and luxurious warmth. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/shadow-script-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/shadow-script-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Shadow Script by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-shadow-script-extrait.png?v=1794789910"
         }
       ]
     },
@@ -91283,6 +92207,34 @@
       ]
     },
     {
+      "brand": "Hugo Boss",
+      "name": "BOSS Bottled Grey EDT Spray 100mI",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 119.99,
+      "price_per_100ml": 119.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/7370523511001.jpg?v=1794769100",
+      "description": "BOSS HUGO BOSS Boss bottled Eau de Toilette Spray 100 ML. A refined masculinity is revealed in BOSS Bottled Eau de Toilette for men. This fragrance of contrasting forces combines the freshness of apple and bergamot with intensely addictive cardamom, and the dark elegance of vetiver. An intense and refined masculinity is revealed in BOSS Bottled Eau de Toilette. An intense fragrance created for driven, ambitious men ready to take on every challenge that comes their way, this noble composition brings a new intensity to the warmth and vibrancy of the timeless BOSS Bottled signature. With BOSS Bottled Eau de Parfum, the senses are awakened with a burst of apple and bergamot, contrasted with essence of black pepper. The spicy heart of this Eau de Parfum for men unfolds with warm and addictive cardamom and cinnamon oils. Exuding a powerful balance of strength and sophistication, base notes of dark vetiver and musk evolve through time, delivering a leathery and smoky signature to the BOSS fragrance. Composed by master perfumer Honorine Blanc, BOSS Bottled Eau de Parfum for men brings together exclusively sourced natural ingredients and innovative new extraction methods to create a scent with a luxurious singularity, and surprising contemporary facets. The iconic luxury perfume flacon holds a grey-coloured fragrance with warm chestnut reflections, echoing the addictive, deeply masculine tonalities of the scent. The cap is dressed with a brushed gold finish, in an expression of timeless elegance. Size: 100 ML Fragrance: Floral Scent: Floral woody fragrance KEY FEATURES • Hugo Boss bottled Eau de Toilette Spray 100 ML • Top Notes: Apple • Heart Notes: Cinamon • Base Notes: Wood • Fragrance Family: Woody • Mood: Masculine, iconic, elegant",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/boss-grey-edt-spray-100mi",
+      "source_price": 119.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/boss-grey-edt-spray-100mi",
+          "brand": "Hugo Boss",
+          "name": "BOSS Bottled Grey EDT Spray 100mI",
+          "size": "100ml",
+          "price": 119.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/7370523511001.jpg?v=1794769100"
+        }
+      ]
+    },
+    {
       "brand": "Victoria's Secret",
       "name": "Victoria’s Secret Angel Gold EDP Spray 50ml",
       "size": "50ml",
@@ -92634,6 +93586,34 @@
           "price": 99.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/91175/3DF_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Bujairami",
+      "name": "Boss Life Extreme by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 124.99,
+      "price_per_100ml": 124.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-boss-life-extreme.png?v=1794791052",
+      "description": "Boss Life Extreme by Bujairami 100ml Extrait De Parfum Spray Boss Life Extreme by Bujairami is an intensely captivating and opulent fragrance that combines aromatic spices, precious resins and deep oriental woods to create a bold and commanding scent. Boss Life Extreme by Bujairami is inspired by Outlands from Amouage. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Unisex Fragrance Notes: The fragrance opens with an impressive combination of aromatic frankincense, resinous elemi and warm cardamom, brightened by zesty lemon and bergamot. Sichuan pepper introduces a distinctive spicy intensity, creating a bold and energising first impression. At the heart, earthy patchouli blends with an intricate selection of spices, including anise, coriander, cumin and saffron. Delicate orange blossom, geranium and rose bring floral refinement, while wormwood adds an intriguing aromatic bitterness. This complex composition creates a rich, textured and commanding character. As the fragrance settles, an opulent blend of oud, frankincense, vanilla, benzoin and labdanum unfolds. Warm amber, smoky birch, opoponax and musk add depth and sensuality, while ambergris and maltol bring a distinctive finishing touch. The result is a powerful, resinous and beautifully layered trail. Boss Life Extreme — an extraordinary expression of bold sophistication, combining exotic spices, rich resins and luxurious oriental woods. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/boss-life-extreme-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 124.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/boss-life-extreme-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Boss Life Extreme by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 124.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-boss-life-extreme.png?v=1794791052"
         }
       ]
     },
@@ -98864,6 +99844,34 @@
       ]
     },
     {
+      "brand": "Paco Rabanne",
+      "name": "Paco lnvictus 2pc 100ml EDT,20ml EDT Travel",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 139.99,
+      "price_per_100ml": 139.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3349668628681.webp?v=1794774943",
+      "description": "Paco Rabanne Invictus EDT Travel Set smells of zesty grapefruit and jasmine, with Paco Rabanne Invictus EDT and Paco Rabanne Invictus EDT Travel Spray for on-the-go freshness.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/rabanne-paco-lnvi-100ml-edt-trav-2pc",
+      "source_price": 139.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/rabanne-paco-lnvi-100ml-edt-trav-2pc",
+          "brand": "Paco Rabanne",
+          "name": "Paco lnvictus 2pc 100ml EDT,20ml EDT Travel",
+          "size": "100ml",
+          "price": 139.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3349668628681.webp?v=1794774943"
+        }
+      ]
+    },
+    {
       "brand": "Billie Eilish",
       "name": "Billie Eilish Eilish EDP 100ml Set 3pcs",
       "size": "100ml",
@@ -102451,7 +103459,7 @@
       "price_per_100ml": 149.99,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/issey-lumiere-d_issey.png?v=1784682803",
-      "description": "Lumiere d'Issey by Issey Miyake 100ml Eau De Parfum Spray for Women Radiant, uplifting and softly addictive – Issey Miyake Lumière d’Issey Eau de Parfum captures the quiet magic of dawn. It’s a scent that glows from within, wrapping you in warmth, light and a sense of calm optimism. Like the promise of a new dawn, light gives birth to life. Chasing the shadows away, the radiance of optimism shines brightly. Feel alive, vibrant. Hopeful. Wear the light, spread the light. Designer: Issey Miyake Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: The fragrance opens with a sparkling burst of green mandarin – bright, juicy and full of energy, like the first light of day. At its heart, natural orange blossom blooms with soft, luminous elegance, creating a halo of delicate floral warmth. As it settles, a creamy pistachio wood accord lingers on the skin, adding a smooth, sunlit depth that feels both comforting and modern. Lumière d’Issey is a celebration of light, connection and new beginnings. Fresh yet warm, it’s perfect for everyday wear – a gentle reminder to embrace each day with clarity, joy and a sense of possibility. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "description": "Lumière d’Issey Eau de Parfum the luminous new refillable fragrance for women. Lumière d’Issey is the new Issey Miyake women’s eau de parfum filled with light. Like the promise of a new dawn, light gives birth to life. Chasing the shadows away, the radiance of optimism shines brightly. Feel alive, vibrant. Hopeful. Wear the light, spread the light.",
       "source_name": "perfume-nz-shopify-suggest",
       "source_url": "https://www.perfumenz.co.nz/products/lumiere-dissey-by-issey-miyake-100ml-edp",
       "source_price": 149.99,
@@ -108706,6 +109714,34 @@
       ]
     },
     {
+      "brand": "Paco Rabanne",
+      "name": "Paco Rabanne Phantom 2pc 100ml EDT,20ml EDT",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 159.99,
+      "price_per_100ml": 159.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3349668628711.jpg?v=1794774940",
+      "description": "Paco Rabanne Phantom blends innovation and craftsmanship, delivering an electrifying olfactory experience. This scent embodies confidence and energy, making it an essential choice for men who seek a vibrant and charismatic fragrance.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/rabanne-phantom-100ml-edt-2pc",
+      "source_price": 159.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/rabanne-phantom-100ml-edt-2pc",
+          "brand": "Paco Rabanne",
+          "name": "Paco Rabanne Phantom 2pc 100ml EDT,20ml EDT",
+          "size": "100ml",
+          "price": 159.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3349668628711.jpg?v=1794774940"
+        }
+      ]
+    },
+    {
       "brand": "Dior",
       "name": "Dior Sauvage EDT M 200ml",
       "size": "200ml",
@@ -113520,6 +114556,34 @@
           "price": 225,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Versace_Pour_Femme_Dylan_Blush_Pink_EDP_100ml_bottle.jpg?v=1781828224"
+        }
+      ]
+    },
+    {
+      "brand": "Giorgio Armani",
+      "name": "Acqua Di Gio M 2pc 100ml EDT,750",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 169.99,
+      "price_per_100ml": 169.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3360372101376.webp?v=1794774947",
+      "description": "Introduced by Giorgio Armani in 1997, Acqua Di Gio is a sharp aquatic fragrance. This Perfume has a blend of citrus, rosemary, spice, jasmine, woods and ocean breezes. It is recommended for daytime or evening casual.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/acqua-mens-100ml-edt-2pc",
+      "source_price": 169.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/acqua-mens-100ml-edt-2pc",
+          "brand": "Giorgio Armani",
+          "name": "Acqua Di Gio M 2pc 100ml EDT,750",
+          "size": "100ml",
+          "price": 169.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3360372101376.webp?v=1794774947"
         }
       ]
     },
@@ -141233,6 +142297,34 @@
       ]
     },
     {
+      "brand": "Chloe",
+      "name": "Chloe 3pc 100ml EDP,I00ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 219.99,
+      "price_per_100ml": 219.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3616305258526.webp?v=1794774951",
+      "description": "Chloé celebrates spring and all forms of love with a collection of gift sets inspired by the Maxime wedge sandals, under the creative direction of Chemena Kamali. The spirit of the sandals is reflected in the gift sets, which feature universal love messages that could be engraved on a bench, table or chair in a Parisian garden such as the Jardin du Luxembourg. This emblematic place in the heart of Paris is the setting for shared secrets, friendships formed and love declared. Each gift set carries a message of love, freedom and togetherness. The Eau de Parfum is housed in a sunray-pleated glass perfume bottle, adorned with a hand-tied ribbon.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/chloe-ladies-100ml-edp-set-3pc",
+      "source_price": 219.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/chloe-ladies-100ml-edp-set-3pc",
+          "brand": "Chloe",
+          "name": "Chloe 3pc 100ml EDP,I00ml EDP",
+          "size": "100ml",
+          "price": 219.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3616305258526.webp?v=1794774951"
+        }
+      ]
+    },
+    {
       "brand": "Bargain Chemist",
       "name": "Elie Saab 50ml EDP (W)",
       "size": "50ml",
@@ -152449,6 +153541,62 @@
       ]
     },
     {
+      "brand": "Paco Rabanne",
+      "name": "Paco Rabanne Olympea 2pc 80ml EDP",
+      "size": "80ml",
+      "size_ml": 80,
+      "price": 199.99,
+      "price_per_100ml": 249.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3349668628742.webp?v=1794774948",
+      "description": "Olympea Eau de Parfum is a sensual scent with a twist on a traditional oriental influence. Including notes of jasmine, vanilla and sandalwood, this fragrance is a feminine and romantic choice. The concept is based on the idea of a modern Greek goddess and evokes strength, dynamism and conquests.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/rabanne-olympea-80ml-edp-2pc",
+      "source_price": 199.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/rabanne-olympea-80ml-edp-2pc",
+          "brand": "Paco Rabanne",
+          "name": "Paco Rabanne Olympea 2pc 80ml EDP",
+          "size": "80ml",
+          "price": 199.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3349668628742.webp?v=1794774948"
+        }
+      ]
+    },
+    {
+      "brand": "YSL",
+      "name": "YSL Myself 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 249.99,
+      "price_per_100ml": 249.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3614273852814.jpg?v=1794774945",
+      "description": "The new masculine refillable fragrance by Yves Saint Laurent. WHAT IT IS The expression of the man you are, with all your nuances. A statement of modern masculinity, embracing all his facets and emotions. The first YSL BEAUTY woody floral for a contrasted trail of modernity. At first, a fresh & vibrant accord made of bergamot heart from Calabria and vert de bergamot. At heart, a raw & beating orange blossom absolute heart from Tunisia crafted for YSL beauty. At last, a sensual & textured woods accord made of Indonesian patchouli heart and Ambrofix. WHAT IT DOES A YSL silhouette in a bottle. Sleek. Fluid. A black lacquered monolith in nuances where you can see yourself. At its heart, embedded in the glass, is the iconic YSL Cassandre logotype. YSL Beauty is committed to reducing its impact on the environment. All formats of MYSLF are refillable, allowing for less packaging material. For light intensity: Spray in a cloud around your head and shoulders, let the fragrance fall gently around you. For medium intensity: Spray in a Y-shape across your body, beginning at one shoulder and finishing at the other. If you are wearing jewellery it is a great alternative to spraying your neck. For added intensity: Apply perfume directly to your pulse points and / or hot spots (wrist, inner elbow and lower neck). Here the heat of your body will allow the fragrance to reveal its full trail. Include shoulders and back to intensify your perfume trail. Flammable until dry. Keep away from flames and heat. Avoid applying near the eyes. In case of contact, rinse them immediately and thoroughly. . ?",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/ysl-myslf-edp-100ml",
+      "source_price": 249.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ysl-myslf-edp-100ml",
+          "brand": "YSL",
+          "name": "YSL Myself 100ml EDP",
+          "size": "100ml",
+          "price": 249.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3614273852814.jpg?v=1794774945"
+        }
+      ]
+    },
+    {
       "brand": "Lacoste",
       "name": "Lacoste L.12.12 Silver Grey EDP 50ml",
       "size": "50ml",
@@ -155176,6 +156324,34 @@
           "price": 187,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20028510-0.png?v=1725003486"
+        }
+      ]
+    },
+    {
+      "brand": "Versace",
+      "name": "Versace Pour Homme 3pc 50ml EDT",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 129.99,
+      "price_per_100ml": 259.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/8011003879311.webp?v=1794774943",
+      "description": "The Versace Eros Energy Men’s Eau de Parfum Gift Set is an invigorating blend of citrus freshness and refined masculinity. Belonging to the Citrus Aromatic family, it opens with an energising burst of blood orange, grapefruit, lemon, lime, mandarin orange, and Sicilian bergamot for a zesty, uplifting effect. As the fragrance evolves, notes of white amber, pink pepper, and black currant add warmth and depth, balanced by a strong, earthy base of patchouli, musk, and oakmoss. This expertly crafted composition delivers both freshness and sensuality, making it the ideal everyday signature scent for confident men.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/versace-ph-50ml-edt-deluxe-3pc-set23",
+      "source_price": 129.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/versace-ph-50ml-edt-deluxe-3pc-set23",
+          "brand": "Versace",
+          "name": "Versace Pour Homme 3pc 50ml EDT",
+          "size": "50ml",
+          "price": 129.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/8011003879311.webp?v=1794774943"
         }
       ]
     },
@@ -160230,6 +161406,45 @@
       ]
     },
     {
+      "brand": "Yves Saint Laurent",
+      "name": "Yves Saint Laurent Opium EDP Spray 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 139.99,
+      "price_per_100ml": 279.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/GXH_11012310-0.webp?v=1794768898",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/ysl-opium-edp-spray-50ml",
+      "source_price": 139.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ysl-opium-edp-spray-50ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Opium EDP Spray 50ml",
+          "size": "50ml",
+          "price": 139.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/GXH_11012310-0.webp?v=1794768898"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-opium-edp-spray-50ml",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Opium EDP Spray 50ml",
+          "size": "50ml",
+          "price": 235,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11012310-0.jpg?v=1745962073"
+        }
+      ]
+    },
+    {
       "brand": "Chanel",
       "name": "Allure by Chanel 100ml EDT",
       "size": "100ml",
@@ -160869,7 +162084,7 @@
       "price_per_100ml": 281.24,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/carolina-good-girl-jasmine-absolute-80ml.png?v=1784692913",
-      "description": "Good Girl Jasmine Absolute by Carolina Herrera 80ml Eau De Parfum Spray for Women Good Girl Jasmine Absolute is a bold evolution of the iconic Good Girl scent, elevating the House’s most emblematic flower – jasmine. Richer, warmer, and more indulgent than ever, it reveals a luminous, gourmand side of femininity: radiant, sensual, and irresistibly confident. Designer: Carolina Herrera Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Good Girl Jasmine Absolute is an ambery gourmand jasmine perfume that pays tribute to Carolina Herrera’s signature bloom. Bright mandarin and juicy blackcurrant introduce a burst of freshness, revealing a floral heart of radiant jasmine and smooth almond. At the base, edible notes of caramelised toffee and roasted tonka bean melt into warm benzoin, creating a creamy, addictive warmth that embodies bold, confident femininity. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "description": "Carolina Herrera Good Girl Jasmine Absolute EDP 80ml for Women Carolina Herrera Good Girl Jasmine Absolute EDP 80ml for Women is a floral fruity gourmand Eau de Parfum with blackcurrant, mandarin, jasmine, bitter almond, toffee and tonka bean. This 80ml women’s fragrance is ideal for customers who enjoy sweet floral designer perfumes with juicy fruit, jasmine, almond, toffee and tonka warmth. It suits evenings, date nights, gifting, cooler weather and feminine fragrance styling. Buy Carolina Herrera perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Blackcurrant and mandarin. Heart Notes: Jasmine and bitter almond. Base Notes: Toffee and tonka bean. Scent Profile Good Girl Jasmine Absolute opens with juicy blackcurrant and mandarin before jasmine and bitter almond create a floral gourmand heart. Toffee and tonka bean add a sweet, warm and polished dry-down. Who Is It For? This Carolina Herrera women’s perfume is ideal for customers who enjoy floral fruity gourmand fragrances, jasmine, almond, toffee, tonka bean and sweet feminine warmth. When to Wear Daytime: Cooler-day wear, weekends, brunch and polished feminine styling. Evening: Dinners, date nights, celebrations and dressed-up occasions. Season: Best suited to autumn, winter and cooler New Zealand evenings. Occasion: A larger-size Good Girl option for customers wanting a jasmine-led fragrance. Longevity & Sillage As an Eau de Parfum, Good Girl Jasmine Absolute is designed for a sweet floral gourmand scent impression. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Carolina Herrera Good Girl Fragrances to Explore Carolina Herrera Good Girl Jasmine Absolute EDP 30ml — the same jasmine-led scent in a compact size. Carolina Herrera Good Girl Jasmine Absolute EDP 50ml — the same scent in a medium size. Carolina Herrera Good Girl EDP 80ml — the iconic warm floral amber gourmand Good Girl scent. Similar Designer Fragrances Carolina Herrera Good Girl Blush Elixir EDP 80ml — a richer floral amber Good Girl option. Carolina Herrera Very Good Girl Elixir EDP 80ml — a cherry, rose and vanilla Good Girl direction. Women’s Perfume Collection — explore more feminine designer fragrances. Premium & Niche Alternatives Byredo La Tulipe EDP 100ml — a premium fresh floral fragrance. Byredo Rose Of No Man’s Land EDP 100ml — a premium rose-led alternative. Byredo Blanche EDP 100ml — a clean premium floral musk option. Explore More Fragrances Browse more Carolina Herrera perfumes , women’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Carolina Herrera Fragrance: Good Girl Jasmine Absolute Size: 80ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Fruity Gourmand Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Carolina Herrera Good Girl Jasmine Absolute EDP 80ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying, as this can affect how the scent develops. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
       "source_name": "perfume-nz-shopify-suggest",
       "source_url": "https://www.perfumenz.co.nz/products/good-girl-jasmine-absolute-by-carolina-herrera-80ml-edp",
       "source_price": 224.99,
@@ -201829,6 +203044,34 @@
       ]
     },
     {
+      "brand": "Chloé",
+      "name": "Chloé Le Nectar Parfum Intense 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 231,
+      "price_per_100ml": 462,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047096-0.jpg?v=1794264450",
+      "description": "A neo-vintage ambery-woody floral fragrance created by perfumer Romain Almairac, inspired by the free-spirited 1970s mood of the house",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/chloe-le-nectar-parfum-intense-50ml",
+      "source_price": 231,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/chloe-le-nectar-parfum-intense-50ml",
+          "brand": "Chloé",
+          "name": "Chloé Le Nectar Parfum Intense 50ml",
+          "size": "50ml",
+          "price": 231,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047096-0.jpg?v=1794264450"
+        }
+      ]
+    },
+    {
       "brand": "Gucci",
       "name": "Gucci Bloom Ambrosia dOro EDP 30ml",
       "size": "30ml",
@@ -202585,34 +203828,6 @@
           "price": 235,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20037526-0.jpg?v=1756516005"
-        }
-      ]
-    },
-    {
-      "brand": "Yves Saint Laurent",
-      "name": "Yves Saint Laurent Opium EDP Spray 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 235,
-      "price_per_100ml": 470,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11012310-0.jpg?v=1745962073",
-      "description": "The opulent decadence of the Eau de Parfum captures the overtly sensual spirit of the original parfum designed by Yves Saint Laurent, only in a lighter spray form. Striking notes of mandarin and bergamot are made mystical with middle notes myrrh and jasmine. A final accord of deep amber laced with Opoponaux imbues the scent with its celebrated rapture. In a chic Chinoiserie-inspired flacon.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-opium-edp-spray-50ml",
-      "source_price": 235,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/yves-saint-laurent-opium-edp-spray-50ml",
-          "brand": "Yves Saint Laurent",
-          "name": "Yves Saint Laurent Opium EDP Spray 50ml",
-          "size": "50ml",
-          "price": 235,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_11012310-0.jpg?v=1745962073"
         }
       ]
     },
@@ -211238,6 +212453,34 @@
           "price": 160,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20006233-0.jpg?v=1758675762"
+        }
+      ]
+    },
+    {
+      "brand": "Chloé",
+      "name": "Chloé Le Nectar Parfum Intense 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 161,
+      "price_per_100ml": 536.67,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047095-0.jpg?v=1794264450",
+      "description": "A neo-vintage ambery-woody floral fragrance created by perfumer Romain Almairac, inspired by the free-spirited 1970s mood of the house",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/chloe-le-nectar-parfum-intense-30ml",
+      "source_price": 161,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/chloe-le-nectar-parfum-intense-30ml",
+          "brand": "Chloé",
+          "name": "Chloé Le Nectar Parfum Intense 30ml",
+          "size": "30ml",
+          "price": 161,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047095-0.jpg?v=1794264450"
         }
       ]
     },
@@ -222580,6 +223823,34 @@
       ]
     },
     {
+      "brand": "Chloe",
+      "name": "Chloe 4pc5ml EDP",
+      "size": "5ml",
+      "size_ml": 5,
+      "price": 89.99,
+      "price_per_100ml": 1799.8,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3616305270559.webp?v=1794774940",
+      "description": "Chloe Mini Set For Women smells floral, featuring Chloe Nomade and Chloe (EDT & EDP) in a travel-friendly mini spray set ideal for sampling or gifting.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/chloe-ladies-mini-5ml-edp-set-4pc",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/chloe-ladies-mini-5ml-edp-set-4pc",
+          "brand": "Chloe",
+          "name": "Chloe 4pc5ml EDP",
+          "size": "5ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3616305270559.webp?v=1794774940"
+        }
+      ]
+    },
+    {
       "brand": "Moschino",
       "name": "Moschino Mini EDP 5ml 5pc Set",
       "size": "5ml",
@@ -222670,6 +223941,34 @@
           "price": 94.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/81m_xr-LpmL._AC_SX522.jpg?v=1745379025"
+        }
+      ]
+    },
+    {
+      "brand": "Lancome",
+      "name": "Lancome 4pc Mini 5ml EDP",
+      "size": "5ml",
+      "size_ml": 5,
+      "price": 99.99,
+      "price_per_100ml": 1999.8,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3660732559572.webp?v=1794774941",
+      "description": "Travel with Lancome's 4 iconic EDPs in a mini set, ideal for on-the-go fragrance variety and gift-giving.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/la-ladies-mini-trav-frag-gset-4pc",
+      "source_price": 99.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/la-ladies-mini-trav-frag-gset-4pc",
+          "brand": "Lancome",
+          "name": "Lancome 4pc Mini 5ml EDP",
+          "size": "5ml",
+          "price": 99.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3660732559572.webp?v=1794774941"
         }
       ]
     },
