@@ -1,46 +1,91 @@
 {
-  "generated_at": "2026-11-16T10:41:57.775Z",
-  "count": 4693,
+  "generated_at": "2026-11-17T11:31:34.132Z",
+  "count": 4701,
   "cheapest": {
-    "brand": "Dear Body",
-    "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
+    "brand": "VV Love",
+    "name": "VV Love Hello Mist Body Mist 250ml",
     "size": "250ml",
     "size_ml": 250,
-    "price": 5,
-    "price_per_100ml": 2,
+    "price": 4.19,
+    "price_per_100ml": 1.68,
     "currency": "NZD",
-    "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5-67.jpg?v=1748562595",
+    "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa92de684/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292",
     "description": null,
-    "source_name": "bargain-chemist-shopify-suggest",
-    "source_url": "https://www.bargainchemist.co.nz/products/dear-body-sparkl-pink-fmist-250ml?_pos=10&_psq=fragrance&_psid=4d6ca826b&_ss=e",
-    "source_price": 5,
-    "source_count": 2,
+    "source_name": "the-warehouse-fragrance-page",
+    "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
+    "source_price": 4.19,
+    "source_count": 1,
     "sources": [
       {
-        "retailer_slug": "bargain-chemist",
-        "source_name": "bargain-chemist-shopify-suggest",
-        "source_url": "https://www.bargainchemist.co.nz/products/dear-body-sparkl-pink-fmist-250ml?_pos=10&_psq=fragrance&_psid=4d6ca826b&_ss=e",
-        "brand": "Dear Body",
-        "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
+        "retailer_slug": "the-warehouse",
+        "source_name": "the-warehouse-fragrance-page",
+        "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
+        "brand": "VV Love",
+        "name": "VV Love Hello Mist Body Mist 250ml",
         "size": "250ml",
-        "price": 5,
+        "price": 4.19,
         "currency": "NZD",
-        "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5-67.jpg?v=1748562595"
-      },
-      {
-        "retailer_slug": "bargain-chemist",
-        "source_name": "bargain-chemist-shopify-suggest",
-        "source_url": "https://www.bargainchemist.co.nz/products/dear-body-sparkl-pink-fmist-250ml",
-        "brand": "Dear Body",
-        "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
-        "size": "250ml",
-        "price": 13.49,
-        "currency": "NZD",
-        "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5-67.jpg?v=1748562595"
+        "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa92de684/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292"
       }
     ]
   },
   "results": [
+    {
+      "brand": "VV Love",
+      "name": "VV Love Hello Mist Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 4.19,
+      "price_per_100ml": 1.68,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa92de684/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
+      "source_price": 4.19,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
+          "brand": "VV Love",
+          "name": "VV Love Hello Mist Body Mist 250ml",
+          "size": "250ml",
+          "price": 4.19,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa92de684/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Exotic Fruit Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 4.19,
+      "price_per_100ml": 1.68,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwca82b255/images/hi-res/DD/80/R3051400_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-exotic-fruit-body-mist-250ml/R3051400.html",
+      "source_price": 4.19,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-exotic-fruit-body-mist-250ml/R3051400.html",
+          "brand": "VV Love",
+          "name": "VV Love Exotic Fruit Body Mist 250ml",
+          "size": "250ml",
+          "price": 4.19,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwca82b255/images/hi-res/DD/80/R3051400_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
     {
       "brand": "Dear Body",
       "name": "Dear Body Sparkling Pink Fragrance Mist 250ml",
@@ -105,62 +150,6 @@
           "price": 6,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/1_-mist-_-2-4.png?v=1710301966"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Hello Mist Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 6.99,
-      "price_per_100ml": 2.8,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa92de684/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
-      "source_price": 6.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-hello-mist-body-mist-250ml/R3051393.html",
-          "brand": "VV Love",
-          "name": "VV Love Hello Mist Body Mist 250ml",
-          "size": "250ml",
-          "price": 6.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa92de684/images/hi-res/BE/DC/R3051393_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Exotic Fruit Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 6.99,
-      "price_per_100ml": 2.8,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwca82b255/images/hi-res/DD/80/R3051400_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-exotic-fruit-body-mist-250ml/R3051400.html",
-      "source_price": 6.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-exotic-fruit-body-mist-250ml/R3051400.html",
-          "brand": "VV Love",
-          "name": "VV Love Exotic Fruit Body Mist 250ml",
-          "size": "250ml",
-          "price": 6.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwca82b255/images/hi-res/DD/80/R3051400_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -301,6 +290,62 @@
           "price": 6.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CGINS124-1.jpg?v=1738708768"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Body Mist Tuberose & Vanilla 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 5.39,
+      "price_per_100ml": 3.59,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1972b307/images/hi-res/40/F0/R3022223_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-tuberose-vanilla-150ml/R3022223.html",
+      "source_price": 5.39,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-tuberose-vanilla-150ml/R3022223.html",
+          "brand": "VV Love",
+          "name": "VV Love Body Mist Tuberose & Vanilla 150ml",
+          "size": "150ml",
+          "price": 5.39,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1972b307/images/hi-res/40/F0/R3022223_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Body Mist Plum & Orchid 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 5.39,
+      "price_per_100ml": 3.59,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3930504b/images/hi-res/69/68/R2935371_40.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-plum-orchid-150ml/R2935371.html",
+      "source_price": 5.39,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-plum-orchid-150ml/R2935371.html",
+          "brand": "VV Love",
+          "name": "VV Love Body Mist Plum & Orchid 150ml",
+          "size": "150ml",
+          "price": 5.39,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3930504b/images/hi-res/69/68/R2935371_40.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -2686,34 +2731,6 @@
       ]
     },
     {
-      "brand": "Guess",
-      "name": "Guess 1981 Los Angeles For Women Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 13.99,
-      "price_per_100ml": 5.6,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw13b2655b/images/hi-res/74/E1/R3026395_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/guess-1981-los-angeles-for-women-body-mist-250ml/R3026395.html",
-      "source_price": 13.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/guess-1981-los-angeles-for-women-body-mist-250ml/R3026395.html",
-          "brand": "Guess",
-          "name": "Guess 1981 Los Angeles For Women Body Mist 250ml",
-          "size": "250ml",
-          "price": 13.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw13b2655b/images/hi-res/74/E1/R3026395_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
       "brand": "Revlon",
       "name": "CHARLIE Body Spray Black 75ml",
       "size": "75ml",
@@ -2827,34 +2844,6 @@
     },
     {
       "brand": "VV Love",
-      "name": "VV Love Body Mist Tuberose & Vanilla 150ml",
-      "size": "150ml",
-      "size_ml": 150,
-      "price": 8.99,
-      "price_per_100ml": 5.99,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1972b307/images/hi-res/40/F0/R3022223_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-tuberose-vanilla-150ml/R3022223.html",
-      "source_price": 8.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-tuberose-vanilla-150ml/R3022223.html",
-          "brand": "VV Love",
-          "name": "VV Love Body Mist Tuberose & Vanilla 150ml",
-          "size": "150ml",
-          "price": 8.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1972b307/images/hi-res/40/F0/R3022223_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
       "name": "VV Love Body Mist Guava & Orchid 150ml",
       "size": "150ml",
       "size_ml": 150,
@@ -2878,34 +2867,6 @@
           "price": 8.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw60f2ffa8/images/hi-res/DD/AF/R3022222_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Body Mist Plum & Orchid 150ml",
-      "size": "150ml",
-      "size_ml": 150,
-      "price": 8.99,
-      "price_per_100ml": 5.99,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3930504b/images/hi-res/69/68/R2935371_40.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-plum-orchid-150ml/R2935371.html",
-      "source_price": 8.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-body-mist-plum-orchid-150ml/R2935371.html",
-          "brand": "VV Love",
-          "name": "VV Love Body Mist Plum & Orchid 150ml",
-          "size": "150ml",
-          "price": 8.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3930504b/images/hi-res/69/68/R2935371_40.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -3018,34 +2979,6 @@
           "price": 15,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/143123/F2D_200.jpg"
-        }
-      ]
-    },
-    {
-      "brand": "Guess",
-      "name": "Guess Travel Stories Fiji Hair And Body Mist 250ml",
-      "size": "250ml",
-      "size_ml": 250,
-      "price": 15.39,
-      "price_per_100ml": 6.16,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3eb5bf23/images/hi-res/0E/61/R3023029_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/guess-travel-stories-fiji-hair-and-body-mist-250ml/R3023029.html",
-      "source_price": 15.39,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/guess-travel-stories-fiji-hair-and-body-mist-250ml/R3023029.html",
-          "brand": "Guess",
-          "name": "Guess Travel Stories Fiji Hair And Body Mist 250ml",
-          "size": "250ml",
-          "price": 15.39,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3eb5bf23/images/hi-res/0E/61/R3023029_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -4432,6 +4365,62 @@
           "price": 7.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/48821/3DF_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Impulse",
+      "name": "Impulse Instant Crush Body Mist 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 5.99,
+      "price_per_100ml": 7.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10808029610014_1800x1800_09fb3d0d-7c29-4527-8b8e-9765e68f094f.webp?v=1794868828",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/impulse-deo-inst-crush-75ml",
+      "source_price": 5.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/impulse-deo-inst-crush-75ml",
+          "brand": "Impulse",
+          "name": "Impulse Instant Crush Body Mist 75ml",
+          "size": "75ml",
+          "price": 5.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/10808029610014_1800x1800_09fb3d0d-7c29-4527-8b8e-9765e68f094f.webp?v=1794868828"
+        }
+      ]
+    },
+    {
+      "brand": "Guess",
+      "name": "Guess 1981 Los Angeles For Women Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 19.99,
+      "price_per_100ml": 8,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw13b2655b/images/hi-res/74/E1/R3026395_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/guess-1981-los-angeles-for-women-body-mist-250ml/R3026395.html",
+      "source_price": 19.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/guess-1981-los-angeles-for-women-body-mist-250ml/R3026395.html",
+          "brand": "Guess",
+          "name": "Guess 1981 Los Angeles For Women Body Mist 250ml",
+          "size": "250ml",
+          "price": 19.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw13b2655b/images/hi-res/74/E1/R3026395_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -6519,6 +6508,34 @@
       ]
     },
     {
+      "brand": "Guess",
+      "name": "Guess Travel Stories Fiji Hair And Body Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 21.99,
+      "price_per_100ml": 8.8,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3eb5bf23/images/hi-res/0E/61/R3023029_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/guess-travel-stories-fiji-hair-and-body-mist-250ml/R3023029.html",
+      "source_price": 21.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/guess-travel-stories-fiji-hair-and-body-mist-250ml/R3023029.html",
+          "brand": "Guess",
+          "name": "Guess Travel Stories Fiji Hair And Body Mist 250ml",
+          "size": "250ml",
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3eb5bf23/images/hi-res/0E/61/R3023029_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Daise",
       "name": "DAISE Oh So Body Mist 100ml",
       "size": "100ml",
@@ -6757,6 +6774,34 @@
           "source_url": "https://www.bargainchemist.co.nz/products/db-fragrance-edp-atflowers-100ml?_pos=6&_psq=perfume&_psid=e341dcc90&_ss=e",
           "brand": "Designer Brands",
           "name": "DB Fragrance EDP Amongst The Flowers 100ml",
+          "size": "100ml",
+          "price": 9,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/FFA619_DBFragranceAmongsttheFlowers_EDP_720x_29679c26-5d56-4c48-bb12-d831df9ca65d.webp?v=1710883863"
+        }
+      ]
+    },
+    {
+      "brand": "Designer Brands",
+      "name": "Designer Brands Fragrance EDP Amongst The Flowers 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 9,
+      "price_per_100ml": 9,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/FFA619_DBFragranceAmongsttheFlowers_EDP_720x_29679c26-5d56-4c48-bb12-d831df9ca65d.webp?v=1710883863",
+      "description": "DB Fragrance EDP Amongst The Flowers 100ml Discover the captivating scent of DB Fragrance's EDP Amongst The Flowers, a luxurious and enchanting perfume crafted to immerse you in a blossoming floral paradise. This Eau de Parfum (EDP) comes in an elegant 100ml bottle, perfect for everyday indulgence or as a thoughtful gift. Amongst The Flowers blends graceful notes of delicate jasmine, romantic rose petals, and fresh lily of the valley, harmoniously balanced with subtle hints of musk and amber. This fragrance evokes the serenity of walking through a vibrant garden in full bloom, capturing attention with its long-lasting, sophisticated aroma. Ideal for day or evening wear, this fragrance enhances your confidence and charm. DB Fragrance ensures quality and elegance in every spritz, leaving a memorable impression wherever you go. Order your DB Fragrance EDP Amongst The Flowers 100ml today and experience the allure of fresh florals and timeless elegance.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/db-fragrance-edp-atflowers-100ml",
+      "source_price": 9,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/db-fragrance-edp-atflowers-100ml",
+          "brand": "Designer Brands",
+          "name": "Designer Brands Fragrance EDP Amongst The Flowers 100ml",
           "size": "100ml",
           "price": 9,
           "currency": "NZD",
@@ -7788,62 +7833,6 @@
           "price": 9.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/138609/F2D_200.jpg"
-        }
-      ]
-    },
-    {
-      "brand": "So...?",
-      "name": "So...? Unique Sweet Pea Body Mist",
-      "size": null,
-      "size_ml": null,
-      "price": 10.49,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw92b14776/images/hi-res/75/F8/R3023693_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-sweet-pea-body-mist/R3023693.html",
-      "source_price": 10.49,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-sweet-pea-body-mist/R3023693.html",
-          "brand": "So...?",
-          "name": "So...? Unique Sweet Pea Body Mist",
-          "size": null,
-          "price": 10.49,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw92b14776/images/hi-res/75/F8/R3023693_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "So...?",
-      "name": "So...? Unique Coco Loco Body Mist",
-      "size": null,
-      "size_ml": null,
-      "price": 10.49,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw23272517/images/hi-res/E1/2F/R3023691_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-coco-loco-body-mist/R3023691.html",
-      "source_price": 10.49,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-coco-loco-body-mist/R3023691.html",
-          "brand": "So...?",
-          "name": "So...? Unique Coco Loco Body Mist",
-          "size": null,
-          "price": 10.49,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw23272517/images/hi-res/E1/2F/R3023691_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -10264,6 +10253,62 @@
           "price": 22,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20032090-0.jpg?v=1785792620"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist South of the Sahara 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 10.99,
+      "price_per_100ml": 12.21,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw43a7a2e4/images/hi-res/0C/F8/R3032452_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-south-of-the-sahara-90ml/R3032452.html",
+      "source_price": 10.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-south-of-the-sahara-90ml/R3032452.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist South of the Sahara 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw43a7a2e4/images/hi-res/0C/F8/R3032452_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist Burnt Sugar 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 10.99,
+      "price_per_100ml": 12.21,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw14c2414c/images/hi-res/60/15/R3032444_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-burnt-sugar-90ml/R3032444.html",
+      "source_price": 10.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-burnt-sugar-90ml/R3032444.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist Burnt Sugar 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw14c2414c/images/hi-res/60/15/R3032444_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -13066,6 +13111,62 @@
       ]
     },
     {
+      "brand": "So...?",
+      "name": "So...? Unique Sweet Pea Body Mist",
+      "size": null,
+      "size_ml": null,
+      "price": 14.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw92b14776/images/hi-res/75/F8/R3023693_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-sweet-pea-body-mist/R3023693.html",
+      "source_price": 14.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-sweet-pea-body-mist/R3023693.html",
+          "brand": "So...?",
+          "name": "So...? Unique Sweet Pea Body Mist",
+          "size": null,
+          "price": 14.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw92b14776/images/hi-res/75/F8/R3023693_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "So...?",
+      "name": "So...? Unique Coco Loco Body Mist",
+      "size": null,
+      "size_ml": null,
+      "price": 14.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw23272517/images/hi-res/E1/2F/R3023691_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-coco-loco-body-mist/R3023691.html",
+      "source_price": 14.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-unique-coco-loco-body-mist/R3023691.html",
+          "brand": "So...?",
+          "name": "So...? Unique Coco Loco Body Mist",
+          "size": null,
+          "price": 14.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw23272517/images/hi-res/E1/2F/R3023691_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Disney",
       "name": "Disney Wonder Woman Body Mist 100ml",
       "size": "100ml",
@@ -13157,6 +13258,34 @@
           "price": 14.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/53046/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "So...?",
+      "name": "So...? Escapes Ibiza Dreams Body Mist",
+      "size": null,
+      "size_ml": null,
+      "price": 14.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwffe04844/images/hi-res/72/F4/R3023694_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-escapes-ibiza-dreams-body-mist/R3023694.html",
+      "source_price": 14.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-escapes-ibiza-dreams-body-mist/R3023694.html",
+          "brand": "So...?",
+          "name": "So...? Escapes Ibiza Dreams Body Mist",
+          "size": null,
+          "price": 14.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwffe04844/images/hi-res/72/F4/R3023694_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -13307,6 +13436,34 @@
           "price": 45.99,
           "currency": "NZD",
           "image_url": null
+        }
+      ]
+    },
+    {
+      "brand": "TABAC",
+      "name": "Tabac Original Eau De Cologne 300ml",
+      "size": "300ml",
+      "size_ml": 300,
+      "price": 45.99,
+      "price_per_100ml": 15.33,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/612ivdGRGJL.jpg?v=1794868047",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/tabac-original-edc-300ml",
+      "source_price": 45.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/tabac-original-edc-300ml",
+          "brand": "TABAC",
+          "name": "Tabac Original Eau De Cologne 300ml",
+          "size": "300ml",
+          "price": 45.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/612ivdGRGJL.jpg?v=1794868047"
         }
       ]
     },
@@ -18553,34 +18710,6 @@
     },
     {
       "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist South of the Sahara 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 21.99,
-      "price_per_100ml": 24.43,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw43a7a2e4/images/hi-res/0C/F8/R3032452_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-south-of-the-sahara-90ml/R3032452.html",
-      "source_price": 21.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-south-of-the-sahara-90ml/R3032452.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist South of the Sahara 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw43a7a2e4/images/hi-res/0C/F8/R3032452_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
       "name": "MCoBeauty Fragrance Mist Rose Garden 90ml",
       "size": "90ml",
       "size_ml": 90,
@@ -18726,34 +18855,6 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc01772e5/images/hi-res/B9/DE/R3032458_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist Burnt Sugar 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 21.99,
-      "price_per_100ml": 24.43,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw14c2414c/images/hi-res/60/15/R3032444_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-burnt-sugar-90ml/R3032444.html",
-      "source_price": 21.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-burnt-sugar-90ml/R3032444.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist Burnt Sugar 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw14c2414c/images/hi-res/60/15/R3032444_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -22545,6 +22646,34 @@
       ]
     },
     {
+      "brand": "Bargain Chemist",
+      "name": "JOOP Homme EDT 200ml",
+      "size": "200ml",
+      "size_ml": 200,
+      "price": 64.99,
+      "price_per_100ml": 32.49,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/2DF_800_03c8ce2b-3b0a-4ee7-b5d9-0dd6c4736720.jpg?v=1794869141",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/joop-homme-edt-ns-200ml",
+      "source_price": 64.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/joop-homme-edt-ns-200ml",
+          "brand": "Bargain Chemist",
+          "name": "JOOP Homme EDT 200ml",
+          "size": "200ml",
+          "price": 64.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/2DF_800_03c8ce2b-3b0a-4ee7-b5d9-0dd6c4736720.jpg?v=1794869141"
+        }
+      ]
+    },
+    {
       "brand": "David Beckham",
       "name": "Classic Blue by David Beckham 100ml EDT",
       "size": "100ml",
@@ -23602,34 +23731,6 @@
           "price": 39.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/14055329202206.jpg?v=1734088177"
-        }
-      ]
-    },
-    {
-      "brand": "So...?",
-      "name": "So...? Escapes Grande Body Mist Set 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 17.49,
-      "price_per_100ml": 34.98,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwac5be797/images/hi-res/22/C4/R3023696_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-escapes-grande-body-mist-set-50ml/R3023696.html",
-      "source_price": 17.49,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-escapes-grande-body-mist-set-50ml/R3023696.html",
-          "brand": "So...?",
-          "name": "So...? Escapes Grande Body Mist Set 50ml",
-          "size": "50ml",
-          "price": 17.49,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwac5be797/images/hi-res/22/C4/R3023696_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -27013,7 +27114,7 @@
       "price": 19.99,
       "price_per_100ml": 39.98,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/love.webp?v=1794877429",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/rv-love-her-madly-edt-spray-50ml",
@@ -27029,7 +27130,7 @@
           "size": "50ml",
           "price": 19.99,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/love.webp?v=1794877429"
         }
       ]
     },
@@ -33201,6 +33302,34 @@
       ]
     },
     {
+      "brand": "So...?",
+      "name": "So...? Escapes Grande Body Mist Set 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 24.99,
+      "price_per_100ml": 49.98,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwac5be797/images/hi-res/22/C4/R3023696_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-escapes-grande-body-mist-set-50ml/R3023696.html",
+      "source_price": 24.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/so...%3F-escapes-grande-body-mist-set-50ml/R3023696.html",
+          "brand": "So...?",
+          "name": "So...? Escapes Grande Body Mist Set 50ml",
+          "size": "50ml",
+          "price": 24.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwac5be797/images/hi-res/22/C4/R3023696_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Britney Spears",
       "name": "Britney Spears PrerogRave EDP 100ml",
       "size": "100ml",
@@ -37038,6 +37167,34 @@
           "price": 54.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/89771/3DF_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Bargain Chemist",
+      "name": "Calvin Klein Contradiction For Men EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 54.99,
+      "price_per_100ml": 54.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/calvin-klein-contradiction-men_700x700_879be93e-0728-44f2-a469-ee9dd1a04301.webp?v=1794795303",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/ck-contradiction-men-edt-100ml",
+      "source_price": 54.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ck-contradiction-men-edt-100ml",
+          "brand": "Bargain Chemist",
+          "name": "Calvin Klein Contradiction For Men EDT 100ml",
+          "size": "100ml",
+          "price": 54.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/calvin-klein-contradiction-men_700x700_879be93e-0728-44f2-a469-ee9dd1a04301.webp?v=1794795303"
         }
       ]
     },
@@ -70480,6 +70637,34 @@
       ]
     },
     {
+      "brand": "Bujairami",
+      "name": "Final Boss by Bujairami 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 84.99,
+      "price_per_100ml": 84.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-final-boss.png?v=1794791466",
+      "description": "Final Boss by Bujairami 100ml Extrait De Parfum Spray Final Boss by Bujairami is inspired by Sauvage Extrait from Dior. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Men Fragrance Notes: Top Notes: Bergamot, Lavender Essence from Provence, Ambroxan. Heart Notes: Vietnamese Oud Essence. Base Notes: Virginia Cedarwood, Atlas Cedar, Indonesian Patchouli, Madagascan Vetiver. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/final-boss-by-bujairami-100ml-extrait-de-parfum",
+      "source_price": 84.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/final-boss-by-bujairami-100ml-extrait-de-parfum",
+          "brand": "Bujairami",
+          "name": "Final Boss by Bujairami 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 84.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-final-boss.png?v=1794791466"
+        }
+      ]
+    },
+    {
       "brand": "Lattafa",
       "name": "Lattafa Eclaire EDP 100ml",
       "size": "100ml",
@@ -75401,34 +75586,6 @@
           "price": 89.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-delulu.png?v=1794790819"
-        }
-      ]
-    },
-    {
-      "brand": "Bujairami",
-      "name": "Final Boss by Bujairami 100ml Extrait De Parfum",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 89.99,
-      "price_per_100ml": 89.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-final-boss.png?v=1794791466",
-      "description": "Final Boss by Bujairami 100ml Extrait De Parfum Spray Final Boss by Bujairami is inspired by Sauvage Extrait from Dior. Designer: Bujairami Year Introduced: 2026 Type: Extrait De Parfum Category: Men Fragrance Notes: Top Notes: Bergamot, Lavender Essence from Provence, Ambroxan. Heart Notes: Vietnamese Oud Essence. Base Notes: Virginia Cedarwood, Atlas Cedar, Indonesian Patchouli, Madagascan Vetiver. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/final-boss-by-bujairami-100ml-extrait-de-parfum",
-      "source_price": 89.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/final-boss-by-bujairami-100ml-extrait-de-parfum",
-          "brand": "Bujairami",
-          "name": "Final Boss by Bujairami 100ml Extrait De Parfum",
-          "size": "100ml",
-          "price": 89.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/bujairami-final-boss.png?v=1794791466"
         }
       ]
     },
@@ -99872,6 +100029,34 @@
       ]
     },
     {
+      "brand": "Paco Rabanne",
+      "name": "Paco Rabanne Phantom Legend EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 139.99,
+      "price_per_100ml": 139.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/dark-375x500.71654.avif?v=1794868728",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/rabanne-paco-phan-leg-tce-edt-100ml",
+      "source_price": 139.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/rabanne-paco-phan-leg-tce-edt-100ml",
+          "brand": "Paco Rabanne",
+          "name": "Paco Rabanne Phantom Legend EDT 100ml",
+          "size": "100ml",
+          "price": 139.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/dark-375x500.71654.avif?v=1794868728"
+        }
+      ]
+    },
+    {
       "brand": "Billie Eilish",
       "name": "Billie Eilish Eilish EDP 100ml Set 3pcs",
       "size": "100ml",
@@ -110193,23 +110378,12 @@
       "price_per_100ml": 160.3,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/Aeffe_2Farticle_imgs_2FEUR6WTOYBOY6W10100_2F171392.jpg?v=1765173216",
-      "description": "Toy Boy, the first fragrance for men designed by creative director Jeremy Scott, follows the Toy line, launched by the first unisex edition in 2014 and followed by Toy 2 for women from 2018. \"Toy Boy is the new exclusive fragrance by Moschino that reinterprets elegance with a touch of irony. It speaks to a unique, dynamic, enthusiastic and passionate man, but one who is not afraid to reveal his more tender and playful side. Toy Boy is an exciting play of endless codes seeking out re-evaluation and liberation.\" Olfactory family: spicy, woody and amber Top notes: Italy bergamot, pink berries, elemi buds, Indonesia nutmeg, pear green, cloves Middle notes: Neoabsolut Orpur rose, flax flowers, cashmeran, magnolia Base notes: vetiver Haiti Orpur, ambermax, sylkolide Glossy black glass bottle with silver finish",
+      "description": null,
       "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/moschino-toy-boy-edp-100ml",
+      "source_url": "https://worldbrand.co.nz/products/moschino-toy-boy-edp-100ml?_pos=8&_psq=edp&_psid=0453c83c7&_ss=e",
       "source_price": 160.3,
       "source_count": 18,
       "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/moschino-toy-boy-edp-100ml",
-          "brand": "Moschino",
-          "name": "MOSCHINO TOY BOY EDP 100ml",
-          "size": "100ml",
-          "price": 160.3,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/Aeffe_2Farticle_imgs_2FEUR6WTOYBOY6W10100_2F171392.jpg?v=1765173216"
-        },
         {
           "retailer_slug": "world",
           "source_name": "world-shopify-suggest",
@@ -110396,6 +110570,17 @@
           "price": 194,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20015762-0.jpg?v=1769555665"
+        },
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/moschino-toy-boy-edp-100ml",
+          "brand": "Moschino",
+          "name": "MOSCHINO TOY BOY EDP 100ml",
+          "size": "100ml",
+          "price": 229,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/Aeffe_2Farticle_imgs_2FEUR6WTOYBOY6W10100_2F171392.jpg?v=1765173216"
         }
       ]
     },
@@ -110408,23 +110593,12 @@
       "price_per_100ml": 160.3,
       "currency": "NZD",
       "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/Aeffe_2Farticle_imgs_2FEUR6VTOY_2026V32100_2F171377.jpg?v=1765173215",
-      "description": "Toy 2 by Moschino is a Floral Woody Musk fragrance for women. Toy 2 was launched in 2018. Toy 2 was created by Alberto Morillas and Fabrice Pellegrin. Top notes are Apple, Mandarin Orange and Magnolia; middle notes are White Currant, Peony and Jasmine; base notes are Musk, Sandalwood and Amberwood. Olfactory family: flowery and woody Top notes: magnolia, Granny Smith apple, mandarin Heart notes: white currant, peony, jasmine petals Base notes: sandalwood, musk, amber woods",
+      "description": null,
       "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/moschino-toy-2-edp-100ml",
+      "source_url": "https://worldbrand.co.nz/products/moschino-toy-2-edp-100ml?_pos=1&_psq=Moschino&_psid=6b0156b70&_ss=e",
       "source_price": 160.3,
       "source_count": 18,
       "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/moschino-toy-2-edp-100ml",
-          "brand": "Moschino",
-          "name": "MOSCHINO TOY 2 EDP 100ml",
-          "size": "100ml",
-          "price": 160.3,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/Aeffe_2Farticle_imgs_2FEUR6VTOY_2026V32100_2F171377.jpg?v=1765173215"
-        },
         {
           "retailer_slug": "world",
           "source_name": "world-shopify-suggest",
@@ -110611,6 +110785,17 @@
           "price": 194,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20015760-0.jpg?v=1769484736"
+        },
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/moschino-toy-2-edp-100ml",
+          "brand": "Moschino",
+          "name": "MOSCHINO TOY 2 EDP 100ml",
+          "size": "100ml",
+          "price": 229,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/Aeffe_2Farticle_imgs_2FEUR6VTOY_2026V32100_2F171377.jpg?v=1765173215"
         }
       ]
     },
@@ -145352,14 +145537,14 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/ShewasanAnomaly100ml_1024x1024_85870662-924b-4147-ad1d-e2d932335c66.jpg?v=1754363116",
       "description": "A singularity. A difference. This disparity comes with an excess, forcing the dose on the iris and musk. This perfume was necessary. For the one you will never understand Après des milliers de jours, son parfum. Top notes: Green Tangerine Heart notes: Vanilla-Orchid Accord, Prunes Neo Jungle Essence™, Incense Base notes: Musk, Sandalwood, Amberfix© FULL DESCRIPTION \"My mother, she was an anomaly, she was brilliant, she was loved but she paid a huge price.\" from an Interview with Lisa Simone, in What Happened Miss Simone ? \" I’m sorry, Dave, I’m afraid I can’t do that. I am putting myself to the fullest possible use, it can only be attributable to human error. This conversation can serve no purpose anymore. Goodbye.\" HAL 9000 iconic quote in 2001 : A Space Odyssey. These remarks could summarise our new perfume, a marriage of Nina Simone and Stanley Kubrick. This fragrance is dedicated to them, to celebrate their talents, their deviations from the norm, from the theoretical value, from the expected. This disparity comes with an excess, from a « computer malfunction », forcing the dose on the iris and musk, and this sublime jeopardy has sprung up to become a perfume, carved by Daniela Andrier. A singularity. A difference. This perfume was necessary. - Etienne De Swardt - Founder =================== ETAT LIBRE D'ORANGE Etat Libre d’Orange is an ambitious, audacious perfumery. Liberated. Free to create. Free to love and be loved. This is a different kind of perfumery, with a point of view. A whimsical perfumery that uses irony to hone the names of its scents. A spirited perfumery that shakes up prejudices and stirs up ambiguities. A perfumery that plays with ideas and reinvents the pleasures to be found in the sense of smell, through sublime juices. These are juices composed from living matter that fuses with the skin so they can only belong to the person who wears them. Juices that are fashioned without constraint or compromise. Juices that are designed to disturb, to touch, to tempt. And seduce, seduce, seduce. Juices that are created to extend the confines of perfume, to overcome the forbidden, to break the rules. To rebel. To exist, at last. =================== MORE THAN A FRAGRANCE, A STATE OF MIND. Etat Libre d’Orange currently presents a collection of more than 30 fragrances — all aspirational, all essential. With an emphasis on originality, audacity, authenticity and freedom of expression, Etat Libre d’Orange proposes surprising olfactory compositions, without any limitations in terms of creativity nor raw materials. A perfume house with its singularity, its sincerity, unexpected, sometimes ironic, often subversive, and always elegant. =================== MORE THAN A SIGNATURE, AN ESSENCE. Etat Libre d’Orange is a declaration of independence. Perfumes for life and love and making love. When Etienne de Swardt created his house of perfume in 2006, it was only right and natural for him to give it this name, to honour his birthplace and what it represents. In South Africa, Etat Libre d’Orange (the Orange Free State) was a land of staggeringly rough beauty and colour and unforgettable smells, a nation of contrasts, strong feelings, and mixed emotions. The rainbow mosaic of people and cultures gave it an unpredictable, sometimes savage nature. Unity, beauty and freedom, the hallmarks of our company. Welcome to freedom. =================== THE BOTTLE & THE SYMBOL. A simple bottle — solid, serious, attractive — holds the true creativity. The three coloured rosette is a symbol of liberty. A proclamation of difference. It appears as a seal, a commitment, on the sharp edge of all the bottles. The bottle fades away in front of the juice, the superfluous leaves the place to the essential. To the essence.",
       "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/etat-libre-dorange-she-was-an-anomally-edp-50ml",
+      "source_url": "https://worldbrand.co.nz/products/etat-libre-dorange-she-was-an-anomally-edp-50ml?_pos=10&_psq=edt&_psid=2e71f2e38&_ss=e",
       "source_price": 114.5,
       "source_count": 2,
       "sources": [
         {
           "retailer_slug": "world",
           "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/etat-libre-dorange-she-was-an-anomally-edp-50ml",
+          "source_url": "https://worldbrand.co.nz/products/etat-libre-dorange-she-was-an-anomally-edp-50ml?_pos=10&_psq=edt&_psid=2e71f2e38&_ss=e",
           "brand": "Etat Libre d'Orange",
           "name": "Etat Libre d'Orange She Was An Anomally EDP 50ml",
           "size": "50ml",
@@ -145370,11 +145555,11 @@
         {
           "retailer_slug": "world",
           "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/etat-libre-dorange-she-was-an-anomally-edp-50ml?_pos=10&_psq=edt&_psid=2e71f2e38&_ss=e",
+          "source_url": "https://worldbrand.co.nz/products/etat-libre-dorange-she-was-an-anomally-edp-50ml",
           "brand": "Etat Libre d'Orange",
           "name": "Etat Libre d'Orange She Was An Anomally EDP 50ml",
           "size": "50ml",
-          "price": 114.5,
+          "price": 229,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/ShewasanAnomaly100ml_1024x1024_85870662-924b-4147-ad1d-e2d932335c66.jpg?v=1754363116"
         }
@@ -151297,62 +151482,6 @@
       ]
     },
     {
-      "brand": "Beso Beach",
-      "name": "Beso Beach - Beso Feliz EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 244.3,
-      "price_per_100ml": 244.3,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/BBFEL100.jpg?v=1670919050",
-      "description": "HAPPY KISS The hippy movement found in the Ibiza of the 60s a place of tranquility, an open and hospitable people. The nature of Ibiza, an original architecture and some landscapes and some beaches that invited to stay in them. In this way, the movement found in Ibiza one of its places of pilgrimage. Happy kiss conveys this peace and harmony, as well as the symbols of freedom, peace and love. A kiss with a smoky marijuana flavour, which causes a feeling of well-being and calm. The spirit is renewed with its woody and balsamic warmth and suddenly you realise that the true joys of life are here with our people. Here you would stay forever. HAPPY KISS has ingredients that induce relaxation, mindfulness and seduction. As for the main ingredients, they are the following: Top Notes: CANNABIS ACCORD, BLACKCURRANT, PEPPER PINK, RHUIBARB Heart Notes: ROSE ESSENTIAL, SAGE CLARY ABS FRENCH, HAY ABS, PEPPER OIL BLACK MADAGASCAR Base Notes: PATCHOULI HEART, VETIVER OIL JAVA, BENZOIN RESINOID, GOLDEN MUSK Vegan fragrance.",
-      "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/beso-beach-beso-feliz-edp-100ml",
-      "source_price": 244.3,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/beso-beach-beso-feliz-edp-100ml",
-          "brand": "Beso Beach",
-          "name": "Beso Beach - Beso Feliz EDP 100ml",
-          "size": "100ml",
-          "price": 244.3,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/BBFEL100.jpg?v=1670919050"
-        }
-      ]
-    },
-    {
-      "brand": "Beso Beach",
-      "name": "Beso Beach - Beso Negro EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 244.3,
-      "price_per_100ml": 244.3,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/BBBN100.jpg?v=1670918906",
-      "description": "BLACK KISS An elegant, strong and charismatic sunset. The most provocative kiss, the notes of violet and cardamom have given way to the night, to the provocation of the Patchouli and to the wildest side of the skin and the sandalwood. A unique personality that unites in a carnal kiss where the darkness and the moon are the only testimonies. NOTES: T: violet leaves, caradmomo from Guatemala, green chord M: violet, concrete from Orris, Cypriol, Pachouli from Indonesia B: Virginia cedar wood, ambrox, Indian sandalwood, leather Perfumer: Christophe Raynaud",
-      "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/beso-beach-beso-negro-edp-100ml",
-      "source_price": 244.3,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/beso-beach-beso-negro-edp-100ml",
-          "brand": "Beso Beach",
-          "name": "Beso Beach - Beso Negro EDP 100ml",
-          "size": "100ml",
-          "price": 244.3,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/BBBN100.jpg?v=1670918906"
-        }
-      ]
-    },
-    {
       "brand": "Yves Saint Laurent",
       "name": "Libre Flowers & Flames by Yves Saint Laurent 90ml EDP",
       "size": "90ml",
@@ -153810,6 +153939,34 @@
           "price": 125,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20039388-0.jpg?v=1791149313"
+        }
+      ]
+    },
+    {
+      "brand": "Lacoste",
+      "name": "Lacoste L.12.12 Bleu EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 125,
+      "price_per_100ml": 250,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045403-0.jpg?v=1794894227",
+      "description": "FROM POLO TO FRAGRANCE THE FRAGRANCE L.12.12 Bleu opens with the zesty freshness of frozen yuzu. A vibrant aromatic heart of lavender &amp; geranium follows before revealing long-lasting notes of cedarwood. This fougere woody citrus composition combines freshness, intensity and sophistication. A contemporary signature designed for every moment. THE PACK The bottle features the polo shirt’s iconic 'petit piqué' code and is dressed in deep blue with a tone-on-tone embroidered crocodile. Silver gunmetal details highlight the intensity and modernity of the fragrance. These same codes appear on the outer pack, with vertical white lines inspired by the piping on the polo shirt. THE NAME L.12.12: L for Lacoste, 1 for the 'petit piqué' fabric, 2 for the short-sleeved model, 12 for the final version of the polo shirt chosen by René Lacoste. Each perfume is named after the color that inspired it, shaping a fragrance with its own unique identity. THE AD CAMPAIGN The L.12.12 Bleu campaign is set in the refined atmosphere of a Parisian dressing room. The iconic blue polo shirt becomes the symbol of modern elegance and the dynamism of the fragrance. The bright play of light enhances the deep blue of the bottle, visually conveying the sophistication and energy of L.12.12 Bleu. THE COLLECTION From polo to fragrance, L.12.12 Bleu joins the Lacoste wardrobe of scents where each fragrance reflects the spirit of the iconic polo shirt: elegant fragrance creations to suit every style. Alongside Blanc, Silver Grey and Noir, it introduces a new nuance and olfactory dimension to this emblematic collection.",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/lacoste-l-12-12-bleu-edp-50ml",
+      "source_price": 125,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/lacoste-l-12-12-bleu-edp-50ml",
+          "brand": "Lacoste",
+          "name": "Lacoste L.12.12 Bleu EDP 50ml",
+          "size": "50ml",
+          "price": 125,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045403-0.jpg?v=1794894227"
         }
       ]
     },
@@ -161445,6 +161602,34 @@
       ]
     },
     {
+      "brand": "Givenchy",
+      "name": "L'Interdit Angelique Rouge by Givenchy 50ml EDP",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 139.99,
+      "price_per_100ml": 279.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/givenchy-l_interdit-angelique-rouge.png?v=1785807595",
+      "description": "L'Interdit Angelique Rouge by Givenchy 50ml Eau De Parfum Spray L'Interdit Angélique Rouge reveals a flower with narcotic features and an intoxicating fragrance that will captivate anyone who crosses its path. A vibrant contrast between the purity of L'Interdit's emblematic white bouquet and the crisp and spicy notes of this interpretation of Angelica. Sensual and magnetic, the thrill is instantaneous. Designer: Givenchy Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Thanks to an extraction technique that captures the quintessence of the Angelica flower in its natural state, Givenchy magnifies its hypnotic effect by combining it with the aromatic essence of its seeds. This audacious interpretation of the flower is enhanced by the addictive notes of succulent Prickly Pear blending with the spicy facets of Ginger. In the background, the enigmatic woody notes of Vetiver and Patchouli heighten the powerfulness of the accord. Dangerously sensual but delicious, L'Interdit Angélique Rouge Eau de Parfum releases a sharp intensity. Experience the thrill of the forbidden with L'Interdit, a fragrance that invites you to defy convention and embrace your singularity. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/linterdit-angelique-rouge-by-givenchy-50ml-edp",
+      "source_price": 139.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/linterdit-angelique-rouge-by-givenchy-50ml-edp",
+          "brand": "Givenchy",
+          "name": "L'Interdit Angelique Rouge by Givenchy 50ml EDP",
+          "size": "50ml",
+          "price": 139.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/givenchy-l_interdit-angelique-rouge.png?v=1785807595"
+        }
+      ]
+    },
+    {
       "brand": "Chanel",
       "name": "Allure by Chanel 100ml EDT",
       "size": "100ml",
@@ -167308,34 +167493,6 @@
       ]
     },
     {
-      "brand": "Givenchy",
-      "name": "L'Interdit Angelique Rouge by Givenchy 50ml EDP",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 149.99,
-      "price_per_100ml": 299.98,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/givenchy-l_interdit-angelique-rouge.png?v=1785807595",
-      "description": "L'Interdit Angelique Rouge by Givenchy 50ml Eau De Parfum Spray L'Interdit Angélique Rouge reveals a flower with narcotic features and an intoxicating fragrance that will captivate anyone who crosses its path. A vibrant contrast between the purity of L'Interdit's emblematic white bouquet and the crisp and spicy notes of this interpretation of Angelica. Sensual and magnetic, the thrill is instantaneous. Designer: Givenchy Year Introduced: 2025 Type: EDP Category: Women Fragrance Notes: Thanks to an extraction technique that captures the quintessence of the Angelica flower in its natural state, Givenchy magnifies its hypnotic effect by combining it with the aromatic essence of its seeds. This audacious interpretation of the flower is enhanced by the addictive notes of succulent Prickly Pear blending with the spicy facets of Ginger. In the background, the enigmatic woody notes of Vetiver and Patchouli heighten the powerfulness of the accord. Dangerously sensual but delicious, L'Interdit Angélique Rouge Eau de Parfum releases a sharp intensity. Experience the thrill of the forbidden with L'Interdit, a fragrance that invites you to defy convention and embrace your singularity. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/linterdit-angelique-rouge-by-givenchy-50ml-edp",
-      "source_price": 149.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/linterdit-angelique-rouge-by-givenchy-50ml-edp",
-          "brand": "Givenchy",
-          "name": "L'Interdit Angelique Rouge by Givenchy 50ml EDP",
-          "size": "50ml",
-          "price": 149.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/givenchy-l_interdit-angelique-rouge.png?v=1785807595"
-        }
-      ]
-    },
-    {
       "brand": "Lancome",
       "name": "Lancome La vie est belle Intensement EDP 50ml",
       "size": "50ml",
@@ -172948,21 +173105,10 @@
       "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/d42722a1760f5105b757f4c3175d3f0c50f97938.png?v=1595909212",
       "description": "Joyeux Osmanthe by Maurice Roucel A new type of opulent floral and fruity melody, expressed through a concerto of white flowers. FRUITY FLORAL Top notes: nectarine, apricot, cinnamon, green leaves Heart notes: osmanthus, tuberose, orange blossom, honeysuckle accord, jasmine, rose, iris Base notes: musk, cashmeran, cedar, amber note « In order to modernise tuberose and its somewhat outdated facet, I mixed it together with other flowers that have creamy notes as well. I created a bouquet with osmanthus blossoms, which exude delectable apricot notes. Together, they give an opulent floral twist. Then, fresh notes of honeysuckle and green notes are unveiled over a musky, woody amber base delivering texture to the dry-down notes. » Philosophy, Maison Rebatchi. In creating its first perfumes and candles, Maison Rebatchi surrounded itself with the greatest perfumers and best artisans in the discipline. From their choice of high-quality raw materials to compose their concoctions to the beautiful design of the perfume bottles, the creations of Maison Rebatchi are undeniably emblazoned with the seal of excellence.-Maurice Roucel, Perfumer Soulful material. For the composition and manufacture of their perfumes, Maison Rebatchi works with Accords & Parfums, the company that furnishes flowers for most auteur perfumers. Located in the hills of the French town of Grasse, Accords & Parfums exudes a unique savoir-faire. The perfume lab also grows and harvests their own authentic May Rose Absolute. So, it was only natural that in Accords & Parfums, Maison Rebatchi found an echo of their endless quest for perfection and beautiful raw materials. Works of art. BOTTLES The perfumes are displayed in artful bottles designed by Pierre and Jules Dinand. They decided to adorn the bottle with a mashrabiya motif to highlight the creator’s origins and the DNA of the French perfume house. Delicate, symbolic, and timeless raised petals engraved over the entire bottle reflect light, add rhythm and create an illusion without the eye being able to follow a specific movement. Founder, Mohamed Rebatchi. This is the story of a perfume House that could have begun, like so many others, with “once upon a time there was a perfumer, or the son of a perfumer…\". However, this was not at all the case. Maison Rebatchi is the fruit of a life-long dream. That of Mohamed Rebatchi, a young Franco-Algerian who grew up in a working-class suburb north of Paris. Perfumer, Maurice Roucel, the alchemist. Creator of multiple perfumes, some of which have since become iconic, Maurice Roucel is passionate about pushing the limits of the senses. Embarking an exploratory journey with him is no easy task...",
       "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/maisonrebatchijoyeuxosmantheedp50ml",
+      "source_url": "https://worldbrand.co.nz/products/maisonrebatchijoyeuxosmantheedp50ml?_pos=1&_psq=Maison+Margiela&_psid=7df076c9b&_ss=e",
       "source_price": 160.3,
       "source_count": 2,
       "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/maisonrebatchijoyeuxosmantheedp50ml",
-          "brand": "Maison Rebatchi",
-          "name": "Maison Rebatchi Joyeux Osmanthe EDP 50ml",
-          "size": "50ml",
-          "price": 160.3,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/d42722a1760f5105b757f4c3175d3f0c50f97938.png?v=1595909212"
-        },
         {
           "retailer_slug": "world",
           "source_name": "world-shopify-suggest",
@@ -172973,34 +173119,17 @@
           "price": 160.3,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/d42722a1760f5105b757f4c3175d3f0c50f97938.png?v=1595909212"
-        }
-      ]
-    },
-    {
-      "brand": "Maison Rebatchi",
-      "name": "Maison Rebatchi Musc Panache EDP 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 160.3,
-      "price_per_100ml": 320.6,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/942ba6393a998e3bbec1c162b0875a22d5e4b46c.png?v=1595909213",
-      "description": "Musc panache by Maurice Roucel An intimate musk that the perfumer could almost have created for himself. CITRUS WOODY MUSK Top notes: tamarind, mandarin, bitter orange, bergamot, cardamom Heart notes: iris, honeysuckle Base notes: vetiver from Haiti, patchouli, cedar, tonka bean, musks, amber 83 from De Laire Far from excessive eroticism, this fragrance nonetheless boasts a sensual signature. Concealed under the contours of a spicy cologne, I wanted to reveal an iris heart delicately placed on an overabundance of musks, bringing roundness. Finally, a rather transparent woody base of vetiver and cedar blends together with an amber note of vanilla and tonka bean. - Maurice Roucel, Perfumer Philosophy, Maison Rebatchi. In creating its first perfumes and candles, Maison Rebatchi surrounded itself with the greatest perfumers and best artisans in the discipline. From their choice of high-quality raw materials to compose their concoctions to the beautiful design of the perfume bottles, the creations of Maison Rebatchi are undeniably emblazoned with the seal of excellence. Soulful material. For the composition and manufacture of their perfumes, Maison Rebatchi works with Accords & Parfums, the company that furnishes flowers for most auteur perfumers. Located in the hills of the French town of Grasse, Accords & Parfums exudes a unique savoir-faire. The perfume lab also grows and harvests their own authentic May Rose Absolute. So, it was only natural that in Accords & Parfums, Maison Rebatchi found an echo of their endless quest for perfection and beautiful raw materials. Works of art. BOTTLES The perfumes are displayed in artful bottles designed by Pierre and Jules Dinand. They decided to adorn the bottle with a mashrabiya motif to highlight the creator’s origins and the DNA of the French perfume house. Delicate, symbolic, and timeless raised petals engraved over the entire bottle reflect light, add rhythm and create an illusion without the eye being able to follow a specific movement. Founder, Mohamed Rebatchi. This is the story of a perfume House that could have begun, like so many others, with “once upon a time there was a perfumer, or the son of a perfumer…\". However, this was not at all the case. Maison Rebatchi is the fruit of a life-long dream. That of Mohamed Rebatchi, a young Franco-Algerian who grew up in a working-class suburb north of Paris. Maurice Roucel, the alchemist. Creator of multiple perfumes, some of which have since become iconic, Maurice Roucel is passionate about pushing the limits of the senses. Embarking an exploratory journey with him is no easy task...",
-      "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/maisonrebatchimuscpanacheedp50ml",
-      "source_price": 160.3,
-      "source_count": 1,
-      "sources": [
+        },
         {
           "retailer_slug": "world",
           "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/maisonrebatchimuscpanacheedp50ml",
+          "source_url": "https://worldbrand.co.nz/products/maisonrebatchijoyeuxosmantheedp50ml",
           "brand": "Maison Rebatchi",
-          "name": "Maison Rebatchi Musc Panache EDP 50ml",
+          "name": "Maison Rebatchi Joyeux Osmanthe EDP 50ml",
           "size": "50ml",
-          "price": 160.3,
+          "price": 229,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/942ba6393a998e3bbec1c162b0875a22d5e4b46c.png?v=1595909213"
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/d42722a1760f5105b757f4c3175d3f0c50f97938.png?v=1595909212"
         }
       ]
     },
@@ -179214,6 +179343,62 @@
           "price": 103.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/images_1_67c5a0ef-a3b0-47ed-bb8e-9da855920984.jpg?v=1728878475"
+        }
+      ]
+    },
+    {
+      "brand": "Beso Beach",
+      "name": "Beso Beach - Beso Feliz EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 349,
+      "price_per_100ml": 349,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/BBFEL100.jpg?v=1670919050",
+      "description": "HAPPY KISS The hippy movement found in the Ibiza of the 60s a place of tranquility, an open and hospitable people. The nature of Ibiza, an original architecture and some landscapes and some beaches that invited to stay in them. In this way, the movement found in Ibiza one of its places of pilgrimage. Happy kiss conveys this peace and harmony, as well as the symbols of freedom, peace and love. A kiss with a smoky marijuana flavour, which causes a feeling of well-being and calm. The spirit is renewed with its woody and balsamic warmth and suddenly you realise that the true joys of life are here with our people. Here you would stay forever. HAPPY KISS has ingredients that induce relaxation, mindfulness and seduction. As for the main ingredients, they are the following: Top Notes: CANNABIS ACCORD, BLACKCURRANT, PEPPER PINK, RHUIBARB Heart Notes: ROSE ESSENTIAL, SAGE CLARY ABS FRENCH, HAY ABS, PEPPER OIL BLACK MADAGASCAR Base Notes: PATCHOULI HEART, VETIVER OIL JAVA, BENZOIN RESINOID, GOLDEN MUSK Vegan fragrance.",
+      "source_name": "world-shopify-suggest",
+      "source_url": "https://worldbrand.co.nz/products/beso-beach-beso-feliz-edp-100ml",
+      "source_price": 349,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/beso-beach-beso-feliz-edp-100ml",
+          "brand": "Beso Beach",
+          "name": "Beso Beach - Beso Feliz EDP 100ml",
+          "size": "100ml",
+          "price": 349,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/BBFEL100.jpg?v=1670919050"
+        }
+      ]
+    },
+    {
+      "brand": "Beso Beach",
+      "name": "Beso Beach - Beso Negro EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 349,
+      "price_per_100ml": 349,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/BBBN100.jpg?v=1670918906",
+      "description": "BLACK KISS An elegant, strong and charismatic sunset. The most provocative kiss, the notes of violet and cardamom have given way to the night, to the provocation of the Patchouli and to the wildest side of the skin and the sandalwood. A unique personality that unites in a carnal kiss where the darkness and the moon are the only testimonies. NOTES: T: violet leaves, caradmomo from Guatemala, green chord M: violet, concrete from Orris, Cypriol, Pachouli from Indonesia B: Virginia cedar wood, ambrox, Indian sandalwood, leather Perfumer: Christophe Raynaud",
+      "source_name": "world-shopify-suggest",
+      "source_url": "https://worldbrand.co.nz/products/beso-beach-beso-negro-edp-100ml",
+      "source_price": 349,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/beso-beach-beso-negro-edp-100ml",
+          "brand": "Beso Beach",
+          "name": "Beso Beach - Beso Negro EDP 100ml",
+          "size": "100ml",
+          "price": 349,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/BBBN100.jpg?v=1670918906"
         }
       ]
     },
@@ -201378,6 +201563,34 @@
       ]
     },
     {
+      "brand": "Maison Rebatchi",
+      "name": "Maison Rebatchi Musc Panache EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 229,
+      "price_per_100ml": 458,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/942ba6393a998e3bbec1c162b0875a22d5e4b46c.png?v=1595909213",
+      "description": "Musc panache by Maurice Roucel An intimate musk that the perfumer could almost have created for himself. CITRUS WOODY MUSK Top notes: tamarind, mandarin, bitter orange, bergamot, cardamom Heart notes: iris, honeysuckle Base notes: vetiver from Haiti, patchouli, cedar, tonka bean, musks, amber 83 from De Laire Far from excessive eroticism, this fragrance nonetheless boasts a sensual signature. Concealed under the contours of a spicy cologne, I wanted to reveal an iris heart delicately placed on an overabundance of musks, bringing roundness. Finally, a rather transparent woody base of vetiver and cedar blends together with an amber note of vanilla and tonka bean. - Maurice Roucel, Perfumer Philosophy, Maison Rebatchi. In creating its first perfumes and candles, Maison Rebatchi surrounded itself with the greatest perfumers and best artisans in the discipline. From their choice of high-quality raw materials to compose their concoctions to the beautiful design of the perfume bottles, the creations of Maison Rebatchi are undeniably emblazoned with the seal of excellence. Soulful material. For the composition and manufacture of their perfumes, Maison Rebatchi works with Accords & Parfums, the company that furnishes flowers for most auteur perfumers. Located in the hills of the French town of Grasse, Accords & Parfums exudes a unique savoir-faire. The perfume lab also grows and harvests their own authentic May Rose Absolute. So, it was only natural that in Accords & Parfums, Maison Rebatchi found an echo of their endless quest for perfection and beautiful raw materials. Works of art. BOTTLES The perfumes are displayed in artful bottles designed by Pierre and Jules Dinand. They decided to adorn the bottle with a mashrabiya motif to highlight the creator’s origins and the DNA of the French perfume house. Delicate, symbolic, and timeless raised petals engraved over the entire bottle reflect light, add rhythm and create an illusion without the eye being able to follow a specific movement. Founder, Mohamed Rebatchi. This is the story of a perfume House that could have begun, like so many others, with “once upon a time there was a perfumer, or the son of a perfumer…\". However, this was not at all the case. Maison Rebatchi is the fruit of a life-long dream. That of Mohamed Rebatchi, a young Franco-Algerian who grew up in a working-class suburb north of Paris. Maurice Roucel, the alchemist. Creator of multiple perfumes, some of which have since become iconic, Maurice Roucel is passionate about pushing the limits of the senses. Embarking an exploratory journey with him is no easy task...",
+      "source_name": "world-shopify-suggest",
+      "source_url": "https://worldbrand.co.nz/products/maisonrebatchimuscpanacheedp50ml",
+      "source_price": 229,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/maisonrebatchimuscpanacheedp50ml",
+          "brand": "Maison Rebatchi",
+          "name": "Maison Rebatchi Musc Panache EDP 50ml",
+          "size": "50ml",
+          "price": 229,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/942ba6393a998e3bbec1c162b0875a22d5e4b46c.png?v=1595909213"
+        }
+      ]
+    },
+    {
       "brand": "Etat Libre d'Orange",
       "name": "Etat Libre d'Orange Eau de Protection EDP 50ml",
       "size": "50ml",
@@ -203051,7 +203264,7 @@
       "price": 231,
       "price_per_100ml": 462,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047096-0.jpg?v=1794264450",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047096-0.jpg?v=1794864707",
       "description": "A neo-vintage ambery-woody floral fragrance created by perfumer Romain Almairac, inspired by the free-spirited 1970s mood of the house",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/chloe-le-nectar-parfum-intense-50ml",
@@ -203067,7 +203280,7 @@
           "size": "50ml",
           "price": 231,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047096-0.jpg?v=1794264450"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047096-0.jpg?v=1794864707"
         }
       ]
     },
@@ -212464,7 +212677,7 @@
       "price": 161,
       "price_per_100ml": 536.67,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047095-0.jpg?v=1794264450",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047095-0.jpg?v=1794864703",
       "description": "A neo-vintage ambery-woody floral fragrance created by perfumer Romain Almairac, inspired by the free-spirited 1970s mood of the house",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/chloe-le-nectar-parfum-intense-30ml",
@@ -212480,7 +212693,7 @@
           "size": "30ml",
           "price": 161,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047095-0.jpg?v=1794264450"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047095-0.jpg?v=1794864703"
         }
       ]
     },
