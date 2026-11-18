@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T11:31:34.132Z",
-  "count": 4701,
+  "generated_at": "2026-11-18T11:11:53.485Z",
+  "count": 4708,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -290,6 +290,62 @@
           "price": 6.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CGINS124-1.jpg?v=1738708768"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Perfume Honey Squeeze",
+      "size": null,
+      "size_ml": null,
+      "price": 3.58,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4aab0518/images/hi-res/70/5E/R3067236_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-honey-squeeze/R3067236.html",
+      "source_price": 3.58,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-honey-squeeze/R3067236.html",
+          "brand": "VV Love",
+          "name": "VV Love Perfume Honey Squeeze",
+          "size": null,
+          "price": 3.58,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4aab0518/images/hi-res/70/5E/R3067236_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Perfume Pistachio Gelato",
+      "size": null,
+      "size_ml": null,
+      "price": 3.58,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3c1ae3bd/images/hi-res/F9/E8/R3067235_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-pistachio-gelato/R3067235.html",
+      "source_price": 3.58,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-pistachio-gelato/R3067235.html",
+          "brand": "VV Love",
+          "name": "VV Love Perfume Pistachio Gelato",
+          "size": null,
+          "price": 3.58,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3c1ae3bd/images/hi-res/F9/E8/R3067235_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -2182,7 +2238,7 @@
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/body-lux-lym-frag-mist-2020-250ml",
       "source_price": 13.49,
-      "source_count": 3,
+      "source_count": 4,
       "sources": [
         {
           "retailer_slug": "bargain-chemist",
@@ -2194,6 +2250,17 @@
           "price": 13.49,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BodyLuxuriesASADYellow.png?v=1791763872"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-lym-frag-mist-2022-250ml",
+          "brand": "Body Lux",
+          "name": "Body Lux LYM Fragrance Mist 250ml",
+          "size": "250ml",
+          "price": 13.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/de62ad07-e254-45c4-9564-dbc13f9fe44f.png?v=1794962376"
         },
         {
           "retailer_slug": "bargain-chemist",
@@ -3584,6 +3651,45 @@
           "price": 54.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/48509/F2D_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Summer Island Fragrance Mist Set 4 Pack",
+      "size": null,
+      "size_ml": null,
+      "price": 7.19,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5c10d543/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-4-pack/R3030297.html",
+      "source_price": 7.19,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-4-pack/R3030297.html",
+          "brand": "VV Love",
+          "name": "VV Love Summer Island Fragrance Mist Set 4 Pack",
+          "size": null,
+          "price": 7.19,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5c10d543/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-6-pack/R3030288.html",
+          "brand": "VV Love",
+          "name": "VV Love Summer Island Fragrance Mist Set 6 Pack",
+          "size": null,
+          "price": 10.19,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw178c8061/images/hi-res/4B/6C/R3030288_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -8214,6 +8320,123 @@
       ]
     },
     {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist Toasty Mallow",
+      "size": null,
+      "size_ml": null,
+      "price": 10.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw49673c1b/images/hi-res/4C/9A/R3064369_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-toasty-mallow/R3064369.html",
+      "source_price": 10.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-toasty-mallow/R3064369.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist Toasty Mallow",
+          "size": null,
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw49673c1b/images/hi-res/4C/9A/R3064369_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist Vanilla Crystal",
+      "size": null,
+      "size_ml": null,
+      "price": 10.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe5e1bbef/images/hi-res/BB/F9/R3064363_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-vanilla-crystal/R3064363.html",
+      "source_price": 10.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-vanilla-crystal/R3064363.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist Vanilla Crystal",
+          "size": null,
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe5e1bbef/images/hi-res/BB/F9/R3064363_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist No.1",
+      "size": null,
+      "size_ml": null,
+      "price": 10.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd159b380/images/hi-res/4A/01/R2919952_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.1/R2919952.html",
+      "source_price": 10.99,
+      "source_count": 4,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.1/R2919952.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.1",
+          "size": null,
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd159b380/images/hi-res/4A/01/R2919952_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.2/R2919953.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.2",
+          "size": null,
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc97b5b29/images/hi-res/F7/0E/R2919953_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.3/R2919954.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.3",
+          "size": null,
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd0faa107/images/hi-res/1C/32/R2919954_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.4/R2919955.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.4",
+          "size": null,
+          "price": 21.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5473a159/images/hi-res/16/69/R2919955_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Gem",
       "name": "Gem Fragrance Mist For Body & Hair Vanilla Macadamia 90ml",
       "size": "90ml",
@@ -8517,45 +8740,6 @@
           "price": 17.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw35ede668/images/hi-res/F4/E8/R3060055_40.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Summer Island Fragrance Mist Set 4 Pack",
-      "size": null,
-      "size_ml": null,
-      "price": 11.99,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5c10d543/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-4-pack/R3030297.html",
-      "source_price": 11.99,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-4-pack/R3030297.html",
-          "brand": "VV Love",
-          "name": "VV Love Summer Island Fragrance Mist Set 4 Pack",
-          "size": null,
-          "price": 11.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5c10d543/images/hi-res/0B/BB/R3030297_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-summer-island-fragrance-mist-set-6-pack/R3030288.html",
-          "brand": "VV Love",
-          "name": "VV Love Summer Island Fragrance Mist Set 6 Pack",
-          "size": null,
-          "price": 16.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwaca97523/images/hi-res/4B/6C/R3030288_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -9392,13 +9576,24 @@
       "price": 10.99,
       "price_per_100ml": 12.21,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwff590ddf/images/hi-res/81/D7/R2984875_40.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1ff7f125/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.7-90ml/R2984875.html",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
       "source_price": 10.99,
       "source_count": 19,
       "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.0 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1ff7f125/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
+        },
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
@@ -9417,7 +9612,7 @@
           "brand": "MCoBeauty",
           "name": "MCoBeauty Fragrance Mist No.6 90ml",
           "size": "90ml",
-          "price": 21.99,
+          "price": 15.4,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/R2984884_40_7367d0b1-6010-4b7d-9f36-b8e7ca8ff3dd.jpg?v=1761012209"
         },
@@ -9428,7 +9623,7 @@
           "brand": "MCoBeauty",
           "name": "MCoBeauty Fragrance Mist - No.3 - 90ml",
           "size": "90ml",
-          "price": 21.99,
+          "price": 15.4,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/14229051932702.png?v=1737495883"
         },
@@ -9439,7 +9634,7 @@
           "brand": "MCoBeauty",
           "name": "MCoBeauty Fragrance Mist - No.1 - 90ml",
           "size": "90ml",
-          "price": 21.99,
+          "price": 15.4,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/14229024702494.png?v=1737496809"
         },
@@ -9450,7 +9645,7 @@
           "brand": "MCoBeauty",
           "name": "MCoBeauty Fragrance Mist - No.4 - 90ml",
           "size": "90ml",
-          "price": 21.99,
+          "price": 15.4,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/14229054488606.png?v=1737497162"
         },
@@ -9461,7 +9656,7 @@
           "brand": "MCoBeauty",
           "name": "MCoBeauty Fragrance Mist - No.2 - 90ml",
           "size": "90ml",
-          "price": 21.99,
+          "price": 15.4,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/14229044789278.jpg?v=1751555503"
         },
@@ -9475,17 +9670,6 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw6acf5275/images/hi-res/0A/65/R3032442_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.0 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1ff7f125/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
         },
         {
           "retailer_slug": "the-warehouse",
@@ -9844,7 +10028,7 @@
       "price": 10.99,
       "price_per_100ml": 12.21,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw7cd157cf/images/hi-res/D3/6A/R2984882_40.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5b34f449/images/hi-res/D3/6A/R2984882_40.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
       "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-shimmer-fragrance-mist-no.7-90ml/R2984882.html",
@@ -9860,7 +10044,7 @@
           "size": "90ml",
           "price": 10.99,
           "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw7cd157cf/images/hi-res/D3/6A/R2984882_40.jpg?sw=292&sh=292"
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5b34f449/images/hi-res/D3/6A/R2984882_40.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -10309,6 +10493,34 @@
           "price": 10.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw14c2414c/images/hi-res/60/15/R3032444_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist Original Sin 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 10.99,
+      "price_per_100ml": 12.21,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw94b79f7e/images/hi-res/B9/DE/R3032458_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-original-sin-90ml/R3032458.html",
+      "source_price": 10.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-original-sin-90ml/R3032458.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist Original Sin 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw94b79f7e/images/hi-res/B9/DE/R3032458_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -12390,34 +12602,6 @@
           "price": 12.49,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/6-18.jpg?v=1737931690"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Perfume Honey Squeeze",
-      "size": null,
-      "size_ml": null,
-      "price": 13.99,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd05fad63/images/hi-res/70/5E/R3067236_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-honey-squeeze/R3067236.html",
-      "source_price": 13.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-perfume-honey-squeeze/R3067236.html",
-          "brand": "VV Love",
-          "name": "VV Love Perfume Honey Squeeze",
-          "size": null,
-          "price": 13.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd05fad63/images/hi-res/70/5E/R3067236_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -15502,6 +15686,34 @@
       ]
     },
     {
+      "brand": "VV Love",
+      "name": "VV Love Ladies Classic 35ml EDT Giftset",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.99,
+      "price_per_100ml": 17.11,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwed2ab8e8/images/hi-res/E2/DC/R3067226_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-classic-35ml-edt-giftset/R3067226.html",
+      "source_price": 5.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-classic-35ml-edt-giftset/R3067226.html",
+          "brand": "VV Love",
+          "name": "VV Love Ladies Classic 35ml EDT Giftset",
+          "size": "35ml",
+          "price": 5.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwed2ab8e8/images/hi-res/E2/DC/R3067226_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
       "brand": "Dear Body",
       "name": "Dear Body Black Sport EDP 90ml",
       "size": "90ml",
@@ -17945,34 +18157,6 @@
     },
     {
       "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist Toasty Mallow",
-      "size": null,
-      "size_ml": null,
-      "price": 21.99,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw49673c1b/images/hi-res/4C/9A/R3064369_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-toasty-mallow/R3064369.html",
-      "source_price": 21.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-toasty-mallow/R3064369.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist Toasty Mallow",
-          "size": null,
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw49673c1b/images/hi-res/4C/9A/R3064369_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
       "name": "MCoBeauty Fragrance Mist No.2",
       "size": null,
       "size_ml": null,
@@ -18029,34 +18213,6 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5473a159/images/hi-res/16/69/R2919955_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist Vanilla Crystal",
-      "size": null,
-      "size_ml": null,
-      "price": 21.99,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe5e1bbef/images/hi-res/BB/F9/R3064363_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-vanilla-crystal/R3064363.html",
-      "source_price": 21.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-vanilla-crystal/R3064363.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist Vanilla Crystal",
-          "size": null,
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe5e1bbef/images/hi-res/BB/F9/R3064363_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -18264,67 +18420,6 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw998660ec/images/hi-res/59/E3/R3064367_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist No.1",
-      "size": null,
-      "size_ml": null,
-      "price": 21.99,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw08fc29dd/images/hi-res/4A/01/R2919952_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.1/R2919952.html",
-      "source_price": 21.99,
-      "source_count": 4,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.1/R2919952.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.1",
-          "size": null,
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw08fc29dd/images/hi-res/4A/01/R2919952_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.3/R2919954.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.3",
-          "size": null,
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwa88724dc/images/hi-res/1C/32/R2919954_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.2/R2919953.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.2",
-          "size": null,
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw0a4ebc2a/images/hi-res/F7/0E/R2919953_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.4/R2919955.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.4",
-          "size": null,
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5473a159/images/hi-res/16/69/R2919955_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -18827,34 +18922,6 @@
           "price": 22,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd0377ae5/images/hi-res/D1/12/R2984884_40.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist Original Sin 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 21.99,
-      "price_per_100ml": 24.43,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc01772e5/images/hi-res/B9/DE/R3032458_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-original-sin-90ml/R3032458.html",
-      "source_price": 21.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-original-sin-90ml/R3032458.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist Original Sin 90ml",
-          "size": "90ml",
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc01772e5/images/hi-res/B9/DE/R3032458_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -20669,34 +20736,6 @@
           "price": 41.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/6499296_00_W460_H600__60368.1609716112.jpg?v=1693800259"
-        }
-      ]
-    },
-    {
-      "brand": "VV Love",
-      "name": "VV Love Ladies Classic 35ml EDT Giftset",
-      "size": "35ml",
-      "size_ml": 35,
-      "price": 9.99,
-      "price_per_100ml": 28.54,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwed2ab8e8/images/hi-res/E2/DC/R3067226_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-classic-35ml-edt-giftset/R3067226.html",
-      "source_price": 9.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-ladies-classic-35ml-edt-giftset/R3067226.html",
-          "brand": "VV Love",
-          "name": "VV Love Ladies Classic 35ml EDT Giftset",
-          "size": "35ml",
-          "price": 9.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwed2ab8e8/images/hi-res/E2/DC/R3067226_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -25412,6 +25451,89 @@
       ]
     },
     {
+      "brand": "Britney Spears",
+      "name": "Britney Spears Believe EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 35,
+      "price_per_100ml": 35,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908",
+      "description": "Britney Spears Believe EDP 100ml for Women Britney Spears Believe EDP 100ml for Women is a bright floral-fruity Eau de Parfum that pairs juicy guava and sparkling tangerine with delicate linden blossom and honeysuckle, before settling into patchouli, praline and warm amber. The contrast between fresh fruit, transparent florals and a softly sweet earthy base gives Believe a distinctive, easy-to-wear character. This 100ml Eau de Parfum suits women who enjoy fruity floral fragrances with more depth than a simple sweet scent. It feels light and optimistic at the opening, gently floral through the heart and warmer in the dry-down, making it suitable for everyday wear, work, weekends, casual evenings and fragrance gifting. Buy Britney Spears fragrances from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Guava and tangerine. Heart Notes: Linden blossom and honeysuckle. Base Notes: Patchouli, praline and amber. Scent Profile Believe opens with a tropical guava note brightened by juicy tangerine. The fruitiness is vivid but not syrupy, creating a fresh and uplifting first impression. Linden blossom and honeysuckle form a soft floral centre, while patchouli adds an earthy backbone to the praline and amber base. The overall scent is fruity, floral, warm and softly sweet, with enough patchouli depth to keep the dry-down from feeling overly sugary. Who Is It For? Believe is marketed as a fragrance for women. It is recommended for customers who enjoy guava, citrus, honeysuckle, transparent florals, amber, praline and approachable patchouli fragrances. It is especially suitable for someone looking for an affordable everyday perfume with a cheerful opening, a gentle floral heart and a warmer, slightly earthy finish. When to Wear Daytime: Work, study, brunch, shopping, weekends and casual daytime events. Evening: Relaxed dinners and informal evening occasions. Season: Particularly suited to spring, autumn and mild New Zealand weather, while wearable year-round according to preference. Occasion: Everyday fragrance wear, birthdays, celebrations, Mother’s Day and nostalgic gifting. Longevity & Sillage As an Eau de Parfum, Believe is designed to provide a noticeable scent trail that becomes softer and warmer as the patchouli, praline and amber develop. Longevity and projection vary depending on body chemistry, application, weather, clothing and storage conditions. How to Wear Apply to pulse points such as the neck and wrists. Use a lighter application for daytime wear and add one additional spray for casual evening use. Avoid rubbing the fragrance after spraying so the fruit, floral and base notes can develop naturally. Layering Suggestions Layer with a light citrus or guava body product to emphasise the opening, or use a gentle vanilla, praline or amber lotion to add warmth to the dry-down. A clean patchouli-based body product can bring forward the fragrance’s earthier side. More Britney Spears Fragrances to Explore Britney Spears Curious EDP 100ml — a fresher floral woody musk with magnolia, pear, lotus, jasmine and sandalwood. Britney Spears Fantasy Intimate EDP 100ml — a warmer sweet floral musk with litchi, brown sugar, vanilla and benzoin. Britney Spears Jungle Fantasy EDT 100ml — a playful tropical scent with watermelon, yuzu, watery florals, cupcake and tonka. Similar Designer & Celebrity Fragrances Dolce & Gabbana Dolce Magnolia EDP 50ml — a polished pear and magnolia fragrance with a smooth floral-gourmand finish. Gucci Bamboo EDP 75ml — an elegant floral-woody alternative with greater designer depth. Billie Eilish Your Turn EDP 100ml — a modern celebrity fragrance with a woody floral musk direction. Premium & Niche Alternatives Byredo Blanche EDP 100ml — a premium clean-floral musk with a crisp minimalist character. Creed Love in White for Summer EDP 75ml — a luxury citrus-floral fragrance suited to elegant warm-weather wear. Bond No. 9 Greenwich Village EDP 100ml — a richer niche fruity floral gourmand with vanilla, praline and musk. Explore More Fragrances Browse more Britney Spears perfumes , women’s perfumes , latest perfume arrivals and perfumes and fragrances from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Britney Spears Fragrance: Believe Size: 100ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Fruity Scent Style: Fruity, floral, warm, softly sweet and slightly earthy Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Britney Spears Believe EDP 100ml retail spray bottle Fragrance Care Tips Store the bottle upright in a cool and dry location. Keep it away from direct sunlight, excessive heat and humidity. Avoid repeated exposure to rapid temperature changes. Replace the cap after use where applicable. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women",
+      "source_price": 35,
+      "source_count": 6,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Believe EDP 100ml",
+          "size": "100ml",
+          "price": 35,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women?_pos=2&_psq=Britney+Spears&_psid=ee927ef99&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Believe EDP 100ml",
+          "size": "100ml",
+          "price": 42,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women?_pos=2&_psq=Britney+Spears&_psid=9fc1deef9&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Believe EDP 100ml",
+          "size": "100ml",
+          "price": 42,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women?_pos=2&_psq=Britney+Spears&_psid=f92a15f67&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Believe EDP 100ml",
+          "size": "100ml",
+          "price": 42,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women?_pos=2&_psq=Britney+Spears&_psid=3f1283dea&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Believe EDP 100ml",
+          "size": "100ml",
+          "price": 42,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women?_pos=2&_psq=Britney+Spears&_psid=a76c2684a&_ss=e",
+          "brand": "Britney Spears",
+          "name": "Britney Spears Believe EDP 100ml",
+          "size": "100ml",
+          "price": 42,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
+        }
+      ]
+    },
+    {
       "brand": "Revlon",
       "name": "RV Happiness EDT 50ml",
       "size": "50ml",
@@ -27086,7 +27208,7 @@
       "price": 19.99,
       "price_per_100ml": 39.98,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/11010598-0.webp?v=1794971121",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/rv-happiness-edt-50ml",
@@ -27102,7 +27224,7 @@
           "size": "50ml",
           "price": 19.99,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/11010598-0.webp?v=1794971121"
         }
       ]
     },
@@ -29132,89 +29254,6 @@
           "price": 20.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/14025139847198.jpg?v=1760702531"
-        }
-      ]
-    },
-    {
-      "brand": "Britney Spears",
-      "name": "Britney Spears Believe EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 42,
-      "price_per_100ml": 42,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908",
-      "description": "Britney Spears Believe EDP 100ml for Women Britney Spears Believe EDP 100ml for Women is a bright floral-fruity Eau de Parfum that pairs juicy guava and sparkling tangerine with delicate linden blossom and honeysuckle, before settling into patchouli, praline and warm amber. The contrast between fresh fruit, transparent florals and a softly sweet earthy base gives Believe a distinctive, easy-to-wear character. This 100ml Eau de Parfum suits women who enjoy fruity floral fragrances with more depth than a simple sweet scent. It feels light and optimistic at the opening, gently floral through the heart and warmer in the dry-down, making it suitable for everyday wear, work, weekends, casual evenings and fragrance gifting. Buy Britney Spears fragrances from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Guava and tangerine. Heart Notes: Linden blossom and honeysuckle. Base Notes: Patchouli, praline and amber. Scent Profile Believe opens with a tropical guava note brightened by juicy tangerine. The fruitiness is vivid but not syrupy, creating a fresh and uplifting first impression. Linden blossom and honeysuckle form a soft floral centre, while patchouli adds an earthy backbone to the praline and amber base. The overall scent is fruity, floral, warm and softly sweet, with enough patchouli depth to keep the dry-down from feeling overly sugary. Who Is It For? Believe is marketed as a fragrance for women. It is recommended for customers who enjoy guava, citrus, honeysuckle, transparent florals, amber, praline and approachable patchouli fragrances. It is especially suitable for someone looking for an affordable everyday perfume with a cheerful opening, a gentle floral heart and a warmer, slightly earthy finish. When to Wear Daytime: Work, study, brunch, shopping, weekends and casual daytime events. Evening: Relaxed dinners and informal evening occasions. Season: Particularly suited to spring, autumn and mild New Zealand weather, while wearable year-round according to preference. Occasion: Everyday fragrance wear, birthdays, celebrations, Mother’s Day and nostalgic gifting. Longevity & Sillage As an Eau de Parfum, Believe is designed to provide a noticeable scent trail that becomes softer and warmer as the patchouli, praline and amber develop. Longevity and projection vary depending on body chemistry, application, weather, clothing and storage conditions. How to Wear Apply to pulse points such as the neck and wrists. Use a lighter application for daytime wear and add one additional spray for casual evening use. Avoid rubbing the fragrance after spraying so the fruit, floral and base notes can develop naturally. Layering Suggestions Layer with a light citrus or guava body product to emphasise the opening, or use a gentle vanilla, praline or amber lotion to add warmth to the dry-down. A clean patchouli-based body product can bring forward the fragrance’s earthier side. More Britney Spears Fragrances to Explore Britney Spears Curious EDP 100ml — a fresher floral woody musk with magnolia, pear, lotus, jasmine and sandalwood. Britney Spears Fantasy Intimate EDP 100ml — a warmer sweet floral musk with litchi, brown sugar, vanilla and benzoin. Britney Spears Jungle Fantasy EDT 100ml — a playful tropical scent with watermelon, yuzu, watery florals, cupcake and tonka. Similar Designer & Celebrity Fragrances Dolce & Gabbana Dolce Magnolia EDP 50ml — a polished pear and magnolia fragrance with a smooth floral-gourmand finish. Gucci Bamboo EDP 75ml — an elegant floral-woody alternative with greater designer depth. Billie Eilish Your Turn EDP 100ml — a modern celebrity fragrance with a woody floral musk direction. Premium & Niche Alternatives Byredo Blanche EDP 100ml — a premium clean-floral musk with a crisp minimalist character. Creed Love in White for Summer EDP 75ml — a luxury citrus-floral fragrance suited to elegant warm-weather wear. Bond No. 9 Greenwich Village EDP 100ml — a richer niche fruity floral gourmand with vanilla, praline and musk. Explore More Fragrances Browse more Britney Spears perfumes , women’s perfumes , latest perfume arrivals and perfumes and fragrances from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Britney Spears Fragrance: Believe Size: 100ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Fruity Scent Style: Fruity, floral, warm, softly sweet and slightly earthy Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Britney Spears Believe EDP 100ml retail spray bottle Fragrance Care Tips Store the bottle upright in a cool and dry location. Keep it away from direct sunlight, excessive heat and humidity. Avoid repeated exposure to rapid temperature changes. Replace the cap after use where applicable. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women",
-      "source_price": 42,
-      "source_count": 6,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Believe EDP 100ml",
-          "size": "100ml",
-          "price": 42,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women?_pos=2&_psq=Britney+Spears&_psid=ee927ef99&_ss=e",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Believe EDP 100ml",
-          "size": "100ml",
-          "price": 42,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women?_pos=2&_psq=Britney+Spears&_psid=9fc1deef9&_ss=e",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Believe EDP 100ml",
-          "size": "100ml",
-          "price": 42,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women?_pos=2&_psq=Britney+Spears&_psid=f92a15f67&_ss=e",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Believe EDP 100ml",
-          "size": "100ml",
-          "price": 42,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women?_pos=2&_psq=Britney+Spears&_psid=3f1283dea&_ss=e",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Believe EDP 100ml",
-          "size": "100ml",
-          "price": 42,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/britney-spears-believe-100ml-edp-for-women?_pos=2&_psq=Britney+Spears&_psid=a76c2684a&_ss=e",
-          "brand": "Britney Spears",
-          "name": "Britney Spears Believe EDP 100ml",
-          "size": "100ml",
-          "price": 42,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/britney-spears-believe-100ml-edp-for-women-506612.jpg?v=1777621908"
         }
       ]
     },
@@ -31727,6 +31766,118 @@
           "price": 54,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20025890-0.jpg?v=1741549509"
+        }
+      ]
+    },
+    {
+      "brand": "Marc Jacobs",
+      "name": "Marc Jacobs Daisy Lemon Spritz Hair & Body Mist 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 69,
+      "price_per_100ml": 46,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047097-0_495bf1c0-6aa5-459e-8787-d4185b0a1b12.jpg?v=1794955399",
+      "description": "• Product Overview: An all-over, lightweight, and hydrating fragrance spray designed for both hair and body. • Concept: A juicy and addictive fruity-fresh scent meant to be worn on its own or layered with Daisy Eau So Fresh to create a custom signature scent. • Olfactory Pyramid: • Top Note: Mandarin Essential Oil • Heart Note: Pink Grapefruit Accord • Base Note: Maracuja Accord (passionfruit) / Passion fruit",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-daisy-lemon-spritz-hair-body-mist-150ml",
+      "source_price": 69,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-daisy-lemon-spritz-hair-body-mist-150ml",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Daisy Lemon Spritz Hair & Body Mist 150ml",
+          "size": "150ml",
+          "price": 69,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047097-0_495bf1c0-6aa5-459e-8787-d4185b0a1b12.jpg?v=1794955399"
+        }
+      ]
+    },
+    {
+      "brand": "Marc Jacobs",
+      "name": "Marc Jacobs Daisy Mandarin Fizz Hair & Body Mist 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 69,
+      "price_per_100ml": 46,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047098-0.jpg?v=1794955447",
+      "description": "• Product Overview: An all-over, lightweight, and hydrating fragrance spray designed for both hair and body. • Concept: A juicy and addictive fruity-fresh scent meant to be worn on its own or layered with Daisy Eau So Fresh to create a custom signature scent. • Olfactory Pyramid: • Top Note: Mandarin Essential Oil • Heart Note: Pink Grapefruit Accord • Base Note: Maracuja Accord (passionfruit) / Passion fruit",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-daisy-mandarin-fizz-hair-body-mist-150ml",
+      "source_price": 69,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-daisy-mandarin-fizz-hair-body-mist-150ml",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Daisy Mandarin Fizz Hair & Body Mist 150ml",
+          "size": "150ml",
+          "price": 69,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047098-0.jpg?v=1794955447"
+        }
+      ]
+    },
+    {
+      "brand": "Marc Jacobs",
+      "name": "Marc Jacobs Daisy Tropical Glow Hair & Body Mist 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 69,
+      "price_per_100ml": 46,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047100-0.jpg?v=1794955532",
+      "description": "• Product Overview: An all-over, lightweight, and hydrating fragrance spray designed for both hair and body. • Concept: A juicy and addictive fruity-fresh scent meant to be worn on its own or layered with Daisy Eau So Fresh to create a custom signature scent. • Olfactory Pyramid: • Top Note: Mandarin Essential Oil • Heart Note: Pink Grapefruit Accord • Base Note: Maracuja Accord (passionfruit) / Passion fruit",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-daisy-tropical-glow-hair-body-mist-150ml",
+      "source_price": 69,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-daisy-tropical-glow-hair-body-mist-150ml",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Daisy Tropical Glow Hair & Body Mist 150ml",
+          "size": "150ml",
+          "price": 69,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047100-0.jpg?v=1794955532"
+        }
+      ]
+    },
+    {
+      "brand": "Marc Jacobs",
+      "name": "Marc Jacobs Daisy Vanilla Gourmand Hair & Body Mist 150ml",
+      "size": "150ml",
+      "size_ml": 150,
+      "price": 69,
+      "price_per_100ml": 46,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047099-0.jpg?v=1794955493",
+      "description": "• Product Overview: An all-over, lightweight, and hydrating fragrance spray designed for both hair and body. • Concept: A juicy and addictive fruity-fresh scent meant to be worn on its own or layered with Daisy Eau So Fresh to create a custom signature scent. • Olfactory Pyramid: • Top Note: Mandarin Essential Oil • Heart Note: Pink Grapefruit Accord • Base Note: Maracuja Accord (passionfruit) / Passion fruit",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-daisy-vanilla-gourmand-hair-body-mist-150ml",
+      "source_price": 69,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/marc-jacobs-daisy-vanilla-gourmand-hair-body-mist-150ml",
+          "brand": "Marc Jacobs",
+          "name": "Marc Jacobs Daisy Vanilla Gourmand Hair & Body Mist 150ml",
+          "size": "150ml",
+          "price": 69,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20047099-0.jpg?v=1794955493"
         }
       ]
     },
@@ -73729,30 +73880,30 @@
       ]
     },
     {
-      "brand": "French Avenue",
-      "name": "French Avenue Liquid Brun EDP 100ml",
+      "brand": "Davidoff",
+      "name": "Davidoff Cool Elixir Safran Mineral Parfum Intense 100ml",
       "size": "100ml",
       "size_ml": 100,
       "price": 89,
       "price_per_100ml": 89,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/French-Avenue-Liquid-Brun-100ML-EDP-for-Men-6290360375694.jpg?v=1781827689",
-      "description": "French Avenue Liquid Brun EDP 100ml for Men French Avenue Liquid Brun EDP 100ml for Men is a warm amber vanilla Eau de Parfum with cinnamon, bergamot, cardamom, orange blossom, bourbon vanilla, praline, musk and smooth woods. It opens with aromatic spice and bright citrus, develops into a creamy vanilla heart, then settles into a sweet, musky and woody dry-down. This 100ml Eau de Parfum is ideal for customers who enjoy warm spicy fragrances, smooth vanilla, gourmand sweetness and polished evening scents. Liquid Brun is especially suited to dinners, date nights, celebrations, cooler New Zealand weather, gifting and confident signature-scent styling. Buy French Avenue fragrances from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Cinnamon, bergamot, cardamom and orange blossom. Heart Notes: Bourbon vanilla and elemi. Base Notes: Musk, praline, ambroxan and guaiac wood. Scent Profile Liquid Brun begins with the warmth of cinnamon and cardamom, balanced by bergamot and orange blossom. Bourbon vanilla and elemi create a creamy, softly resinous heart, while praline adds gourmand sweetness. Musk, ambroxan and guaiac wood give the dry-down a smooth, warm and lightly smoky finish. The overall profile is sweet, spicy, creamy and woody rather than fresh or aquatic. Its vanilla and praline warmth make it particularly appealing to customers who enjoy rich amber fragrances with a polished gourmand character. Who Is It For? Liquid Brun is marketed as a fragrance for men, although fragrance preferences are personal and it can be enjoyed by anyone who likes warm amber vanilla scents. It is recommended for customers who enjoy cinnamon, cardamom, orange blossom, creamy vanilla, praline, musk and smooth woods. It is a strong choice for someone wanting a confident evening fragrance, a sweet cold-weather signature scent or a premium gift without moving into the price range of luxury niche perfumery. When to Wear Daytime: Cooler daytime wear, smart casual outfits, weekends and occasions where a richer scent is appropriate. Evening: Dinners, date nights, celebrations, events and dressed-up social occasions. Season: Best suited to autumn, winter and cooler New Zealand evenings, while wearable year-round by amber vanilla fragrance lovers. Occasion: A premium gifting choice for customers who enjoy warm, sweet and spicy fragrances. Longevity & Sillage Liquid Brun is an Eau de Parfum with a rich amber vanilla profile and a noticeable scent presence. Start with a moderate application and adjust according to the setting. Longevity and projection can vary depending on skin chemistry, application, weather, clothing and storage conditions. How to Wear Liquid Brun Apply lightly to pulse points such as the neck and wrists. Allow the fragrance to settle naturally without rubbing the skin. Apply to moisturised skin to help the scent develop evenly. For evening wear, a light application to clothing can extend the scent trail, subject to fabric suitability. Use fewer sprays in warm or enclosed environments because sweet amber fragrances can feel richer as the temperature rises. Layering Suggestions For greater depth: Pair carefully with a clean musk or soft woody fragrance. For a brighter opening: Layer lightly with a simple citrus fragrance. For a smoother effect: Apply over an unscented moisturiser rather than adding another strong perfume. For the original composition: Wear Liquid Brun alone and allow its cinnamon, vanilla, praline and woody notes to develop naturally. More French Avenue Fragrances to Explore French Avenue Spectre Ghost EDP 80ml — explore another warm and distinctive French Avenue fragrance. French Avenue Spectre Wraith EDP 80ml — a darker fragrance direction from the Spectre collection. French Avenue Royal Blend EDP 100ml — a rich alternative for customers who enjoy indulgent fragrance styles. French Avenue Azzure Aoud EDP 100ml — a bolder oud-focused choice from the current range. Similar Warm Arabic Fragrances Lattafa Khamrah Qahwa EDP 100ml — a richer coffee-spiced gourmand fragrance direction. Lattafa Niche Emarati Mughal Fort EDP 100ml — a warm and smooth Arabic fragrance alternative. Lattafa Pride Sehr EDP 100ml — a sweet, spicy and deeper fragrance style for evening wear. Premium & Niche Alternatives Parfums de Marly Althaïr EDP 125ml — a premium amber vanilla fragrance for customers wanting a luxury niche alternative. Tom Ford Oud Wood EDP 100ml — a drier and more refined woody alternative with less gourmand sweetness. Gucci Intense Oud EDP 90ml — a deeper oud-led designer option for customers wanting darker woody intensity. Explore More Fragrances Browse more Arabic perfumes , men’s perfumes , latest perfume arrivals and perfumes and fragrances from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: French Avenue Fragrance: Liquid Brun Size: 100ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Amber Vanilla Scent Style: Warm spicy, sweet, gourmand and woody Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One French Avenue Liquid Brun EDP 100ml retail spray bottle Fragrance Care Tips Store the bottle upright in a cool and dry location. Keep it away from direct sunlight, excessive heat and humidity. Avoid repeatedly exposing the bottle to rapid temperature changes. Replace the cap after use where applicable. Disclaimer: Fragrance performance, longevity, projection, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Davidoff-Cool-Elixir-For-Men-Safran-Mineral-Parfum-Intense-100ml-1.jpg?v=1794959996",
+      "description": "Davidoff Cool Elixir Safran Mineral Parfum Intense 100ml for Men Davidoff Cool Elixir Safran Mineral Parfum Intense 100ml for Men is a woody spicy fragrance built around a saffron accord, a trio of cedarwoods and an apple accord. This Parfum Intense explores a different side of Davidoff, with a warm, textured character and a deep red presentation that distinguishes Safran Mineral from the original Cool Elixir. The 100ml Parfum Intense spray is a generous format for regular wear or a fragrance gift. Choose it for its saffron-and-cedarwood personality, with the apple accord adding contrast to the woody profile. Buy Davidoff perfumes from Gadgets Online NZ, an NZ-owned business since 2008, with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. We offer authentic products sourced through trusted supply channels, supplied in brand-new original retail packaging unless otherwise stated. Fragrance Composition Top Notes: Saffron accord. Heart Notes: Cedarwood trio. Base Notes: Apple accord. Scent Profile Saffron gives the composition a distinctive spicy impression, the cedarwood trio adds woody structure, and the apple accord offers a contrasting fruit accent. Judge Safran Mineral as its own fragrance rather than expecting the original oud-led Cool Elixir or the classic fresh character of Cool Water. It is a different composition with a separate personality. Who Is It For? For men who enjoy saffron, cedarwood and a fruit accent within a warm woody fragrance. It is a suitable direction for someone moving beyond a very fresh everyday scent or exploring a more expressive Davidoff fragrance for evenings and cooler weather. When to Wear Daytime: Cooler daytime outings and smart casual wear with a light application. Evening: Dinner, relaxed evenings and occasions suited to a woody spicy fragrance. Season: Particularly appealing for cooler days and evenings; use a restrained application in warm New Zealand weather. Occasion: A full-size fragrance gift for someone who enjoys woody scents with a saffron accent. Longevity & Sillage Parfum Intense describes the product’s concentration, without guaranteeing a fixed wear time. Apply lightly at first and allow the saffron, cedarwood and apple character to develop before deciding whether to add more. Performance varies with skin chemistry, application, weather and activity. More Davidoff Fragrances to Explore Safran Mineral brings a saffron-led woody expression to Davidoff’s fragrance wardrobe. Choose it for its own cedarwood-and-apple contrast; the designer and niche options below offer other interpretations of warm, woody perfumery. Similar Designer Fragrances Emporio Armani Stronger With You Intensely EDP 100ml — a sweeter amber-woody fragrance with vanilla warmth. Prada Paradigme EDP 100ml — a contemporary amber-woody Prada fragrance with a contrasting fresh opening. Yves Saint Laurent La Nuit de L'Homme EDP 100ml — a warm, evening-oriented designer fragrance to compare on its own merits. Premium & Niche Alternatives Parfums de Marly Layton EDP 125ml — a premium option bringing together apple, aromatic freshness and a warm vanilla-woody finish. Parfums de Marly Layton Exclusif EDP 125ml — a darker, more enveloping niche direction with woods and amber warmth. Explore More Fragrances Browse more men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Davidoff Fragrance: Cool Elixir Safran Mineral Size: 100ml Concentration: Parfum Intense Gender: Men Fragrance Family: Woody Spicy Mineral Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Davidoff Cool Elixir Safran Mineral Parfum Intense 100ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists; begin lightly and adjust to your preference. Let the fragrance dry without rubbing. Avoid spraying directly onto delicate or light-coloured fabrics. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
       "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/french-avenue-liquid-brun-100ml-edp-for-men",
+      "source_url": "https://www.gadgetsonline.co.nz/products/davidoff-cool-elixir-safran-mineral-parfum-intense-100ml",
       "source_price": 89,
       "source_count": 1,
       "sources": [
         {
           "retailer_slug": "gadgets-online",
           "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/french-avenue-liquid-brun-100ml-edp-for-men",
-          "brand": "French Avenue",
-          "name": "French Avenue Liquid Brun EDP 100ml",
+          "source_url": "https://www.gadgetsonline.co.nz/products/davidoff-cool-elixir-safran-mineral-parfum-intense-100ml",
+          "brand": "Davidoff",
+          "name": "Davidoff Cool Elixir Safran Mineral Parfum Intense 100ml",
           "size": "100ml",
           "price": 89,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/French-Avenue-Liquid-Brun-100ML-EDP-for-Men-6290360375694.jpg?v=1781827689"
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Davidoff-Cool-Elixir-For-Men-Safran-Mineral-Parfum-Intense-100ml-1.jpg?v=1794959996"
         }
       ]
     },
@@ -76872,6 +77023,34 @@
       ]
     },
     {
+      "brand": "French Avenue",
+      "name": "French Avenue Liquid Brun EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 95,
+      "price_per_100ml": 95,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/French-Avenue-Liquid-Brun-100ML-EDP-for-Men-6290360375694.jpg?v=1781827689",
+      "description": "French Avenue Liquid Brun EDP 100ml for Men French Avenue Liquid Brun EDP 100ml for Men is a warm amber vanilla Eau de Parfum with cinnamon, bergamot, cardamom, orange blossom, bourbon vanilla, praline, musk and smooth woods. It opens with aromatic spice and bright citrus, develops into a creamy vanilla heart, then settles into a sweet, musky and woody dry-down. This 100ml Eau de Parfum is ideal for customers who enjoy warm spicy fragrances, smooth vanilla, gourmand sweetness and polished evening scents. Liquid Brun is especially suited to dinners, date nights, celebrations, cooler New Zealand weather, gifting and confident signature-scent styling. Buy French Avenue fragrances from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Cinnamon, bergamot, cardamom and orange blossom. Heart Notes: Bourbon vanilla and elemi. Base Notes: Musk, praline, ambroxan and guaiac wood. Scent Profile Liquid Brun begins with the warmth of cinnamon and cardamom, balanced by bergamot and orange blossom. Bourbon vanilla and elemi create a creamy, softly resinous heart, while praline adds gourmand sweetness. Musk, ambroxan and guaiac wood give the dry-down a smooth, warm and lightly smoky finish. The overall profile is sweet, spicy, creamy and woody rather than fresh or aquatic. Its vanilla and praline warmth make it particularly appealing to customers who enjoy rich amber fragrances with a polished gourmand character. Who Is It For? Liquid Brun is marketed as a fragrance for men, although fragrance preferences are personal and it can be enjoyed by anyone who likes warm amber vanilla scents. It is recommended for customers who enjoy cinnamon, cardamom, orange blossom, creamy vanilla, praline, musk and smooth woods. It is a strong choice for someone wanting a confident evening fragrance, a sweet cold-weather signature scent or a premium gift without moving into the price range of luxury niche perfumery. When to Wear Daytime: Cooler daytime wear, smart casual outfits, weekends and occasions where a richer scent is appropriate. Evening: Dinners, date nights, celebrations, events and dressed-up social occasions. Season: Best suited to autumn, winter and cooler New Zealand evenings, while wearable year-round by amber vanilla fragrance lovers. Occasion: A premium gifting choice for customers who enjoy warm, sweet and spicy fragrances. Longevity & Sillage Liquid Brun is an Eau de Parfum with a rich amber vanilla profile and a noticeable scent presence. Start with a moderate application and adjust according to the setting. Longevity and projection can vary depending on skin chemistry, application, weather, clothing and storage conditions. How to Wear Liquid Brun Apply lightly to pulse points such as the neck and wrists. Allow the fragrance to settle naturally without rubbing the skin. Apply to moisturised skin to help the scent develop evenly. For evening wear, a light application to clothing can extend the scent trail, subject to fabric suitability. Use fewer sprays in warm or enclosed environments because sweet amber fragrances can feel richer as the temperature rises. Layering Suggestions For greater depth: Pair carefully with a clean musk or soft woody fragrance. For a brighter opening: Layer lightly with a simple citrus fragrance. For a smoother effect: Apply over an unscented moisturiser rather than adding another strong perfume. For the original composition: Wear Liquid Brun alone and allow its cinnamon, vanilla, praline and woody notes to develop naturally. More French Avenue Fragrances to Explore French Avenue Spectre Ghost EDP 80ml — explore another warm and distinctive French Avenue fragrance. French Avenue Spectre Wraith EDP 80ml — a darker fragrance direction from the Spectre collection. French Avenue Royal Blend EDP 100ml — a rich alternative for customers who enjoy indulgent fragrance styles. French Avenue Azzure Aoud EDP 100ml — a bolder oud-focused choice from the current range. Similar Warm Arabic Fragrances Lattafa Khamrah Qahwa EDP 100ml — a richer coffee-spiced gourmand fragrance direction. Lattafa Niche Emarati Mughal Fort EDP 100ml — a warm and smooth Arabic fragrance alternative. Lattafa Pride Sehr EDP 100ml — a sweet, spicy and deeper fragrance style for evening wear. Premium & Niche Alternatives Parfums de Marly Althaïr EDP 125ml — a premium amber vanilla fragrance for customers wanting a luxury niche alternative. Tom Ford Oud Wood EDP 100ml — a drier and more refined woody alternative with less gourmand sweetness. Gucci Intense Oud EDP 90ml — a deeper oud-led designer option for customers wanting darker woody intensity. Explore More Fragrances Browse more Arabic perfumes , men’s perfumes , latest perfume arrivals and perfumes and fragrances from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: French Avenue Fragrance: Liquid Brun Size: 100ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Amber Vanilla Scent Style: Warm spicy, sweet, gourmand and woody Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One French Avenue Liquid Brun EDP 100ml retail spray bottle Fragrance Care Tips Store the bottle upright in a cool and dry location. Keep it away from direct sunlight, excessive heat and humidity. Avoid repeatedly exposing the bottle to rapid temperature changes. Replace the cap after use where applicable. Disclaimer: Fragrance performance, longevity, projection, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/french-avenue-liquid-brun-100ml-edp-for-men",
+      "source_price": 95,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/french-avenue-liquid-brun-100ml-edp-for-men",
+          "brand": "French Avenue",
+          "name": "French Avenue Liquid Brun EDP 100ml",
+          "size": "100ml",
+          "price": 95,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/French-Avenue-Liquid-Brun-100ML-EDP-for-Men-6290360375694.jpg?v=1781827689"
+        }
+      ]
+    },
+    {
       "brand": "Ahmed Al Maghribi",
       "name": "Ahmed Al Maghribi Kaaf EDP 100ml",
       "size": "100ml",
@@ -79158,34 +79337,6 @@
           "price": 97.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lattafa-queen-of-roses.jpg?v=1783998309"
-        }
-      ]
-    },
-    {
-      "brand": "Dumont",
-      "name": "Soprano Ice by Dumont 100ml EDP for Men",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 97.99,
-      "price_per_100ml": 97.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dumont-soprano-ice.png?v=1789090204",
-      "description": "Soprano Ice by Dumont 100ml Extrait De Parfum Spray for Men Soprano Ice presents a sophisticated juxtaposition of freshness and amber warmth, creating a complex olfactory profile with multiple dimensions. Designer: Dumont Year Introduced: 2025 Type: Extrait De Parfum Category: Men Fragrance Notes: This composition is ideally suited for individuals who project composure externally while harboring intensity beneath—a fragrance that establishes presence through its subtle yet authoritative character rather than overt projection. A fragrance of crisp elegance and quiet strength. Opening with a burst of ginger, bergamot, and grapefruit, it melts into a smooth heart of apple, incense, and lavender. Grounded by musk, vanilla, and sandalwood, it is a fragrance that whispers refinement with a lasting embrace. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/soprano-ice-by-dumont-100ml-edp-for-men",
-      "source_price": 97.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/soprano-ice-by-dumont-100ml-edp-for-men",
-          "brand": "Dumont",
-          "name": "Soprano Ice by Dumont 100ml EDP for Men",
-          "size": "100ml",
-          "price": 97.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dumont-soprano-ice.png?v=1789090204"
         }
       ]
     },
@@ -83148,6 +83299,34 @@
       ]
     },
     {
+      "brand": "Dumont",
+      "name": "Soprano Ice by Dumont 100ml EDP for Men",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 104.99,
+      "price_per_100ml": 104.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dumont-soprano-ice.png?v=1789090204",
+      "description": "Soprano Ice by Dumont 100ml Extrait De Parfum Spray for Men Soprano Ice presents a sophisticated juxtaposition of freshness and amber warmth, creating a complex olfactory profile with multiple dimensions. Designer: Dumont Year Introduced: 2025 Type: Extrait De Parfum Category: Men Fragrance Notes: This composition is ideally suited for individuals who project composure externally while harboring intensity beneath—a fragrance that establishes presence through its subtle yet authoritative character rather than overt projection. A fragrance of crisp elegance and quiet strength. Opening with a burst of ginger, bergamot, and grapefruit, it melts into a smooth heart of apple, incense, and lavender. Grounded by musk, vanilla, and sandalwood, it is a fragrance that whispers refinement with a lasting embrace. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/soprano-ice-by-dumont-100ml-edp-for-men",
+      "source_price": 104.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/soprano-ice-by-dumont-100ml-edp-for-men",
+          "brand": "Dumont",
+          "name": "Soprano Ice by Dumont 100ml EDP for Men",
+          "size": "100ml",
+          "price": 104.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/dumont-soprano-ice.png?v=1789090204"
+        }
+      ]
+    },
+    {
       "brand": "CS Company NZ Auckland",
       "name": "Marc Jacobs Daisy Eau De Toilette 100ml",
       "size": "100ml",
@@ -84328,6 +84507,34 @@
       ]
     },
     {
+      "brand": "Versace",
+      "name": "Versace Eros Energy EDP 200ml",
+      "size": "200ml",
+      "size_ml": 200,
+      "price": 215,
+      "price_per_100ml": 107.5,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Versace-Eros-Energy-200ml-EDP-for-Men-8011003890811.jpg?v=1781827706",
+      "description": "Versace Eros Energy EDP 200ml for Men Versace Eros Energy EDP 200ml for Men is a bright woody-citrus Eau de Parfum inspired by Mediterranean energy. Versace’s current product information lists Italian bergamot, Italian red orange, Peruvian lime, Italian green mandarin, grapefruit and Italian lemon at the top; pink pepper, blackcurrant and white amber in the heart; and Indonesian patchouli, musk and oakmoss in the base. This 200ml Eau de Parfum is ideal for established Eros Energy wearers who enjoy vivid citrus-led fragrances with fruit, light spice, soft amber, musk and an earthy mossy base. The large-format bottle suits frequent wear. Buy Versace perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Italian bergamot, Italian red orange, Peruvian lime, Italian green mandarin, grapefruit and Italian lemon. Heart Notes: Pink pepper, blackcurrant and white amber. Base Notes: Indonesian patchouli, musk and oakmoss. Scent Profile Eros Energy opens with an energetic multi-citrus accord before pink pepper, blackcurrant and white amber add contrast. Patchouli, musk and oakmoss create a warm, earthy and clean base. Who Is It For? This Versace men’s fragrance is ideal for customers who enjoy citrus-driven scents with pepper, blackcurrant, amber, patchouli, musk and oakmoss. The 200ml bottle is best suited to frequent wearers and buyers who already know they enjoy Eros Energy. When to Wear Daytime: Work, university, appointments, shopping, travel and outdoor occasions. Evening: Warm-weather dinners, casual social events and relaxed celebrations. Season: Especially well suited to spring, summer and mild New Zealand weather. Occasion: Frequent use and signature fresh-scent wear. Longevity & Sillage As an Eau de Parfum, Eros Energy is designed to combine a vivid citrus opening with a warmer musky and mossy base. Bottle size does not change concentration or performance. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Versace Eros Energy Fragrances to Explore Versace Eros Energy EDP 50ml — the same fragrance in a compact full-size bottle. Versace Eros Energy EDP 100ml — the standard full-size bottle for regular wear. Versace Eros EDT 100ml — a fresh woody Eros interpretation with mint, citrus, apple, aromatic herbs, vanilla and woods. Versace Dylan Blue EDT 100ml — an aromatic Versace fragrance with aquatic notes, citrus, pepper, ambroxan, musk and incense. Similar Designer Fragrances Giorgio Armani Acqua Di Gio Profondo EDP 100ml — an aromatic aquatic alternative. Yves Saint Laurent Y EDT 60ml — a fresh aromatic designer option. Chanel Bleu De Chanel EDT 100ml — an aromatic-woody alternative with citrus, cedar and New Caledonian sandalwood. Explore More Fragrances Browse more Versace perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Versace Fragrance: Eros Energy Size: 200ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Woody / Citrusy Format: Large-format retail spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Versace Eros Energy EDP 200ml retail spray bottle Fragrance Care Tips Apply lightly to pulse points such as the neck, wrists and behind the ears. Avoid rubbing after spraying, as this can affect how the scent develops. Store the bottle upright in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/versace-eros-energy-200ml-edp-men",
+      "source_price": 215,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/versace-eros-energy-200ml-edp-men",
+          "brand": "Versace",
+          "name": "Versace Eros Energy EDP 200ml",
+          "size": "200ml",
+          "price": 215,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Versace-Eros-Energy-200ml-EDP-for-Men-8011003890811.jpg?v=1781827706"
+        }
+      ]
+    },
+    {
       "brand": "Marc Jacobs",
       "name": "Daisy Ever So Fresh by Marc Jacobs 125ml EDP",
       "size": "125ml",
@@ -85273,34 +85480,6 @@
           "price": 189,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_11231114-0.jpg?v=1758675267"
-        }
-      ]
-    },
-    {
-      "brand": "Versace",
-      "name": "Versace Eros Energy EDP 200ml",
-      "size": "200ml",
-      "size_ml": 200,
-      "price": 219,
-      "price_per_100ml": 109.5,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Versace-Eros-Energy-200ml-EDP-for-Men-8011003890811.jpg?v=1781827706",
-      "description": "Versace Eros Energy EDP 200ml for Men Versace Eros Energy EDP 200ml for Men is a bright woody-citrus Eau de Parfum inspired by Mediterranean energy. Versace’s current product information lists Italian bergamot, Italian red orange, Peruvian lime, Italian green mandarin, grapefruit and Italian lemon at the top; pink pepper, blackcurrant and white amber in the heart; and Indonesian patchouli, musk and oakmoss in the base. This 200ml Eau de Parfum is ideal for established Eros Energy wearers who enjoy vivid citrus-led fragrances with fruit, light spice, soft amber, musk and an earthy mossy base. The large-format bottle suits frequent wear. Buy Versace perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Italian bergamot, Italian red orange, Peruvian lime, Italian green mandarin, grapefruit and Italian lemon. Heart Notes: Pink pepper, blackcurrant and white amber. Base Notes: Indonesian patchouli, musk and oakmoss. Scent Profile Eros Energy opens with an energetic multi-citrus accord before pink pepper, blackcurrant and white amber add contrast. Patchouli, musk and oakmoss create a warm, earthy and clean base. Who Is It For? This Versace men’s fragrance is ideal for customers who enjoy citrus-driven scents with pepper, blackcurrant, amber, patchouli, musk and oakmoss. The 200ml bottle is best suited to frequent wearers and buyers who already know they enjoy Eros Energy. When to Wear Daytime: Work, university, appointments, shopping, travel and outdoor occasions. Evening: Warm-weather dinners, casual social events and relaxed celebrations. Season: Especially well suited to spring, summer and mild New Zealand weather. Occasion: Frequent use and signature fresh-scent wear. Longevity & Sillage As an Eau de Parfum, Eros Energy is designed to combine a vivid citrus opening with a warmer musky and mossy base. Bottle size does not change concentration or performance. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Versace Eros Energy Fragrances to Explore Versace Eros Energy EDP 50ml — the same fragrance in a compact full-size bottle. Versace Eros Energy EDP 100ml — the standard full-size bottle for regular wear. Versace Eros EDT 100ml — a fresh woody Eros interpretation with mint, citrus, apple, aromatic herbs, vanilla and woods. Versace Dylan Blue EDT 100ml — an aromatic Versace fragrance with aquatic notes, citrus, pepper, ambroxan, musk and incense. Similar Designer Fragrances Giorgio Armani Acqua Di Gio Profondo EDP 100ml — an aromatic aquatic alternative. Yves Saint Laurent Y EDT 60ml — a fresh aromatic designer option. Chanel Bleu De Chanel EDT 100ml — an aromatic-woody alternative with citrus, cedar and New Caledonian sandalwood. Explore More Fragrances Browse more Versace perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Versace Fragrance: Eros Energy Size: 200ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Woody / Citrusy Format: Large-format retail spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Versace Eros Energy EDP 200ml retail spray bottle Fragrance Care Tips Apply lightly to pulse points such as the neck, wrists and behind the ears. Avoid rubbing after spraying, as this can affect how the scent develops. Store the bottle upright in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/versace-eros-energy-200ml-edp-men",
-      "source_price": 219,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/versace-eros-energy-200ml-edp-men",
-          "brand": "Versace",
-          "name": "Versace Eros Energy EDP 200ml",
-          "size": "200ml",
-          "price": 219,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Versace-Eros-Energy-200ml-EDP-for-Men-8011003890811.jpg?v=1781827706"
         }
       ]
     },
@@ -89185,7 +89364,7 @@
       "price": 34.99,
       "price_per_100ml": 116.63,
       "currency": "NZD",
-      "image_url": null,
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/th.webp?v=1794972122",
       "description": null,
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/th-tommy-girl-edt-30ml",
@@ -89201,7 +89380,7 @@
           "size": "30ml",
           "price": 34.99,
           "currency": "NZD",
-          "image_url": null
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/th.webp?v=1794972122"
         },
         {
           "retailer_slug": "bargain-chemist",
@@ -100057,6 +100236,45 @@
       ]
     },
     {
+      "brand": "Moschino",
+      "name": "Toy 2 Yummy by Moschino 100ml EDP for Women",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 139.99,
+      "price_per_100ml": 139.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/moschino-toy-2-yummy_ab6837eb-206b-4d5e-b18d-d053b2dca6cb.png?v=1791345843",
+      "description": "Toy 2 Yummy by Moschino 100ml Eau De Parfum Spray for Women The Moschino Teddy Bear comes alive in a wave of color with Toy 2 Yummy, a bright and joyful fragrance that captures the spontaneous spirit of the Moschino woman. Energetic, radiant and full of optimism, this playful eau de parfum celebrates a world of color, lightness and modern femininity. Designer: Moschino Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Toy 2 Yummy is an energetic and radiant scent that blends citrus liveliness, floral elegance, and spicy sensuality, leaving a fresh, sparkling trail. From the first moment, awaken the senses with the juicy brightness of yellow mandarin and the vibrancy of bergamot, enhanced by the intangible touch of mystikal, a subtle note of incense that lends a refined spicy sparkle. At the heart, the luminous elegance of geranium meets the enveloping radiance of sambac jasmine and the sparkling energy of timut pepper, amplified by the warm embrace of black pepper. In the base notes, the velvety softness of Bulgarian rose blooms over an elegant base of Haitian vetiver, wrapped in the musky caress of serenolide , creating a fresh, energetic trail full of sophisticated femininity. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/toy-2-yummy-by-moschino-100ml-edp-for-women",
+      "source_price": 139.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/toy-2-yummy-by-moschino-100ml-edp-for-women",
+          "brand": "Moschino",
+          "name": "Toy 2 Yummy by Moschino 100ml EDP for Women",
+          "size": "100ml",
+          "price": 139.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/moschino-toy-2-yummy_ab6837eb-206b-4d5e-b18d-d053b2dca6cb.png?v=1791345843"
+        },
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/toy-2-gummy-by-moschino-100ml-edp-for-women",
+          "brand": "Moschino",
+          "name": "Toy 2 Gummy by Moschino 100ml EDP for Women",
+          "size": "100ml",
+          "price": 139.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/moschino-toy-2-gummy---2.png?v=1791345750"
+        }
+      ]
+    },
+    {
       "brand": "Billie Eilish",
       "name": "Billie Eilish Eilish EDP 100ml Set 3pcs",
       "size": "100ml",
@@ -103839,7 +104057,7 @@
           "brand": "Maison Margiela",
           "name": "Maison Margiela Replica Jazz Club EDT 100ml",
           "size": "100ml",
-          "price": 194.99,
+          "price": 160,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/download_6_ca9b63bd-89ef-47a0-a7e7-e1e56c69a971.jpg?v=1728894722"
         },
@@ -105315,45 +105533,6 @@
           "price": 226.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/15881060089886.jpg?v=1778356276"
-        }
-      ]
-    },
-    {
-      "brand": "Moschino",
-      "name": "Toy 2 Yummy by Moschino 100ml EDP for Women",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 149.99,
-      "price_per_100ml": 149.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/moschino-toy-2-yummy_ab6837eb-206b-4d5e-b18d-d053b2dca6cb.png?v=1791345843",
-      "description": "Toy 2 Yummy by Moschino 100ml Eau De Parfum Spray for Women The Moschino Teddy Bear comes alive in a wave of color with Toy 2 Yummy, a bright and joyful fragrance that captures the spontaneous spirit of the Moschino woman. Energetic, radiant and full of optimism, this playful eau de parfum celebrates a world of color, lightness and modern femininity. Designer: Moschino Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Toy 2 Yummy is an energetic and radiant scent that blends citrus liveliness, floral elegance, and spicy sensuality, leaving a fresh, sparkling trail. From the first moment, awaken the senses with the juicy brightness of yellow mandarin and the vibrancy of bergamot, enhanced by the intangible touch of mystikal, a subtle note of incense that lends a refined spicy sparkle. At the heart, the luminous elegance of geranium meets the enveloping radiance of sambac jasmine and the sparkling energy of timut pepper, amplified by the warm embrace of black pepper. In the base notes, the velvety softness of Bulgarian rose blooms over an elegant base of Haitian vetiver, wrapped in the musky caress of serenolide , creating a fresh, energetic trail full of sophisticated femininity. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/toy-2-yummy-by-moschino-100ml-edp-for-women",
-      "source_price": 149.99,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/toy-2-yummy-by-moschino-100ml-edp-for-women",
-          "brand": "Moschino",
-          "name": "Toy 2 Yummy by Moschino 100ml EDP for Women",
-          "size": "100ml",
-          "price": 149.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/moschino-toy-2-yummy_ab6837eb-206b-4d5e-b18d-d053b2dca6cb.png?v=1791345843"
-        },
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/toy-2-gummy-by-moschino-100ml-edp-for-women",
-          "brand": "Moschino",
-          "name": "Toy 2 Gummy by Moschino 100ml EDP for Women",
-          "size": "100ml",
-          "price": 149.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/moschino-toy-2-gummy---2.png?v=1791345750"
         }
       ]
     },
@@ -151577,34 +151756,6 @@
       ]
     },
     {
-      "brand": "Ormaie",
-      "name": "ORMAIE Marque-Page 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 244.5,
-      "price_per_100ml": 244.5,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/Marque-Page_Final.jpg?v=1637730144",
-      "description": "Marque-page is a unique scent that wanders between spices, leather, incenses and white flowers. Top Notes: Incense, Davana, Artemisia Heart Notes: Leather, Geranium, Jasmine, Orange Blossom, Iris Base Notes: Oud Wood, Sandalwood, Amber, Nagarmotha, Vetiver, Patchouli, Cedar Wood EVERY DETAIL IS AN EXAMPLE OF KNOW-HOW A grandfather who sculpted. A grandmother and her flowers. A mother passionate about fragrances. The founder of ORMAIE looks for excellence in art. ORMAIE is a house of creation. It is family-owned. ORMAIE has brought together artists and artisans to write each chapter of its story. POETIC FRAGRANCES CHARGED WITH EMOTIONS AND MEMORIES. THE ORMAIE RAW MATERIALS ARE SELECTED FOR THEIR QUALITY AND THE ETHICAL AND ECOLOGICAL CONDITIONS IN WHICH THEY ARE PRODUCED ORMAIE fragrances are solely made of natural ingredients. THE COLOURS OF THE ORMAIE FRAGRANCES COME FROM THE COLOURS OF THE NATURAL INGREDIENTS THEY CONTAIN. THE ORMAIE fragrances are 100% natural, cruelty free and vegan A GLASS FACETED TWELVE TIMES, LIKE A SUNDIAL, AS A TESTIMONY TO THE LONG PROCESS OF CREATION For its glass production, ORMAIE exclusively uses renewable energy. WOODEN BOTTLE CAPS WITH ICONIC SHAPES The bottle caps are sculpted in beech wood from responsibly-managed forests.They are polished by hand. A ROUND BOX WHICH HUGS THE SHAPE OF THE BOTTLE, A LOGO REPRESENTING THE SEVEN INITIAL FRAGRANCES OF THE HOUSE The ORMAIE box is made of Italian paper composed of 40% recycled fibres, 55% from sustainably managed forests and 5% from cotton. It is printed on the Heidelberg machines from the 60's.",
-      "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/ormaie-marque-page-100ml-edp",
-      "source_price": 244.5,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/ormaie-marque-page-100ml-edp",
-          "brand": "Ormaie",
-          "name": "ORMAIE Marque-Page 100ml EDP",
-          "size": "100ml",
-          "price": 244.5,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/Marque-Page_Final.jpg?v=1637730144"
-        }
-      ]
-    },
-    {
       "brand": "Tokyo Milk",
       "name": "TOKYO MILK DARK EDP - Bulletproof 47ml",
       "size": "47ml",
@@ -153950,7 +154101,7 @@
       "price": 125,
       "price_per_100ml": 250,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045403-0.jpg?v=1794894227",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045403-0.jpg?v=1794950893",
       "description": "FROM POLO TO FRAGRANCE THE FRAGRANCE L.12.12 Bleu opens with the zesty freshness of frozen yuzu. A vibrant aromatic heart of lavender &amp; geranium follows before revealing long-lasting notes of cedarwood. This fougere woody citrus composition combines freshness, intensity and sophistication. A contemporary signature designed for every moment. THE PACK The bottle features the polo shirt’s iconic 'petit piqué' code and is dressed in deep blue with a tone-on-tone embroidered crocodile. Silver gunmetal details highlight the intensity and modernity of the fragrance. These same codes appear on the outer pack, with vertical white lines inspired by the piping on the polo shirt. THE NAME L.12.12: L for Lacoste, 1 for the 'petit piqué' fabric, 2 for the short-sleeved model, 12 for the final version of the polo shirt chosen by René Lacoste. Each perfume is named after the color that inspired it, shaping a fragrance with its own unique identity. THE AD CAMPAIGN The L.12.12 Bleu campaign is set in the refined atmosphere of a Parisian dressing room. The iconic blue polo shirt becomes the symbol of modern elegance and the dynamism of the fragrance. The bright play of light enhances the deep blue of the bottle, visually conveying the sophistication and energy of L.12.12 Bleu. THE COLLECTION From polo to fragrance, L.12.12 Bleu joins the Lacoste wardrobe of scents where each fragrance reflects the spirit of the iconic polo shirt: elegant fragrance creations to suit every style. Alongside Blanc, Silver Grey and Noir, it introduces a new nuance and olfactory dimension to this emblematic collection.",
       "source_name": "life-pharmacy-shopify-suggest",
       "source_url": "https://www.lifepharmacy.co.nz/products/lacoste-l-12-12-bleu-edp-50ml",
@@ -153966,7 +154117,7 @@
           "size": "50ml",
           "price": 125,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045403-0.jpg?v=1794894227"
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045403-0.jpg?v=1794950893"
         }
       ]
     },
@@ -157825,6 +157976,45 @@
           "price": 265,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/JPG-Divine-Le-Parfum-Eau-De-Parfum-Intense-100ml--1.jpg?v=1781827496"
+        }
+      ]
+    },
+    {
+      "brand": "Valentino",
+      "name": "Valentino Vendetta Uomo EDP 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 239,
+      "price_per_100ml": 265.56,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/2U_3614274798203_vlt_frag_vendetta_launch-26_dmi_packshot_uomo-90ml_3614274798203_outerpack-product.jpg?v=1794959981",
+      "description": "Valentino Vendetta Uomo EDP 90ml for Men Valentino Vendetta Uomo EDP 90ml for Men is a woody spicy Eau de Parfum built around fresh ginger, a cinnamon liqueur accord and patchouli. Created by Marie Salamagne, it brings together a bright, spicy opening and a warm woody trail, reflecting Valentino’s expressive couture approach to fragrance. The 90ml Eau de Parfum spray offers a generous size for someone who already enjoys this fragrance style or plans to make it part of a regular rotation. It also makes a considered gift when you know the recipient’s preference for woody spicy fragrances. Buy Valentino perfumes from Gadgets Online NZ, an NZ-owned business since 2008, with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. We offer authentic products sourced through trusted supply channels, supplied in brand-new original retail packaging unless otherwise stated. Fragrance Composition Top Notes: Ginger. Heart Notes: Cinnamon liqueur accord. Base Notes: Patchouli. Scent Profile Ginger leads with a fresh, zesty bite before the cinnamon liqueur accord introduces warmth and a gently gourmand impression. Patchouli gives the dry-down its earthy woody structure. The appeal lies in that movement from energetic spice to a fuller, smoother finish: expressive enough for evening wear, yet adaptable to a lighter daytime application. Who Is It For? For men who enjoy fresh spice, cinnamon warmth and a defined woody finish. It is a considered choice for someone who wants more warmth than a straightforward fresh citrus fragrance, while retaining energy in the opening. Fragrance preference is personal, and anyone drawn to this profile can enjoy it. When to Wear Daytime: Work, smart casual outings and cooler daytime occasions with a restrained application. Evening: Dinner dates, celebrations and evenings when a warm, expressive fragrance suits the setting. Season: Especially inviting in autumn, winter and cooler New Zealand evenings; apply lightly in warmer weather. Occasion: A designer fragrance gift for someone who enjoys spice, patchouli and a polished woody style. Longevity & Sillage Vendetta Uomo has a warm woody-spicy character that develops as the fresher ginger impression settles. Start with a modest application, allow it to dry and assess it on your own skin before adding more. Longevity and projection vary with skin chemistry, application, weather and storage conditions. More Valentino Fragrances to Explore Valentino Uomo Born In Roma Intense EDP 100ml — a warmer Born In Roma interpretation for customers drawn to rich, enveloping fragrance styles. Valentino Uomo Born In Roma Coral Fantasy EDT 100ml — a fruitier aromatic direction in the Valentino men’s range. Valentino Uomo EDT 100ml — a different woody-gourmand expression from Valentino. Similar Designer Fragrances Emporio Armani Stronger With You Intensely EDP 100ml — a sweeter amber-woody fragrance with vanilla warmth. Prada Paradigme EDP 100ml — a contemporary amber-woody Prada fragrance with a contrasting fresh opening. Yves Saint Laurent La Nuit de L'Homme EDP 100ml — a warm, evening-oriented designer fragrance to compare on its own merits. Premium & Niche Alternatives Parfums de Marly Layton EDP 125ml — a premium option bringing together apple, aromatic freshness and a warm vanilla-woody finish. Parfums de Marly Layton Exclusif EDP 125ml — a darker, more enveloping niche direction with woods and amber warmth. Explore More Fragrances Browse more Valentino perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Valentino Fragrance: Vendetta Uomo Size: 90ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Woody Spicy Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Valentino Vendetta Uomo EDP 90ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists; begin lightly and adjust to your preference. Let the fragrance dry without rubbing. Avoid spraying directly onto delicate or light-coloured fabrics. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/valentino-vendetta-uomo-edp-90ml",
+      "source_price": 239,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/valentino-vendetta-uomo-edp-90ml",
+          "brand": "Valentino",
+          "name": "Valentino Vendetta Uomo EDP 90ml",
+          "size": "90ml",
+          "price": 239,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/2U_3614274798203_vlt_frag_vendetta_launch-26_dmi_packshot_uomo-90ml_3614274798203_outerpack-product.jpg?v=1794959981"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-uomo-edp-90ml",
+          "brand": "Valentino",
+          "name": "Valentino Vendetta Uomo EDP 90ml",
+          "size": "90ml",
+          "price": 270,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046298-0.jpg?v=1794000875"
         }
       ]
     },
@@ -168714,34 +168904,6 @@
       ]
     },
     {
-      "brand": "Valentino",
-      "name": "Valentino Vendetta Uomo EDP 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 270,
-      "price_per_100ml": 300,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046298-0.jpg?v=1794000875",
-      "description": "The olfactive pact between the zesty brightness of a fresh Ginger shot and a spicy liquorous woody depth. This composition offers a bold and magnetic presence designed for a confident and free-spirited man. The fragrance is built around three signature notes to infuse the bold feeling of unstoppable passion: - Top note: Sparkling Ginger shot from Peru, delivering a zesty and aphrodisiac freshness. - Heart note: Exclusive Cinnamon Liquor accord, offering an addictive, spicy, and gourmand warmth to the trail. - Base note: Patchouli essence, magnified by carnal woods, wrapping the scent in a powerful, vibrant, and bold woodiness. This signature performs beautifully year-round and leaves a lasting sillage that melts onto the skin, forming an indelible addiction. A masterpiece created by the visionary perfumer Marie Salamagne. The VENDETTA Uomo Eau de Parfum bottle is a couture masterpiece featuring iconic and timeless codes. A bold graphic V sculpted directly into the architectural glass structures the silhouette as a brand tribute. The design combines structural strength with a pleated cap, a subtle tribute to the folds found in Valentino couture garments. Conceived as a pair with the VENDETTA Donna Eau de Parfum, this signature bottle reflects a timeless couture heritage and the authentic Valentino identity.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-uomo-edp-90ml",
-      "source_price": 270,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-uomo-edp-90ml",
-          "brand": "Valentino",
-          "name": "Valentino Vendetta Uomo EDP 90ml",
-          "size": "90ml",
-          "price": 270,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046298-0.jpg?v=1794000875"
-        }
-      ]
-    },
-    {
       "brand": "Jean Paul Gaultier",
       "name": "Jean Paul Gaultier Scandal Intense Parfum 80ml",
       "size": "80ml",
@@ -170461,6 +170623,34 @@
       ]
     },
     {
+      "brand": "Prada",
+      "name": "Prada Paradoxe Sweet Chemistry EDP 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 279,
+      "price_per_100ml": 310,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/F2D_800_0dd601f7-67a5-4b24-8f7c-7b65cfba6b9a.jpg?v=1794959994",
+      "description": "Prada Paradoxe Sweet Chemistry EDP 90ml for Women Prada Paradoxe Sweet Chemistry EDP 90ml for Women is a fruity floral Eau de Parfum combining a blackcurrant syrup accord, orange blossom absolute and a neroli milk accord. This distinct Paradoxe expression explores the contrast between juicy sweetness, luminous flowers and a soft, creamy impression in Prada’s recognisable triangular bottle. The 90ml Eau de Parfum spray offers a generous size for someone who already enjoys this fragrance style or plans to make it part of a regular rotation. It also makes a considered gift when you know the recipient’s preference for fruity floral fragrances. This is a refillable fragrance spray bottle, supplied with fragrance; a matching Sweet Chemistry refill is sold separately. Buy Prada perfumes from Gadgets Online NZ, an NZ-owned business since 2008, with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. We offer authentic products sourced through trusted supply channels, supplied in brand-new original retail packaging unless otherwise stated. Fragrance Composition Fruity accord: Blackcurrant syrup accord. Floral accord: Orange blossom absolute. Creamy accord: Neroli milk accord. Scent Profile The blackcurrant syrup accord supplies the fruit-led character, orange blossom absolute brings floral brightness, and the neroli milk accord adds a softer contrast. Sweet Chemistry offers its own interpretation of Paradoxe, rather than reproducing the original Eau de Parfum. Wear it over unscented body care to keep the interplay of fruit and flowers clear. Who Is It For? For women who enjoy fruit-led florals, orange blossom and sweetness with a softer finish. It is a useful option for a Paradoxe fragrance wardrobe or for someone choosing a contemporary designer floral with a playful character. When to Wear Daytime: Brunch, shopping, weekends, daytime outings and everyday fragrance styling. Evening: Dinner dates, relaxed celebrations and evenings where a fruity floral suits the mood. Season: An adaptable year-round choice; adjust the application for New Zealand’s warmer days and cooler evenings. Occasion: A contemporary fragrance gift for someone who enjoys fruity sweetness and modern floral perfumes. Longevity & Sillage The fruit, orange blossom and neroli milk impressions provide a rounded fragrance character that should be assessed on your own skin. Start lightly and allow the fragrance to settle before adding more. Longevity and projection can vary with application, skin chemistry, activity and weather. More Prada Fragrances to Explore Prada Paradoxe EDP 90ml — the original Paradoxe Eau de Parfum, a different expression from Sweet Chemistry. Prada Paradoxe Intense EDP 90ml — a deeper Paradoxe interpretation with a more enveloping character. Prada Paradoxe Radical Essence Parfum 50ml — a separate Paradoxe Parfum to explore alongside the Eau de Parfum collection. Similar Designer Fragrances Giorgio Armani My Way Intense EDP 50ml — an enveloping white floral with tuberose and a creamy woody direction. Carolina Herrera Good Girl Blush EDP 50ml — a softer floral-amber style with a gentle, rounded character. Yves Saint Laurent Black Opium EDP 90ml — a different gourmand direction, pairing a coffee character with vanilla warmth. Premium & Niche Alternatives Parfums de Marly Delina EDP 75ml — a rose-led niche floral with bright fruit and a soft musky-woody finish. Parfums de Marly Delina Exclusif Parfum 75ml — a richer floral alternative with rose and creamy vanilla-musk warmth. Explore More Fragrances Browse more Prada perfumes , women’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Prada Fragrance: Paradoxe Sweet Chemistry Size: 90ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Fruity Floral Format: Refillable spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Prada Paradoxe Sweet Chemistry EDP 90ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists; begin lightly and adjust to your preference. Let the fragrance dry without rubbing. Avoid spraying directly onto delicate or light-coloured fabrics. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/prada-paradoxe-sweet-chemistry-edp-90ml",
+      "source_price": 279,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/prada-paradoxe-sweet-chemistry-edp-90ml",
+          "brand": "Prada",
+          "name": "Prada Paradoxe Sweet Chemistry EDP 90ml",
+          "size": "90ml",
+          "price": 279,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/F2D_800_0dd601f7-67a5-4b24-8f7c-7b65cfba6b9a.jpg?v=1794959994"
+        }
+      ]
+    },
+    {
       "brand": "Rabanne",
       "name": "Rabanne Fame EDP 80ml",
       "size": "80ml",
@@ -171544,17 +171734,6 @@
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/CoachGoldParfum50mlforWomen.jpg?v=1781827788"
         },
         {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/coach-gold-parfum-50ml",
-          "brand": "Coach",
-          "name": "Coach Gold Parfum 50ml",
-          "size": "50ml",
-          "price": 190,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036690-0.jpg?v=1769484549"
-        },
-        {
           "retailer_slug": "unichem",
           "source_name": "unichem-shopify-suggest",
           "source_url": "https://www.unichem.co.nz/products/coach-gold-parfum-50ml",
@@ -171564,6 +171743,17 @@
           "price": 190,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20036690-0.jpg?v=1769484581"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/coach-gold-parfum-50ml",
+          "brand": "Coach",
+          "name": "Coach Gold Parfum 50ml",
+          "size": "50ml",
+          "price": 190,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036690-0.jpg?v=1769484549"
         }
       ]
     },
@@ -171880,6 +172070,45 @@
           "price": 159,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20024532-0.jpg?v=1759438326"
+        }
+      ]
+    },
+    {
+      "brand": "Valentino",
+      "name": "Valentino Vendetta Uomo EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 159,
+      "price_per_100ml": 318,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/2U_3614274798197_vlt_frag_vendetta_launch-26_dmi_packshot_uomo-50ml_3614274798197_outerpack-product.jpg?v=1794959989",
+      "description": "Valentino Vendetta Uomo EDP 50ml for Men Valentino Vendetta Uomo EDP 50ml for Men is a woody spicy Eau de Parfum built around fresh ginger, a cinnamon liqueur accord and patchouli. Created by Marie Salamagne, it brings together a bright, spicy opening and a warm woody trail, reflecting Valentino’s expressive couture approach to fragrance. This 50ml Eau de Parfum is a balanced size for a smaller fragrance wardrobe, regular rotation or gifting. Choose it if you want to explore Vendetta Uomo without committing to a larger bottle, while enjoying the same fragrance composition. Buy Valentino perfumes from Gadgets Online NZ, an NZ-owned business since 2008, with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. We offer authentic products sourced through trusted supply channels, supplied in brand-new original retail packaging unless otherwise stated. Fragrance Composition Top Notes: Ginger. Heart Notes: Cinnamon liqueur accord. Base Notes: Patchouli. Scent Profile Ginger leads with a fresh, zesty bite before the cinnamon liqueur accord introduces warmth and a gently gourmand impression. Patchouli gives the dry-down its earthy woody structure. The appeal lies in that movement from energetic spice to a fuller, smoother finish: expressive enough for evening wear, yet adaptable to a lighter daytime application. Who Is It For? For men who enjoy fresh spice, cinnamon warmth and a defined woody finish. It is a considered choice for someone who wants more warmth than a straightforward fresh citrus fragrance, while retaining energy in the opening. Fragrance preference is personal, and anyone drawn to this profile can enjoy it. When to Wear Daytime: Work, smart casual outings and cooler daytime occasions with a restrained application. Evening: Dinner dates, celebrations and evenings when a warm, expressive fragrance suits the setting. Season: Especially inviting in autumn, winter and cooler New Zealand evenings; apply lightly in warmer weather. Occasion: A designer fragrance gift for someone who enjoys spice, patchouli and a polished woody style. Longevity & Sillage Vendetta Uomo has a warm woody-spicy character that develops as the fresher ginger impression settles. Start with a modest application, allow it to dry and assess it on your own skin before adding more. Longevity and projection vary with skin chemistry, application, weather and storage conditions. More Valentino Fragrances to Explore Valentino Uomo Born In Roma Intense EDP 100ml — a warmer Born In Roma interpretation for customers drawn to rich, enveloping fragrance styles. Valentino Uomo Born In Roma Coral Fantasy EDT 100ml — a fruitier aromatic direction in the Valentino men’s range. Valentino Uomo EDT 100ml — a different woody-gourmand expression from Valentino. Similar Designer Fragrances Emporio Armani Stronger With You Intensely EDP 100ml — a sweeter amber-woody fragrance with vanilla warmth. Prada Paradigme EDP 100ml — a contemporary amber-woody Prada fragrance with a contrasting fresh opening. Yves Saint Laurent La Nuit de L'Homme EDP 100ml — a warm, evening-oriented designer fragrance to compare on its own merits. Premium & Niche Alternatives Parfums de Marly Layton EDP 125ml — a premium option bringing together apple, aromatic freshness and a warm vanilla-woody finish. Parfums de Marly Layton Exclusif EDP 125ml — a darker, more enveloping niche direction with woods and amber warmth. Explore More Fragrances Browse more Valentino perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Valentino Fragrance: Vendetta Uomo Size: 50ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Woody Spicy Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Valentino Vendetta Uomo EDP 50ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists; begin lightly and adjust to your preference. Let the fragrance dry without rubbing. Avoid spraying directly onto delicate or light-coloured fabrics. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/valentino-vendetta-uomo-edp-50ml",
+      "source_price": 159,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/valentino-vendetta-uomo-edp-50ml",
+          "brand": "Valentino",
+          "name": "Valentino Vendetta Uomo EDP 50ml",
+          "size": "50ml",
+          "price": 159,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/2U_3614274798197_vlt_frag_vendetta_launch-26_dmi_packshot_uomo-50ml_3614274798197_outerpack-product.jpg?v=1794959989"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-uomo-edp-50ml",
+          "brand": "Valentino",
+          "name": "Valentino Vendetta Uomo EDP 50ml",
+          "size": "50ml",
+          "price": 182,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046297-0.jpg?v=1794000873"
         }
       ]
     },
@@ -173091,6 +173320,140 @@
           "price": 119.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/c41c2eeb-7e1a-49e7-b571-9cad75d3d04b.jpg?v=1783518902"
+        }
+      ]
+    },
+    {
+      "brand": "Byredo",
+      "name": "BYREDO Blanche EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 320,
+      "price_per_100ml": 320,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/I-010753-M1-BYREDO-BlancheEDP.webp?v=1782951465",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/byredo-blanche-wmns-edp-100ml",
+      "source_price": 320,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/byredo-blanche-wmns-edp-100ml",
+          "brand": "Byredo",
+          "name": "BYREDO Blanche EDP 100ml",
+          "size": "100ml",
+          "price": 320,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/I-010753-M1-BYREDO-BlancheEDP.webp?v=1782951465"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/byredo-blanche-100ml-edp-for-women",
+          "brand": "Byredo",
+          "name": "Byredo Blanche EDP 100ml",
+          "size": "100ml",
+          "price": 359,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Byredo-Blanche-100ML-EDP-for-Women-7340032806199.jpg?v=1781827648"
+        }
+      ]
+    },
+    {
+      "brand": "Byredo",
+      "name": "BYREDO Rose of No Mans Land Uni EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 320,
+      "price_per_100ml": 320,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/I-022664-M1-BYREDO-RoseOfNoMan_sLandEDP.webp?v=1782951359",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/byredo-ron-mans-land-uni-edp-100ml",
+      "source_price": 320,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/byredo-ron-mans-land-uni-edp-100ml",
+          "brand": "Byredo",
+          "name": "BYREDO Rose of No Mans Land Uni EDP 100ml",
+          "size": "100ml",
+          "price": 320,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/I-022664-M1-BYREDO-RoseOfNoMan_sLandEDP.webp?v=1782951359"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/byredo-rose-of-no-mans-land-100ml-edp-unisex",
+          "brand": "Byredo",
+          "name": "Byredo Rose Of No Man’s Land EDP 100ml",
+          "size": "100ml",
+          "price": 359,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Byredo-Rose-Of-No-Mans-Land-100ML-EDP-Unisex-7340032860917.jpg?v=1781827649"
+        }
+      ]
+    },
+    {
+      "brand": "Byredo",
+      "name": "BYREDO Black Saffron Uni EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 320,
+      "price_per_100ml": 320,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/I-014922-M1-BYREDO-BlackSaffronEDP.webp?v=1763605636",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/byredo-black-saff-uni-edp-100ml",
+      "source_price": 320,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/byredo-black-saff-uni-edp-100ml",
+          "brand": "Byredo",
+          "name": "BYREDO Black Saffron Uni EDP 100ml",
+          "size": "100ml",
+          "price": 320,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/I-014922-M1-BYREDO-BlackSaffronEDP.webp?v=1763605636"
+        }
+      ]
+    },
+    {
+      "brand": "Byredo",
+      "name": "BYREDO Gyspy Water Uni EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 320,
+      "price_per_100ml": 320,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/shopping_37481f97-09a3-418b-a39c-df6604efc7f7.webp?v=1763605664",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/byredo-gyspy-water-uni-edp-100ml",
+      "source_price": 320,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/byredo-gyspy-water-uni-edp-100ml",
+          "brand": "Byredo",
+          "name": "BYREDO Gyspy Water Uni EDP 100ml",
+          "size": "100ml",
+          "price": 320,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/shopping_37481f97-09a3-418b-a39c-df6604efc7f7.webp?v=1763605664"
         }
       ]
     },
@@ -175768,17 +176131,6 @@
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/CoachGoldParfum30mlforWomen.jpg?v=1781827789"
         },
         {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/coach-gold-parfum-30ml",
-          "brand": "Coach",
-          "name": "Coach Gold Parfum 30ml",
-          "size": "30ml",
-          "price": 123,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036689-0.jpg?v=1769484609"
-        },
-        {
           "retailer_slug": "unichem",
           "source_name": "unichem-shopify-suggest",
           "source_url": "https://www.unichem.co.nz/products/coach-gold-parfum-30ml",
@@ -175788,6 +176140,17 @@
           "price": 123,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20036689-0.jpg?v=1769484641"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/coach-gold-parfum-30ml",
+          "brand": "Coach",
+          "name": "Coach Gold Parfum 30ml",
+          "size": "30ml",
+          "price": 123,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036689-0.jpg?v=1769484609"
         }
       ]
     },
@@ -176615,6 +176978,45 @@
           "price": 332,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/products/chanel-no-5-spray-100ml-edp-for-women-306773.jpg?v=1777622076"
+        }
+      ]
+    },
+    {
+      "brand": "Valentino",
+      "name": "Valentino Vendetta Donna EDP 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 299,
+      "price_per_100ml": 332.22,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/2D_3614274798319_vlt_frag_vendetta_launch-26_dmi_packshot_donna-90ml_3614274798319_outerpack-product.jpg?v=1794959991",
+      "description": "Valentino Vendetta Donna EDP 90ml for Women Valentino Vendetta Donna EDP 90ml for Women is a floral gourmand woody Eau de Parfum combining tuberose, a red orange nectar accord and sandalwood. Co-created by Dominique Ropion and Andrew Everett, it pairs a full floral presence with a sweet fruit accent and a creamy woody foundation. The 90ml Eau de Parfum spray offers a generous size for someone who already enjoys this fragrance style or plans to make it part of a regular rotation. It also makes a considered gift when you know the recipient’s preference for floral gourmand woody fragrances. Buy Valentino perfumes from Gadgets Online NZ, an NZ-owned business since 2008, with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. We offer authentic products sourced through trusted supply channels, supplied in brand-new original retail packaging unless otherwise stated. Fragrance Composition Top Notes: Tuberose Osmobloom from Colombia. Heart Notes: Red orange nectar accord. Base Notes: Sandalwood. Scent Profile Tuberose gives the fragrance its radiant floral character, while the red orange nectar accord brings a rounded, liqueur-like sweetness. Sandalwood lends a smooth woody finish. It is the contrast between the generous floral impression and the softer, warmer trail that makes this an expressive choice for a dressed-up occasion. Who Is It For? For women who enjoy prominent white florals, sweet fruit accents and creamy woods. Vendetta Donna is worth exploring if you prefer an enveloping floral to a very light, crisp fragrance, or want a Valentino scent with a distinctive evening personality. When to Wear Daytime: Dressed-up daytime occasions, lunch dates and outings where a fuller floral feels appropriate. Evening: Dinner, date nights, celebrations and special occasions. Season: Wearable year-round, with a lighter application for warm New Zealand days and close indoor settings. Occasion: A fragrance gift for a lover of tuberose, rounded sweetness and elegant woody florals. Longevity & Sillage The floral and sweet orange impressions are supported by a smooth sandalwood character as the fragrance settles. Let it develop on skin before deciding whether to reapply. Longevity and sillage depend on skin chemistry, application, temperature and surroundings rather than concentration alone. More Valentino Fragrances to Explore Valentino Donna Born In Roma EDP 100ml — a contrasting modern Valentino floral with a warm finish. Valentino Donna Born In Roma Coral Fantasy EDP 50ml — a brighter, fruitier floral direction in the Born In Roma collection. Valentino Donna Born In Roma Extradose EDP 100ml — a deeper Born In Roma expression for an opulent evening mood. Similar Designer Fragrances Giorgio Armani My Way Intense EDP 50ml — an enveloping white floral with tuberose and a creamy woody direction. Carolina Herrera Good Girl Blush EDP 50ml — a softer floral-amber style with a gentle, rounded character. Yves Saint Laurent Black Opium EDP 90ml — a different gourmand direction, pairing a coffee character with vanilla warmth. Premium & Niche Alternatives Parfums de Marly Delina EDP 75ml — a rose-led niche floral with bright fruit and a soft musky-woody finish. Parfums de Marly Delina Exclusif Parfum 75ml — a richer floral alternative with rose and creamy vanilla-musk warmth. Explore More Fragrances Browse more Valentino perfumes , women’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Valentino Fragrance: Vendetta Donna Size: 90ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Gourmand Woody Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Valentino Vendetta Donna EDP 90ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists; begin lightly and adjust to your preference. Let the fragrance dry without rubbing. Avoid spraying directly onto delicate or light-coloured fabrics. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/valentino-vendetta-donna-edp-90ml",
+      "source_price": 299,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/valentino-vendetta-donna-edp-90ml",
+          "brand": "Valentino",
+          "name": "Valentino Vendetta Donna EDP 90ml",
+          "size": "90ml",
+          "price": 299,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/2D_3614274798319_vlt_frag_vendetta_launch-26_dmi_packshot_donna-90ml_3614274798319_outerpack-product.jpg?v=1794959991"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-donna-edp-90ml",
+          "brand": "Valentino",
+          "name": "Valentino Vendetta Donna EDP 90ml",
+          "size": "90ml",
+          "price": 336,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046300-0.jpg?v=1794000871"
         }
       ]
     },
@@ -181787,84 +182189,6 @@
       ]
     },
     {
-      "brand": "Byredo",
-      "name": "BYREDO Blanche EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 359,
-      "price_per_100ml": 359,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Byredo-Blanche-100ML-EDP-for-Women-7340032806199.jpg?v=1781827648",
-      "description": null,
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/byredo-blanche-100ml-edp-for-women",
-      "source_price": 359,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/byredo-blanche-100ml-edp-for-women",
-          "brand": "Byredo",
-          "name": "Byredo Blanche EDP 100ml",
-          "size": "100ml",
-          "price": 359,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Byredo-Blanche-100ML-EDP-for-Women-7340032806199.jpg?v=1781827648"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/byredo-blanche-wmns-edp-100ml",
-          "brand": "Byredo",
-          "name": "BYREDO Blanche EDP 100ml",
-          "size": "100ml",
-          "price": 369.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/I-010753-M1-BYREDO-BlancheEDP.webp?v=1782951465"
-        }
-      ]
-    },
-    {
-      "brand": "Byredo",
-      "name": "BYREDO Rose of No Mans Land Uni EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 359,
-      "price_per_100ml": 359,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Byredo-Rose-Of-No-Mans-Land-100ML-EDP-Unisex-7340032860917.jpg?v=1781827649",
-      "description": null,
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/byredo-rose-of-no-mans-land-100ml-edp-unisex",
-      "source_price": 359,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/byredo-rose-of-no-mans-land-100ml-edp-unisex",
-          "brand": "Byredo",
-          "name": "Byredo Rose Of No Man’s Land EDP 100ml",
-          "size": "100ml",
-          "price": 359,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Byredo-Rose-Of-No-Mans-Land-100ML-EDP-Unisex-7340032860917.jpg?v=1781827649"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/byredo-ron-mans-land-uni-edp-100ml",
-          "brand": "Byredo",
-          "name": "BYREDO Rose of No Mans Land Uni EDP 100ml",
-          "size": "100ml",
-          "price": 369.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/I-022664-M1-BYREDO-RoseOfNoMan_sLandEDP.webp?v=1782951359"
-        }
-      ]
-    },
-    {
       "brand": "Burberry",
       "name": "Burberry Goddess Amber Vanilla EDP 100ml",
       "size": "100ml",
@@ -184007,34 +184331,6 @@
           "price": 182,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20034812-0.jpg?v=1769990827"
-        }
-      ]
-    },
-    {
-      "brand": "Valentino",
-      "name": "Valentino Vendetta Uomo EDP 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 182,
-      "price_per_100ml": 364,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046297-0.jpg?v=1794000873",
-      "description": "The olfactive pact between the zesty brightness of a fresh Ginger shot and a spicy liquorous woody depth. This composition offers a bold and magnetic presence designed for a confident and free-spirited man. The fragrance is built around three signature notes to infuse the bold feeling of unstoppable passion: - Top note: Sparkling Ginger shot from Peru, delivering a zesty and aphrodisiac freshness. - Heart note: Exclusive Cinnamon Liquor accord, offering an addictive, spicy, and gourmand warmth to the trail. - Base note: Patchouli essence, magnified by carnal woods, wrapping the scent in a powerful, vibrant, and bold woodiness. This signature performs beautifully year-round and leaves a lasting sillage that melts onto the skin, forming an indelible addiction. A masterpiece created by the visionary perfumer Marie Salamagne. The VENDETTA Uomo Eau de Parfum bottle is a couture masterpiece featuring iconic and timeless codes. A bold graphic V sculpted directly into the architectural glass structures the silhouette as a brand tribute. The design combines structural strength with a pleated cap, a subtle tribute to the folds found in Valentino couture garments. Conceived as a pair with the VENDETTA Donna Eau de Parfum, this signature bottle reflects a timeless couture heritage and the authentic Valentino identity.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-uomo-edp-50ml",
-      "source_price": 182,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-uomo-edp-50ml",
-          "brand": "Valentino",
-          "name": "Valentino Vendetta Uomo EDP 50ml",
-          "size": "50ml",
-          "price": 182,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046297-0.jpg?v=1794000873"
         }
       ]
     },
@@ -186238,62 +186534,6 @@
       ]
     },
     {
-      "brand": "Byredo",
-      "name": "BYREDO Black Saffron Uni EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 369.99,
-      "price_per_100ml": 369.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/I-014922-M1-BYREDO-BlackSaffronEDP.webp?v=1763605636",
-      "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/byredo-black-saff-uni-edp-100ml",
-      "source_price": 369.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/byredo-black-saff-uni-edp-100ml",
-          "brand": "Byredo",
-          "name": "BYREDO Black Saffron Uni EDP 100ml",
-          "size": "100ml",
-          "price": 369.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/I-014922-M1-BYREDO-BlackSaffronEDP.webp?v=1763605636"
-        }
-      ]
-    },
-    {
-      "brand": "Byredo",
-      "name": "BYREDO Gyspy Water Uni EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 369.99,
-      "price_per_100ml": 369.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/shopping_37481f97-09a3-418b-a39c-df6604efc7f7.webp?v=1763605664",
-      "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/byredo-gyspy-water-uni-edp-100ml",
-      "source_price": 369.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/byredo-gyspy-water-uni-edp-100ml",
-          "brand": "Byredo",
-          "name": "BYREDO Gyspy Water Uni EDP 100ml",
-          "size": "100ml",
-          "price": 369.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/shopping_37481f97-09a3-418b-a39c-df6604efc7f7.webp?v=1763605664"
-        }
-      ]
-    },
-    {
       "brand": "Giorgio Armani",
       "name": "Giorgio Armani Acqua Di Gio EDP Intense 50ml",
       "size": "50ml",
@@ -186674,34 +186914,6 @@
           "price": 112,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20019196-0.png?v=1744062606"
-        }
-      ]
-    },
-    {
-      "brand": "Valentino",
-      "name": "Valentino Vendetta Donna EDP 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 336,
-      "price_per_100ml": 373.33,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046300-0.jpg?v=1794000871",
-      "description": "The olfactive pact between the solar carnality of Tuberose, the addictive brightness of a Red Orange Nectar accord, and the unctuosity of enveloping woods. A bold and sensual presence designed for a confident and magnetic woman. The fragrance is built around three signature notes to infuse the bold feeling of unstoppable passion: - Top note: Narcotic Tuberose Osmobloom from Colombia, offering a warm, solar, and unctuous carnality. - Heart note: Exclusive Red Orange Nectar accord, inspired by the Tarocco Rosso, a deep red-pulp Italian variety, bringing an addictive, liqueur-like sweetness to the trail. - Base note: Sandalwood, a creamy, mysterious wood anchoring the fragrance with profound and magnetic sensuality. This signature performs beautifully year-round and leaves a lasting sillage that melts onto the skin, forming an indelible addiction. A masterpiece co-created by Master Perfumer Dominique Ropion and the talented perfumer Andrew Everett. The VENDETTA Donna Eau de Parfum bottle is a masterpiece featuring iconic and timeless codes. A bold graphic V sculpted directly into the architectural glass structures the silhouette as a brand tribute. The fragrance is further enhanced by its deep red hue, echoing the iconic Rosso Valentino signature color as a symbol of passion, intensity, and bold emotion. Radiant within the sculptural clear glass, the color of the juice becomes a visual extension of the scent’s character. The design combines structural strength with a black pleated cap, a subtle tribute to the folds found in Valentino couture garments. Conceived as a pair with the VENDETTA Uomo Eau de Parfum, this signature bottle reflects a timeless couture heritage and the authentic Valentino identity.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-donna-edp-90ml",
-      "source_price": 336,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-donna-edp-90ml",
-          "brand": "Valentino",
-          "name": "Valentino Vendetta Donna EDP 90ml",
-          "size": "90ml",
-          "price": 336,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046300-0.jpg?v=1794000871"
         }
       ]
     },
@@ -193511,6 +193723,45 @@
       ]
     },
     {
+      "brand": "Prada",
+      "name": "Prada Paradoxe Sweet Chemistry EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 199,
+      "price_per_100ml": 398,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/F2D_800.jpg?v=1794959993",
+      "description": "Prada Paradoxe Sweet Chemistry EDP 50ml for Women Prada Paradoxe Sweet Chemistry EDP 50ml for Women is a fruity floral Eau de Parfum combining a blackcurrant syrup accord, orange blossom absolute and a neroli milk accord. This distinct Paradoxe expression explores the contrast between juicy sweetness, luminous flowers and a soft, creamy impression in Prada’s recognisable triangular bottle. This 50ml Eau de Parfum is a balanced size for a smaller fragrance wardrobe, regular rotation or gifting. Choose it if you want to explore Paradoxe Sweet Chemistry without committing to a larger bottle, while enjoying the same fragrance composition. This is a refillable fragrance spray bottle, supplied with fragrance; a matching Sweet Chemistry refill is sold separately. Buy Prada perfumes from Gadgets Online NZ, an NZ-owned business since 2008, with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. We offer authentic products sourced through trusted supply channels, supplied in brand-new original retail packaging unless otherwise stated. Fragrance Composition Fruity accord: Blackcurrant syrup accord. Floral accord: Orange blossom absolute. Creamy accord: Neroli milk accord. Scent Profile The blackcurrant syrup accord supplies the fruit-led character, orange blossom absolute brings floral brightness, and the neroli milk accord adds a softer contrast. Sweet Chemistry offers its own interpretation of Paradoxe, rather than reproducing the original Eau de Parfum. Wear it over unscented body care to keep the interplay of fruit and flowers clear. Who Is It For? For women who enjoy fruit-led florals, orange blossom and sweetness with a softer finish. It is a useful option for a Paradoxe fragrance wardrobe or for someone choosing a contemporary designer floral with a playful character. When to Wear Daytime: Brunch, shopping, weekends, daytime outings and everyday fragrance styling. Evening: Dinner dates, relaxed celebrations and evenings where a fruity floral suits the mood. Season: An adaptable year-round choice; adjust the application for New Zealand’s warmer days and cooler evenings. Occasion: A contemporary fragrance gift for someone who enjoys fruity sweetness and modern floral perfumes. Longevity & Sillage The fruit, orange blossom and neroli milk impressions provide a rounded fragrance character that should be assessed on your own skin. Start lightly and allow the fragrance to settle before adding more. Longevity and projection can vary with application, skin chemistry, activity and weather. More Prada Fragrances to Explore Prada Paradoxe EDP 90ml — the original Paradoxe Eau de Parfum, a different expression from Sweet Chemistry. Prada Paradoxe Intense EDP 90ml — a deeper Paradoxe interpretation with a more enveloping character. Prada Paradoxe Radical Essence Parfum 50ml — a separate Paradoxe Parfum to explore alongside the Eau de Parfum collection. Similar Designer Fragrances Giorgio Armani My Way Intense EDP 50ml — an enveloping white floral with tuberose and a creamy woody direction. Carolina Herrera Good Girl Blush EDP 50ml — a softer floral-amber style with a gentle, rounded character. Yves Saint Laurent Black Opium EDP 90ml — a different gourmand direction, pairing a coffee character with vanilla warmth. Premium & Niche Alternatives Parfums de Marly Delina EDP 75ml — a rose-led niche floral with bright fruit and a soft musky-woody finish. Parfums de Marly Delina Exclusif Parfum 75ml — a richer floral alternative with rose and creamy vanilla-musk warmth. Explore More Fragrances Browse more Prada perfumes , women’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Prada Fragrance: Paradoxe Sweet Chemistry Size: 50ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Fruity Floral Format: Refillable spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Prada Paradoxe Sweet Chemistry EDP 50ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists; begin lightly and adjust to your preference. Let the fragrance dry without rubbing. Avoid spraying directly onto delicate or light-coloured fabrics. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/prada-paradoxe-sweet-chemistry-edp-50ml",
+      "source_price": 199,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/prada-paradoxe-sweet-chemistry-edp-50ml",
+          "brand": "Prada",
+          "name": "Prada Paradoxe Sweet Chemistry EDP 50ml",
+          "size": "50ml",
+          "price": 199,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/F2D_800.jpg?v=1794959993"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradoxe-sweet-chemistry-edp-50ml",
+          "brand": "Prada",
+          "name": "Prada Paradoxe Sweet Chemistry EDP 50ml",
+          "size": "50ml",
+          "price": 248,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045769-0.jpg?v=1794432878"
+        }
+      ]
+    },
+    {
       "brand": "BDK",
       "name": "BDK Sel d'Argent 100ml EDP",
       "size": "100ml",
@@ -196753,6 +197004,45 @@
           "price": 209,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Yyes-Saint-Larent-Libre-Flower---Flames-EDP-50ml-3614274151152.jpg?v=1781827756"
+        }
+      ]
+    },
+    {
+      "brand": "Valentino",
+      "name": "Valentino Vendetta Donna EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 209,
+      "price_per_100ml": 418,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/2D_3614274798302_vlt_frag_vendetta_launch-26_dmi_packshot_donna-50ml_3614274798302_outerpack-product.jpg?v=1794959992",
+      "description": "Valentino Vendetta Donna EDP 50ml for Women Valentino Vendetta Donna EDP 50ml for Women is a floral gourmand woody Eau de Parfum combining tuberose, a red orange nectar accord and sandalwood. Co-created by Dominique Ropion and Andrew Everett, it pairs a full floral presence with a sweet fruit accent and a creamy woody foundation. This 50ml Eau de Parfum is a balanced size for a smaller fragrance wardrobe, regular rotation or gifting. Choose it if you want to explore Vendetta Donna without committing to a larger bottle, while enjoying the same fragrance composition. Buy Valentino perfumes from Gadgets Online NZ, an NZ-owned business since 2008, with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. We offer authentic products sourced through trusted supply channels, supplied in brand-new original retail packaging unless otherwise stated. Fragrance Composition Top Notes: Tuberose Osmobloom from Colombia. Heart Notes: Red orange nectar accord. Base Notes: Sandalwood. Scent Profile Tuberose gives the fragrance its radiant floral character, while the red orange nectar accord brings a rounded, liqueur-like sweetness. Sandalwood lends a smooth woody finish. It is the contrast between the generous floral impression and the softer, warmer trail that makes this an expressive choice for a dressed-up occasion. Who Is It For? For women who enjoy prominent white florals, sweet fruit accents and creamy woods. Vendetta Donna is worth exploring if you prefer an enveloping floral to a very light, crisp fragrance, or want a Valentino scent with a distinctive evening personality. When to Wear Daytime: Dressed-up daytime occasions, lunch dates and outings where a fuller floral feels appropriate. Evening: Dinner, date nights, celebrations and special occasions. Season: Wearable year-round, with a lighter application for warm New Zealand days and close indoor settings. Occasion: A fragrance gift for a lover of tuberose, rounded sweetness and elegant woody florals. Longevity & Sillage The floral and sweet orange impressions are supported by a smooth sandalwood character as the fragrance settles. Let it develop on skin before deciding whether to reapply. Longevity and sillage depend on skin chemistry, application, temperature and surroundings rather than concentration alone. More Valentino Fragrances to Explore Valentino Donna Born In Roma EDP 100ml — a contrasting modern Valentino floral with a warm finish. Valentino Donna Born In Roma Coral Fantasy EDP 50ml — a brighter, fruitier floral direction in the Born In Roma collection. Valentino Donna Born In Roma Extradose EDP 100ml — a deeper Born In Roma expression for an opulent evening mood. Similar Designer Fragrances Giorgio Armani My Way Intense EDP 50ml — an enveloping white floral with tuberose and a creamy woody direction. Carolina Herrera Good Girl Blush EDP 50ml — a softer floral-amber style with a gentle, rounded character. Yves Saint Laurent Black Opium EDP 90ml — a different gourmand direction, pairing a coffee character with vanilla warmth. Premium & Niche Alternatives Parfums de Marly Delina EDP 75ml — a rose-led niche floral with bright fruit and a soft musky-woody finish. Parfums de Marly Delina Exclusif Parfum 75ml — a richer floral alternative with rose and creamy vanilla-musk warmth. Explore More Fragrances Browse more Valentino perfumes , women’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Valentino Fragrance: Vendetta Donna Size: 50ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Gourmand Woody Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Valentino Vendetta Donna EDP 50ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists; begin lightly and adjust to your preference. Let the fragrance dry without rubbing. Avoid spraying directly onto delicate or light-coloured fabrics. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/valentino-vendetta-donna-edp-50ml",
+      "source_price": 209,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/valentino-vendetta-donna-edp-50ml",
+          "brand": "Valentino",
+          "name": "Valentino Vendetta Donna EDP 50ml",
+          "size": "50ml",
+          "price": 209,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/2D_3614274798302_vlt_frag_vendetta_launch-26_dmi_packshot_donna-50ml_3614274798302_outerpack-product.jpg?v=1794959992"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-donna-edp-50ml",
+          "brand": "Valentino",
+          "name": "Valentino Vendetta Donna EDP 50ml",
+          "size": "50ml",
+          "price": 237,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046299-0.jpg?v=1794000870"
         }
       ]
     },
@@ -204744,34 +205034,6 @@
       ]
     },
     {
-      "brand": "Valentino",
-      "name": "Valentino Vendetta Donna EDP 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 237,
-      "price_per_100ml": 474,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046299-0.jpg?v=1794000870",
-      "description": "The olfactive pact between the solar carnality of Tuberose, the addictive brightness of a Red Orange Nectar accord, and the unctuosity of enveloping woods. A bold and sensual presence designed for a confident and magnetic woman. The fragrance is built around three signature notes to infuse the bold feeling of unstoppable passion: - Top note: Narcotic Tuberose Osmobloom from Colombia, offering a warm, solar, and unctuous carnality. - Heart note: Exclusive Red Orange Nectar accord, inspired by the Tarocco Rosso, a deep red-pulp Italian variety, bringing an addictive, liqueur-like sweetness to the trail. - Base note: Sandalwood, a creamy, mysterious wood anchoring the fragrance with profound and magnetic sensuality. This signature performs beautifully year-round and leaves a lasting sillage that melts onto the skin, forming an indelible addiction. A masterpiece co-created by Master Perfumer Dominique Ropion and the talented perfumer Andrew Everett. The VENDETTA Donna Eau de Parfum bottle is a masterpiece featuring iconic and timeless codes. A bold graphic V sculpted directly into the architectural glass structures the silhouette as a brand tribute. The fragrance is further enhanced by its deep red hue, echoing the iconic Rosso Valentino signature color as a symbol of passion, intensity, and bold emotion. Radiant within the sculptural clear glass, the color of the juice becomes a visual extension of the scent’s character. The design combines structural strength with a black pleated cap, a subtle tribute to the folds found in Valentino couture garments. Conceived as a pair with the VENDETTA Uomo Eau de Parfum, this signature bottle reflects a timeless couture heritage and the authentic Valentino identity.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-donna-edp-50ml",
-      "source_price": 237,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/valentino-vendetta-donna-edp-50ml",
-          "brand": "Valentino",
-          "name": "Valentino Vendetta Donna EDP 50ml",
-          "size": "50ml",
-          "price": 237,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046299-0.jpg?v=1794000870"
-        }
-      ]
-    },
-    {
       "brand": "Parfums De Marly",
       "name": "Parfums de Marly Carlisle EDP 125ml",
       "size": "125ml",
@@ -206604,6 +206866,34 @@
       ]
     },
     {
+      "brand": "Ormaie",
+      "name": "ORMAIE Marque-Page 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 489,
+      "price_per_100ml": 489,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/Marque-Page_Final.jpg?v=1637730144",
+      "description": "Marque-page is a unique scent that wanders between spices, leather, incenses and white flowers. Top Notes: Incense, Davana, Artemisia Heart Notes: Leather, Geranium, Jasmine, Orange Blossom, Iris Base Notes: Oud Wood, Sandalwood, Amber, Nagarmotha, Vetiver, Patchouli, Cedar Wood EVERY DETAIL IS AN EXAMPLE OF KNOW-HOW A grandfather who sculpted. A grandmother and her flowers. A mother passionate about fragrances. The founder of ORMAIE looks for excellence in art. ORMAIE is a house of creation. It is family-owned. ORMAIE has brought together artists and artisans to write each chapter of its story. POETIC FRAGRANCES CHARGED WITH EMOTIONS AND MEMORIES. THE ORMAIE RAW MATERIALS ARE SELECTED FOR THEIR QUALITY AND THE ETHICAL AND ECOLOGICAL CONDITIONS IN WHICH THEY ARE PRODUCED ORMAIE fragrances are solely made of natural ingredients. THE COLOURS OF THE ORMAIE FRAGRANCES COME FROM THE COLOURS OF THE NATURAL INGREDIENTS THEY CONTAIN. THE ORMAIE fragrances are 100% natural, cruelty free and vegan A GLASS FACETED TWELVE TIMES, LIKE A SUNDIAL, AS A TESTIMONY TO THE LONG PROCESS OF CREATION For its glass production, ORMAIE exclusively uses renewable energy. WOODEN BOTTLE CAPS WITH ICONIC SHAPES The bottle caps are sculpted in beech wood from responsibly-managed forests.They are polished by hand. A ROUND BOX WHICH HUGS THE SHAPE OF THE BOTTLE, A LOGO REPRESENTING THE SEVEN INITIAL FRAGRANCES OF THE HOUSE The ORMAIE box is made of Italian paper composed of 40% recycled fibres, 55% from sustainably managed forests and 5% from cotton. It is printed on the Heidelberg machines from the 60's.",
+      "source_name": "world-shopify-suggest",
+      "source_url": "https://worldbrand.co.nz/products/ormaie-marque-page-100ml-edp",
+      "source_price": 489,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/ormaie-marque-page-100ml-edp",
+          "brand": "Ormaie",
+          "name": "ORMAIE Marque-Page 100ml EDP",
+          "size": "100ml",
+          "price": 489,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/products/Marque-Page_Final.jpg?v=1637730144"
+        }
+      ]
+    },
+    {
       "brand": "Bond No. 9",
       "name": "Bond No. 9 Greenwich Village EDP 100ml",
       "size": "100ml",
@@ -207147,34 +207437,6 @@
           "price": 248,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20031016-0.png?v=1727474122"
-        }
-      ]
-    },
-    {
-      "brand": "Prada",
-      "name": "Prada Paradoxe Sweet Chemistry EDP 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 248,
-      "price_per_100ml": 496,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045769-0.jpg?v=1794432878",
-      "description": "Rethinking sweetness through Paradoxe's signature Neroli, now enveloped in an indulgent Milk accord and the first introduction of an addictive Blackcurrant Syrup drop. Indulgent yet fruity, sweet yet sophisticated - a precise olfactive balance. A fragrance that echoes the Paradoxe woman: sharp and soft, structured and fluid, always in precise, yet effortless, balance. Never the same, always herself. A PRECISE OLFACTIVE BALANCE OF FRUITINESS, RADIANCE AND INDULGENCE. To rethink sweetness, master perfumers Nadège Le Garlantezec, Shyamala Maisondieu and Antoine Maisondieu chose to layer three notes in equilibrium. The composition is balanced between an addictive and fruity Blackcurrant Syrup Accord, elevated with a radiant and floral Orange Blossom Absolute and enveloped together by the signature Neroli, this time expressed in an indulgent and creamy Milk accord. A precise reflection of paradoxical modern femininity, sweet yet sophisticated. THE BOTTLE Like the original signature, Paradoxe Sweet Chemistry's renewed bottle is an expression of reinvention, exploring a playful yet iconic new Prada color. In a shift from traditional perfume bottle architecture, the bottle is minimal and delicate at first glance but disruptively designed to rest on its side. The accents of the intense black logo contrast with the purple pink twist of the juice and lacquering of the bottle, reflecting a sweet yet sophisticated femininity. A precious bottle, constantly reinvented, yet made to refill. Purchasing a 100ml instead of re-purchasing two 50ml bottles of Prada Paradoxe Sweet Chemistry helps save 44% glass, 100% metals, 67% plastic, and 61% cardboard.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradoxe-sweet-chemistry-edp-50ml",
-      "source_price": 248,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/prada-paradoxe-sweet-chemistry-edp-50ml",
-          "brand": "Prada",
-          "name": "Prada Paradoxe Sweet Chemistry EDP 50ml",
-          "size": "50ml",
-          "price": 248,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045769-0.jpg?v=1794432878"
         }
       ]
     },
