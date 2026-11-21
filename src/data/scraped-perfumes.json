@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:58:17.799Z",
+  "generated_at": "2026-11-21T10:41:43.679Z",
   "count": 4715,
   "cheapest": {
     "brand": "VV Love",
@@ -8550,6 +8550,34 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5473a159/images/hi-res/16/69/R2919955_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "MCoBeauty",
+      "name": "MCoBeauty Fragrance Mist Blissful Lychee",
+      "size": null,
+      "size_ml": null,
+      "price": 10.99,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw7d574c9a/images/hi-res/AD/04/R3064368_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-blissful-lychee/R3064368.html",
+      "source_price": 10.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-blissful-lychee/R3064368.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist Blissful Lychee",
+          "size": null,
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw7d574c9a/images/hi-res/AD/04/R3064368_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -18391,34 +18419,6 @@
           "price": 5.49,
           "currency": "NZD",
           "image_url": null
-        }
-      ]
-    },
-    {
-      "brand": "MCoBeauty",
-      "name": "MCoBeauty Fragrance Mist Blissful Lychee",
-      "size": null,
-      "size_ml": null,
-      "price": 21.99,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw7d574c9a/images/hi-res/AD/04/R3064368_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-blissful-lychee/R3064368.html",
-      "source_price": 21.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-blissful-lychee/R3064368.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist Blissful Lychee",
-          "size": null,
-          "price": 21.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw7d574c9a/images/hi-res/AD/04/R3064368_30.jpg?sw=292&sh=292"
         }
       ]
     },
