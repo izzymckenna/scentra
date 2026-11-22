@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T10:41:43.679Z",
-  "count": 4715,
+  "generated_at": "2026-11-22T10:46:35.588Z",
+  "count": 4716,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -122,6 +122,34 @@
           "price": 13.49,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5-67.jpg?v=1748562595"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Fragrance Mist Innocent Dream 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 5.39,
+      "price_per_100ml": 2.16,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwcc37ea76/images/hi-res/FE/6C/R2917383_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-fragrance-mist-innocent-dream-250ml/R2917383.html",
+      "source_price": 5.39,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-fragrance-mist-innocent-dream-250ml/R2917383.html",
+          "brand": "VV Love",
+          "name": "VV Love Fragrance Mist Innocent Dream 250ml",
+          "size": "250ml",
+          "price": 5.39,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwcc37ea76/images/hi-res/FE/6C/R2917383_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -81581,6 +81609,150 @@
       ]
     },
     {
+      "brand": "Ariana Grande",
+      "name": "Ariana Grande R.E.M. 30ml EDP",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 29.99,
+      "price_per_100ml": 99.97,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw79b7b964/images/hi-res/33/73/R2736598_30.jpg?sw=292&sh=292",
+      "description": "Ariana Grande R.E.M. 30ml EDP – Dreamy, Captivating, Unforgettable Immerse yourself in the enchanting aura of Ariana Grande's R.E.M. Eau de Parfum (30ml). Inspired by dreams and cosmic adventures, this irresistible fragrance perfectly blends femininity, sensuality, and playful charm. Opening notes of juicy pear, fig, and salted caramel captivate instantly, transitioning elegantly into a heart of delicate lavender and pear blossom. The base is a warm, seductive fusion of tonka bean, musk, and sandalwood, leaving a comforting, lasting impression. The sleek, crystal-like bottle beautifully reflects its dreamy essence, making it an ideal gift or personal indulgence. Key features include: Long-lasting Eau de Parfum formulation Compact 30ml size, perfect for travel or everyday use Unique, uplifting fragrance profile for any occasion Experience the fragrance that evokes wonder and confidence—choose Ariana Grande's R.E.M. 30ml EDP today and step into your own cosmic adventure.",
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/ariana-grande-r.e.m-edp-30ml/R2736598.html",
+      "source_price": 29.99,
+      "source_count": 7,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/ariana-grande-r.e.m-edp-30ml/R2736598.html",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande R.E.M EDP 30ml",
+          "size": "30ml",
+          "price": 29.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw79b7b964/images/hi-res/33/73/R2736598_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=4&_psq=perfume&_psid=72acd887b&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande R.E.M. 30ml EDP",
+          "size": "30ml",
+          "price": 40,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=5&_psq=perfume&_psid=9991f7a57&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande R.E.M. 30ml EDP",
+          "size": "30ml",
+          "price": 40,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=8&_psq=Ariana+Grande&_psid=3fa9ebec8&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande R.E.M. 30ml EDP",
+          "size": "30ml",
+          "price": 40,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=10&_psq=eau+de+parfum&_psid=c48589470&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande R.E.M. 30ml EDP",
+          "size": "30ml",
+          "price": 40,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande R.E.M. 30ml EDP",
+          "size": "30ml",
+          "price": 59.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=7&_psq=Ariana+Grande&_psid=6ab6473f7&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande R.E.M. 30ml EDP",
+          "size": "30ml",
+          "price": 59.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
+        }
+      ]
+    },
+    {
+      "brand": "Ariana Grande",
+      "name": "Ariana Grande god is a woman 30ml EDP",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 29.99,
+      "price_per_100ml": 99.97,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd872a0a0/images/hi-res/BB/F1/R2807010_30.jpg?sw=292&sh=292",
+      "description": "Ariana Grande God is a Woman 30ml EDP – Sensual, Empowering, Irresistible Discover Ariana Grande's God is a Woman Eau de Parfum, a captivating fragrance that embodies femininity, empowerment, and irresistible charm. This luxurious 30ml bottle presents an enchanting blend of juicy pear and ambrette, seamlessly combined with delicate notes of Turkish rose petals and creamy coconut to create a sensual and unforgettable aroma. Crafted for confident, modern individuals seeking a fragrance that speaks volumes, this vegan-friendly perfume is cruelty-free and sustainably designed, aligning perfectly with your conscious lifestyle. Ideal for daily wear or special occasions, its alluring scent lingers gracefully, leaving an impression that turns heads wherever you go. Experience self-expression, elegance, and confidence in every spritz. Elevate your fragrance collection today with Ariana Grande God is a Woman 30ml EDP—your signature scent awaits. Order now and embrace your inner goddess with every spray.",
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/ariana-grande-god-is-a-woman-edp-30ml/R2807010.html",
+      "source_price": 29.99,
+      "source_count": 3,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/ariana-grande-god-is-a-woman-edp-30ml/R2807010.html",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande God is a Woman EDP 30ml",
+          "size": "30ml",
+          "price": 29.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd872a0a0/images/hi-res/BB/F1/R2807010_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-god-is-a-woman-edp-30ml",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande god is a woman 30ml EDP",
+          "size": "30ml",
+          "price": 59.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/f3gv4bhapyz_grande_grande_2e4f0f8a-245d-4f0b-8bd6-b87a396e846a.jpg?v=1714610555"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-god-is-a-woman-edp-30ml?_pos=8&_psq=Ariana+Grande&_psid=6ab6473f7&_ss=e",
+          "brand": "Ariana Grande",
+          "name": "Ariana Grande god is a woman 30ml EDP",
+          "size": "30ml",
+          "price": 59.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/f3gv4bhapyz_grande_grande_2e4f0f8a-245d-4f0b-8bd6-b87a396e846a.jpg?v=1714610555"
+        }
+      ]
+    },
+    {
       "brand": "Hugo Boss",
       "name": "Hugo Boss HUGO XX EDT 60ml for Women",
       "size": "60ml",
@@ -97621,89 +97793,6 @@
     },
     {
       "brand": "Ariana Grande",
-      "name": "Ariana Grande R.E.M. 30ml EDP",
-      "size": "30ml",
-      "size_ml": 30,
-      "price": 40,
-      "price_per_100ml": 133.33,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506",
-      "description": "Ariana Grande R.E.M. 30ml EDP – Dreamy, Captivating, Unforgettable Immerse yourself in the enchanting aura of Ariana Grande's R.E.M. Eau de Parfum (30ml). Inspired by dreams and cosmic adventures, this irresistible fragrance perfectly blends femininity, sensuality, and playful charm. Opening notes of juicy pear, fig, and salted caramel captivate instantly, transitioning elegantly into a heart of delicate lavender and pear blossom. The base is a warm, seductive fusion of tonka bean, musk, and sandalwood, leaving a comforting, lasting impression. The sleek, crystal-like bottle beautifully reflects its dreamy essence, making it an ideal gift or personal indulgence. Key features include: Long-lasting Eau de Parfum formulation Compact 30ml size, perfect for travel or everyday use Unique, uplifting fragrance profile for any occasion Experience the fragrance that evokes wonder and confidence—choose Ariana Grande's R.E.M. 30ml EDP today and step into your own cosmic adventure.",
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=4&_psq=perfume&_psid=72acd887b&_ss=e",
-      "source_price": 40,
-      "source_count": 6,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=4&_psq=perfume&_psid=72acd887b&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande R.E.M. 30ml EDP",
-          "size": "30ml",
-          "price": 40,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=5&_psq=perfume&_psid=9991f7a57&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande R.E.M. 30ml EDP",
-          "size": "30ml",
-          "price": 40,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=8&_psq=Ariana+Grande&_psid=3fa9ebec8&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande R.E.M. 30ml EDP",
-          "size": "30ml",
-          "price": 40,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=10&_psq=eau+de+parfum&_psid=c48589470&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande R.E.M. 30ml EDP",
-          "size": "30ml",
-          "price": 40,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande R.E.M. 30ml EDP",
-          "size": "30ml",
-          "price": 59.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-rem-edp-30ml?_pos=7&_psq=Ariana+Grande&_psid=6ab6473f7&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande R.E.M. 30ml EDP",
-          "size": "30ml",
-          "price": 59.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5630053.jpg?v=1714610506"
-        }
-      ]
-    },
-    {
-      "brand": "Ariana Grande",
       "name": "Ariana Grande Ari EDP 30ml",
       "size": "30ml",
       "size_ml": 30,
@@ -99204,56 +99293,6 @@
           "price": 34.99,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/84939/F2D_200.jpg"
-        }
-      ]
-    },
-    {
-      "brand": "Ariana Grande",
-      "name": "Ariana Grande god is a woman 30ml EDP",
-      "size": "30ml",
-      "size_ml": 30,
-      "price": 41.99,
-      "price_per_100ml": 139.97,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd872a0a0/images/hi-res/BB/F1/R2807010_30.jpg?sw=292&sh=292",
-      "description": "Ariana Grande God is a Woman 30ml EDP – Sensual, Empowering, Irresistible Discover Ariana Grande's God is a Woman Eau de Parfum, a captivating fragrance that embodies femininity, empowerment, and irresistible charm. This luxurious 30ml bottle presents an enchanting blend of juicy pear and ambrette, seamlessly combined with delicate notes of Turkish rose petals and creamy coconut to create a sensual and unforgettable aroma. Crafted for confident, modern individuals seeking a fragrance that speaks volumes, this vegan-friendly perfume is cruelty-free and sustainably designed, aligning perfectly with your conscious lifestyle. Ideal for daily wear or special occasions, its alluring scent lingers gracefully, leaving an impression that turns heads wherever you go. Experience self-expression, elegance, and confidence in every spritz. Elevate your fragrance collection today with Ariana Grande God is a Woman 30ml EDP—your signature scent awaits. Order now and embrace your inner goddess with every spray.",
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/ariana-grande-god-is-a-woman-edp-30ml/R2807010.html",
-      "source_price": 41.99,
-      "source_count": 3,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/ariana-grande-god-is-a-woman-edp-30ml/R2807010.html",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande God is a Woman EDP 30ml",
-          "size": "30ml",
-          "price": 41.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwd872a0a0/images/hi-res/BB/F1/R2807010_30.jpg?sw=292&sh=292"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-god-is-a-woman-edp-30ml",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande god is a woman 30ml EDP",
-          "size": "30ml",
-          "price": 59.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/f3gv4bhapyz_grande_grande_2e4f0f8a-245d-4f0b-8bd6-b87a396e846a.jpg?v=1714610555"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/ariana-g-god-is-a-woman-edp-30ml?_pos=8&_psq=Ariana+Grande&_psid=6ab6473f7&_ss=e",
-          "brand": "Ariana Grande",
-          "name": "Ariana Grande god is a woman 30ml EDP",
-          "size": "30ml",
-          "price": 59.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/f3gv4bhapyz_grande_grande_2e4f0f8a-245d-4f0b-8bd6-b87a396e846a.jpg?v=1714610555"
         }
       ]
     },
@@ -186729,7 +186768,7 @@
           "size": "10ml",
           "price": 55,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/6_1204701b-0e8f-41f3-bea0-61674f50752e.png?v=1794355975"
+          "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/30_ml_peach_78b762ef-eaf0-4144-ac1a-f61e2ae64550.png?v=1773631922"
         },
         {
           "retailer_slug": "miller-road",
@@ -214279,8 +214318,8 @@
       "price": 55,
       "price_per_100ml": 550,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/xmas_fragrance_oil_copy_3.png?v=1794355908",
-      "description": "*33% OFF DISCOUNT APPLIES AUTOMATICALLY AT CHECKOUT Drift away to a decadent day spa tucked inside a lavish hotel. Spa is the perfect balance of bright lemon and soothing lavender, layered with soft florals, warm woods and musk for a scent that feels effortlessly luxurious. Lovingly hand-poured in small batches in Aotearoa, our Eau de Parfum comes in 10ml, 30ml, and 100ml .",
+      "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/102_0724.jpg?v=1789513482",
+      "description": "Drift away to a decadent day spa tucked inside a lavish hotel. Spa is the perfect balance of bright lemon and soothing lavender, layered with soft florals, warm woods and musk for a scent that feels effortlessly luxurious. Lovingly hand-poured in small batches in Aotearoa, our Eau de Parfum comes in 10ml, 30ml, and 100ml .",
       "source_name": "miller-road-shopify-suggest",
       "source_url": "https://millerroad.co.nz/products/spa-perfume",
       "source_price": 55,
@@ -214295,7 +214334,7 @@
           "size": "10ml",
           "price": 55,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/xmas_fragrance_oil_copy_3.png?v=1794355908"
+          "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/102_0724.jpg?v=1789513482"
         },
         {
           "retailer_slug": "miller-road",
@@ -214329,8 +214368,8 @@
       "price": 55,
       "price_per_100ml": 550,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/2_28957c87-072d-4ddc-ada9-9e1c71552ea1.png?v=1794355782",
-      "description": "*33% OFF DISCOUNT APPLIES AUTOMATICALLY AT CHECKOUT Pop on your finest cashmere and lose yourself in the towering White Woods. Inhale the comforting earthy scents of sandalwood, cedar, and patchouli while you toast a marshmallow over the fire. Lovingly hand-poured in small batches in Aotearoa, our Eau de Parfum comes in 10ml, 30ml, and 100ml .",
+      "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/IMG_3963_2.jpg?v=1789505491",
+      "description": "Pop on your finest cashmere and lose yourself in the towering White Woods. Inhale the comforting earthy scents of sandalwood, cedar, and patchouli while you toast a marshmallow over the fire. Lovingly hand-poured in small batches in Aotearoa, our Eau de Parfum comes in 10ml, 30ml, and 100ml .",
       "source_name": "miller-road-shopify-suggest",
       "source_url": "https://millerroad.co.nz/products/white-woods-perfume",
       "source_price": 55,
@@ -214345,7 +214384,7 @@
           "size": "10ml",
           "price": 55,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/2_28957c87-072d-4ddc-ada9-9e1c71552ea1.png?v=1794355782"
+          "image_url": "https://cdn.shopify.com/s/files/1/0308/7745/0299/files/IMG_3963_2.jpg?v=1789505491"
         },
         {
           "retailer_slug": "miller-road",
