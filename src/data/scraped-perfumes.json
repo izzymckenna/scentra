@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T13:20:07.127Z",
-  "count": 5028,
+  "generated_at": "2026-11-25T12:11:17.929Z",
+  "count": 5083,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -3129,6 +3129,157 @@
           "source_name": "bargain-chemist-shopify-suggest",
           "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-lym-fragrance-mist-2022-women-250ml",
           "brand": "Body Lux",
+          "name": "Body Luxuries LYM Fragrance Mist 2022 Women 250ml",
+          "size": "250ml",
+          "price": 13.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/de62ad07-e254-45c4-9564-dbc13f9fe44f.png?v=1794962376"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Cotton Sky Fragrance Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 13.49,
+      "price_per_100ml": 5.4,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/20250716_021616344_iOS_jpg.jpg?v=1753153278",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-cotton-sky-fragrance-mist-250ml",
+      "source_price": 13.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-cotton-sky-fragrance-mist-250ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Cotton Sky Fragrance Mist 250ml",
+          "size": "250ml",
+          "price": 13.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/20250716_021616344_iOS_jpg.jpg?v=1753153278"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Delicious Fragrance Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 13.49,
+      "price_per_100ml": 5.4,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/DeliciousBrumeParfumee_c1720bbd-72a2-43bd-9e77-741f08e8bfec.png?v=1791760202",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-delicious-fragrance-mist-250ml",
+      "source_price": 13.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-delicious-fragrance-mist-250ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Delicious Fragrance Mist 250ml",
+          "size": "250ml",
+          "price": 13.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/DeliciousBrumeParfumee_c1720bbd-72a2-43bd-9e77-741f08e8bfec.png?v=1791760202"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Good Girl Fragrance Mist 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 13.49,
+      "price_per_100ml": 5.4,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/Picture1_0c2a3b9a-abe3-4b7d-8e4a-8087dc97883d.jpg?v=1791167130",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-good-girl-fragrance-mist-250ml",
+      "source_price": 13.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-good-girl-fragrance-mist-250ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Good Girl Fragrance Mist 250ml",
+          "size": "250ml",
+          "price": 13.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/Picture1_0c2a3b9a-abe3-4b7d-8e4a-8087dc97883d.jpg?v=1791167130"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries LAA Rouge Fragrance Mist Women 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 13.49,
+      "price_per_100ml": 5.4,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BodyLuxuriesASADRed.png?v=1791764164",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-laa-rouge-fragrance-mist-women-250ml",
+      "source_price": 13.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-laa-rouge-fragrance-mist-women-250ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries LAA Rouge Fragrance Mist Women 250ml",
+          "size": "250ml",
+          "price": 13.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BodyLuxuriesASADRed.png?v=1791764164"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries LYM Fragrance Mist Women 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 13.49,
+      "price_per_100ml": 5.4,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BodyLuxuriesASADYellow.png?v=1791763872",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-lym-fragrance-mist-women-250ml",
+      "source_price": 13.49,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-lym-fragrance-mist-women-250ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries LYM Fragrance Mist Women 250ml",
+          "size": "250ml",
+          "price": 13.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/BodyLuxuriesASADYellow.png?v=1791763872"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-lym-fragrance-mist-2022-women-250ml",
+          "brand": "Body Luxuries",
           "name": "Body Luxuries LYM Fragrance Mist 2022 Women 250ml",
           "size": "250ml",
           "price": 13.49,
@@ -10693,24 +10844,13 @@
       "price": 10.99,
       "price_per_100ml": 12.21,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1ff7f125/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4a12032a/images/hi-res/19/47/R3032450_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-10-90ml/R3032450.html",
       "source_price": 10.99,
       "source_count": 28,
       "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No.0 90ml",
-          "size": "90ml",
-          "price": 10.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1ff7f125/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
-        },
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
@@ -10721,6 +10861,17 @@
           "price": 10.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4a12032a/images/hi-res/19/47/R3032450_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No.0 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1ff7f125/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
         },
         {
           "retailer_slug": "the-warehouse",
@@ -12802,6 +12953,286 @@
       ]
     },
     {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries 321 Rose EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 12.99,
+      "price_per_100ml": 12.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5060315037257.jpg?v=1793227325",
+      "description": "321 Rose introduces a champagne rose accord with pink pepper, giving the opening a sparkling floral character. The rose feels light and celebratory, while pink pepper adds a delicate spicy lift around the petals. In the heart, peach, blossoms, and rose create a softer, more rounded impression. Peach brings velvety fruit sweetness, and the floral notes allow the rose to remain at the center of the composition. As the fragrance settles, musk and woods form a gentle foundation. Musk lends a clean softness, while the woody accord gives the bouquet a quiet sense of structure. The transition feels smooth, carrying the brightness of the opening into a comfortable floral finish. 321 Rose is charming and graceful, suited to daytime celebrations, romantic afternoons, and those who enjoy a rosy fragrance with a subtle fruity warmth and an airy personality.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-321-rose-edt-100ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-321-rose-edt-100ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries 321 Rose EDT 100ml",
+          "size": "100ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5060315037257.jpg?v=1793227325"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Arrojo EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 12.99,
+      "price_per_100ml": 12.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/EC5B660A-351B-4B3D-BDC6-AFA8D094CABD.jpg?v=1793227922",
+      "description": "Arrojo opens with mint, aldehydes, lavender, bergamot, mandarin, lemon, artemisia, and neroli, creating a citrus and herbal freshness. The mint and aldehydes give the opening clarity, while the flowers and aromatic greenery soften its edges. In the heart, seaweed, ginger, jasmine, geranium, cyclamen, Brazilian rosewood, and rose develop a textured marine floral character. Seaweed adds a coastal nuance, ginger provides fresh spice, and the petals soften the wood and herbs. Musk, sandalwood, cedar, guaiac wood, and amber form the base, giving the fragrance a smooth, warmly structured finish. Musk rounds the composition, while the woods and amber bring depth beneath the fresh layers. Arrojo feels breezy and expressive, with a detailed aromatic character from start to finish. It suits daytime wear and social occasions, especially for those who enjoy citrus freshness with marine notes and gentle woody warmth.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-arrojo-edt-100ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-arrojo-edt-100ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Arrojo EDT 100ml",
+          "size": "100ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/EC5B660A-351B-4B3D-BDC6-AFA8D094CABD.jpg?v=1793227922"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Diosa Del Olimpo EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 12.99,
+      "price_per_100ml": 12.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/FC600403-8A52-4950-922C-4700B0FE7F33_-2.jpg?v=1793228362",
+      "description": "Diosa Del Olimpo opens with jasmine, tangerine, and ginger, creating a bright floral impression touched with lively spice. Tangerine brings a juicy citrus sweetness, while ginger adds a fresh, tingling edge around the jasmine. The heart reveals vanilla and salt, giving the fragrance its distinctive balance of creamy warmth and mineral clarity. Vanilla feels smooth and mellow, while the salty accord introduces an airy contrast that keeps the sweetness interesting. In the base, ambergris, a cashmere accord, and sandalwood provide a soft, enveloping finish. The ambergris extends the mineral character, cashmere adds a plush texture, and sandalwood brings gentle woody warmth. Diosa Del Olimpo feels poised and sensual, with a clear progression from fresh flowers to salted sweetness and soft woods. It suits evening wear and anyone who enjoys a warm fragrance with an unusual mineral accent.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-diosa-del-olimpo-edt-100ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-diosa-del-olimpo-edt-100ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Diosa Del Olimpo EDT 100ml",
+          "size": "100ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/FC600403-8A52-4950-922C-4700B0FE7F33_-2.jpg?v=1793228362"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Heroe Blue EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 12.99,
+      "price_per_100ml": 12.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/70A484BE-1D9C-46FE-91E2-5DD5A87B7045.jpg?v=1793228789",
+      "description": "Heroe Blue opens with mint, apple, and lemon, creating a fresh impression that feels cool and energetic. Mint adds an aromatic breeze, apple provides crisp sweetness, and lemon brings a bright citrus edge. In the heart, tonka bean, ambroxan, and geranium build a smooth bridge between freshness and warmth. Tonka bean adds a soft sweetness, ambroxan introduces a mineral woody character, and geranium keeps the center green and clear. Vanilla, cedar, vetiver, and oakmoss form the base, giving the fragrance a rounded, textured finish. Vanilla mellows the dry woods, while vetiver and oakmoss add earthy green depth. Heroe Blue feels approachable and composed, moving from juicy fruit and cool herbs toward a comfortable woody foundation. It suits daily wear and informal evening plans, especially for those who enjoy aromatic freshness balanced by a subtle, sweet warmth.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-heroe-blue-edt-100ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-heroe-blue-edt-100ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Heroe Blue EDT 100ml",
+          "size": "100ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/70A484BE-1D9C-46FE-91E2-5DD5A87B7045.jpg?v=1793228789"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Invictory Black EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 12.99,
+      "price_per_100ml": 12.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/1A527DD5-A86F-4DFD-A614-0855F2D65ACE.jpg?v=1793227747",
+      "description": "Invictory Black offers an elegant scent journey that begins with Pink Pepper and Lemon. This opening delivers bright, sparkling freshness, drawing attention without becoming sharp. In the heart,Lavender and Frankincense add a sensual, lasting richness, giving the fragrance its distinctive mood and a beautifully rounded texture. The base combines Vanilla, Tonka Bean, and Amber, creating smooth, addictive warmth that feels smooth, reassuring, and long-lasting. The composition is carefully balanced, with each note supporting the next and no single element overwhelming the blend. Invictory Black can move easily from everyday wear to more special occasions, bringing a composed and sophisticated presence. Its opening feels engaging, its heart adds richness, and its final trail stays warm and memorable, making it a strong choice for fragrance lovers who value character as well as versatility.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-invictory-black-edt-100ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-invictory-black-edt-100ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Invictory Black EDT 100ml",
+          "size": "100ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/1A527DD5-A86F-4DFD-A614-0855F2D65ACE.jpg?v=1793227747"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Madison Red EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 12.99,
+      "price_per_100ml": 12.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3E36C464-F312-4BE2-8729-BE83CC9F6A77.jpg?v=1793227670",
+      "description": "Madison Red offers an elegant scent journey that begins with Almond and Saffron. This opening delivers an elegant aromatic spice, drawing attention without becoming sharp. In the heart, Jasmine and Cedar add a graceful floral character, giving the fragrance its distinctive mood and a beautifully rounded texture. The base combines Ambergris and Woody Accord, creating refined woody depth that feels smooth, reassuring, and long-lasting. The composition is carefully balanced, with each note supporting the next and no single element overwhelming the blend. Madison Red can move easily from everyday wear to more special occasions, bringing a composed and sophisticated presence. Its opening feels engaging, its heart adds richness, and its final trail stays warm and memorable, making it a strong choice for fragrance lovers who value character as well as versatility.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-madison-red-edt-100ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-madison-red-edt-100ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Madison Red EDT 100ml",
+          "size": "100ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3E36C464-F312-4BE2-8729-BE83CC9F6A77.jpg?v=1793227670"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries One Billionaire EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 12.99,
+      "price_per_100ml": 12.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/932082B8-9825-44ED-A95B-8E0B31915425.jpg?v=1793227835",
+      "description": "One Billionaire opens with grapefruit, mint, and orange, creating a bright citrus impression cooled by fresh herbs. Grapefruit adds a pleasantly bitter edge, orange brings juicy sweetness, and mint keeps the opening lively. The heart reveals rose and cinnamon, balancing soft petals with a warmer spicy character. Rose gives the center a smooth floral shape, while cinnamon introduces richness and connects the freshness above with the deeper base. Leather, tonka bean, vanilla, and amber then create a rounded, sensual finish. Leather adds a dry texture, tonka bean and vanilla soften the composition, and amber brings an enveloping warmth. One Billionaire feels expressive and dressed up, with a clear movement from cool citrus to sweet spice and leather. It suits evening occasions and cooler days, particularly for those who enjoy a warm fragrance with a bold, textured personality.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-one-billionaire-edt-100ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-one-billionaire-edt-100ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries One Billionaire EDT 100ml",
+          "size": "100ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/932082B8-9825-44ED-A95B-8E0B31915425.jpg?v=1793227835"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Pormua EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 12.99,
+      "price_per_100ml": 12.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/75FB0F8E-A7C7-4C68-AD08-9D03B7F8F801_-2.jpg?v=1793228868",
+      "description": "Pormua opens with mango and lemon, giving the fragrance a tropical character with a crisp citrus edge. Mango brings a mellow fruit sweetness, while lemon adds brightness and keeps the first impression fresh. In the heart, sandalwood and sage create a smoother aromatic texture. Sandalwood introduces a gentle woody warmth, and sage adds a dry herbal accent that gives the fruit a more composed setting. As the fragrance develops, patchouli brings an earthy depth to the base, connecting the soft wood with the brighter opening. The progression moves from juicy freshness toward a quieter, warmly textured finish, allowing both the tropical and aromatic facets to remain recognizable. Pormua feels relaxed and distinctive, suited to casual afternoons and evenings. It is an inviting choice for those who enjoy mango-led fragrances with a woody heart and a green herbal edge.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-pormua-edt-100ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-pormua-edt-100ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Pormua EDT 100ml",
+          "size": "100ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/75FB0F8E-A7C7-4C68-AD08-9D03B7F8F801_-2.jpg?v=1793228868"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Robotic EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 12.99,
+      "price_per_100ml": 12.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/50603150376461.jpg?v=1793227500",
+      "description": "Robotic opens with lavender, lemon zest, and lemon, giving the fragrance a crisp aromatic start. The citrus adds a bright, slightly bitter sparkle, while lavender introduces a clean herbal softness. In the heart, lavender continues alongside smoke, earthy notes, apple, and patchouli. Apple brings a fresh sweetness through the darker textures, while smoke and patchouli give the composition a distinctive depth. The earthy accord links the aromatic opening to the warmer character that follows. Vanilla, lavender, and vetiver shape the base, blending mellow sweetness with dry, grassy woods. The repeated lavender note keeps the fragrance connected from beginning to end, even as its surroundings become richer. Robotic feels modern and expressive, with fresh citrus above a smoky, softly sweet foundation. It suits casual evenings and cooler days, particularly for those who enjoy aromatic fragrances with unexpected texture.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-robotic-edt-100ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-robotic-edt-100ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Robotic EDT 100ml",
+          "size": "100ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/50603150376461.jpg?v=1793227500"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Tom Halley EDT 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 12.99,
+      "price_per_100ml": 12.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/F1DFACAD-F665-4CB5-9E01-89B90D91544F.jpg?v=1793228464",
+      "description": "Tom Halley opens with apple blossom, camellia, orange, and blackcurrant, giving the fragrance a fresh floral character touched with juicy fruit. Orange adds brightness, while blackcurrant introduces a tart accent around the delicate blossoms. The heart brings together lemon, honeysuckle, rose, grapefruit, lily, mint, and violet. Citrus and mint keep the bouquet lively, honeysuckle lends gentle sweetness, and the flowers create a soft, varied petal texture. In the base, magnolia and jasmine continue the floral theme alongside cedar, sandalwood, and leather. The woods give the composition a smooth foundation, while leather adds a subtle dry edge beneath the blossoms. Tom Halley feels bright and easygoing, with a garden-like freshness that becomes more rounded as it develops. It suits daytime wear and relaxed afternoons, especially for those who enjoy lively citrus woven through an expressive floral bouquet.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-tom-halley-edt-100ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-tom-halley-edt-100ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Tom Halley EDT 100ml",
+          "size": "100ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/F1DFACAD-F665-4CB5-9E01-89B90D91544F.jpg?v=1793228464"
+        }
+      ]
+    },
+    {
       "brand": "Just Cavalli",
       "name": "Just Cavalli Bold Blossom Hair & Body Mist 250ml",
       "size": "250ml",
@@ -14172,6 +14603,34 @@
           "price": 12.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5060315037813.png?v=1794174573"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Mon Amour Bella EDT 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 12.99,
+      "price_per_100ml": 14.43,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5060315037233.jpg?v=1793227580",
+      "description": "Mon Amour Bella opens with pear and blackcurrant, pairing mellow fruit sweetness with a lively, tart edge. The pear gives the first impression a soft juiciness, while blackcurrant adds depth and a darker berry tone. As the fragrance develops, neroli, orris, and jasmine create an elegant floral heart. Neroli introduces brightness, jasmine adds gentle richness, and orris gives the bouquet a smooth, powdery texture. Vanilla, praline, patchouli, and tonka bean shape the base, surrounding the flowers with a warm gourmand character. Praline brings nutty sweetness, vanilla and tonka bean add creamy comfort, and patchouli provides an earthy counterpoint. Mon Amour Bella feels romantic and inviting, with fruit and flowers woven into a softly sweet finish. It suits cooler afternoons and intimate evenings, offering a graceful option for those drawn to powdery florals and comforting gourmand notes.",
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-mon-amour-bella-edt-90ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-mon-amour-bella-edt-90ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Mon Amour Bella EDT 90ml",
+          "size": "90ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5060315037233.jpg?v=1793227580"
         }
       ]
     },
@@ -15654,6 +16113,230 @@
           "price": 5.49,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CB60036.jpg?v=1793128092"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Angelic Pink EDT Women 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.49,
+      "price_per_100ml": 15.69,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/04EEB4C3-0546-4DCD-9330-868740893F45.webp?v=1793824339",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-angelic-pink-edt-women-35ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-angelic-pink-edt-women-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Angelic Pink EDT Women 35ml",
+          "size": "35ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/04EEB4C3-0546-4DCD-9330-868740893F45.webp?v=1793824339"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Falling Flame EDT Women 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.49,
+      "price_per_100ml": 15.69,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CD10536.jpg?v=1793128008",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-falling-flame-edt-women-35ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-falling-flame-edt-women-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Falling Flame EDT Women 35ml",
+          "size": "35ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CD10536.jpg?v=1793128008"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Forgot You EDT 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.49,
+      "price_per_100ml": 15.69,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CD13636_4.jpg?v=1793819417",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-forgot-you-edt-35ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-forgot-you-edt-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Forgot You EDT 35ml",
+          "size": "35ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CD13636_4.jpg?v=1793819417"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Metrin EDT Women 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.49,
+      "price_per_100ml": 15.69,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CD10036.jpg?v=1793128127",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-metrin-edt-women-35ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-metrin-edt-women-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Metrin EDT Women 35ml",
+          "size": "35ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CD10036.jpg?v=1793128127"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Noir EDT Women 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.49,
+      "price_per_100ml": 15.69,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CB60036.jpg?v=1793128092",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-noir-edt-women-35ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-noir-edt-women-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Noir EDT Women 35ml",
+          "size": "35ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CB60036.jpg?v=1793128092"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Perdon EDT 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.49,
+      "price_per_100ml": 15.69,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/144021018_18bd787d492bc34.jpg?v=1793660069",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-perdon-edt-35ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-perdon-edt-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Perdon EDT 35ml",
+          "size": "35ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/144021018_18bd787d492bc34.jpg?v=1793660069"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Sensual Rose EDT 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.49,
+      "price_per_100ml": 15.69,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/8B53285B-D568-4FC1-A914-CB3CCDA56675.jpg?v=1793822491",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-sensual-rose-edt-35ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-sensual-rose-edt-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Sensual Rose EDT 35ml",
+          "size": "35ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/8B53285B-D568-4FC1-A914-CB3CCDA56675.jpg?v=1793822491"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Tommy Guns EDT 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.49,
+      "price_per_100ml": 15.69,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CD12236_4.jpg?v=1793819327",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-tommy-guns-edt-35ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-tommy-guns-edt-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Tommy Guns EDT 35ml",
+          "size": "35ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/CD12236_4.jpg?v=1793819327"
         }
       ]
     },
@@ -17502,6 +18185,90 @@
       ]
     },
     {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Man in Blue EDT 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.99,
+      "price_per_100ml": 17.11,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01237-6.jpg?v=1794439857",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-man-in-blue-edt-35ml",
+      "source_price": 5.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-man-in-blue-edt-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Man in Blue EDT 35ml",
+          "size": "35ml",
+          "price": 5.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01237-6.jpg?v=1794439857"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Pink Queen EDT Women 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.99,
+      "price_per_100ml": 17.11,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/PinkQueenPerfumeBox.png?v=1795051894",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-pink-queen-edt-women-35ml",
+      "source_price": 5.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-pink-queen-edt-women-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Pink Queen EDT Women 35ml",
+          "size": "35ml",
+          "price": 5.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/PinkQueenPerfumeBox.png?v=1795051894"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Scarlet Kiss EDT Women 35ml",
+      "size": "35ml",
+      "size_ml": 35,
+      "price": 5.99,
+      "price_per_100ml": 17.11,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/ScarletKissLuxuryPerfumeBox.png?v=1795051803",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-scarlet-kiss-edt-women-35ml",
+      "source_price": 5.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-scarlet-kiss-edt-women-35ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Scarlet Kiss EDT Women 35ml",
+          "size": "35ml",
+          "price": 5.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/ScarletKissLuxuryPerfumeBox.png?v=1795051803"
+        }
+      ]
+    },
+    {
       "brand": "Dear Body",
       "name": "Dear Body Black Sport EDP 90ml",
       "size": "90ml",
@@ -17694,6 +18461,34 @@
           "price": 12.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/319E07D5-C4D6-4D4F-8AF8-F71E33660576_-1.png?v=1793824874"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Cat EDT 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 12.99,
+      "price_per_100ml": 17.32,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C003201_1.jpg?v=1793228594",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-cat-edt-75ml",
+      "source_price": 12.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-cat-edt-75ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Cat EDT 75ml",
+          "size": "75ml",
+          "price": 12.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C003201_1.jpg?v=1793228594"
         }
       ]
     },
@@ -18377,6 +19172,230 @@
           "price": 5.49,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/5056795409318.jpg?v=1794174758"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Aways Yours Parfum EDT 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 5.49,
+      "price_per_100ml": 18.3,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/7CDAC112-4598-4626-8DF0-BF20B4236D56.jpg?v=1793819165",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-aways-yours-parfum-edt-30ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-aways-yours-parfum-edt-30ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Aways Yours Parfum EDT 30ml",
+          "size": "30ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/7CDAC112-4598-4626-8DF0-BF20B4236D56.jpg?v=1793819165"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Fragrance Girl Night EDP Women 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 5.49,
+      "price_per_100ml": 18.3,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C00837_6.jpg?v=1793128612",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-girl-night-edp-women-30ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-girl-night-edp-women-30ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Fragrance Girl Night EDP Women 30ml",
+          "size": "30ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C00837_6.jpg?v=1793128612"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Fragrance Glamour Night EDP Women 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 5.49,
+      "price_per_100ml": 18.3,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01937_1.jpg?v=1793128427",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-glamour-night-edp-women-30ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-glamour-night-edp-women-30ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Fragrance Glamour Night EDP Women 30ml",
+          "size": "30ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01937_1.jpg?v=1793128427"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Fragrance Miss Body EDP Women 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 5.49,
+      "price_per_100ml": 18.3,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01437_1.jpg?v=1793128459",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-miss-body-edp-women-30ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-miss-body-edp-women-30ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Fragrance Miss Body EDP Women 30ml",
+          "size": "30ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01437_1.jpg?v=1793128459"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Fragrance My Wish EDP Women 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 5.49,
+      "price_per_100ml": 18.3,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01337_1.jpg?v=1793128382",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-my-wish-edp-women-30ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-my-wish-edp-women-30ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Fragrance My Wish EDP Women 30ml",
+          "size": "30ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01337_1.jpg?v=1793128382"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Kissing Mizzle Par EDT 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 5.49,
+      "price_per_100ml": 18.3,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/DZ43201.jpg?v=1793819489",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-kissing-mizzle-par-edt-30ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-kissing-mizzle-par-edt-30ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Kissing Mizzle Par EDT 30ml",
+          "size": "30ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/DZ43201.jpg?v=1793819489"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries La Vanilla Parfum EDT 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 5.49,
+      "price_per_100ml": 18.3,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/DZ41501.jpg?v=1793819528",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-la-vanilla-parfum-edt-30ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-la-vanilla-parfum-edt-30ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries La Vanilla Parfum EDT 30ml",
+          "size": "30ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/DZ41501.jpg?v=1793819528"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Lavanila EDT 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 5.49,
+      "price_per_100ml": 18.3,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01537_5.jpg?v=1793820133",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-lux-lavanila-edt-30ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-lux-lavanila-edt-30ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Lavanila EDT 30ml",
+          "size": "30ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01537_5.jpg?v=1793820133"
         }
       ]
     },
@@ -20607,6 +21626,101 @@
           "price": 5.49,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/50567954093561.jpg?v=1794174732"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Fragrance Charm Passion Red EDP Women 25ml",
+      "size": "25ml",
+      "size_ml": 25,
+      "price": 5.49,
+      "price_per_100ml": 21.96,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C00037_1.jpg?v=1793128577",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-charm-passion-red-edp-women-25ml",
+      "source_price": 5.49,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-charm-passion-red-edp-women-25ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Fragrance Charm Passion Red EDP Women 25ml",
+          "size": "25ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C00037_1.jpg?v=1793128577"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-charm-passion-edp-women-25ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Fragrance Charm Passion EDP Women 25ml",
+          "size": "25ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C00137_1.jpg?v=1793128534"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Fragrance Midnight Oud EDP Women 25ml",
+      "size": "25ml",
+      "size_ml": 25,
+      "price": 5.49,
+      "price_per_100ml": 21.96,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C00537_1.jpg?v=1793822166",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-midnight-oud-edp-women-25ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-midnight-oud-edp-women-25ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Fragrance Midnight Oud EDP Women 25ml",
+          "size": "25ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C00537_1.jpg?v=1793822166"
+        }
+      ]
+    },
+    {
+      "brand": "Body Luxuries",
+      "name": "Body Luxuries Fragrance My Wild EDP Women 25ml",
+      "size": "25ml",
+      "size_ml": 25,
+      "price": 5.49,
+      "price_per_100ml": 21.96,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01837_1.jpg?v=1793128334",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-my-wild-edp-women-25ml",
+      "source_price": 5.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/body-luxuries-fragrance-my-wild-edp-women-25ml",
+          "brand": "Body Luxuries",
+          "name": "Body Luxuries Fragrance My Wild EDP Women 25ml",
+          "size": "25ml",
+          "price": 5.49,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/C01837_1.jpg?v=1793128334"
         }
       ]
     },
@@ -46936,6 +48050,34 @@
           "price": 124.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/mont-blanc-legend-spirit-200ml.png?v=1542835658"
+        }
+      ]
+    },
+    {
+      "brand": "Joop",
+      "name": "Joop! Wow Fresh EDT Men 40ml",
+      "size": "40ml",
+      "size_ml": 40,
+      "price": 25,
+      "price_per_100ml": 62.5,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/joop-wow-edt-fresh-perfume-cologne-527222.png?v=1759805079",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/joop-wow-fresh-for-men-edt-40ml",
+      "source_price": 25,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/joop-wow-fresh-for-men-edt-40ml",
+          "brand": "Joop",
+          "name": "Joop! Wow Fresh EDT Men 40ml",
+          "size": "40ml",
+          "price": 25,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/joop-wow-edt-fresh-perfume-cologne-527222.png?v=1759805079"
         }
       ]
     },
@@ -100787,6 +101929,34 @@
       ]
     },
     {
+      "brand": "Billie Eilish",
+      "name": "Your Turn II by Billie Eilish 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 124.99,
+      "price_per_100ml": 124.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/billie-eilish-your-turn-II.png?v=1795572714",
+      "description": "Your Turn II by Billie Eilish 100ml Eau De Parfum Spray A bold new evolution of the original, Your Turn II is a woody, fruity scent that plays with the contrast of light and dark. Pimento berries and cassis leaves open into fig nectar, black tea, and vanilla orchid. Anchored by natural vetiver, this scent stays with you. Designer: Billie Eilish Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: Your Turn II opens with an unexpected contrast between the bright heat of pimento berry, the lush sweetness of mirabelle plum and the verdant edge of green cassis leaves. The composition evolves into a quietly seductive heart of fig nectar, black tea leaves, and vanilla orchid, before settling into a grounded base of natural vetiver and cedarwood for a finish that lingers with intention. Top Notes: Pimento Berry, Mirabelle Plum, Cassis Leaves. Middle Notes: Fig Nectar, Black Tea Leaves, Vanilla Orchid. Base Notes: Natural Vetiver, Olibanum Resin, Cedarwood Virginia EO. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/your-turn-ii-by-billie-eilish-100ml-edp",
+      "source_price": 124.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/your-turn-ii-by-billie-eilish-100ml-edp",
+          "brand": "Billie Eilish",
+          "name": "Your Turn II by Billie Eilish 100ml EDP",
+          "size": "100ml",
+          "price": 124.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/billie-eilish-your-turn-II.png?v=1795572714"
+        }
+      ]
+    },
+    {
       "brand": "Others",
       "name": "Beyond Me by Gissah 200ml EDP",
       "size": "200ml",
@@ -114186,6 +115356,78 @@
           "price": 169.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ralph-lauren-new-york-110ml.png?v=1792544119"
+        }
+      ]
+    },
+    {
+      "brand": "CZE Hair",
+      "name": "CZE Hair | Nourishing Perfume Oil",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 46.4,
+      "price_per_100ml": 154.67,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042",
+      "description": "The Hair & Body Perfume Oil with a new name and packaging update. A beauty bag must have! Think of this lightweight oil treatment as the cherry on top of your effortlessly-beautiful everyday hair routine. Create instant shine, tame frizz, and reduce split ends by strengthening and nourishing with this multi-purpose pre-styling and finishing treatment oil. Unlock instantly smoother, healthier hair for a perfectly polished finish. 30ml (1.14 fl.oz) Benefits: Adds Instant Shine Tames Frizz Reduces Split Ends Nourishes and Strengthens Scent: CZE Hair signature fragrance of Sandalwood, Pineapple, Fig, Saffron. Mixed blend of synthetic and natural. Ingredients: Diheptyl Succinate; Coco-Caprylate; Capryloyl Glycerin/Sebacic Acid Copolymer; Prunus Amygdalus Dulcis (Sweet Almond) Oil; Terminalia Ferdinandiana (Kakadu Plum) Seed Oil; Moringa Oleifera Seed Oil; Citrullus Lanatus (Watermelon) Seed Oil; Caryodendron Orinocense (Cacay) Seed Oil; Cannabis Sativa (Hemp) Seed Oil; Cucumis Sativus (Cucumber) Oil; Camellia Japonica (Tsubaki) Seed Oil; Passiflora Incarnata (passionflower) Seed Oil, Parfum* Alpha Isomethylionone, *Benzyl Salicylate. *Components of natural & synthetic perfume",
+      "source_name": "sisters-and-co-shopify-suggest",
+      "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil",
+      "source_price": 46.4,
+      "source_count": 5,
+      "sources": [
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil",
+          "brand": "CZE Hair",
+          "name": "CZE Hair | Nourishing Perfume Oil",
+          "size": "30ml",
+          "price": 46.4,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil?_pos=1&_psq=perfume&_psid=81fc55fb5&_ss=e",
+          "brand": "CZE Hair",
+          "name": "CZE Hair | Nourishing Perfume Oil",
+          "size": "30ml",
+          "price": 58,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil?_pos=1&_psq=perfume&_psid=0cd12afdc&_ss=e",
+          "brand": "CZE Hair",
+          "name": "CZE Hair | Nourishing Perfume Oil",
+          "size": "30ml",
+          "price": 58,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil?_pos=8&_psq=perfume&_psid=c063e0a0b&_ss=e",
+          "brand": "CZE Hair",
+          "name": "CZE Hair | Nourishing Perfume Oil",
+          "size": "30ml",
+          "price": 58,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil?_pos=8&_psq=perfume&_psid=09a5d4696&_ss=e",
+          "brand": "CZE Hair",
+          "name": "CZE Hair | Nourishing Perfume Oil",
+          "size": "30ml",
+          "price": 58,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042"
         }
       ]
     },
@@ -135828,78 +137070,6 @@
           "price": 193,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20036698-0.jpg?v=1759702658"
-        }
-      ]
-    },
-    {
-      "brand": "CZE Hair",
-      "name": "CZE Hair | Nourishing Perfume Oil",
-      "size": "30ml",
-      "size_ml": 30,
-      "price": 58,
-      "price_per_100ml": 193.33,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042",
-      "description": "The Hair & Body Perfume Oil with a new name and packaging update. A beauty bag must have! Think of this lightweight oil treatment as the cherry on top of your effortlessly-beautiful everyday hair routine. Create instant shine, tame frizz, and reduce split ends by strengthening and nourishing with this multi-purpose pre-styling and finishing treatment oil. Unlock instantly smoother, healthier hair for a perfectly polished finish. 30ml (1.14 fl.oz) Benefits: Adds Instant Shine Tames Frizz Reduces Split Ends Nourishes and Strengthens Scent: CZE Hair signature fragrance of Sandalwood, Pineapple, Fig, Saffron. Mixed blend of synthetic and natural. Ingredients: Diheptyl Succinate; Coco-Caprylate; Capryloyl Glycerin/Sebacic Acid Copolymer; Prunus Amygdalus Dulcis (Sweet Almond) Oil; Terminalia Ferdinandiana (Kakadu Plum) Seed Oil; Moringa Oleifera Seed Oil; Citrullus Lanatus (Watermelon) Seed Oil; Caryodendron Orinocense (Cacay) Seed Oil; Cannabis Sativa (Hemp) Seed Oil; Cucumis Sativus (Cucumber) Oil; Camellia Japonica (Tsubaki) Seed Oil; Passiflora Incarnata (passionflower) Seed Oil, Parfum* Alpha Isomethylionone, *Benzyl Salicylate. *Components of natural & synthetic perfume",
-      "source_name": "sisters-and-co-shopify-suggest",
-      "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil",
-      "source_price": 58,
-      "source_count": 5,
-      "sources": [
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil",
-          "brand": "CZE Hair",
-          "name": "CZE Hair | Nourishing Perfume Oil",
-          "size": "30ml",
-          "price": 58,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil?_pos=1&_psq=perfume&_psid=81fc55fb5&_ss=e",
-          "brand": "CZE Hair",
-          "name": "CZE Hair | Nourishing Perfume Oil",
-          "size": "30ml",
-          "price": 58,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil?_pos=1&_psq=perfume&_psid=0cd12afdc&_ss=e",
-          "brand": "CZE Hair",
-          "name": "CZE Hair | Nourishing Perfume Oil",
-          "size": "30ml",
-          "price": 58,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil?_pos=8&_psq=perfume&_psid=c063e0a0b&_ss=e",
-          "brand": "CZE Hair",
-          "name": "CZE Hair | Nourishing Perfume Oil",
-          "size": "30ml",
-          "price": 58,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/czeminihairbodyperfumeoil?_pos=8&_psq=perfume&_psid=09a5d4696&_ss=e",
-          "brand": "CZE Hair",
-          "name": "CZE Hair | Nourishing Perfume Oil",
-          "size": "30ml",
-          "price": 58,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages-2024-11-29T135821.898.jpg?v=1732842042"
         }
       ]
     },
@@ -167080,6 +168250,172 @@
       ]
     },
     {
+      "brand": "Anine Bing",
+      "name": "Anine Bing | Eau De Parfum - Pure Noir",
+      "size": null,
+      "size_ml": null,
+      "price": 263.2,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1793148357",
+      "description": null,
+      "source_name": "sisters-and-co-shopify-suggest",
+      "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir",
+      "source_price": 263.2,
+      "source_count": 6,
+      "sources": [
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Pure Noir",
+          "size": null,
+          "price": 263.2,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1793148357"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir?_pos=1&_psq=cologne&_psid=2516638d4&_ss=e",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Pure Noir",
+          "size": null,
+          "price": 329,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1793148357"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir?_pos=2&_psq=fragrance&_psid=ad48a46f4&_ss=e",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Pure Noir",
+          "size": null,
+          "price": 329,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1775594623"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir?_pos=2&_psq=fragrance&_psid=b1520b365&_ss=e",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Pure Noir",
+          "size": null,
+          "price": 329,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1775594623"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir?_pos=7&_psq=perfume&_psid=c063e0a0b&_ss=e",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Pure Noir",
+          "size": null,
+          "price": 329,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1775594623"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir?_pos=6&_psq=perfume&_psid=09a5d4696&_ss=e",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Pure Noir",
+          "size": null,
+          "price": 329,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1775594623"
+        }
+      ]
+    },
+    {
+      "brand": "Anine Bing",
+      "name": "Anine Bing | Eau De Parfum - Rose Wood",
+      "size": null,
+      "size_ml": null,
+      "price": 263.2,
+      "price_per_100ml": null,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1793148372",
+      "description": null,
+      "source_name": "sisters-and-co-shopify-suggest",
+      "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood",
+      "source_price": 263.2,
+      "source_count": 6,
+      "sources": [
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Rose Wood",
+          "size": null,
+          "price": 263.2,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1793148372"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood?_pos=2&_psq=cologne&_psid=2516638d4&_ss=e",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Rose Wood",
+          "size": null,
+          "price": 329,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1793148372"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood?_pos=1&_psq=fragrance&_psid=ad48a46f4&_ss=e",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Rose Wood",
+          "size": null,
+          "price": 329,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1775594820"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood?_pos=1&_psq=fragrance&_psid=b1520b365&_ss=e",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Rose Wood",
+          "size": null,
+          "price": 329,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1775594820"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood?_pos=3&_psq=perfume&_psid=c063e0a0b&_ss=e",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Rose Wood",
+          "size": null,
+          "price": 329,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1775594820"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood?_pos=2&_psq=perfume&_psid=09a5d4696&_ss=e",
+          "brand": "Anine Bing",
+          "name": "Anine Bing | Eau De Parfum - Rose Wood",
+          "size": null,
+          "price": 329,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1775594820"
+        }
+      ]
+    },
+    {
       "brand": "Mont Blanc",
       "name": "Montblanc Signature Elixir EDP 30ml",
       "size": "30ml",
@@ -185031,6 +186367,34 @@
       ]
     },
     {
+      "brand": "Mizensir",
+      "name": "Tres Chere by Mizensir 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 324.99,
+      "price_per_100ml": 324.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mizensir-tres-chere.png?v=1795570871",
+      "description": "Tres Chere by Mizensir 100ml Eau De Parfum Spray “This letter may not reach you. But it is meant for you, just like this perfume. Our eyes have only met once, but to me, I have always known you.” This fragrance is a tribute by master perfumer Alberto Morillas to a fleeting yet unforgettable encounter. On the train from Paris to Venice, a lady apologizes after brushing against the perfumer, who then studies her profile, the curve of her eyelashes, the contour of her lips. A moment that becomes eternal, thanks to this resolutely nostalgic second-skin fragrance. Designer: Mizensir Year Introduced: 2017 Type: EDP Category: Unisex Fragrance Notes: Très Chère is like a poetic love letter in a bottle, a passionate confession detailing a fleeting encounter with a stranger. The softness of her voice, the elegance of her features, the grace of her gestures are translated here by the roundness of the most refined musks. Her velvety skin, by a sensual accord of sandalwood and vanilla. Her silhouette is thus outlined in the light, exquisite and harmonious like the scent of a white flower, which crowns the composition. The graceful fragrance boasts an alluring melange of orange blossom, bourbon vanilla and sandalwood. The seductive scent lingers on the skin-like the gentle touch of a lover that you can't get out of your mind. Top notes: Orange blossom petal extract. Heart notes: Ambrox, Paradisone, Infusion of jasmine sambac. Base notes: Bourbon vanilla absolute, Exaltone, Australian sandalwood. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/tres-chere-by-mizensir-100ml-edp",
+      "source_price": 324.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/tres-chere-by-mizensir-100ml-edp",
+          "brand": "Mizensir",
+          "name": "Tres Chere by Mizensir 100ml EDP",
+          "size": "100ml",
+          "price": 324.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mizensir-tres-chere.png?v=1795570871"
+        }
+      ]
+    },
+    {
       "brand": "Yves Saint Laurent",
       "name": "Yves Saint Laurent MYSLF Le Parfum 60ml",
       "size": "60ml",
@@ -185570,172 +186934,6 @@
           "price": 98,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20009169-0.jpg?v=1770729028"
-        }
-      ]
-    },
-    {
-      "brand": "Anine Bing",
-      "name": "Anine Bing | Eau De Parfum - Pure Noir",
-      "size": null,
-      "size_ml": null,
-      "price": 329,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1793148357",
-      "description": null,
-      "source_name": "sisters-and-co-shopify-suggest",
-      "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir",
-      "source_price": 329,
-      "source_count": 6,
-      "sources": [
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Pure Noir",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1793148357"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir?_pos=1&_psq=cologne&_psid=2516638d4&_ss=e",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Pure Noir",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1793148357"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir?_pos=2&_psq=fragrance&_psid=ad48a46f4&_ss=e",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Pure Noir",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1775594623"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir?_pos=2&_psq=fragrance&_psid=b1520b365&_ss=e",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Pure Noir",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1775594623"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir?_pos=7&_psq=perfume&_psid=c063e0a0b&_ss=e",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Pure Noir",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1775594623"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparume-purenoir?_pos=6&_psq=perfume&_psid=09a5d4696&_ss=e",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Pure Noir",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084329.110.jpg?v=1775594623"
-        }
-      ]
-    },
-    {
-      "brand": "Anine Bing",
-      "name": "Anine Bing | Eau De Parfum - Rose Wood",
-      "size": null,
-      "size_ml": null,
-      "price": 329,
-      "price_per_100ml": null,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1793148372",
-      "description": null,
-      "source_name": "sisters-and-co-shopify-suggest",
-      "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood",
-      "source_price": 329,
-      "source_count": 6,
-      "sources": [
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Rose Wood",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1793148372"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood?_pos=2&_psq=cologne&_psid=2516638d4&_ss=e",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Rose Wood",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1793148372"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood?_pos=1&_psq=fragrance&_psid=ad48a46f4&_ss=e",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Rose Wood",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1775594820"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood?_pos=1&_psq=fragrance&_psid=b1520b365&_ss=e",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Rose Wood",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1775594820"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood?_pos=3&_psq=perfume&_psid=c063e0a0b&_ss=e",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Rose Wood",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1775594820"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/aeaudeparfume-rosewood?_pos=2&_psq=perfume&_psid=09a5d4696&_ss=e",
-          "brand": "Anine Bing",
-          "name": "Anine Bing | Eau De Parfum - Rose Wood",
-          "size": null,
-          "price": 329,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/EcomImages2.0-2026-04-08T084645.197.jpg?v=1775594820"
         }
       ]
     },
@@ -199243,6 +200441,62 @@
       ]
     },
     {
+      "brand": "Ex Nihilo",
+      "name": "Rose Hubris by Ex Nihilo 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 379.99,
+      "price_per_100ml": 379.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ex-nihilo-rose-hubris.png?v=1795562368",
+      "description": "Rose Hubris by Ex Nihilo 100ml Eau De Parfum Spray Inspired by the creative avant-garde and the French spirit of pure refinement, Parisian fragrance house Ex Nihilo presents its signature Rose Hubris eau de parfum. Created as a tribute to the iconic material of Haute Perfumery Rose of May, its composition highlights a sumptuous floral heart of rose, elevated by the freshness of green leaves, fruity citrus and a touch of spice. Designer: Ex Nihilo Year Introduced: 2014 Type: EDP Category: Unisex Fragrance Notes: Rose Hubris is a hedonistic tribute to the iconic raw material of Haute Perfumery, Rose of May. The fragrance's composition highlights all the facets of this unique ingredient: a sumptuous floral heart of rose magnified by the freshness of green leaves and the sparkle of fruity, citrus and spicy notes. At the cutting edge of creation, it offers an exhilarating and utterly contemporary result. Top Notes: Lychee, Fenugreek. Heart Notes: Rose of May, Labdanum. Base Notes: Oakmoss, Patchouli, Musk. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/rose-hubris-by-ex-nihilo-100ml-edp",
+      "source_price": 379.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/rose-hubris-by-ex-nihilo-100ml-edp",
+          "brand": "Ex Nihilo",
+          "name": "Rose Hubris by Ex Nihilo 100ml EDP",
+          "size": "100ml",
+          "price": 379.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ex-nihilo-rose-hubris.png?v=1795562368"
+        }
+      ]
+    },
+    {
+      "brand": "Kajal",
+      "name": "Dahab Absolu by Kajal 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 379.99,
+      "price_per_100ml": 379.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/kajal-dahab-absolu.png?v=1795554906",
+      "description": "Dahab Absolu by Kajal 100ml Eau De Parfum Spray Gold learns how to breathe, A living warmth the heart holds true. From that first pulse, the senses believe, In silent rings, it travels through. Forever cherished, forever felt. DAHAB ABSOLU. At the center lies gold in its purest form, warm, fluid, alive. When it moves, it expands in perfect circles, shaping everything it touches. Dahab Absolu is that moment when what lives within radiates out-ward, becoming presence, where gold becomes energy. Designer: Kajal Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Like gold radiating from its source, the fragrance unfolds in quiet waves - on the body, in the air, within the self. What remains is not a trace, but an aura: intimate, enduring, quietly powerful. This is gold at its origin - concentrated, radiant, infinite in reach. Dahab Absolu returns to the origin of gold, its core. More than a continuation, it is the moment from which Dahab is born. Bright citrus and lush tropical fruits spark the opening with light and vitality, where bergamot and grapefruit meet juicy orange, green apple, passion fruit, mango, and sun-ripened tropical fruits in a vibrant, mouthwatering burst. At its heart, jasmine and rose bloom with instinctive softness, wrapped in golden honey and softened by geranium, lily of the valley, and the green nuance of blackcurrant leaves, unfolding like a memory you can feel. As it settles, musk and vanilla melt into a warm, textured base of woods, where moss, caramel, guaiac wood, and cashmere wood intertwine, creating a smooth, ambered glow that lingers on skin, in the air, and within the self. DAHAB ABSOLU is not worn to be noticed, It is worn to be felt. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/dahab-absolu-by-kajal-100ml-edp",
+      "source_price": 379.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/dahab-absolu-by-kajal-100ml-edp",
+          "brand": "Kajal",
+          "name": "Dahab Absolu by Kajal 100ml EDP",
+          "size": "100ml",
+          "price": 379.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/kajal-dahab-absolu.png?v=1795554906"
+        }
+      ]
+    },
+    {
       "brand": "Carolina Herrera",
       "name": "Carolina Herrera Bad Boy Cobalt EDP Absolute 50ml",
       "size": "50ml",
@@ -203095,6 +204349,245 @@
           "price": 248,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045769-0.jpg?v=1794432878"
+        }
+      ]
+    },
+    {
+      "brand": "The Virtue",
+      "name": "The Virtue - 1987 - 50ml Parfum",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 199.2,
+      "price_per_100ml": 398.4,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_8_3a968211-26b6-47a2-9cff-d7ea144ef419.png?v=1762276207",
+      "description": "This is a fragrant kind of worship with a strong blast of frankincense and cinnamon, lose yourself and touch god in the breath of holy smoke. This scent will send you straight to the confession booth. 50ml Clear Glass Spray Bottle with a Black Magnetic Lid Hand poured in New Plymouth, Taranaki, New Zealand",
+      "source_name": "sisters-and-co-shopify-suggest",
+      "source_url": "https://www.sistersandco.com/products/tparfum50ml-1987",
+      "source_price": 199.2,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/tparfum50ml-1987",
+          "brand": "The Virtue",
+          "name": "The Virtue | Parfum 50ml - 1987",
+          "size": "50ml",
+          "price": 199.2,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_8_3a968211-26b6-47a2-9cff-d7ea144ef419.png?v=1762276207"
+        },
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/the-virtue-1987-50ml-parfum",
+          "brand": "The Virtue",
+          "name": "The Virtue - 1987 - 50ml Parfum",
+          "size": "50ml",
+          "price": 249,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_1987.jpg?v=1730320068"
+        }
+      ]
+    },
+    {
+      "brand": "The Virtue",
+      "name": "The Virtue - Castro - 50ml Parfum",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 199.2,
+      "price_per_100ml": 398.4,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_10_99eaac13-4df1-45db-8c3e-13ce392fb10a.png?v=1769920841",
+      "description": "Be seduced by the mystery of a smoke-filled love affair with a Cuban twist. Like a long drag on a Cuban cigar. Inhibitions disappear like smoke in the room. A violet touch steals the senses, caramelised rum, licks vanilla lips. 50ml Clear Glass Spray Bottle with a Black Magnetic Lid Hand poured in New Plymouth, Taranaki, New Zealand",
+      "source_name": "sisters-and-co-shopify-suggest",
+      "source_url": "https://www.sistersandco.com/products/tparfum50ml-castro",
+      "source_price": 199.2,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/tparfum50ml-castro",
+          "brand": "The Virtue",
+          "name": "The Virtue | Parfum 50ml - Castro",
+          "size": "50ml",
+          "price": 199.2,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_10_99eaac13-4df1-45db-8c3e-13ce392fb10a.png?v=1769920841"
+        },
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/the-virtue-castro-50ml-parfum",
+          "brand": "The Virtue",
+          "name": "The Virtue - Castro - 50ml Parfum",
+          "size": "50ml",
+          "price": 249,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Castrox.jpg?v=1730320130"
+        }
+      ]
+    },
+    {
+      "brand": "The Virtue",
+      "name": "The Virtue - Holy Smoke - 50ml Parfum",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 199.2,
+      "price_per_100ml": 398.4,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_7_f0c49fb3-cd3b-40d0-aa18-64eccdc1112a.png?v=1764838901",
+      "description": "This is a fragrant kind of worship with a strong blast of frankincense and cinnamon, lose yourself and touch god in the breath of holy smoke. This scent will send you straight to the confession booth. 50ml Clear Glass Spray Bottle with a Black Magnetic Lid Hand poured in New Plymouth, Taranaki, New Zealand",
+      "source_name": "sisters-and-co-shopify-suggest",
+      "source_url": "https://www.sistersandco.com/products/tparfum50ml-hs",
+      "source_price": 199.2,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/tparfum50ml-hs",
+          "brand": "The Virtue",
+          "name": "The Virtue | Parfum 50ml - Holy Smoke",
+          "size": "50ml",
+          "price": 199.2,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_7_f0c49fb3-cd3b-40d0-aa18-64eccdc1112a.png?v=1764838901"
+        },
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/the-virtue-holy-smoke-50ml-parfum",
+          "brand": "The Virtue",
+          "name": "The Virtue - Holy Smoke - 50ml Parfum",
+          "size": "50ml",
+          "price": 249,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Holysmoke.jpg?v=1730320027"
+        }
+      ]
+    },
+    {
+      "brand": "The Virtue",
+      "name": "The Virtue - Iris- 50ml Parfum",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 199.2,
+      "price_per_100ml": 398.4,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_9_be2f0a50-b10b-481b-914c-6d5deebee5c2.png?v=1769920882",
+      "description": "A delicate floral Soft and sensual. She is the first exhale of spring. Flirtatious. Crisp yet romantic. With top notes of mandarin, a rose heart, sandalwood lingers. Iris is the queen of her domain. Fluent in the language of flowers. She'd leave you begging to understand. 50ml Clear Glass Spray Bottle with a Black Magnetic Lid Hand poured in New Plymouth, Taranaki, New Zealand",
+      "source_name": "sisters-and-co-shopify-suggest",
+      "source_url": "https://www.sistersandco.com/products/tparfum50ml-iris",
+      "source_price": 199.2,
+      "source_count": 6,
+      "sources": [
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/tparfum50ml-iris",
+          "brand": "The Virtue",
+          "name": "The Virtue | Parfum 50ml - Iris",
+          "size": "50ml",
+          "price": 199.2,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_9_be2f0a50-b10b-481b-914c-6d5deebee5c2.png?v=1769920882"
+        },
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/the-virtue-iris-50ml-parfum",
+          "brand": "The Virtue",
+          "name": "The Virtue - Iris- 50ml Parfum",
+          "size": "50ml",
+          "price": 249,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Iris.jpg?v=1730319982"
+        },
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/the-virtue-iris-50ml-parfum?_pos=4&_psq=fragrance&_psid=81c6a854d&_ss=e",
+          "brand": "The Virtue",
+          "name": "The Virtue - Iris- 50ml Parfum",
+          "size": "50ml",
+          "price": 249,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Iris.jpg?v=1730319982"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/tparfum50ml-iris?_pos=6&_psq=perfume&_psid=c063e0a0b&_ss=e",
+          "brand": "The Virtue",
+          "name": "The Virtue | Parfum 50ml - Iris",
+          "size": "50ml",
+          "price": 249,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_9_be2f0a50-b10b-481b-914c-6d5deebee5c2.png?v=1769920882"
+        },
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/the-virtue-iris-50ml-parfum?_pos=7&_psq=fragrance&_psid=fb0d4e2f2&_ss=e",
+          "brand": "The Virtue",
+          "name": "The Virtue - Iris- 50ml Parfum",
+          "size": "50ml",
+          "price": 249,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Iris.jpg?v=1730319982"
+        },
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/tparfum50ml-iris?_pos=5&_psq=perfume&_psid=09a5d4696&_ss=e",
+          "brand": "The Virtue",
+          "name": "The Virtue | Parfum 50ml - Iris",
+          "size": "50ml",
+          "price": 249,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_9_be2f0a50-b10b-481b-914c-6d5deebee5c2.png?v=1769920882"
+        }
+      ]
+    },
+    {
+      "brand": "The Virtue",
+      "name": "The Virtue - Narcosis - 50ml Parfum",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 199.2,
+      "price_per_100ml": 398.4,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_6_8f65c49e-b452-4608-84b5-90408965b77d.png?v=1764838882",
+      "description": "A spicy floral with a sharp grind of Sichuan pepper. Provocative and unapologetically daring. Intoxicatingly forbidden. Be lured into a false sense of security, hypnotised by her sultry ways of amber, patchouli and clove. 50ml Clear Glass Spray Bottle with a Black Magnetic Lid Hand poured in New Plymouth, Taranaki, New Zealand",
+      "source_name": "sisters-and-co-shopify-suggest",
+      "source_url": "https://www.sistersandco.com/products/tparfum50ml-narcosis",
+      "source_price": 199.2,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "sisters-and-co",
+          "source_name": "sisters-and-co-shopify-suggest",
+          "source_url": "https://www.sistersandco.com/products/tparfum50ml-narcosis",
+          "brand": "The Virtue",
+          "name": "The Virtue | Parfum 50ml - Narcosis",
+          "size": "50ml",
+          "price": 199.2,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_6_8f65c49e-b452-4608-84b5-90408965b77d.png?v=1764838882"
+        },
+        {
+          "retailer_slug": "world",
+          "source_name": "world-shopify-suggest",
+          "source_url": "https://worldbrand.co.nz/products/the-virtue-narcosis-50ml-parfum",
+          "brand": "The Virtue",
+          "name": "The Virtue - Narcosis - 50ml Parfum",
+          "size": "50ml",
+          "price": 249,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Narcosisx.jpg?v=1730320094"
         }
       ]
     },
@@ -213374,6 +214867,34 @@
       ]
     },
     {
+      "brand": "Borntostandout",
+      "name": "Dirty Milk by Borntostandout 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 469.99,
+      "price_per_100ml": 469.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/borntostandout-dirty-milk.png?v=1795563205",
+      "description": "Dirty Milk by Borntostandout 100ml Eau De Parfum Spray White gone wild. Milk gone rogue. Inspired by the thrill of contrast, the softest milk gone dirty. Not the kind of milk you drink, but the kind you spill. On skin. On sheets. On purpose. Warm skin meets cold cream. Sweetness thickens. Softness sticks. A milky, messy overdose. Designer: Borntostandout Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: Warm milk with a bite. Soft. Sticky. Sinful. Dirty Milk starts with a splash of creamy milk and gooey caramel; sweet, thick, and a little too much in the best way. Then it turns. Buttery iris melts into spicy akigalawood, where softness meets heat, and skin meets trouble. It finishes in a slow drip of vanilla and warm musk, clinging like sweat on skin. Top Notes: Milk, Caramel, Black Pepper. Heart Notes: Condensed milk, Cashmeran, Iris, Akigalawood. Base Notes: Vanilla, Musk, Tonka Bean. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/dirty-milk-by-borntostandout-100ml-edp",
+      "source_price": 469.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/dirty-milk-by-borntostandout-100ml-edp",
+          "brand": "Borntostandout",
+          "name": "Dirty Milk by Borntostandout 100ml EDP",
+          "size": "100ml",
+          "price": 469.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/borntostandout-dirty-milk.png?v=1795563205"
+        }
+      ]
+    },
+    {
       "brand": "Giorgio Armani",
       "name": "Giorgio Armani My Way Sunny Vanilla EDP 50ml",
       "size": "50ml",
@@ -217176,45 +218697,6 @@
     },
     {
       "brand": "The Virtue",
-      "name": "The Virtue - 1987 - 50ml Parfum",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 249,
-      "price_per_100ml": 498,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_1987.jpg?v=1730320068",
-      "description": "1987 Powerful and potent, a white floral fragrance, full of melodramatic nostalgia. She elbows her way into the room long before her wearer. NOTES TOP : Jasmine MIDDLE : Tuberose, Gardenia BASE : White Musk Designed and made in New Zealand The Virtue is the glorious love child of Creative Director Brooke Lean and her talent for capturing moments that move the soul, bottling them into something that stirs us profoundly on an emotional level, transporting us to a moment in time that has deeply imprinted upon us. Brooke has worked for over six years in collaboration with perfumers in Grasse France, to create The Virtue’s signature fragrances, each one capturing pure magic, and speaking to the soul, evoking moments of perfect nostalgia, and both transporting and empowering the wearer from the second the scent leaves the bottle. All designed in New Plymouth and made in New Zealand, The Virtue captures the magic that is the moments that add depth to a life well lived.",
-      "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/the-virtue-1987-50ml-parfum",
-      "source_price": 249,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/the-virtue-1987-50ml-parfum",
-          "brand": "The Virtue",
-          "name": "The Virtue - 1987 - 50ml Parfum",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_1987.jpg?v=1730320068"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/tparfum50ml-1987",
-          "brand": "The Virtue",
-          "name": "The Virtue | Parfum 50ml - 1987",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_8_3a968211-26b6-47a2-9cff-d7ea144ef419.png?v=1762276207"
-        }
-      ]
-    },
-    {
-      "brand": "The Virtue",
       "name": "The Virtue - Back Beach - 50ml Parfum",
       "size": "50ml",
       "size_ml": 50,
@@ -217238,206 +218720,6 @@
           "price": 249,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Backbeach.jpg?v=1730320155"
-        }
-      ]
-    },
-    {
-      "brand": "The Virtue",
-      "name": "The Virtue - Castro - 50ml Parfum",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 249,
-      "price_per_100ml": 498,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Castrox.jpg?v=1730320130",
-      "description": "CASTRO A stolen glimpse of another time, Intoxicating he is the dark. Seduced by rum, the smoke lingers. NOTES TOP : Cuban Tobacco, Smoked Wood, Violet MIDDLE : Cedar Wood, Dark Rum, Iris BASE : Peruvian Balsam, Musk Designed and made in New Zealand by The Virtue The Virtue is the glorious love child of Creative Director Brooke Lean and her talent for capturing moments that move the soul, bottling them into something that stirs us profoundly on an emotional level, transporting us to a moment in time that has deeply imprinted upon us. Brooke has worked for over six years in collaboration with perfumers in Grasse France, to create The Virtue’s signature fragrances, each one capturing pure magic, and speaking to the soul, evoking moments of perfect nostalgia, and both transporting and empowering the wearer from the second the scent leaves the bottle. All designed in New Plymouth and made in New Zealand, The Virtue captures the magic that is the moments that add depth to a life well lived.",
-      "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/the-virtue-castro-50ml-parfum",
-      "source_price": 249,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/the-virtue-castro-50ml-parfum",
-          "brand": "The Virtue",
-          "name": "The Virtue - Castro - 50ml Parfum",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Castrox.jpg?v=1730320130"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/tparfum50ml-castro",
-          "brand": "The Virtue",
-          "name": "The Virtue | Parfum 50ml - Castro",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_10_99eaac13-4df1-45db-8c3e-13ce392fb10a.png?v=1769920841"
-        }
-      ]
-    },
-    {
-      "brand": "The Virtue",
-      "name": "The Virtue - Holy Smoke - 50ml Parfum",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 249,
-      "price_per_100ml": 498,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Holysmoke.jpg?v=1730320027",
-      "description": "Holy Smoke; Where the Divine meets the Celestial. Top: Cinnamon Bark, Clove, Tonka Bean Middle: Patchouli, Cherry Wood Base: Frankincense, Oakmoss, Amber Designed and made in New Zealand by The Virtue The Virtue is the glorious love child of Creative Director Brooke Lean and her talent for capturing moments that move the soul, bottling them into something that stirs us profoundly on an emotional level, transporting us to a moment in time that has deeply imprinted upon us. Brooke has worked for over six years in collaboration with perfumers in Grasse France, to create The Virtue’s signature fragrances, each one capturing pure magic, and speaking to the soul, evoking moments of perfect nostalgia, and both transporting and empowering the wearer from the second the scent leaves the bottle. All designed in New Plymouth and made in New Zealand, The Virtue captures the magic that is the moments that add depth to a life well lived.",
-      "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/the-virtue-holy-smoke-50ml-parfum",
-      "source_price": 249,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/the-virtue-holy-smoke-50ml-parfum",
-          "brand": "The Virtue",
-          "name": "The Virtue - Holy Smoke - 50ml Parfum",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Holysmoke.jpg?v=1730320027"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/tparfum50ml-hs",
-          "brand": "The Virtue",
-          "name": "The Virtue | Parfum 50ml - Holy Smoke",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_7_f0c49fb3-cd3b-40d0-aa18-64eccdc1112a.png?v=1764838901"
-        }
-      ]
-    },
-    {
-      "brand": "The Virtue",
-      "name": "The Virtue - Iris- 50ml Parfum",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 249,
-      "price_per_100ml": 498,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Iris.jpg?v=1730319982",
-      "description": "Iris: A delicate floral Soft and sensual. She is the first exhale of spring. Flirtatious. Crisp yet romantic. With top notes of mandarin, a rose heart, sandalwood lingers. Iris is the queen of her domain. Fluent in the language of flowers. She'd leave you begging to understand. TOP Bergamot, Mandarin, Lavender MIDDLE Jasmine, Neroli, Rose BASE Sandalwood, Vanilla Protected in a Matte Black Cylinder Box. 50ml Clear Glass Spray Bottle with a Black Magnetic Lid. Hand poured in New Plymouth, Taranaki, New Zealand. Designed and made in New Zealand by The Virtue. The Virtue is the glorious love child of Creative Director Brooke Lean and her talent for capturing moments that move the soul, bottling them into something that stirs us profoundly on an emotional level, transporting us to a moment in time that has deeply imprinted upon us. Brooke has worked for over six years in collaboration with perfumers in Grasse France, to create The Virtue’s signature fragrances, each one capturing pure magic, and speaking to the soul, evoking moments of perfect nostalgia, and both transporting and empowering the wearer from the second the scent leaves the bottle. All designed in New Plymouth and made in New Zealand, The Virtue captures the magic that is the moments that add depth to a life well lived.",
-      "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/the-virtue-iris-50ml-parfum",
-      "source_price": 249,
-      "source_count": 6,
-      "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/the-virtue-iris-50ml-parfum",
-          "brand": "The Virtue",
-          "name": "The Virtue - Iris- 50ml Parfum",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Iris.jpg?v=1730319982"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/tparfum50ml-iris",
-          "brand": "The Virtue",
-          "name": "The Virtue | Parfum 50ml - Iris",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_9_be2f0a50-b10b-481b-914c-6d5deebee5c2.png?v=1769920882"
-        },
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/the-virtue-iris-50ml-parfum?_pos=4&_psq=fragrance&_psid=81c6a854d&_ss=e",
-          "brand": "The Virtue",
-          "name": "The Virtue - Iris- 50ml Parfum",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Iris.jpg?v=1730319982"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/tparfum50ml-iris?_pos=6&_psq=perfume&_psid=c063e0a0b&_ss=e",
-          "brand": "The Virtue",
-          "name": "The Virtue | Parfum 50ml - Iris",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_9_be2f0a50-b10b-481b-914c-6d5deebee5c2.png?v=1769920882"
-        },
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/the-virtue-iris-50ml-parfum?_pos=7&_psq=fragrance&_psid=fb0d4e2f2&_ss=e",
-          "brand": "The Virtue",
-          "name": "The Virtue - Iris- 50ml Parfum",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Iris.jpg?v=1730319982"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/tparfum50ml-iris?_pos=5&_psq=perfume&_psid=09a5d4696&_ss=e",
-          "brand": "The Virtue",
-          "name": "The Virtue | Parfum 50ml - Iris",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_9_be2f0a50-b10b-481b-914c-6d5deebee5c2.png?v=1769920882"
-        }
-      ]
-    },
-    {
-      "brand": "The Virtue",
-      "name": "The Virtue - Narcosis - 50ml Parfum",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 249,
-      "price_per_100ml": 498,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Narcosisx.jpg?v=1730320094",
-      "description": "Narcosis Sensual and devastating in equal measure. A delicious, dreamy excursion into another state. Intoxicating and hypnotic, it’s like a drug. NARCOSIS TOP : SICHUAN / PEPPER / ROSE MIDDLE: POWDERY MUSK / SAFFRON / GERANIUM BASE: AMBER / CLOVES / PATCHOULI Designed and made in New Zealand by The Virtue The Virtue is the glorious love child of Creative Director Brooke Lean and her talent for capturing moments that move the soul, bottling them into something that stirs us profoundly on an emotional level, transporting us to a moment in time that has deeply imprinted upon us. Brooke has worked for over six years in collaboration with perfumers in Grasse France, to create The Virtue’s signature fragrances, each one capturing pure magic, and speaking to the soul, evoking moments of perfect nostalgia, and both transporting and empowering the wearer from the second the scent leaves the bottle. All designed in New Plymouth and made in New Zealand, The Virtue captures the magic that is the moments that add depth to a life well lived.",
-      "source_name": "world-shopify-suggest",
-      "source_url": "https://worldbrand.co.nz/products/the-virtue-narcosis-50ml-parfum",
-      "source_price": 249,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "world",
-          "source_name": "world-shopify-suggest",
-          "source_url": "https://worldbrand.co.nz/products/the-virtue-narcosis-50ml-parfum",
-          "brand": "The Virtue",
-          "name": "The Virtue - Narcosis - 50ml Parfum",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0161/2974/files/The_Virtue_50ml_Narcosisx.jpg?v=1730320094"
-        },
-        {
-          "retailer_slug": "sisters-and-co",
-          "source_name": "sisters-and-co-shopify-suggest",
-          "source_url": "https://www.sistersandco.com/products/tparfum50ml-narcosis",
-          "brand": "The Virtue",
-          "name": "The Virtue | Parfum 50ml - Narcosis",
-          "size": "50ml",
-          "price": 249,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0214/2512/files/Untitleddesign_6_8f65c49e-b452-4608-84b5-90408965b77d.png?v=1764838882"
         }
       ]
     },
@@ -219206,6 +220488,34 @@
           "price": 379.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/marly-layton-exclusif-75ml---2.png?v=1787707228"
+        }
+      ]
+    },
+    {
+      "brand": "Memo Paris",
+      "name": "Cap Camarat by Memo Paris 75ml EDP",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 379.99,
+      "price_per_100ml": 506.65,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/memo-cap-camarat.png?v=1795557165",
+      "description": "Cap Camarat by Memo Paris 75ml Eau De Parfum Spray A Provençal coastal treasure with untouched charm, a Mediterranean haven of beauty, Cap Camarat inspires a fragrance like a smile in the sun. Ylang-ylang, vanilla absolute and amyris essence unite, offering their sensual embrace. Benzoin, sandalwood and labdanum bestow their aura to this elegant composition, reminiscent of pine landscapes and rolling sea waves that lull and invite contemplation. A lighthouse keeps watch as the mind wanders, the body unwinds, surrendering to this jewel of the French Riviera. Designer: Memo Paris Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Cap Camarat by Memo Paris is a radiant floral woody fragrance inspired by the untouched beauty of the French Riviera. Like a smile in the sun, it captures the warmth of Mediterranean coastlines through luminous ylang ylang, creamy vanilla absolute and soft amyris essence. Sparkling pink peppercorn and watery apple open into sensual florals before warm sandalwood, benzoin and labdanum evoke pine-lined landscapes and rolling sea waves. Elegant and transportive, Cap Camarat invites moments of calm, escape and effortless sophistication. Top notes: Pink Peppercorn Essence, Watery Fruity Apple. Heart notes: Ylang Ylang, Jasmine Extract, Vanilla Absolute. Base notes: Sandalwood Essence, Benzoin Resinoid, Amyris Essence, Patchouli Essence, Labdanum Resinoid. ** Boxed Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/cap-camarat-by-memo-paris-75ml-edp",
+      "source_price": 379.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/cap-camarat-by-memo-paris-75ml-edp",
+          "brand": "Memo Paris",
+          "name": "Cap Camarat by Memo Paris 75ml EDP",
+          "size": "75ml",
+          "price": 379.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/memo-cap-camarat.png?v=1795557165"
         }
       ]
     },
@@ -222965,6 +224275,34 @@
       ]
     },
     {
+      "brand": "Ex Nihilo",
+      "name": "Spiky Muse by Ex Nihilo 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 549.99,
+      "price_per_100ml": 549.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ex-nihilo-spiky-muse-100ml.png?v=1795566561",
+      "description": "Spiky Muse by Ex Nihilo 100ml Eau De Parfum Spray An olfactive portrait of a powerful and creative femininity, Spiky Muse eau de parfum from Parisian fragrance house EX NIHILO is inspired by the avant-garde and the French spirit of pure refinement. The Rose, Queen of Flowers and eternal inspiration for artists, wraps itself into a new addictive sweetness created from a natural Strawberry extract - obtained through an innovative upcycling process - and a tasty Pistachio accord. Designer: Ex Nihilo Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: A crisp and juicy craving with an exotic twist captures the attention, before the muse unleashes all facets of her personality. An overdose of precious Rose concentrates - essential oil, pure absolute and two abstract notes - compose a rich and colorful palette on a deep canvas of ambery Woods. Top Notes: Strawberry, Bergamot, Pink Pepper. Heart Notes: Rose Absolute, Pistachio Accord. Base Notes: Cedarwood, Akigalawood, Ambrofix, Tonka Bean. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/spiky-muse-by-ex-nihilo-100ml-edp",
+      "source_price": 549.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/spiky-muse-by-ex-nihilo-100ml-edp",
+          "brand": "Ex Nihilo",
+          "name": "Spiky Muse by Ex Nihilo 100ml EDP",
+          "size": "100ml",
+          "price": 549.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ex-nihilo-spiky-muse-100ml.png?v=1795566561"
+        }
+      ]
+    },
+    {
       "brand": "Miller Road Fragrances",
       "name": "Aurora Skies Perfume",
       "size": "10ml",
@@ -225006,6 +226344,34 @@
       ]
     },
     {
+      "brand": "Mind Games",
+      "name": "French Defence by Mind Games 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 569.99,
+      "price_per_100ml": 569.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mind-games-french-defence.png?v=1795555589",
+      "description": "French Defence by Mind Games 100ml Extrait De Parfum Spray A sophisticated fragrance that exudes true confidence, French Defense takes control in a tantalizing scent of succulent black cherry, seductive notes of smooth liqueurs, and a bed of velvety woods and ambers. Soft florals are woven throughout the composition bringing a quiet grace and natural beauty to its structure. Completely captivating, French Defense is a black cherry fragrance that rises to every occasion, with a scent that sets the tone for success. Designer: Mind Games Year Introduced: 2023 Type: Extrait De Parfum Category: Unisex Fragrance Notes: French Defense leads with a mouthwatering boldness of dark liquor-saturated cherries; a hypnotic red fruity note that hooks the senses from the start. Threads of soft mimosa and geranium Madagascar woven through the heart transition the fragrance into a skin-warming caress of golden amber and woods. Top: Cherry, Violet Leaves, Chamomile. Middle: Geranium Madagascar, Rose Absolute, Mimosa. Drydown: Amber, Cedarwood, Blonde Wood. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/french-defence-by-mind-games-100ml-extrait-de-parfum",
+      "source_price": 569.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/french-defence-by-mind-games-100ml-extrait-de-parfum",
+          "brand": "Mind Games",
+          "name": "French Defence by Mind Games 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 569.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mind-games-french-defence.png?v=1795555589"
+        }
+      ]
+    },
+    {
       "brand": "Giorgio Armani",
       "name": "Giorgio Armani My Way Sunny Vanilla EDP 30ml",
       "size": "30ml",
@@ -225464,6 +226830,34 @@
           "price": 289.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/lorenzo-van-extasyx.png?v=1790547046"
+        }
+      ]
+    },
+    {
+      "brand": "Mind Games",
+      "name": "Queening by Mind Games 100ml Extrait De Parfum",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 579.99,
+      "price_per_100ml": 579.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mind-games-queening.png?v=1795556222",
+      "description": "Queening by Mind Games 100ml Extrait De Parfum Spray Queening is a celebration of achieving one's goals, symbolizing a journey through challenges, and overcoming obstacles to emerge stronger and renewed. This exquisite fragrance combines the royal scent of Orris with the sweetness of vanilla, creating an uplifting opening, followed by aged rum and saffron. Dedicated to daily successes, major accomplishments, and the rewards they bring, this captivating vanilla rum fragrance empowers all current and aspiring Queens. Designer: Mind Games Year Introduced: 2023 Type: Extrait De Parfum Category: Unisex Fragrance Notes: Undeniably loved by all, Queening brings the most desirable notes of clean cotton, creamy orris and vanilla together in a dreamy, cocooning blend. Fluffy musks, rum and coconut embody the enveloping gourmand elements of comfort and nourishment. Top: Clean Cotton Accord, Cypress, Apple. Middle: Orris, Rum, Saffron. Drydown: Whipped Vanilla Bean, Fluffy Musk, Coconut. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/queening-by-mind-games-100ml-extrait-de-parfum",
+      "source_price": 579.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/queening-by-mind-games-100ml-extrait-de-parfum",
+          "brand": "Mind Games",
+          "name": "Queening by Mind Games 100ml Extrait De Parfum",
+          "size": "100ml",
+          "price": 579.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/mind-games-queening.png?v=1795556222"
         }
       ]
     },
@@ -227497,6 +228891,62 @@
       ]
     },
     {
+      "brand": "The Virtue",
+      "name": "Holy Smoke Parfum 15ml - Holy Smoke",
+      "size": "15ml",
+      "size_ml": 15,
+      "price": 89.99,
+      "price_per_100ml": 599.93,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0687/5601/3222/files/The_Virtue_15ml_HS_002.jpg?v=1754299516",
+      "description": "15ml glass spray bottle. Hand poured in New Plymouth, Taranaki, New Zealand. The travel companion you can't live without. Designed and made in New Zealand by The Virtue. SCENT STORY Holy Smoke: For all the saints and sinners out there. This is a fragrant kind of worship with a strong blast of frankincense and cinnamon, lose yourself and touch god in the breath of holy smoke. This scent will send you straight to the confession booth. SCENT NOTES TOP: Cinnamon Bark, Clove, Tonka Bean MIDDLE: Patchouli, Guaiac Wood BASE: Frankincense, Oakmoss, Amber",
+      "source_name": "wally-shopify-suggest",
+      "source_url": "https://wally.co.nz/products/the-virtue-holy-smoke-parfum-15ml",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "wally",
+          "source_name": "wally-shopify-suggest",
+          "source_url": "https://wally.co.nz/products/the-virtue-holy-smoke-parfum-15ml",
+          "brand": "The Virtue",
+          "name": "Holy Smoke Parfum 15ml - Holy Smoke",
+          "size": "15ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0687/5601/3222/files/The_Virtue_15ml_HS_002.jpg?v=1754299516"
+        }
+      ]
+    },
+    {
+      "brand": "The Virtue",
+      "name": "Narcosis Parfum 15ml - Narcosis",
+      "size": "15ml",
+      "size_ml": 15,
+      "price": 89.99,
+      "price_per_100ml": 599.93,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0687/5601/3222/files/The_Virtue_15ml_Narcosis_002.jpg?v=1754300112",
+      "description": "15ml glass spray bottle. Hand poured in New Plymouth, Taranaki, New Zealand. The travel companion you can't live without. Designed and made in New Zealand by The Virtue. SCENT STORY Sensual and devastating in equal measure. Narcosis: A spicy floral with a sharp grind of Sichuan pepper. Provocative and unapologetically daring. Intoxicatingly forbidden. Be lured into a false sense of security, hypnotised by her sultry ways of amber, patchouli and clove. SCENT NOTES TOP: Sichuan Pepper, White Peony, Rose MIDDLE: Powdery Musk, Saffron, Geranium BASE: Ambergris, Cloves, Patchouli",
+      "source_name": "wally-shopify-suggest",
+      "source_url": "https://wally.co.nz/products/the-virtue-narcosis-parfum-15ml",
+      "source_price": 89.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "wally",
+          "source_name": "wally-shopify-suggest",
+          "source_url": "https://wally.co.nz/products/the-virtue-narcosis-parfum-15ml",
+          "brand": "The Virtue",
+          "name": "Narcosis Parfum 15ml - Narcosis",
+          "size": "15ml",
+          "price": 89.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0687/5601/3222/files/The_Virtue_15ml_Narcosis_002.jpg?v=1754300112"
+        }
+      ]
+    },
+    {
       "brand": "Francesca Bianchi",
       "name": "Once Upon A Time by Francesca Bianchi 30ml EDP",
       "size": "30ml",
@@ -227705,6 +229155,34 @@
           "price": 182,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045759-0.jpg?v=1791322068"
+        }
+      ]
+    },
+    {
+      "brand": "Initio Parfums",
+      "name": "Sugar Blast by Initio Parfums 90ml EDP",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 549.99,
+      "price_per_100ml": 611.1,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/initio-sugar-blast.png?v=1795569047",
+      "description": "Sugar Blast by Initio Parfums 90ml Eau De Parfum Spray Hit the blast. Feel the charge. Sugar Blast embodies the expansive side of joy: warm, playful and delightfully regressive. A return to pure pleasure, free from restraint. More than a sweet indulgence, Sugar Blast reimagines the gourmand fragrance. This ambery gourmand composition delivers an instant surge of pleasure, transforming both skin and inner state into an exhilarating playground of sensation. Designer: Initio Parfums Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: Sugar Blast is a modern ambery gourmand fragrance designed to evoke joy, pleasure, and playful confidence. Warm, expressive and delightfully indulgent, Sugar Blast reimagines the gourmand category with a more sophisticated, sensory-driven approach. Rather than a simple sweet composition, it delivers an immediate surge of pleasure — transforming the experience of fragrance into something expansive, uplifting, and emotionally charged. Blending creamy coconut, vanilla and praline with the aromatic lift of lavender and the richness of rum, the scent evolves into a smooth base of cashmeran and ambroxan. The result is a radiant, addictive fragrance that feels both comforting and elevated — playful yet refined. Top notes: Lavender, Coconut. Middle notes: Praline, Rum. Base notes: Vanilla, Cashmeran, Ambroxan. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/sugar-blast-by-initio-parfums-90ml-edp",
+      "source_price": 549.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/sugar-blast-by-initio-parfums-90ml-edp",
+          "brand": "Initio Parfums",
+          "name": "Sugar Blast by Initio Parfums 90ml EDP",
+          "size": "90ml",
+          "price": 549.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/initio-sugar-blast.png?v=1795569047"
         }
       ]
     },
@@ -229151,6 +230629,34 @@
       ]
     },
     {
+      "brand": "Others",
+      "name": "Jany by Sora Dora 50ml Parfum",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 349.99,
+      "price_per_100ml": 699.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/sora-dora-jany.png?v=1795563686",
+      "description": "Jany by Sora Dora 50ml Parfum Spray Antoine’s daughter, Jany carries the fragrance of his recipes, cakes, madeleines and cookies. An original childhood pastry, Jany delivers the aromatic memories of all our unforgettable delicacies. Here’s to your emotions. Designer: Sora Dora Year Introduced: 2023 Type: Parfum Category: Unisex Fragrance Notes: A garden in summer. The calm of a sunny siesta. And a children’s snack. Jany. She’s busy in the kitchen, between sugar and flour. What she likes to prepare, above all other delicacies, is tarte tatin. The butter melts on the glass. She drops the brown sugar grains in the silence of a fine, icy rain. Its scent swirls around the room, echoes to the veranda, travels to the path. Baked apples and cinnamon sticks fade into the exhalations of puff pastry. Then come caramel, almonds and vanilla, powerful aromas that linger into the evening. Top notes: Baked Apple, Apricot, Peach. Heart notes: Ceylon Cinnamon, Puff Pastry, Osmanthus. Base notes: Caramel, Almond, Vanilla. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings.",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/jany-by-sora-dora-50ml-parfum",
+      "source_price": 349.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/jany-by-sora-dora-50ml-parfum",
+          "brand": "Others",
+          "name": "Jany by Sora Dora 50ml Parfum",
+          "size": "50ml",
+          "price": 349.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/sora-dora-jany.png?v=1795563686"
+        }
+      ]
+    },
+    {
       "brand": "Parfums De Marly",
       "name": "Valaya by Parfums De Marly 75ml EDP",
       "size": "75ml",
@@ -229711,6 +231217,34 @@
           "price": 379.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/maison-crivelli-patchouli-magnetik---2.png?v=1785545079"
+        }
+      ]
+    },
+    {
+      "brand": "Kilian",
+      "name": "Sunkissed Goddess by Kilian 50ml EDP",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 379.99,
+      "price_per_100ml": 759.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/kilian-sunkissed-goddess.png?v=1795569817",
+      "description": "Sunkissed Goddess by Kilian 50ml Eau De Parfum Spray (Refillable) Sunkissed Goddess is a reinterpretation of Monoi Oil, the traditional Polynesian elixir with a luxurious halo of warm sunlight and fresh narcotic florals to heighten the multi-sensorial memories of summer. This perfume joins The Narcotics olfactive family with its opulent accord of white Tiare Flowers and sensual Ylang-Ylang essence. Get ready to live summer’s scent and sensations all year long with Sunkissed Goddess - summer in scent, oil on body, sun kissing skin. Designer: Kilian Year Introduced: 2024 Type: EDP Category: Unisex Fragrance Notes: Summer in a bottle. A luxurious reinterpretation of the Polynesian elixir Monoi Oil to indulge in summer’s scent and sensation all year long. Sunkissed Goddess opens with an opulent accord of creamy white Tiare flowers and sensual Ylang-Ylang essence. The warmth of Coconut and Vanilla follows, before settling into a rich, signature base of Guaiac Wood and Cistus Labdanum, leaving a trail of depth and lasting elegance. The Sunkissed Goddess perfume flacon is adorned with a distinctive white lacquer and meticulously engraved on each side with the representation of the Achilles shield. A gold metal plate, delicately engraved by hand with the perfume’s name, adds an extra touch of sophistication. Designed for eternity, this exquisite flacon is endlessly refillable—because true luxury should last forever. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/sunkissed-goddess-by-kilian-50ml-edp",
+      "source_price": 379.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/sunkissed-goddess-by-kilian-50ml-edp",
+          "brand": "Kilian",
+          "name": "Sunkissed Goddess by Kilian 50ml EDP",
+          "size": "50ml",
+          "price": 379.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/kilian-sunkissed-goddess.png?v=1795569817"
         }
       ]
     },
@@ -234615,6 +236149,34 @@
           "price": 130,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0687/5601/3222/files/o-te-ra-discovery-set-4-x-5ml-extrait-de-parfum-1.png?v=1787988518"
+        }
+      ]
+    },
+    {
+      "brand": "The Virtue",
+      "name": "Parfum Sampler - 5 x 2ml",
+      "size": "2ml",
+      "size_ml": 2,
+      "price": 69,
+      "price_per_100ml": 3450,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0687/5601/3222/files/The_Virtue_Parfum_Sampler_hand_grey.webp?v=1765753291",
+      "description": "Discover The Virtue’s signature scent universe with this curated parfum sampler box, featuring five of the brand’s most iconic fragrances. Designed for exploration, layering, or finding your forever scent. Each fragrance is presented in a 2ml spray, perfect for travel or everyday wear. Set includes 5 x 2ml parfum samples Narcosis A rose stripped of innocence. Dark, dirty, and intoxicating. Top: Sichuan Pepper, White Peony, Rose Middle: Powdery Musk, Saffron, Geranium Base: Ambergris, Cloves, Patchouli Holy Smoke Where the divine meets the celestial. Warm, smoky, and ritualistic. Top: Cinnamon Bark, Clove, Tonka Bean Middle: Patchouli, Cherry Wood Base: Frankincense, Oakmoss, Amber Castro A stolen glimpse of another time. Tobacco smoke, dark rum, and lingering heat. Top: Cuban Tobacco, Smoked Wood, Violet Middle: Cedar Wood, Dark Rum, Iris Base: Peruvian Balsam, Musk 1987 Powerful and potent. A white floral fragrance steeped in nostalgic drama. Top: Jasmine Middle: Tuberose, Gardenia Base: White Musk Back Beach Salt on skin, velvet beneath. Wild, mineral, and quietly seductive. Top: Sea Salt, Bergamot, Saffron Middle: Black Tea, Rose Base: Nutmeg, Birch Tar, Ebony Wood Hand poured in New Zealand.",
+      "source_name": "wally-shopify-suggest",
+      "source_url": "https://wally.co.nz/products/the-virtue-parfum-sampler-5-x-2ml",
+      "source_price": 69,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "wally",
+          "source_name": "wally-shopify-suggest",
+          "source_url": "https://wally.co.nz/products/the-virtue-parfum-sampler-5-x-2ml",
+          "brand": "The Virtue",
+          "name": "Parfum Sampler - 5 x 2ml",
+          "size": "2ml",
+          "price": 69,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0687/5601/3222/files/The_Virtue_Parfum_Sampler_hand_grey.webp?v=1765753291"
         }
       ]
     },
