@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T12:11:17.929Z",
-  "count": 5083,
+  "generated_at": "2026-11-26T11:57:11.392Z",
+  "count": 5092,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -83,6 +83,34 @@
           "price": 4.19,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwca82b255/images/hi-res/DD/80/R3051400_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Fragrance Mist Exotic Purple Rose 250ml",
+      "size": "250ml",
+      "size_ml": 250,
+      "price": 4.79,
+      "price_per_100ml": 1.92,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc5eb0145/images/hi-res/19/4D/R3118972_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-fragrance-mist-exotic-purple-rose-250ml/R3118972.html",
+      "source_price": 4.79,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-fragrance-mist-exotic-purple-rose-250ml/R3118972.html",
+          "brand": "VV Love",
+          "name": "VV Love Fragrance Mist Exotic Purple Rose 250ml",
+          "size": "250ml",
+          "price": 4.79,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwc5eb0145/images/hi-res/19/4D/R3118972_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -1355,6 +1383,62 @@
           "price": 6.49,
           "currency": "NZD",
           "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/72002/2DF_200.jpg"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Hello 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 4.49,
+      "price_per_100ml": 4.49,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw72681d4f/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
+      "source_price": 4.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Hello 100ml",
+          "size": "100ml",
+          "price": 4.49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw72681d4f/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Peachy 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 4.49,
+      "price_per_100ml": 4.49,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe6a1b993/images/hi-res/D3/9D/R2988250_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-peachy-100ml/R2988250.html",
+      "source_price": 4.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-peachy-100ml/R2988250.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Peachy 100ml",
+          "size": "100ml",
+          "price": 4.49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe6a1b993/images/hi-res/D3/9D/R2988250_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -7534,34 +7618,6 @@
     },
     {
       "brand": "Daise",
-      "name": "Daise Body Mist Hello 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 8.99,
-      "price_per_100ml": 8.99,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw72681d4f/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
-      "source_price": 8.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-hello-100ml/R2988257.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Hello 100ml",
-          "size": "100ml",
-          "price": 8.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw72681d4f/images/hi-res/61/18/R2988257_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
       "name": "Daise Body Mist Lowkey 100ml",
       "size": "100ml",
       "size_ml": 100,
@@ -7613,34 +7669,6 @@
           "price": 8.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwea4722b0/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
-      "name": "Daise Body Mist Peachy 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 8.99,
-      "price_per_100ml": 8.99,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe6a1b993/images/hi-res/D3/9D/R2988250_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-peachy-100ml/R2988250.html",
-      "source_price": 8.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-peachy-100ml/R2988250.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Peachy 100ml",
-          "size": "100ml",
-          "price": 8.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwe6a1b993/images/hi-res/D3/9D/R2988250_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -9310,9 +9338,9 @@
           "brand": "MCoBeauty",
           "name": "MCoBeauty Fragrance Mist No.4",
           "size": null,
-          "price": 21.99,
+          "price": 10.99,
           "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw5473a159/images/hi-res/16/69/R2919955_30.jpg?sw=292&sh=292"
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw14b31ab2/images/hi-res/16/69/R2919955_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -15760,7 +15788,7 @@
       "price": 14.99,
       "price_per_100ml": 15.61,
       "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/035017008657.jpg?v=1794167343",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3DF_800_c7aa1a0b-7f18-4ec6-9f73-eb649de2d2ff.jpg?v=1795639358",
       "description": "Jovan White Musk for Women Cologne Spray is a luxurious, gentle and floral fragrance for women. The refreshing blend of notes gives this scent a subtle and oriental feel.",
       "source_name": "bargain-chemist-shopify-suggest",
       "source_url": "https://www.bargainchemist.co.nz/products/jovan-white-musk-ladies-cologne-spray-96ml",
@@ -15776,7 +15804,7 @@
           "size": "96ml",
           "price": 14.99,
           "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/035017008657.jpg?v=1794167343"
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/3DF_800_c7aa1a0b-7f18-4ec6-9f73-eb649de2d2ff.jpg?v=1795639358"
         }
       ]
     },
@@ -88668,6 +88696,45 @@
       ]
     },
     {
+      "brand": "David Beckham",
+      "name": "David Beckham Classic Blue EDT 50ml Set 2pcs",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 49.99,
+      "price_per_100ml": 99.98,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20044795-0.jpg?v=1795643772",
+      "description": "• David Beckham Fragrances presents the David Beckham Classic Blue Eau de Toilette gift set, featuring a timeless fragrance with a fresh twist. Wear it effortlessly day or evening • Inspired by David’s authentic journey, lifestyle and values, this vibrant, men’s fragrance opens with a fruity burst of invigorating grapefruit and juicy pineapple fused with violet leaves • The heart reveals an aromatic blend of crisp clary sage and geranium tamed by a tangy green apple accord • Warm cashmeran, earthy patchouli and intense moss give Classic Blue its elegant signature • The sky blue juice of this David Beckham Eau de Toilette is contained in a sophisticated bottle of patterned glass finished with a sleek metallic blue cap • The Classic Collection is a captivating reinterpretation of the power of classics; each scent has been carefully crafted with specially selected ingredients that have stood the test of time • This men's gift set is the ultimate gift to yourself or a loved one This men's aftershave gift set contains: - Eau de Toilette 50ml (1.7oz) - Eau de Toilette 10ml (0.33oz)",
+      "source_name": "life-pharmacy-shopify-suggest",
+      "source_url": "https://www.lifepharmacy.co.nz/products/david-beckham-classic-blue-edt-50ml-set-2pcs",
+      "source_price": 49.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/david-beckham-classic-blue-edt-50ml-set-2pcs",
+          "brand": "David Beckham",
+          "name": "David Beckham Classic Blue EDT 50ml Set 2pcs",
+          "size": "50ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20044795-0.jpg?v=1795643772"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/david-beckham-classic-blue-edt-50ml-set-2pcs",
+          "brand": "David Beckham",
+          "name": "David Beckham Classic Blue EDT 50ml Set 2pcs",
+          "size": "50ml",
+          "price": 49.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_20044795-0.jpg?v=1795643806"
+        }
+      ]
+    },
+    {
       "brand": "JIMMY CHOO",
       "name": "JIMMY CHOO BLOSSOM (W) EDP 100 ml FR",
       "size": "100ml",
@@ -102192,6 +102259,100 @@
       ]
     },
     {
+      "brand": "Jean Paul Gaultier",
+      "name": "Jean Paul Gaultier Le Male EDT 75ml",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 95,
+      "price_per_100ml": 126.67,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean_Paul_Gaultier_Le_Male_75ML_EDT_For_Men_8435415012638.jpg?v=1781827800",
+      "description": "Jean Paul Gaultier Le Male EDT 75ml for Men Jean Paul Gaultier Le Male EDT 75ml for Men is an iconic aromatic amber fougère fragrance that contrasts cool mint and lavender with orange blossom, warm spice, creamy vanilla and smooth woods. Mint, bergamot, cardamom and artemisia create a fresh aromatic opening before lavender, orange blossom, cinnamon and cumin shape the distinctive heart. Vanilla, tonka bean, sandalwood, cedar and amber give the dry-down its recognisable warmth and sensuality. This 75ml Eau de Toilette is ideal for fragrance rotation, first-time Le Male buyers, travel and customers who prefer a compact full-size presentation. Buy Jean Paul Gaultier perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Mint, bergamot, cardamom and artemisia. Heart Notes: Lavender, orange blossom, cinnamon and cumin. Base Notes: Vanilla, tonka bean, sandalwood, cedar and amber. Scent Profile Le Male opens with a cool rush of mint and bergamot, sharpened by cardamom and aromatic green facets. Lavender becomes the centre of the fragrance, softened by orange blossom and warm spice. Vanilla, tonka bean and smooth woods then create its familiar sweet and comforting trail. Who Is It For? This Jean Paul Gaultier men’s perfume is ideal for customers who enjoy mint, lavender, vanilla and aromatic fougère fragrances. The 75ml size suits customers discovering Le Male, maintaining a broader fragrance rotation or seeking a practical full-size bottle. When to Wear Daytime: Work, weekends, travel and confident everyday wear. Evening: Dinners, dates, celebrations and social occasions. Season: Especially suited to autumn, winter and spring, with lighter use during warm weather. Occasion: Signature scent wear, fragrance rotation and gifting. Longevity & Sillage As an Eau de Toilette built around mint, lavender, spice, vanilla and woods, Le Male is designed to create a noticeable aromatic opening followed by a warm and softly enveloping trail. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Jean Paul Gaultier Le Male Fragrances to Explore Jean Paul Gaultier Le Male EDT 125ml — the standard full-size presentation of the iconic fragrance. Jean Paul Gaultier Le Male EDT 200ml — the larger bottle for regular signature-scent wear. Jean Paul Gaultier Le Male Le Parfum EDP Intense 75ml — a darker cardamom, iris and vanilla interpretation. Similar Designer Fragrances Emporio Armani Stronger With You EDT 100ml — cardamom, sage, vanilla and chestnut echo Le Male’s aromatic spice and warm sweetness. Emporio Armani Stronger With You Intensely EDP 100ml — pink pepper, cinnamon, lavender, vanilla and tonka deepen the spicy lavender-gourmand direction. Dior Sauvage Parfum 100ml — bergamot, aromatic spice, sandalwood, tonka and vanilla provide a drier modern alternative with warm depth. Premium & Niche Alternatives Chanel Allure Homme Sport Eau Extrême EDP 100ml — citrus, pepper, cypress, tonka bean and musk offer a polished fresh-and-warm aromatic profile. Creed Bois du Portugal EDP 100ml — bergamot, lavender, sandalwood, cedar and vetiver provide a refined niche lavender-woody interpretation. Bond No. 9 Lafayette Street EDP 100ml — bergamot, coriander, ambroxan, tonka bean and vanilla create a contemporary niche aromatic-gourmand alternative. Explore More Fragrances Browse more Jean Paul Gaultier perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Jean Paul Gaultier Fragrance: Le Male Size: 75ml Concentration: Eau de Toilette Gender: Men Fragrance Family: Aromatic Amber Fougère Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Jean Paul Gaultier Le Male EDT 75ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying, as this can affect how the scent develops. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-male-75ml-edt-for-men",
+      "source_price": 95,
+      "source_count": 7,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-male-75ml-edt-for-men",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Male EDT 75ml",
+          "size": "75ml",
+          "price": 95,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean_Paul_Gaultier_Le_Male_75ML_EDT_For_Men_8435415012638.jpg?v=1781827800"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Male EDT 75ml",
+          "size": "75ml",
+          "price": 160,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml?_pos=7&_psq=eau+de+toilette&_psid=8a257d6cb&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Male EDT 75ml",
+          "size": "75ml",
+          "price": 160,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml?_pos=9&_psq=eau+de+toilette&_psid=ba084ff2e&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Male EDT 75ml",
+          "size": "75ml",
+          "price": 160,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml?_pos=3&_psq=eau+de+toilette&_psid=270f46f71&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Male EDT 75ml",
+          "size": "75ml",
+          "price": 160,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml?_pos=7&_psq=eau+de+toilette&_psid=b1b504755&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Male EDT 75ml",
+          "size": "75ml",
+          "price": 160,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
+        },
+        {
+          "retailer_slug": "unichem",
+          "source_name": "unichem-shopify-suggest",
+          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml?_pos=9&_psq=eau+de+toilette&_psid=dd8b5b70b&_ss=e",
+          "brand": "Jean Paul Gaultier",
+          "name": "Jean Paul Gaultier Le Male EDT 75ml",
+          "size": "75ml",
+          "price": 160,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
+        }
+      ]
+    },
+    {
       "brand": "Lattafa",
       "name": "Atlas by Lattafa 55ml EDP",
       "size": "55ml",
@@ -104291,100 +104452,6 @@
           "price": 164.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ralph-polo-red-extreme-125ml.png?v=1793061768"
-        }
-      ]
-    },
-    {
-      "brand": "Jean Paul Gaultier",
-      "name": "Jean Paul Gaultier Le Male EDT 75ml",
-      "size": "75ml",
-      "size_ml": 75,
-      "price": 99,
-      "price_per_100ml": 132,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean_Paul_Gaultier_Le_Male_75ML_EDT_For_Men_8435415012638.jpg?v=1781827800",
-      "description": "Jean Paul Gaultier Le Male EDT 75ml for Men Jean Paul Gaultier Le Male EDT 75ml for Men is an iconic aromatic amber fougère fragrance that contrasts cool mint and lavender with orange blossom, warm spice, creamy vanilla and smooth woods. Mint, bergamot, cardamom and artemisia create a fresh aromatic opening before lavender, orange blossom, cinnamon and cumin shape the distinctive heart. Vanilla, tonka bean, sandalwood, cedar and amber give the dry-down its recognisable warmth and sensuality. This 75ml Eau de Toilette is ideal for fragrance rotation, first-time Le Male buyers, travel and customers who prefer a compact full-size presentation. Buy Jean Paul Gaultier perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery, Auckland pickup when available and GST invoice supplied. This product is supplied in brand-new original retail packaging unless otherwise stated. Fragrance Notes Top Notes: Mint, bergamot, cardamom and artemisia. Heart Notes: Lavender, orange blossom, cinnamon and cumin. Base Notes: Vanilla, tonka bean, sandalwood, cedar and amber. Scent Profile Le Male opens with a cool rush of mint and bergamot, sharpened by cardamom and aromatic green facets. Lavender becomes the centre of the fragrance, softened by orange blossom and warm spice. Vanilla, tonka bean and smooth woods then create its familiar sweet and comforting trail. Who Is It For? This Jean Paul Gaultier men’s perfume is ideal for customers who enjoy mint, lavender, vanilla and aromatic fougère fragrances. The 75ml size suits customers discovering Le Male, maintaining a broader fragrance rotation or seeking a practical full-size bottle. When to Wear Daytime: Work, weekends, travel and confident everyday wear. Evening: Dinners, dates, celebrations and social occasions. Season: Especially suited to autumn, winter and spring, with lighter use during warm weather. Occasion: Signature scent wear, fragrance rotation and gifting. Longevity & Sillage As an Eau de Toilette built around mint, lavender, spice, vanilla and woods, Le Male is designed to create a noticeable aromatic opening followed by a warm and softly enveloping trail. Longevity and projection can vary depending on skin chemistry, application, weather and storage conditions. More Jean Paul Gaultier Le Male Fragrances to Explore Jean Paul Gaultier Le Male EDT 125ml — the standard full-size presentation of the iconic fragrance. Jean Paul Gaultier Le Male EDT 200ml — the larger bottle for regular signature-scent wear. Jean Paul Gaultier Le Male Le Parfum EDP Intense 75ml — a darker cardamom, iris and vanilla interpretation. Similar Designer Fragrances Emporio Armani Stronger With You EDT 100ml — cardamom, sage, vanilla and chestnut echo Le Male’s aromatic spice and warm sweetness. Emporio Armani Stronger With You Intensely EDP 100ml — pink pepper, cinnamon, lavender, vanilla and tonka deepen the spicy lavender-gourmand direction. Dior Sauvage Parfum 100ml — bergamot, aromatic spice, sandalwood, tonka and vanilla provide a drier modern alternative with warm depth. Premium & Niche Alternatives Chanel Allure Homme Sport Eau Extrême EDP 100ml — citrus, pepper, cypress, tonka bean and musk offer a polished fresh-and-warm aromatic profile. Creed Bois du Portugal EDP 100ml — bergamot, lavender, sandalwood, cedar and vetiver provide a refined niche lavender-woody interpretation. Bond No. 9 Lafayette Street EDP 100ml — bergamot, coriander, ambroxan, tonka bean and vanilla create a contemporary niche aromatic-gourmand alternative. Explore More Fragrances Browse more Jean Paul Gaultier perfumes , men’s perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. GST invoice supplied. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Jean Paul Gaultier Fragrance: Le Male Size: 75ml Concentration: Eau de Toilette Gender: Men Fragrance Family: Aromatic Amber Fougère Format: Spray Packaging: Brand-new original retail packaging unless otherwise stated What’s Included: One Jean Paul Gaultier Le Male EDT 75ml retail spray bottle Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying, as this can affect how the scent develops. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on body chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality, performance or authenticity.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-male-75ml-edt-for-men",
-      "source_price": 99,
-      "source_count": 7,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/jean-paul-gaultier-le-male-75ml-edt-for-men",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Male EDT 75ml",
-          "size": "75ml",
-          "price": 99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Jean_Paul_Gaultier_Le_Male_75ML_EDT_For_Men_8435415012638.jpg?v=1781827800"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Male EDT 75ml",
-          "size": "75ml",
-          "price": 160,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml?_pos=7&_psq=eau+de+toilette&_psid=8a257d6cb&_ss=e",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Male EDT 75ml",
-          "size": "75ml",
-          "price": 160,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml?_pos=9&_psq=eau+de+toilette&_psid=ba084ff2e&_ss=e",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Male EDT 75ml",
-          "size": "75ml",
-          "price": 160,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml?_pos=3&_psq=eau+de+toilette&_psid=270f46f71&_ss=e",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Male EDT 75ml",
-          "size": "75ml",
-          "price": 160,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml?_pos=7&_psq=eau+de+toilette&_psid=b1b504755&_ss=e",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Male EDT 75ml",
-          "size": "75ml",
-          "price": 160,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
-        },
-        {
-          "retailer_slug": "unichem",
-          "source_name": "unichem-shopify-suggest",
-          "source_url": "https://www.unichem.co.nz/products/jean-paul-gaultier-le-male-edt-spray-75ml?_pos=9&_psq=eau+de+toilette&_psid=dd8b5b70b&_ss=e",
-          "brand": "Jean Paul Gaultier",
-          "name": "Jean Paul Gaultier Le Male EDT 75ml",
-          "size": "75ml",
-          "price": 160,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0642/9949/9707/files/GXH_11009845-0.jpg?v=1769482813"
         }
       ]
     },
@@ -114077,6 +114144,34 @@
       ]
     },
     {
+      "brand": "Kenzo",
+      "name": "L'Eau Ambree by Kenzo 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 149.99,
+      "price_per_100ml": 149.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/kenzo-l_eau-ambree.png?v=1795642565",
+      "description": "L'Eau Ambree by Kenzo 100ml Eau De Parfum Spray Discover L’Eau Ambrée, the new Eau de Parfum for her, for him, for everyone. Sensual and warm, this unisex fragrance captures the essence of an amber sunset through delightfully indulgent and irresistibly intense notes. L’Eau Ambrée was designed to be the most environmentally responsible fragrance possible. Made with 90% ingredients of natural origin**, its refined, minimalist bottle is a modern take on the purity of a water drop. Designer: Kenzo Year Introduced: 2026 Type: EDP Category: Unisex Fragrance Notes: L'Eau Ambrée is a solar creation that captures the essence of a golden twilight, evoking radiant and intense sensuality. The scent opens with a creamy, smooth burst of fig, complemented by a trio of ylang notes, ylang essence, ylang infusion, and dried ylang flowers, creating a soft floral warmth. The heart reveals ambery facets, blending ambrox and sandalwood with the floral richness of immortelle, enhanced by aquozone. The sweet, resinous base of Siamese benzoin and vanilla lends the composition a powerful trail with impressive longevity. Top Notes : Ylang Trio (Ylang Infusion, Ylang Dried Flowers, Ylang Essence), Fig Milk. Heart Notes : Ambrox, Aquozone, Everlasting Absolute, Sandalwood Spicatum. Base Notes : Vanilla Tahitensis, Benzoin Siam. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/leau-ambree-by-kenzo-100ml-edp",
+      "source_price": 149.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/leau-ambree-by-kenzo-100ml-edp",
+          "brand": "Kenzo",
+          "name": "L'Eau Ambree by Kenzo 100ml EDP",
+          "size": "100ml",
+          "price": 149.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/kenzo-l_eau-ambree.png?v=1795642565"
+        }
+      ]
+    },
+    {
       "brand": "CARVEN",
       "name": "CARVEN Ma Griffe 100ml EDP",
       "size": "100ml",
@@ -114358,6 +114453,34 @@
           "source_url": "https://www.gadgetsonline.co.nz/products/armaf-club-de-nuit-intense-limited-edition-105ml-parfum-for-men",
           "brand": "Armaf",
           "name": "Armaf Club De Nuit Intense Man Limited Edition V4 Parfum 105ml",
+          "size": "105ml",
+          "price": 159,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/armaf-club-de-nuit-intense-man-limited-edition-v4-105ml-collector-set.jpg?v=1788571083"
+        }
+      ]
+    },
+    {
+      "brand": "Armaf",
+      "name": "Armaf Club De Nuit Intense Man Limited Edition V4 Parfum 105ml (2026)",
+      "size": "105ml",
+      "size_ml": 105,
+      "price": 159,
+      "price_per_100ml": 151.43,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/armaf-club-de-nuit-intense-man-limited-edition-v4-105ml-collector-set.jpg?v=1788571083",
+      "description": "Armaf Club De Nuit Intense Man Limited Edition V4 Parfum 105ml for Men Armaf Club De Nuit Intense Man Limited Edition V4 Parfum 105ml is a citrus spicy woody fragrance for men. Bergamot, lemon, pineapple, lime, black pepper and pink pepper create a vivid opening before soft florals develop into ambroxan, white musk, ambergris, cedar, patchouli and leather. Its limited-edition presentation and fresh-to-smoky profile make it a bold choice for evening wear, occasions and fragrance collectors. This current V4 collector presentation includes the 105ml Parfum bottle, premium presentation packaging and a pair of Armaf cufflinks. The verified stock shown is a July 2026 production batch. Fragrance Notes Top Notes: Bergamot, Lemon, Black Pepper, Pineapple, Lime, Pink Pepper Heart Notes: Lily of the Valley, Jasmine, Freesia, Rose Base Notes: Ambroxan, White Musk, Ambergris, Cedar, Patchouli, Leather Scent Profile Bright citrus and pineapple with black and pink pepper, soft florals, ambroxan, musk, ambergris, cedar, patchouli and leather. Who Is It For? Ideal for men who enjoy bright citrus and pineapple, peppery spice, smoky woods, leather, musk and a polished ambergris-style dry down. When to Wear Best suited to evenings, nights out, cooler weather, smart-casual occasions, special events and fragrance gifting. Longevity & Sillage As a Parfum, it is designed to offer a noticeable scent presence. Actual longevity and sillage vary depending on skin chemistry, application, weather and storage conditions. More Armaf Fragrances Armaf Club De Nuit Intense Limited Edition 2023 Parfum 105ml — the earlier limited-edition interpretation with pepper, leather and ambroxan. Armaf Club De Nuit Intense Extrait de Parfum 70ml — a concentrated citrus-smoky option. Armaf Club De Nuit Intense Parfum 150ml — a larger parfum format with citrus, smoky birch and musk. Similar Designer Fragrances Dolce & Gabbana K EDP 100ml — a modern woody-spicy designer fragrance. Tom Ford Grey Vetiver EDP 50ml — a refined citrus-woody designer option. Premium & Niche Alternatives Creed Aventus Cologne EDP 100ml — a premium fresh fruity-woody direction. Nishane Hacivat X Extrait de Parfum 50ml — a concentrated citrus-fruity woody alternative. Explore More Fragrances Browse the Armaf perfume collection , explore men’s fragrances , discover Arabic perfumes , or shop all perfumes and fragrances . Why Buy From Gadgets Online NZ? New Zealand-owned retailer since 2008 Support from our Onehunga, Auckland team NZ-wide delivery Auckland pickup when available GST invoice provided Product Details Brand: Armaf Fragrance: Club De Nuit Intense Limited Edition V4 Size: 105ml Concentration: Parfum Gender: Men Fragrance Family: Citrus Spicy Woody Scent Profile: Citrus, pineapple, pepper, florals, ambroxan, leather, cedar, patchouli and musk Format: Fine fragrance spray Packaging: Current V4 collector presentation in brand-new original retail packaging. The verified stock shown is a July 2026 production batch. What’s Included: 1 × Armaf Club De Nuit Intense Man Limited Edition V4 Parfum 105ml fragrance bottle, V4 collector presentation packaging and 1 pair of Armaf cufflinks Fragrance Care Tips Apply lightly to pulse points such as the neck and wrists. Avoid rubbing after application. Store away from direct sunlight and heat. Disclaimer Fragrance performance, longevity, scent impression and recommendations can vary depending on skin chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality or performance.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/armaf-club-de-nuit-intense-limited-edition-105ml-parfum-for-men",
+      "source_price": 159,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/armaf-club-de-nuit-intense-limited-edition-105ml-parfum-for-men",
+          "brand": "Armaf",
+          "name": "Armaf Club De Nuit Intense Man Limited Edition V4 Parfum 105ml (2026)",
           "size": "105ml",
           "price": 159,
           "currency": "NZD",
@@ -116749,6 +116872,118 @@
           "price": 234.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/products/jean-paul-scandal-le-parfum-150ml.png?v=1675210997"
+        }
+      ]
+    },
+    {
+      "brand": "Michael Kors",
+      "name": "Michael Kors Pour Femme Pink Horizon EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 157,
+      "price_per_100ml": 157,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/michael-kors-pour-femme-pink-horizon-edp-100ml-100ml-bottle-and-box.jpg?v=1795645936",
+      "description": "Michael Kors Pour Femme Pink Horizon EDP 100ml for Women Michael Kors Pour Femme Pink Horizon EDP 100ml for Women — A luminous floral amber vanilla Eau de Parfum that combines citrus brightness with soft flowers and a warm finish. Mandarin opens the composition before jasmine and magnolia take centre stage, with vanilla rounding out the scent. This 100ml Eau de Parfum spray offers a convenient format for a women's fragrance collection. Women who enjoy bright citrus florals softened by vanilla. The 100ml spray suits customers who want a versatile fragrance for everyday wear and easy transitions into evening. Buy Michael Kors perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. Brand-new original retail packaging. Box artwork and bottle details may vary between batches. Fragrance Composition Top notes: Mandarin. Heart notes: Jasmine, magnolia. Base notes: Vanilla. Scent Profile Pink Horizon begins with a crisp mandarin impression, developing into a smooth jasmine-and-magnolia bouquet. Vanilla adds gentle warmth and sweetness as the fragrance settles, creating an approachable balance of freshness and comfort. Who Is It For? Women who enjoy bright citrus florals softened by vanilla. The 100ml spray suits customers who want a versatile fragrance for everyday wear and easy transitions into evening. When to Wear Daytime: Work, coffee dates, lunches and everyday outings. Evening: Dinner with friends, dates and informal celebrations. Season: Spring and mild weather, while the vanilla finish also suits cooler days. Occasion: A generous designer fragrance gift or a fresh floral addition to a daily rotation. Longevity & Sillage This Eau de Parfum has a floral amber vanilla character. Longevity and projection depend on skin chemistry, application, weather and storage. Apply to suit the setting and allow the fragrance to settle before deciding whether to reapply. More Michael Kors Fragrances to Explore Michael Kors Pour Femme EDP 100ml — Explore the original Pour Femme Eau de Parfum. Michael Kors Wonderlust EDP 50ml — Compare another Michael Kors women's fragrance. Michael Kors Gorgeous EDP 50ml — Another option from the Michael Kors fragrance collection. Similar Designer Fragrances Giorgio Armani My Way Intense EDP 50ml — Explore another designer women's Eau de Parfum. Carolina Herrera Good Girl Blush EDP 50ml — Compare a different floral designer fragrance. Premium & Niche Alternatives Parfums de Marly Delina EDP 75ml — Explore a premium women's fragrance from Parfums de Marly. Parfums de Marly Delina Exclusif Parfum 75ml — Compare another premium floral perfume. Explore More Fragrances Browse more Michael Kors perfumes , women's perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Michael Kors Fragrance: Pour Femme Pink Horizon Size: 100ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Amber Vanilla Format: Retail spray bottle Packaging: Brand-new original retail packaging. Box artwork and bottle details may vary between batches. What's Included: One Michael Kors Pour Femme Pink Horizon Eau de Parfum 100ml retail spray bottle. Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying; allow the fragrance to develop naturally. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations vary with skin chemistry, application, weather and storage conditions. Packaging, bottle details and fragrance liquid colour may vary between batches or manufacturer updates. Such variations do not affect authenticity or quality. Product images and content are provided for information and presentation purposes.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/michael-kors-pour-femme-pink-horizon-edp-100ml",
+      "source_price": 157,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/michael-kors-pour-femme-pink-horizon-edp-100ml",
+          "brand": "Michael Kors",
+          "name": "Michael Kors Pour Femme Pink Horizon EDP 100ml",
+          "size": "100ml",
+          "price": 157,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/michael-kors-pour-femme-pink-horizon-edp-100ml-100ml-bottle-and-box.jpg?v=1795645936"
+        }
+      ]
+    },
+    {
+      "brand": "Michael Kors",
+      "name": "Michael Kors Pour Femme Violet Sunset EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 157,
+      "price_per_100ml": 157,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/michael-kors-pour-femme-violet-sunset-edp-100ml-100ml-bottle-and-box.jpg?v=1795645918",
+      "description": "Michael Kors Pour Femme Violet Sunset EDP 100ml for Women Michael Kors Pour Femme Violet Sunset EDP 100ml for Women — A fruity floral musk Eau de Parfum with an unexpected gourmand twist. Raspberry leaves lead into a blueberry muffin accord, while cedarwood gives the sweet character a warmer, more grounded finish. This 100ml Eau de Parfum spray offers a convenient format for a women's fragrance collection. Women who enjoy fruity florals with a soft gourmand character and a woody finish. Violet Sunset is a distinctive option for customers looking beyond traditional rose or white-floral perfumes. Buy Michael Kors perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. Brand-new original retail packaging. Box artwork and bottle details may vary between batches. Fragrance Composition Top notes: Raspberry leaves. Heart notes: Blueberry muffin accord. Base notes: Cedarwood. Scent Profile Violet Sunset moves from the fresh, gently fruity impression of raspberry leaves into the soft sweetness of a blueberry muffin accord. Cedarwood brings woody definition to the dry-down, making the fragrance feel playful yet polished. Who Is It For? Women who enjoy fruity florals with a soft gourmand character and a woody finish. Violet Sunset is a distinctive option for customers looking beyond traditional rose or white-floral perfumes. When to Wear Daytime: Brunch, relaxed workdays, shopping and weekends. Evening: Casual dinners, date nights and social occasions. Season: Autumn, spring and cooler days when a softly sweet fragrance feels inviting. Occasion: A 100ml designer perfume gift for someone who enjoys fruity and gourmand scents. Longevity & Sillage This Eau de Parfum has a floral fruity musk character. Longevity and projection depend on skin chemistry, application, weather and storage. Apply to suit the setting and allow the fragrance to settle before deciding whether to reapply. More Michael Kors Fragrances to Explore Michael Kors Pour Femme EDP 100ml — Explore the original Pour Femme Eau de Parfum. Michael Kors Wonderlust EDP 50ml — Compare another Michael Kors women's fragrance. Michael Kors Gorgeous EDP 50ml — Another option from the Michael Kors fragrance collection. Similar Designer Fragrances Giorgio Armani My Way Intense EDP 50ml — Explore another designer women's Eau de Parfum. Carolina Herrera Good Girl Blush EDP 50ml — Compare a different floral designer fragrance. Premium & Niche Alternatives Parfums de Marly Delina EDP 75ml — Explore a premium women's fragrance from Parfums de Marly. Parfums de Marly Delina Exclusif Parfum 75ml — Compare another premium floral perfume. Explore More Fragrances Browse more Michael Kors perfumes , women's perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Michael Kors Fragrance: Pour Femme Violet Sunset Size: 100ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Fruity Musk Format: Retail spray bottle Packaging: Brand-new original retail packaging. Box artwork and bottle details may vary between batches. What's Included: One Michael Kors Pour Femme Violet Sunset Eau de Parfum 100ml retail spray bottle. Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying; allow the fragrance to develop naturally. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations vary with skin chemistry, application, weather and storage conditions. Packaging, bottle details and fragrance liquid colour may vary between batches or manufacturer updates. Such variations do not affect authenticity or quality. Product images and content are provided for information and presentation purposes.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/michael-kors-pour-femme-violet-sunset-edp-100ml",
+      "source_price": 157,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/michael-kors-pour-femme-violet-sunset-edp-100ml",
+          "brand": "Michael Kors",
+          "name": "Michael Kors Pour Femme Violet Sunset EDP 100ml",
+          "size": "100ml",
+          "price": 157,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/michael-kors-pour-femme-violet-sunset-edp-100ml-100ml-bottle-and-box.jpg?v=1795645918"
+        }
+      ]
+    },
+    {
+      "brand": "Michael Kors",
+      "name": "Michael Kors Pour Homme Blue Dusk EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 157,
+      "price_per_100ml": 157,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/michael-kors-pour-homme-blue-dusk-edp-100ml-100ml-bottle-and-box.jpg?v=1795645973",
+      "description": "Michael Kors Pour Homme Blue Dusk EDP 100ml for Men Michael Kors Pour Homme Blue Dusk EDP 100ml for Men — A warm amber woody spicy Eau de Parfum built around plum, cinnamon and tonka bean. Its fruity richness and softly spiced warmth make Blue Dusk an inviting choice for evening fragrance styling. This 100ml Eau de Parfum spray offers a convenient format for a versatile men's fragrance collection. Men who enjoy warm, fruity and spicy designer fragrances with a smooth tonka finish. The 100ml bottle suits customers seeking a fragrance for evenings, cooler days and dressed-up occasions. Buy Michael Kors perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. Brand-new original retail packaging. Box artwork and bottle details may vary between batches. Fragrance Composition Fruit accord: Plum. Spice accord: Cinnamon. Warm finish: Tonka bean with woody undertones. Scent Profile Plum introduces a rounded fruity richness, while cinnamon brings a warm spicy accent. Tonka bean adds a smooth, enveloping finish with woody undertones. Together these accords give Blue Dusk a richer mood that works especially well after dark. Who Is It For? Men who enjoy warm, fruity and spicy designer fragrances with a smooth tonka finish. The 100ml bottle suits customers seeking a fragrance for evenings, cooler days and dressed-up occasions. When to Wear Daytime: Cooler days and smart casual outings with a lighter application. Evening: Dinners, date nights, celebrations and evening events. Season: Autumn, winter and cooler spring evenings. Occasion: A warm designer fragrance gift or an evening addition to a fragrance wardrobe. Longevity & Sillage This Eau de Parfum has a amber woody spicy character. Longevity and projection depend on skin chemistry, application, weather and storage. Apply to suit the setting and allow the fragrance to settle before deciding whether to reapply. More Michael Kors Fragrances to Explore Michael Kors Pour Homme EDP 100ml — Explore the original Pour Homme Eau de Parfum. Michael Kors Pour Homme Absolu EDP 100ml — Compare another interpretation of the Pour Homme collection. Similar Designer Fragrances Prada Paradigme EDP 100ml — A designer men's Eau de Parfum to compare. Emporio Armani Stronger With You Intensely EDP 100ml — Another option for a men's designer fragrance wardrobe. Premium & Niche Alternatives Parfums de Marly Layton EDP 125ml — Explore a premium fragrance from Parfums de Marly. Parfums de Marly Layton Exclusif EDP 125ml — Another niche option to consider. Explore More Fragrances Browse more Michael Kors perfumes , men's perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Michael Kors Fragrance: Pour Homme Blue Dusk Size: 100ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Amber Woody Spicy Format: Retail spray bottle Packaging: Brand-new original retail packaging. Box artwork and bottle details may vary between batches. What's Included: One Michael Kors Pour Homme Blue Dusk Eau de Parfum 100ml retail spray bottle. Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying; allow the fragrance to develop naturally. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations vary with skin chemistry, application, weather and storage conditions. Packaging, bottle details and fragrance liquid colour may vary between batches or manufacturer updates. Such variations do not affect authenticity or quality. Product images and content are provided for information and presentation purposes.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/michael-kors-pour-homme-blue-dusk-edp-100ml",
+      "source_price": 157,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/michael-kors-pour-homme-blue-dusk-edp-100ml",
+          "brand": "Michael Kors",
+          "name": "Michael Kors Pour Homme Blue Dusk EDP 100ml",
+          "size": "100ml",
+          "price": 157,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/michael-kors-pour-homme-blue-dusk-edp-100ml-100ml-bottle-and-box.jpg?v=1795645973"
+        }
+      ]
+    },
+    {
+      "brand": "Michael Kors",
+      "name": "Michael Kors Pour Homme Green Infinity EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 157,
+      "price_per_100ml": 157,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/michael-kors-pour-homme-green-infinity-edp-100ml-100ml-bottle-and-box.jpg?v=1795645955",
+      "description": "Michael Kors Pour Homme Green Infinity EDP 100ml for Men Michael Kors Pour Homme Green Infinity EDP 100ml for Men — A fresh fougère woody citrus Eau de Parfum with a crisp, botanical feel. Lime and green melon lift the opening, cardamom and geranium add aromatic spice, and vetiver gives the finish a composed woody character. This 100ml Eau de Parfum spray offers a convenient format for a versatile men's fragrance collection. Men who enjoy citrus freshness, aromatic greens and dry woody finishes. The 100ml format is well suited to a regular fragrance routine, especially for customers drawn to clean, versatile designer scents. Buy Michael Kors perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. Brand-new original retail packaging. Box artwork and bottle details may vary between batches. Fragrance Composition Top notes: Lime, green melon. Heart notes: Cardamom, geranium. Base notes: Vetiver. Scent Profile Green Infinity opens with zesty lime and cooling green melon. Cardamom adds a measured spice around aromatic geranium, while vetiver grounds the scent with dry, green woody depth. The overall impression is fresh, clear and contemporary. Who Is It For? Men who enjoy citrus freshness, aromatic greens and dry woody finishes. The 100ml format is well suited to a regular fragrance routine, especially for customers drawn to clean, versatile designer scents. When to Wear Daytime: Work, meetings, weekends and smart casual wear. Evening: Relaxed dinners and occasions suited to a fresh aromatic scent. Season: Spring, summer and mild New Zealand weather. Occasion: An everyday signature fragrance or a designer gift for a fresh-scent enthusiast. Longevity & Sillage This Eau de Parfum has a fougere woody citrus character. Longevity and projection depend on skin chemistry, application, weather and storage. Apply to suit the setting and allow the fragrance to settle before deciding whether to reapply. More Michael Kors Fragrances to Explore Michael Kors Pour Homme EDP 100ml — Explore the original Pour Homme Eau de Parfum. Michael Kors Pour Homme Absolu EDP 100ml — Compare another interpretation of the Pour Homme collection. Similar Designer Fragrances Prada Paradigme EDP 100ml — A designer men's Eau de Parfum to compare. Emporio Armani Stronger With You Intensely EDP 100ml — Another option for a men's designer fragrance wardrobe. Premium & Niche Alternatives Parfums de Marly Layton EDP 125ml — Explore a premium fragrance from Parfums de Marly. Parfums de Marly Layton Exclusif EDP 125ml — Another niche option to consider. Explore More Fragrances Browse more Michael Kors perfumes , men's perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Michael Kors Fragrance: Pour Homme Green Infinity Size: 100ml Concentration: Eau de Parfum Gender: Men Fragrance Family: Fougere Woody Citrus Format: Retail spray bottle Packaging: Brand-new original retail packaging. Box artwork and bottle details may vary between batches. What's Included: One Michael Kors Pour Homme Green Infinity Eau de Parfum 100ml retail spray bottle. Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying; allow the fragrance to develop naturally. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations vary with skin chemistry, application, weather and storage conditions. Packaging, bottle details and fragrance liquid colour may vary between batches or manufacturer updates. Such variations do not affect authenticity or quality. Product images and content are provided for information and presentation purposes.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/michael-kors-pour-homme-green-infinity-edp-100ml",
+      "source_price": 157,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/michael-kors-pour-homme-green-infinity-edp-100ml",
+          "brand": "Michael Kors",
+          "name": "Michael Kors Pour Homme Green Infinity EDP 100ml",
+          "size": "100ml",
+          "price": 157,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/michael-kors-pour-homme-green-infinity-edp-100ml-100ml-bottle-and-box.jpg?v=1795645955"
         }
       ]
     },
@@ -160177,6 +160412,111 @@
       ]
     },
     {
+      "brand": "Versace",
+      "name": "Versace Crystal Emerald EDP 90ml",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 215,
+      "price_per_100ml": 238.89,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/versace-crystal-emerald-edp-90ml-bottle-and-original-90ml-box.jpg?v=1795645844",
+      "description": "Versace Crystal Emerald EDP 90ml for Women Versace Crystal Emerald EDP 90ml for Women — A bright floral musk Eau de Parfum that balances juicy fruit, fresh florals and a warm, musky trail. Green rosebuds, jasmine and raspberry sorbet form its expressive heart, framed by bergamot, peach and a subtle pink-pepper sparkle. This 90ml Eau de Parfum spray offers a convenient format for a women's fragrance collection. Women seeking a generous full-size bottle of a polished floral musk fragrance. The 90ml format suits customers who already enjoy the scent or want a signature perfume for frequent wear. Buy Versace perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. Brand-new original retail packaging. Box artwork and bottle details may vary between batches. Fragrance Composition Top notes: Italian bergamot, peach, pink pepper. Heart notes: Green rosebuds accord, jasmine absolute, raspberry sorbet. Base notes: White musk, incense, tonka bean. Scent Profile The opening feels lively and juicy, with bergamot and peach softened by pink pepper. Rosebuds and jasmine unfold alongside raspberry sorbet, then white musk, tonka bean and a hint of incense give the dry-down a rounded, gently warm character. Who Is It For? Women seeking a generous full-size bottle of a polished floral musk fragrance. The 90ml format suits customers who already enjoy the scent or want a signature perfume for frequent wear. When to Wear Daytime: Office days, lunches, shopping and polished everyday wear. Evening: Dinners, celebrations and romantic evenings. Season: Particularly appealing in spring and mild weather; adjust application to the season. Occasion: A full-size designer fragrance gift or a signature scent for regular use. Longevity & Sillage This Eau de Parfum has a floral musk character. Longevity and projection depend on skin chemistry, application, weather and storage. Apply to suit the setting and allow the fragrance to settle before deciding whether to reapply. More Versace Fragrances to Explore Versace Bright Crystal EDT 90ml — Explore another fragrance from the Versace Crystal collection. Versace Dylan Blue Pour Femme EDP 50ml — Consider a different Versace women's Eau de Parfum. Versace Eros Pour Femme EDP 50ml — Another Versace women's fragrance to explore. Similar Designer Fragrances Giorgio Armani My Way Intense EDP 50ml — Explore another designer women's Eau de Parfum. Carolina Herrera Good Girl Blush EDP 50ml — Compare a different floral designer fragrance. Premium & Niche Alternatives Parfums de Marly Delina EDP 75ml — Explore a premium women's fragrance from Parfums de Marly. Parfums de Marly Delina Exclusif Parfum 75ml — Compare another premium floral perfume. Explore More Fragrances Browse more Versace perfumes , women's perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Versace Fragrance: Crystal Emerald Size: 90ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Musk Format: Retail spray bottle Packaging: Brand-new original retail packaging. Box artwork and bottle details may vary between batches. What's Included: One Versace Crystal Emerald Eau de Parfum 90ml retail spray bottle. Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying; allow the fragrance to develop naturally. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations vary with skin chemistry, application, weather and storage conditions. Packaging, bottle details and fragrance liquid colour may vary between batches or manufacturer updates. Such variations do not affect authenticity or quality. Product images and content are provided for information and presentation purposes.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/versace-crystal-emerald-edp-90ml",
+      "source_price": 215,
+      "source_count": 8,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/versace-crystal-emerald-edp-90ml",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 90ml",
+          "size": "90ml",
+          "price": 215,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/versace-crystal-emerald-edp-90ml-bottle-and-original-90ml-box.jpg?v=1795645844"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 90ml",
+          "size": "90ml",
+          "price": 253,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=1&_psq=perfume&_psid=0e0c8115a&_ss=e",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 90ml",
+          "size": "90ml",
+          "price": 253,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=4&_psq=perfume&_psid=5d7002533&_ss=e",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 90ml",
+          "size": "90ml",
+          "price": 253,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=2&_psq=perfume&_psid=db50a85f1&_ss=e",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 90ml",
+          "size": "90ml",
+          "price": 253,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=2&_psq=perfume&_psid=361d1a0c4&_ss=e",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 90ml",
+          "size": "90ml",
+          "price": 253,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=5&_psq=fragrance&_psid=e755920fd&_ss=e",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 90ml",
+          "size": "90ml",
+          "price": 253,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=7&_psq=fragrance&_psid=373a90216&_ss=e",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 90ml",
+          "size": "90ml",
+          "price": 253,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
+        }
+      ]
+    },
+    {
       "brand": "MCM",
       "name": "MCM Collection Charming Pup Unisex EDP 100ml",
       "size": "100ml",
@@ -164382,34 +164722,6 @@
       ]
     },
     {
-      "brand": "Acqua Di Parma",
-      "name": "Fico Di Amalfi La Riserva by Acqua Di Parma 100ml EDP",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 249.99,
-      "price_per_100ml": 249.99,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/acqua-di-parma-fico-di-amalfi-la-riserva.png?v=1789524524",
-      "description": "Fico Di Amalfi La Riserva by Acqua Di Parma 100ml Eau De Parfum Spray The fig’s natural lushness is elevated into an olfactory art form in the Fico di Amalfi La Riserva, where a two-month maceration process infuses the fragrance with depth and texture that results in a full, intense, and silky essence. The light is scintillating, golden, and radiant, where each note harmonizes in a beautiful balance, thanks to the prolonged development. Designer: Acqua Di Parma Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: The top notes burst with the freshness of Italian mandarin, blood orange, grapefruit, and lemon essences, while the heart reveals a sophisticated blend of orris concentré, complemented by an infusion of fig and lemon, with a rich fig pulp accord adding depth. Finally, the base notes offer a warm finish with tonka beans absolute, ambrettolide, and orcanox, leaving a lingering trail of refined elegance. Fico di Amalfi La Riserva features a cap and bottle in a new, more intense shade of blue, embodying the long-lasting sillage of the fragrance. The fragrance comes in an enlarged hatbox, complemented by a refreshed label with updated finishings. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/fico-di-amalfi-la-riserva-by-acqua-di-parma-100ml-edp",
-      "source_price": 249.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/fico-di-amalfi-la-riserva-by-acqua-di-parma-100ml-edp",
-          "brand": "Acqua Di Parma",
-          "name": "Fico Di Amalfi La Riserva by Acqua Di Parma 100ml EDP",
-          "size": "100ml",
-          "price": 249.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/acqua-di-parma-fico-di-amalfi-la-riserva.png?v=1789524524"
-        }
-      ]
-    },
-    {
       "brand": "Eight & Bob",
       "name": "Serenite En Bourgogne by Eight & Bob 100ml EDP",
       "size": "100ml",
@@ -167922,6 +168234,34 @@
       ]
     },
     {
+      "brand": "Paco Rabanne",
+      "name": "Million Red by Rabanne 90ml Parfum",
+      "size": "90ml",
+      "size_ml": 90,
+      "price": 234.99,
+      "price_per_100ml": 261.1,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-million-gold-red.png?v=1792726606",
+      "description": "Million Red by Rabanne 90ml Parfum Spray for Women Million Red For Her is Rabanne's Parfum built around coconut, ylang-ylang, and vanilla. More gourmand. More radiant. More irresistible. Million Red For Her reinvents the art of attraction with a fragrance where every detail is designed to captivate. Blending confident sensuality with contemporary glamour, it unveils a new gourmand signature that doesn't chase attention—it naturally attracts it. Designer: Rabanne Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Million Red For Her reinvents gourmand fragrance with a luminous, sensual and intensely addictive signature. Creamy coconut opens the fragrance with an unexpected gourmand accord. Radiant ylang-ylang illuminates the heart before vanilla wraps the scent in addictive warmth. A composition where gourmand richness, luminosity, and sensuality exist in perfect balance. An intense, long-lasting gourmand trail. Designed to transition effortlessly from day to night, Million Red For Her gradually reveals the full richness of its personality, leaving behind a luminous and unforgettable impression. With Million Red For Her, Rabanne introduces a new olfactory territory within the Million Gold For Her collection. Its bold red bottle retains the iconic XL Link, inspired by the House's fashion heritage and signature metal craftsmanship. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/million-red-by-paco-rabanne-90ml-parfum",
+      "source_price": 234.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/million-red-by-paco-rabanne-90ml-parfum",
+          "brand": "Paco Rabanne",
+          "name": "Million Red by Rabanne 90ml Parfum",
+          "size": "90ml",
+          "price": 234.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-million-gold-red.png?v=1792726606"
+        }
+      ]
+    },
+    {
       "brand": "Elie Saab",
       "name": "Elie Saab Le Parfum Absolu EDP 90ml",
       "size": "90ml",
@@ -169777,34 +170117,6 @@
       ]
     },
     {
-      "brand": "Paco Rabanne",
-      "name": "Million Red by Rabanne 90ml Parfum",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 239.99,
-      "price_per_100ml": 266.66,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-million-gold-red.png?v=1792726606",
-      "description": "Million Red by Rabanne 90ml Parfum Spray for Women Million Red For Her is Rabanne's Parfum built around coconut, ylang-ylang, and vanilla. More gourmand. More radiant. More irresistible. Million Red For Her reinvents the art of attraction with a fragrance where every detail is designed to captivate. Blending confident sensuality with contemporary glamour, it unveils a new gourmand signature that doesn't chase attention—it naturally attracts it. Designer: Rabanne Year Introduced: 2026 Type: EDP Category: Women Fragrance Notes: Million Red For Her reinvents gourmand fragrance with a luminous, sensual and intensely addictive signature. Creamy coconut opens the fragrance with an unexpected gourmand accord. Radiant ylang-ylang illuminates the heart before vanilla wraps the scent in addictive warmth. A composition where gourmand richness, luminosity, and sensuality exist in perfect balance. An intense, long-lasting gourmand trail. Designed to transition effortlessly from day to night, Million Red For Her gradually reveals the full richness of its personality, leaving behind a luminous and unforgettable impression. With Million Red For Her, Rabanne introduces a new olfactory territory within the Million Gold For Her collection. Its bold red bottle retains the iconic XL Link, inspired by the House's fashion heritage and signature metal craftsmanship. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/million-red-by-paco-rabanne-90ml-parfum",
-      "source_price": 239.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/million-red-by-paco-rabanne-90ml-parfum",
-          "brand": "Paco Rabanne",
-          "name": "Million Red by Rabanne 90ml Parfum",
-          "size": "90ml",
-          "price": 239.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/rabanne-million-gold-red.png?v=1792726606"
-        }
-      ]
-    },
-    {
       "brand": "Maison Margiela",
       "name": "MAISON Margiela Replica Sunday Morning EDT (R)able 30ml",
       "size": "30ml",
@@ -170489,6 +170801,34 @@
           "price": 134.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/narciso-forever-50ml---2.png?v=1701132088"
+        }
+      ]
+    },
+    {
+      "brand": "Acqua Di Parma",
+      "name": "Fico Di Amalfi La Riserva by Acqua Di Parma 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 269.99,
+      "price_per_100ml": 269.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/acqua-di-parma-fico-di-amalfi-la-riserva.png?v=1789524524",
+      "description": "Fico Di Amalfi La Riserva by Acqua Di Parma 100ml Eau De Parfum Spray The fig’s natural lushness is elevated into an olfactory art form in the Fico di Amalfi La Riserva, where a two-month maceration process infuses the fragrance with depth and texture that results in a full, intense, and silky essence. The light is scintillating, golden, and radiant, where each note harmonizes in a beautiful balance, thanks to the prolonged development. Designer: Acqua Di Parma Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: The top notes burst with the freshness of Italian mandarin, blood orange, grapefruit, and lemon essences, while the heart reveals a sophisticated blend of orris concentré, complemented by an infusion of fig and lemon, with a rich fig pulp accord adding depth. Finally, the base notes offer a warm finish with tonka beans absolute, ambrettolide, and orcanox, leaving a lingering trail of refined elegance. Fico di Amalfi La Riserva features a cap and bottle in a new, more intense shade of blue, embodying the long-lasting sillage of the fragrance. The fragrance comes in an enlarged hatbox, complemented by a refreshed label with updated finishings. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/fico-di-amalfi-la-riserva-by-acqua-di-parma-100ml-edp",
+      "source_price": 269.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/fico-di-amalfi-la-riserva-by-acqua-di-parma-100ml-edp",
+          "brand": "Acqua Di Parma",
+          "name": "Fico Di Amalfi La Riserva by Acqua Di Parma 100ml EDP",
+          "size": "100ml",
+          "price": 269.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/acqua-di-parma-fico-di-amalfi-la-riserva.png?v=1789524524"
         }
       ]
     },
@@ -173628,100 +173968,6 @@
           "price": 253,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/gxh_20015250-0.jpg?v=1723596274"
-        }
-      ]
-    },
-    {
-      "brand": "Versace",
-      "name": "Versace Crystal Emerald EDP 90ml",
-      "size": "90ml",
-      "size_ml": 90,
-      "price": 253,
-      "price_per_100ml": 281.11,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714",
-      "description": "This olfactive creation expresses a seductive femininity that captures the unapologetic attitude that defines the House. The scent opens with vibrant citrus freshness, where distinctive Calabrian bergamot weaves together with the velvety, juicy sweetness of peach essence – like fruit just picked from a sun-drenched orchard. A whisper of pink peppercorn adds bright sophistication. At the fragrance’s heart, the green rosebud slowly blooms – young and full of life, wrapped in spiced and fruity shadows that evoke the delicacy of a morning rose garden kissed by dew. Jasmine brings velvet softness, while raspberry sorbet adds a colourful, addictive note. Finally, the enveloping, lasting embrace of white musk blends with the warmth of Brazilian tonka bean and a hint of incense, creating a refined and unmistakable trail that seals a powerful yet elegant olfactory signature.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml",
-      "source_price": 253,
-      "source_count": 7,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml",
-          "brand": "Versace",
-          "name": "Versace Crystal Emerald EDP 90ml",
-          "size": "90ml",
-          "price": 253,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=1&_psq=perfume&_psid=0e0c8115a&_ss=e",
-          "brand": "Versace",
-          "name": "Versace Crystal Emerald EDP 90ml",
-          "size": "90ml",
-          "price": 253,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=4&_psq=perfume&_psid=5d7002533&_ss=e",
-          "brand": "Versace",
-          "name": "Versace Crystal Emerald EDP 90ml",
-          "size": "90ml",
-          "price": 253,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=2&_psq=perfume&_psid=db50a85f1&_ss=e",
-          "brand": "Versace",
-          "name": "Versace Crystal Emerald EDP 90ml",
-          "size": "90ml",
-          "price": 253,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=2&_psq=perfume&_psid=361d1a0c4&_ss=e",
-          "brand": "Versace",
-          "name": "Versace Crystal Emerald EDP 90ml",
-          "size": "90ml",
-          "price": 253,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=5&_psq=fragrance&_psid=e755920fd&_ss=e",
-          "brand": "Versace",
-          "name": "Versace Crystal Emerald EDP 90ml",
-          "size": "90ml",
-          "price": 253,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
-        },
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-90ml?_pos=7&_psq=fragrance&_psid=373a90216&_ss=e",
-          "brand": "Versace",
-          "name": "Versace Crystal Emerald EDP 90ml",
-          "size": "90ml",
-          "price": 253,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046235-0_453ba0cb-149d-43d5-85b9-53ab045a1f0d.jpg?v=1791235714"
         }
       ]
     },
@@ -191204,6 +191450,45 @@
       ]
     },
     {
+      "brand": "Versace",
+      "name": "Versace Crystal Emerald EDP 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 172,
+      "price_per_100ml": 344,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/versace-crystal-emerald-edp-50ml-bottle-and-original-50ml-box.jpg?v=1795645811",
+      "description": "Versace Crystal Emerald EDP 50ml for Women Versace Crystal Emerald EDP 50ml for Women — A luminous floral musk Eau de Parfum with a juicy, gently spiced opening and a soft, enveloping finish. Bergamot and peach bring brightness, while green rosebuds, jasmine and raspberry sorbet give Crystal Emerald its colourful floral character. This 50ml Eau de Parfum spray offers a convenient format for a women's fragrance collection. Women who enjoy fresh, softly sweet florals with fruit brightness and a musky finish. The 50ml bottle is a practical choice for a regular fragrance rotation or a thoughtful designer perfume gift. Buy Versace perfumes from Gadgets Online NZ, a NZ-owned business since 2008 with our Onehunga, Auckland store, NZ-wide delivery and Auckland pickup when available. Brand-new original retail packaging. Box artwork and bottle details may vary between batches. Fragrance Composition Top notes: Italian bergamot, peach, pink pepper. Heart notes: Green rosebuds accord, jasmine absolute, raspberry sorbet. Base notes: White musk, incense, tonka bean. Scent Profile Bright bergamot meets velvety peach and a touch of pink pepper. The floral heart combines green rosebuds and jasmine with the playful sweetness of raspberry sorbet, before white musk, incense and tonka bean create a smooth, warm trail. Who Is It For? Women who enjoy fresh, softly sweet florals with fruit brightness and a musky finish. The 50ml bottle is a practical choice for a regular fragrance rotation or a thoughtful designer perfume gift. When to Wear Daytime: Work, brunch, weekends and everyday fragrance styling. Evening: Dinner dates, relaxed celebrations and dressed-up evenings. Season: Spring, summer and mild New Zealand weather, with year-round appeal. Occasion: An elegant floral fragrance gift or a new addition to a designer collection. Longevity & Sillage This Eau de Parfum has a floral musk character. Longevity and projection depend on skin chemistry, application, weather and storage. Apply to suit the setting and allow the fragrance to settle before deciding whether to reapply. More Versace Fragrances to Explore Versace Bright Crystal EDT 90ml — Explore another fragrance from the Versace Crystal collection. Versace Dylan Blue Pour Femme EDP 50ml — Consider a different Versace women's Eau de Parfum. Versace Eros Pour Femme EDP 50ml — Another Versace women's fragrance to explore. Similar Designer Fragrances Giorgio Armani My Way Intense EDP 50ml — Explore another designer women's Eau de Parfum. Carolina Herrera Good Girl Blush EDP 50ml — Compare a different floral designer fragrance. Premium & Niche Alternatives Parfums de Marly Delina EDP 75ml — Explore a premium women's fragrance from Parfums de Marly. Parfums de Marly Delina Exclusif Parfum 75ml — Compare another premium floral perfume. Explore More Fragrances Browse more Versace perfumes , women's perfumes , perfumes and fragrances and perfume gift sets from Gadgets Online NZ. Why Buy From Gadgets Online NZ? NZ-owned business since 2008. Onehunga, Auckland store support. NZ-wide delivery available. Auckland pickup available when stock and order status allow. Authentic products sourced through trusted supply channels. Brand-new original retail packaging unless otherwise stated. Product Details Brand: Versace Fragrance: Crystal Emerald Size: 50ml Concentration: Eau de Parfum Gender: Women Fragrance Family: Floral Musk Format: Retail spray bottle Packaging: Brand-new original retail packaging. Box artwork and bottle details may vary between batches. What's Included: One Versace Crystal Emerald Eau de Parfum 50ml retail spray bottle. Fragrance Care Tips Apply to pulse points such as the neck and wrists. Avoid rubbing after spraying; allow the fragrance to develop naturally. Store in a cool, dry place away from direct sunlight, heat and humidity. Disclaimer: Fragrance performance, longevity, scent impression and recommendations vary with skin chemistry, application, weather and storage conditions. Packaging, bottle details and fragrance liquid colour may vary between batches or manufacturer updates. Such variations do not affect authenticity or quality. Product images and content are provided for information and presentation purposes.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/versace-crystal-emerald-edp-50ml",
+      "source_price": 172,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/versace-crystal-emerald-edp-50ml",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 50ml",
+          "size": "50ml",
+          "price": 172,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/versace-crystal-emerald-edp-50ml-bottle-and-original-50ml-box.jpg?v=1795645811"
+        },
+        {
+          "retailer_slug": "life-pharmacy",
+          "source_name": "life-pharmacy-shopify-suggest",
+          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-50ml",
+          "brand": "Versace",
+          "name": "Versace Crystal Emerald EDP 50ml",
+          "size": "50ml",
+          "price": 202,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046236-0.jpg?v=1791235711"
+        }
+      ]
+    },
+    {
       "brand": "Rabanne",
       "name": "Rabanne Million Gold For Her EDP Refillable 90ml",
       "size": "90ml",
@@ -206793,34 +207078,6 @@
       ]
     },
     {
-      "brand": "Versace",
-      "name": "Versace Crystal Emerald EDP 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 202,
-      "price_per_100ml": 404,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046236-0.jpg?v=1791235711",
-      "description": "This olfactive creation expresses a seductive femininity that captures the unapologetic attitude that defines the House. The scent opens with vibrant citrus freshness, where distinctive Calabrian bergamot weaves together with the velvety, juicy sweetness of peach essence – like fruit just picked from a sun-drenched orchard. A whisper of pink peppercorn adds bright sophistication. At the fragrance’s heart, the green rosebud slowly blooms – young and full of life, wrapped in spiced and fruity shadows that evoke the delicacy of a morning rose garden kissed by dew. Jasmine brings velvet softness, while raspberry sorbet adds a colourful, addictive note. Finally, the enveloping, lasting embrace of white musk blends with the warmth of Brazilian tonka bean and a hint of incense, creating a refined and unmistakable trail that seals a powerful yet elegant olfactory signature.",
-      "source_name": "life-pharmacy-shopify-suggest",
-      "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-50ml",
-      "source_price": 202,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "life-pharmacy",
-          "source_name": "life-pharmacy-shopify-suggest",
-          "source_url": "https://www.lifepharmacy.co.nz/products/versace-crystal-emerald-edp-50ml",
-          "brand": "Versace",
-          "name": "Versace Crystal Emerald EDP 50ml",
-          "size": "50ml",
-          "price": 202,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20046236-0.jpg?v=1791235711"
-        }
-      ]
-    },
-    {
       "brand": "Jean Paul Gaultier",
       "name": "Jean Paul Gaultier Divine Couture EDP 50ml",
       "size": "50ml",
@@ -211855,6 +212112,34 @@
       ]
     },
     {
+      "brand": "Ex Nihilo",
+      "name": "Cuir Celeste by Ex Nihilo 100ml EDP",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 449.99,
+      "price_per_100ml": 449.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ex-nihilo-cuir-celeste.png?v=1795641673",
+      "description": "Cuir Celeste by Ex Nihilo 100ml Eau De Parfum Spray Cuir Celeste is inspired by the iconic garment adorned daily by French photographer Mathieu César, a vintage B3 bomber jacket reworked for him by a Parisian craftsman. Under the auspices of Ex Nihilo, he asked perfumer Quentin Bisch to create a scent evoking the protection of a Leather armor tinged with a pure Haute Couture sophistication. It mixes Leather notes with Ambrette, addictive Violet leaves, Patchouli and Musk as olfactory links between past and future. Designer: Ex Nihilo Year Introduced: 2018 Type: EDP Category: Unisex Fragrance Notes: Cuir Celeste opens with a sharp, green electricity — Black Pepper crackles alongside Violet Leaves and the cool, resinous bite of Galbanum. As the fragrance settles, Ambrette softens the edges with its velvety, skin-close warmth, while Osmanthus weaves in a whisper of suede-like floral sweetness. Then the base arrives — and it is deeply satisfying. Leather sits at the heart of it, proud and deliberate, flanked by earthy Patchouli, smoky Cypriol, the woody depth of Akigalawood, and a trail of clean Musk. Ex Nihilo Cuir Celeste is leather reimagined through a Haute Couture lens: structured, sensual, and unmistakably modern. ** Boxed, Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/cuir-celeste-by-ex-nihilo-100ml-edp",
+      "source_price": 449.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/cuir-celeste-by-ex-nihilo-100ml-edp",
+          "brand": "Ex Nihilo",
+          "name": "Cuir Celeste by Ex Nihilo 100ml EDP",
+          "size": "100ml",
+          "price": 449.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/ex-nihilo-cuir-celeste.png?v=1795641673"
+        }
+      ]
+    },
+    {
       "brand": "Kenzo",
       "name": "Kenzo Le Rouge Flower by Kenzo EDP 30ml",
       "size": "30ml",
@@ -212728,7 +213013,7 @@
       ]
     },
     {
-      "brand": "Parfums de Marly",
+      "brand": "Parfums De Marly",
       "name": "Parfums de Marly Sedley EDP 125ml",
       "size": "125ml",
       "size_ml": 125,
@@ -212746,7 +213031,7 @@
           "retailer_slug": "gadgets-online",
           "source_name": "gadgets-online-shopify-suggest",
           "source_url": "https://www.gadgetsonline.co.nz/products/parfums-de-marly-sedley-edp-125ml",
-          "brand": "Parfums de Marly",
+          "brand": "Parfums De Marly",
           "name": "Parfums de Marly Sedley EDP 125ml",
           "size": "125ml",
           "price": 569,
@@ -227190,34 +227475,6 @@
       ]
     },
     {
-      "brand": "Penhaligon's",
-      "name": "Fortuitous Finley by Penhaligon's 75ml EDP",
-      "size": "75ml",
-      "size_ml": 75,
-      "price": 439.99,
-      "price_per_100ml": 586.65,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/penhaligon_sfortuitousfinley.jpg?v=1790910308",
-      "description": "Fortuitous Finley by Penhaligon's 100ml Eau De Parfum Spray The vibrant groundskeeper of the Portraits estate, strolls through the gardens. And he certainly turns Lady Blanche’s head. His pride and joy? The maze, of course, a source of puzzlement and pleasure to all those who enter, should they dare... A fortuitous encounter of spice and leather thrives under Finley's touch. Violet leaf blooms next to cardamom in oh-so capable hands. Pistachio prospers with passion. A stable scent for a wild horse. Designer: Penhaligon's Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: In the lush garden of the House of Portraits, an unexpected encounter between Lady Blanche and Finley gives rise to a fragrance charged with tension and desire. Fortuitous Finley by Penhaligon's is inspired by a clandestine escapade in the heart of the labyrinth, the scene of a budding passion between a great lady and the handsome gardener. Finley, represented by a spirited horse, embodies freedom, vitality and instinct: an untamed nature concealed beneath apparent discipline. As he carves the hedges and strokes the roses, his heart wanders to the forbidden. Top notes: Anise, Pepper, Cardamom. Heart notes: Violet leaves, Mate tea, Pistachio, Salt. Base notes: Iris, Patchouli, Saffiano leather. ** Boxed Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
-      "source_name": "perfume-nz-shopify-suggest",
-      "source_url": "https://www.perfumenz.co.nz/products/fortuitous-finley-by-penhaligons-75ml-edp",
-      "source_price": 439.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "perfume-nz",
-          "source_name": "perfume-nz-shopify-suggest",
-          "source_url": "https://www.perfumenz.co.nz/products/fortuitous-finley-by-penhaligons-75ml-edp",
-          "brand": "Penhaligon's",
-          "name": "Fortuitous Finley by Penhaligon's 75ml EDP",
-          "size": "75ml",
-          "price": 439.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/penhaligon_sfortuitousfinley.jpg?v=1790910308"
-        }
-      ]
-    },
-    {
       "brand": "Yves Saint Laurent",
       "name": "Yves Saint Laurent Libre EDP 30ml",
       "size": "30ml",
@@ -229495,6 +229752,34 @@
           "price": 624.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/tom-ford-soleil-brulant_f8cdbe4d-5a4a-4d80-a5fd-751c6e9863c9.png?v=1790811917"
+        }
+      ]
+    },
+    {
+      "brand": "Penhaligon's",
+      "name": "Fortuitous Finley by Penhaligon's 75ml EDP",
+      "size": "75ml",
+      "size_ml": 75,
+      "price": 469.99,
+      "price_per_100ml": 626.65,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/penhaligon_sfortuitousfinley.jpg?v=1790910308",
+      "description": "Fortuitous Finley by Penhaligon's 100ml Eau De Parfum Spray The vibrant groundskeeper of the Portraits estate, strolls through the gardens. And he certainly turns Lady Blanche’s head. His pride and joy? The maze, of course, a source of puzzlement and pleasure to all those who enter, should they dare... A fortuitous encounter of spice and leather thrives under Finley's touch. Violet leaf blooms next to cardamom in oh-so capable hands. Pistachio prospers with passion. A stable scent for a wild horse. Designer: Penhaligon's Year Introduced: 2025 Type: EDP Category: Unisex Fragrance Notes: In the lush garden of the House of Portraits, an unexpected encounter between Lady Blanche and Finley gives rise to a fragrance charged with tension and desire. Fortuitous Finley by Penhaligon's is inspired by a clandestine escapade in the heart of the labyrinth, the scene of a budding passion between a great lady and the handsome gardener. Finley, represented by a spirited horse, embodies freedom, vitality and instinct: an untamed nature concealed beneath apparent discipline. As he carves the hedges and strokes the roses, his heart wanders to the forbidden. Top notes: Anise, Pepper, Cardamom. Heart notes: Violet leaves, Mate tea, Pistachio, Salt. Base notes: Iris, Patchouli, Saffiano leather. ** Boxed Sealed & Brand New ** We only sell Genuine, Brand New and Authentic Products in original packaging. ** We do not sell imitations, knock-offs or testers. ** Other products and sizes are also available. Please ask. Our perfumes are in stock and ready to mail. Postage can be combined with all our other listings",
+      "source_name": "perfume-nz-shopify-suggest",
+      "source_url": "https://www.perfumenz.co.nz/products/fortuitous-finley-by-penhaligons-75ml-edp",
+      "source_price": 469.99,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "perfume-nz",
+          "source_name": "perfume-nz-shopify-suggest",
+          "source_url": "https://www.perfumenz.co.nz/products/fortuitous-finley-by-penhaligons-75ml-edp",
+          "brand": "Penhaligon's",
+          "name": "Fortuitous Finley by Penhaligon's 75ml EDP",
+          "size": "75ml",
+          "price": 469.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/penhaligon_sfortuitousfinley.jpg?v=1790910308"
         }
       ]
     },
@@ -235306,7 +235591,7 @@
       ]
     },
     {
-      "brand": "Parfums de Marly",
+      "brand": "Parfums De Marly",
       "name": "Parfums de Marly Delina EDP 30ml",
       "size": "30ml",
       "size_ml": 30,
@@ -235324,7 +235609,7 @@
           "retailer_slug": "gadgets-online",
           "source_name": "gadgets-online-shopify-suggest",
           "source_url": "https://www.gadgetsonline.co.nz/products/parfums-de-marly-delina-edp-30ml",
-          "brand": "Parfums de Marly",
+          "brand": "Parfums De Marly",
           "name": "Parfums de Marly Delina EDP 30ml",
           "size": "30ml",
           "price": 379,
