@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T11:49:06.782Z",
-  "count": 5124,
+  "generated_at": "2026-11-28T11:25:04.905Z",
+  "count": 5125,
   "cheapest": {
     "brand": "VV Love",
     "name": "VV Love Hello Mist Body Mist 250ml",
@@ -1506,6 +1506,62 @@
           "price": 4.49,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw8639565b/images/hi-res/53/B4/R2988272_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Lowkey 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 4.49,
+      "price_per_100ml": 4.49,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw0d646cb6/images/hi-res/B8/6C/R2988251_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-lowkey-100ml/R2988251.html",
+      "source_price": 4.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-lowkey-100ml/R2988251.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Lowkey 100ml",
+          "size": "100ml",
+          "price": 4.49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw0d646cb6/images/hi-res/B8/6C/R2988251_30.jpg?sw=292&sh=292"
+        }
+      ]
+    },
+    {
+      "brand": "Daise",
+      "name": "Daise Body Mist Happy 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 4.49,
+      "price_per_100ml": 4.49,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwea4722b0/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-happy-100ml/R2988243.html",
+      "source_price": 4.49,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-happy-100ml/R2988243.html",
+          "brand": "Daise",
+          "name": "Daise Body Mist Happy 100ml",
+          "size": "100ml",
+          "price": 4.49,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwea4722b0/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -4893,7 +4949,7 @@
       "price_per_100ml": 7.2,
       "currency": "NZD",
       "image_url": "https://static.chemistwarehouse.co.nz/ams/media/pi/100573/F2D_200.jpg",
-      "description": null,
+      "description": "Ariana Grande Sweet Like Candy Body Mist is an irresistible floral fragrance featuring delicious gourmand notes of marshmallow and vanilla. A sweet, powdery, fun fragrance for the young at heart. Middle Notes: Honeysuckle, Plumeria, Jasmine. Base Notes: Cashmere Accord, Vanilla, Marshmallow.",
       "source_name": "chemist-warehouse-search-suggest",
       "source_url": "https://www.chemistwarehouse.co.nz/buy/100573/ariana-grande-sweet-like-candy-body-mist-236ml",
       "source_price": 16.99,
@@ -5335,6 +5391,34 @@
           "price": 14.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/english-rose-mist-200ml-p45-359_medium_20341b23-8afe-4c52-a9c8-e6cd211c92a2.jpg?v=1794769233"
+        }
+      ]
+    },
+    {
+      "brand": "VV Love",
+      "name": "VV Love Men's EDT 30ml",
+      "size": "30ml",
+      "size_ml": 30,
+      "price": 2.39,
+      "price_per_100ml": 7.97,
+      "currency": "NZD",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw952b3d1c/images/hi-res/5A/31/R3118939_30.jpg?sw=292&sh=292",
+      "description": null,
+      "source_name": "the-warehouse-fragrance-page",
+      "source_url": "https://www.thewarehouse.co.nz/p/vv-love-mens-edt-30ml/R3118939.html",
+      "source_price": 2.39,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/vv-love-mens-edt-30ml/R3118939.html",
+          "brand": "VV Love",
+          "name": "VV Love Men's EDT 30ml",
+          "size": "30ml",
+          "price": 2.39,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw952b3d1c/images/hi-res/5A/31/R3118939_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -7669,62 +7753,6 @@
           "price": 21.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw3eb5bf23/images/hi-res/0E/61/R3023029_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
-      "name": "Daise Body Mist Lowkey 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 8.99,
-      "price_per_100ml": 8.99,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw0d646cb6/images/hi-res/B8/6C/R2988251_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-lowkey-100ml/R2988251.html",
-      "source_price": 8.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-lowkey-100ml/R2988251.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Lowkey 100ml",
-          "size": "100ml",
-          "price": 8.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw0d646cb6/images/hi-res/B8/6C/R2988251_30.jpg?sw=292&sh=292"
-        }
-      ]
-    },
-    {
-      "brand": "Daise",
-      "name": "Daise Body Mist Happy 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 8.99,
-      "price_per_100ml": 8.99,
-      "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwea4722b0/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292",
-      "description": null,
-      "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-happy-100ml/R2988243.html",
-      "source_price": 8.99,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/daise-body-mist-happy-100ml/R2988243.html",
-          "brand": "Daise",
-          "name": "Daise Body Mist Happy 100ml",
-          "size": "100ml",
-          "price": 8.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dwea4722b0/images/hi-res/07/E8/R2988243_30.jpg?sw=292&sh=292"
         }
       ]
     },
@@ -10872,24 +10900,13 @@
       "price": 10.99,
       "price_per_100ml": 12.21,
       "currency": "NZD",
-      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4a12032a/images/hi-res/19/47/R3032450_30.jpg?sw=292&sh=292",
+      "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1ff7f125/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292",
       "description": null,
       "source_name": "the-warehouse-fragrance-page",
-      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-10-90ml/R3032450.html",
+      "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.0-90ml/R2947854.html",
       "source_price": 10.99,
       "source_count": 28,
       "sources": [
-        {
-          "retailer_slug": "the-warehouse",
-          "source_name": "the-warehouse-fragrance-page",
-          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-10-90ml/R3032450.html",
-          "brand": "MCoBeauty",
-          "name": "MCoBeauty Fragrance Mist No. 10 90ml",
-          "size": "90ml",
-          "price": 10.99,
-          "currency": "NZD",
-          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4a12032a/images/hi-res/19/47/R3032450_30.jpg?sw=292&sh=292"
-        },
         {
           "retailer_slug": "the-warehouse",
           "source_name": "the-warehouse-fragrance-page",
@@ -10900,6 +10917,17 @@
           "price": 10.99,
           "currency": "NZD",
           "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw1ff7f125/images/hi-res/96/E7/R2947854_30.jpg?sw=292&sh=292"
+        },
+        {
+          "retailer_slug": "the-warehouse",
+          "source_name": "the-warehouse-fragrance-page",
+          "source_url": "https://www.thewarehouse.co.nz/p/mcobeauty-fragrance-mist-no.-10-90ml/R3032450.html",
+          "brand": "MCoBeauty",
+          "name": "MCoBeauty Fragrance Mist No. 10 90ml",
+          "size": "90ml",
+          "price": 10.99,
+          "currency": "NZD",
+          "image_url": "https://www.thewarehouse.co.nz/dw/image/v2/BDMG_PRD/on/demandware.static/-/Sites-twl-master-catalog/default/dw4a12032a/images/hi-res/19/47/R3032450_30.jpg?sw=292&sh=292"
         },
         {
           "retailer_slug": "the-warehouse",
@@ -145453,45 +145481,6 @@
     },
     {
       "brand": "Maison Crivelli",
-      "name": "Maison Crivelli Absinthe Boreale EDP 100ml",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 200,
-      "price_per_100ml": 200,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_11_f5f99637-4704-43d9-ac0d-0dfa849e813f.jpg?v=1728892887",
-      "description": null,
-      "source_name": "bargain-chemist-shopify-suggest",
-      "source_url": "https://www.bargainchemist.co.nz/products/maison-crivelli-absinthe-boreale-edp-100ml",
-      "source_price": 200,
-      "source_count": 2,
-      "sources": [
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/maison-crivelli-absinthe-boreale-edp-100ml",
-          "brand": "Maison Crivelli",
-          "name": "Maison Crivelli Absinthe Boreale EDP 100ml",
-          "size": "100ml",
-          "price": 200,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_11_f5f99637-4704-43d9-ac0d-0dfa849e813f.jpg?v=1728892887"
-        },
-        {
-          "retailer_slug": "bargain-chemist",
-          "source_name": "bargain-chemist-shopify-suggest",
-          "source_url": "https://www.bargainchemist.co.nz/products/maisonc-absinthe-boreale-edp-100ml",
-          "brand": "Maison Crivelli",
-          "name": "Maison Crivelli Absinthe Boreale EDP 100ml",
-          "size": "100ml",
-          "price": 299.99,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_11_f5f99637-4704-43d9-ac0d-0dfa849e813f.jpg?v=1728892887"
-        }
-      ]
-    },
-    {
-      "brand": "Maison Crivelli",
       "name": "Maison Crivelli Bois Datchai EDP 100ml",
       "size": "100ml",
       "size_ml": 100,
@@ -181088,6 +181077,45 @@
       ]
     },
     {
+      "brand": "Maison Crivelli",
+      "name": "Maison Crivelli Absinthe Boreale EDP 100ml",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 299.99,
+      "price_per_100ml": 299.99,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_11_f5f99637-4704-43d9-ac0d-0dfa849e813f.jpg?v=1728892887",
+      "description": null,
+      "source_name": "bargain-chemist-shopify-suggest",
+      "source_url": "https://www.bargainchemist.co.nz/products/maison-crivelli-absinthe-boreale-edp-100ml",
+      "source_price": 299.99,
+      "source_count": 2,
+      "sources": [
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/maison-crivelli-absinthe-boreale-edp-100ml",
+          "brand": "Maison Crivelli",
+          "name": "Maison Crivelli Absinthe Boreale EDP 100ml",
+          "size": "100ml",
+          "price": 299.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_11_f5f99637-4704-43d9-ac0d-0dfa849e813f.jpg?v=1728892887"
+        },
+        {
+          "retailer_slug": "bargain-chemist",
+          "source_name": "bargain-chemist-shopify-suggest",
+          "source_url": "https://www.bargainchemist.co.nz/products/maisonc-absinthe-boreale-edp-100ml",
+          "brand": "Maison Crivelli",
+          "name": "Maison Crivelli Absinthe Boreale EDP 100ml",
+          "size": "100ml",
+          "price": 299.99,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0317/1926/0297/files/OIP_11_f5f99637-4704-43d9-ac0d-0dfa849e813f.jpg?v=1728892887"
+        }
+      ]
+    },
+    {
       "brand": "Kenzo",
       "name": "Kenzo L'Eau Pure EDP 50ml",
       "size": "50ml",
@@ -186761,6 +186789,34 @@
       ]
     },
     {
+      "brand": "Christian Dior",
+      "name": "Dior J'adore Intense Parfum 100ml for Women",
+      "size": "100ml",
+      "size_ml": 100,
+      "price": 323,
+      "price_per_100ml": 323,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/DiorJ_adoreIntenseParfum100ml.jpg?v=1781828155",
+      "description": "Dior J'adore Intense Parfum 100ml for Women Dior J'adore Intense Parfum 100ml for Women is the larger size of Dior’s richer concentrated floral J’adore fragrance. It is designed for customers who want a fuller, more opulent floral profile with a warm, sensual and premium perfume feel. Available from Gadgets Online NZ Ltd , a NZ-owned business serving customers since 2008. We offer NZ-wide delivery, Auckland pickup when available, GST invoices, and brand-new original packaging unless clearly stated otherwise. Fragrance Notes Key Floral Notes: Jasmine, rose, ylang-ylang Fruity / Golden Accord: Apricot, honeyed floral warmth Base Notes: Sandalwood, vanilla-style warmth Who Is It For? Ideal for women who enjoy richer floral fragrances with a more concentrated and luxurious feel. J’adore Intense Parfum suits evening wear, gifting, special occasions and signature-scent use. More J'adore Fragrances to Explore Dior J'adore Intense Parfum 35ml Dior J'adore Intense Parfum 50ml Dior J'adore Infinissime EDP 100ml Dior J'adore L'Or Essence de Parfum 50ml Similar Designer / Celebrity Fragrance Styles Carolina Herrera Good Girl Blush EDP 80ml Carolina Herrera Good Girl Blush EDP 50ml Carolina Herrera Good Girl Blush Elixir EDP 80ml Armaf Club de Nuit Imperiale EDP 105ml Premium Niche Alternatives Parfums de Marly Delina EDP 75ml Parfums de Marly Delina La Rosee EDP 75ml Parfums de Marly Oriana EDP 75ml Byredo Black Saffron EDP 100ml Explore More Fragrances Browse more Dior perfumes NZ , Dior women’s perfumes , women’s perfumes and perfumes and fragrances . Why Buy From Gadgets Online NZ? NZ-owned business serving customers since 2008. Onehunga, Auckland store for local support and pickup when available. NZ-wide delivery available. GST invoices available for purchases. Brand-new product in original packaging unless clearly stated otherwise. Product Details Brand: Christian Dior Concentration: Intense Parfum Size: 100ml Gender: Women Fragrance Family: Intense Floral Amber Woody Packaging: Original packaging Fragrance Care Tips Apply to pulse points such as wrists, neck and behind the ears. Avoid rubbing the fragrance after application. Store in a cool, dry place away from heat and direct sunlight. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on skin chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality or fragrance performance.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/dior-jadore-intense-parfum-100ml-for-women",
+      "source_price": 323,
+      "source_count": 1,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/dior-jadore-intense-parfum-100ml-for-women",
+          "brand": "Christian Dior",
+          "name": "Dior J'adore Intense Parfum 100ml for Women",
+          "size": "100ml",
+          "price": 323,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/DiorJ_adoreIntenseParfum100ml.jpg?v=1781828155"
+        }
+      ]
+    },
+    {
       "brand": "Yves Saint Laurent",
       "name": "Yves Saint Laurent Mon Paris EDP 50ml",
       "size": "50ml",
@@ -190985,34 +191041,6 @@
           "price": 169,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0627/8902/5948/files/GXH_20045382-0.jpg?v=1791149347"
-        }
-      ]
-    },
-    {
-      "brand": "Christian Dior",
-      "name": "Dior J'adore Intense Parfum 100ml for Women",
-      "size": "100ml",
-      "size_ml": 100,
-      "price": 339,
-      "price_per_100ml": 339,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/DiorJ_adoreIntenseParfum100ml.jpg?v=1781828155",
-      "description": "Dior J'adore Intense Parfum 100ml for Women Dior J'adore Intense Parfum 100ml for Women is the larger size of Dior’s richer concentrated floral J’adore fragrance. It is designed for customers who want a fuller, more opulent floral profile with a warm, sensual and premium perfume feel. Available from Gadgets Online NZ Ltd , a NZ-owned business serving customers since 2008. We offer NZ-wide delivery, Auckland pickup when available, GST invoices, and brand-new original packaging unless clearly stated otherwise. Fragrance Notes Key Floral Notes: Jasmine, rose, ylang-ylang Fruity / Golden Accord: Apricot, honeyed floral warmth Base Notes: Sandalwood, vanilla-style warmth Who Is It For? Ideal for women who enjoy richer floral fragrances with a more concentrated and luxurious feel. J’adore Intense Parfum suits evening wear, gifting, special occasions and signature-scent use. More J'adore Fragrances to Explore Dior J'adore Intense Parfum 35ml Dior J'adore Intense Parfum 50ml Dior J'adore Infinissime EDP 100ml Dior J'adore L'Or Essence de Parfum 50ml Similar Designer / Celebrity Fragrance Styles Carolina Herrera Good Girl Blush EDP 80ml Carolina Herrera Good Girl Blush EDP 50ml Carolina Herrera Good Girl Blush Elixir EDP 80ml Armaf Club de Nuit Imperiale EDP 105ml Premium Niche Alternatives Parfums de Marly Delina EDP 75ml Parfums de Marly Delina La Rosee EDP 75ml Parfums de Marly Oriana EDP 75ml Byredo Black Saffron EDP 100ml Explore More Fragrances Browse more Dior perfumes NZ , Dior women’s perfumes , women’s perfumes and perfumes and fragrances . Why Buy From Gadgets Online NZ? NZ-owned business serving customers since 2008. Onehunga, Auckland store for local support and pickup when available. NZ-wide delivery available. GST invoices available for purchases. Brand-new product in original packaging unless clearly stated otherwise. Product Details Brand: Christian Dior Concentration: Intense Parfum Size: 100ml Gender: Women Fragrance Family: Intense Floral Amber Woody Packaging: Original packaging Fragrance Care Tips Apply to pulse points such as wrists, neck and behind the ears. Avoid rubbing the fragrance after application. Store in a cool, dry place away from heat and direct sunlight. Disclaimer: Fragrance performance, longevity, scent impression and recommendations can vary depending on skin chemistry, application, weather and storage conditions. Product images and content are provided for information and presentation purposes only. Packaging, bottle details and fragrance liquid colour may vary slightly between production batches or manufacturer updates. Such variations do not affect product quality or fragrance performance.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/dior-jadore-intense-parfum-100ml-for-women",
-      "source_price": 339,
-      "source_count": 1,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/dior-jadore-intense-parfum-100ml-for-women",
-          "brand": "Christian Dior",
-          "name": "Dior J'adore Intense Parfum 100ml for Women",
-          "size": "100ml",
-          "price": 339,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/DiorJ_adoreIntenseParfum100ml.jpg?v=1781828155"
         }
       ]
     },
@@ -228926,6 +228954,78 @@
       ]
     },
     {
+      "brand": "Christian Dior",
+      "name": "Dior Sauvage Extrait de Parfum 50ml",
+      "size": "50ml",
+      "size_ml": 50,
+      "price": 294,
+      "price_per_100ml": 588,
+      "currency": "NZD",
+      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720",
+      "description": "Dior Sauvage Extrait de Parfum 50ml is a bold Woody Aromatic fragrance for men, launched in 2026. Created by master perfumer Francis Kurkdjian, Sauvage Extrait is the most concentrated and intense expression of the iconic Sauvage line — a fragrance that takes the signature freshness of Sauvage and transforms it into something darker, deeper, and more commanding. For the man who wears his presence without apology. Fragrance Notes Top notes - Sauvage Extrait opens with a powerful, radiant accord of Ambroxan , Lavender , and Bergamot — the unmistakable Sauvage DNA, amplified to its most intense expression. Middle notes - The heart introduces a rare and smoky depth with Vietnamese Oud , adding a rich, resinous complexity that elevates the composition far beyond the EDT or EDP. Base notes - The fragrance settles into a deep, earthy base of Patchouli , Virginia Cedar , Atlas Cedar , and Vetiver — dark, woody, and intensely masculine, leaving a trail that commands attention long after the first spray. About The Fragrance Sauvage Extrait was launched in 2026, crafted by Francis Kurkdjian — the celebrated perfumer who has redefined modern masculine fragrance. As the Extrait concentration of the Sauvage line, this is the ultimate expression of the fragrance: maximum intensity, maximum longevity, and a depth that the EDT and EDP cannot match. The addition of Vietnamese Oud at the heart marks a bold departure, pushing Sauvage into oud territory for the first time and creating a composition that is both familiar and entirely new. Performance & Character As an Extrait de Parfum, Sauvage Extrait delivers exceptional longevity and rich, commanding projection. Sillage is bold and enveloping in the opening, softening to a deep, woody and oud-infused trail as the fragrance develops on skin. The overall character is dark, intense, and deeply masculine — a fragrance built for those who want to make a lasting impression. When To Wear Sauvage Extrait is best suited to cooler seasons — autumn and winter — when the depth of the oud, cedar, and patchouli base truly comes alive. Ideal for evening occasions, formal events, and any moment that calls for a bold, statement fragrance. A few sprays go a long way with this concentration. Who Is It For? Sauvage Extrait is crafted for men who love the Sauvage signature but want the ultimate in intensity, depth, and longevity. It suits those who appreciate oud, cedar, and patchouli-forward compositions with a fresh aromatic edge. A natural choice for established Sauvage wearers ready to take the next step, or for those who simply demand the best. Why Buy From Gadgets Online NZ? Gadgets Online NZ Ltd has been a trusted New Zealand retailer since 2008. When you purchase Dior Sauvage Extrait from us, you can shop with confidence knowing: GST invoice provided with every purchase Brand new, 100% original product in original manufacturer packaging Fast delivery NZ-wide Visit us in-store at our Auckland retail store in Onehunga Trusted NZ fragrance retailer with over 15 years of experience Product Details Brand: Christian Dior Name: Sauvage Extrait Concentration: Extrait de Parfum Size: 50ml Gender: Men Fragrance Family: Woody Aromatic Launch Year: 2026 Perfumer: Francis Kurkdjian Barcode: 3348901833219 Country of Origin: France Disclaimer: Every fragrance develops uniquely on each wearer, and performance may vary depending on skin chemistry, application, and environment. Product images are intended to represent the fragrance as accurately as possible and may include enhanced backgrounds, lifestyle settings, or graphic elements for presentation purposes. Packaging, bottle details, and fragrance liquid colour may vary slightly between production batches or manufacturer updates. All fragrances sold by Gadgets Online NZ Ltd are guaranteed authentic.",
+      "source_name": "gadgets-online-shopify-suggest",
+      "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml",
+      "source_price": 294,
+      "source_count": 5,
+      "sources": [
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml",
+          "brand": "Christian Dior",
+          "name": "Dior Sauvage Extrait de Parfum 50ml",
+          "size": "50ml",
+          "price": 294,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml?_pos=1&_psq=extrait&_psid=57ba141a2&_ss=e",
+          "brand": "Christian Dior",
+          "name": "Dior Sauvage Extrait de Parfum 50ml",
+          "size": "50ml",
+          "price": 315,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml?_pos=1&_psq=extrait&_psid=275267723&_ss=e",
+          "brand": "Christian Dior",
+          "name": "Dior Sauvage Extrait de Parfum 50ml",
+          "size": "50ml",
+          "price": 315,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml?_pos=1&_psq=extrait&_psid=21303c76e&_ss=e",
+          "brand": "Christian Dior",
+          "name": "Dior Sauvage Extrait de Parfum 50ml",
+          "size": "50ml",
+          "price": 315,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720"
+        },
+        {
+          "retailer_slug": "gadgets-online",
+          "source_name": "gadgets-online-shopify-suggest",
+          "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml?_pos=1&_psq=extrait&_psid=554936986&_ss=e",
+          "brand": "Christian Dior",
+          "name": "Dior Sauvage Extrait de Parfum 50ml",
+          "size": "50ml",
+          "price": 315,
+          "currency": "NZD",
+          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720"
+        }
+      ]
+    },
+    {
       "brand": "BDK",
       "name": "BDK Gris Charnel Extrait 100ml",
       "size": "100ml",
@@ -230875,78 +230975,6 @@
           "price": 549.99,
           "currency": "NZD",
           "image_url": "https://cdn.shopify.com/s/files/1/0259/7733/files/parfums-de-marly-athenais.png?v=1790546388"
-        }
-      ]
-    },
-    {
-      "brand": "Christian Dior",
-      "name": "Dior Sauvage Extrait de Parfum 50ml",
-      "size": "50ml",
-      "size_ml": 50,
-      "price": 315,
-      "price_per_100ml": 630,
-      "currency": "NZD",
-      "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720",
-      "description": "Dior Sauvage Extrait de Parfum 50ml is a bold Woody Aromatic fragrance for men, launched in 2026. Created by master perfumer Francis Kurkdjian, Sauvage Extrait is the most concentrated and intense expression of the iconic Sauvage line — a fragrance that takes the signature freshness of Sauvage and transforms it into something darker, deeper, and more commanding. For the man who wears his presence without apology. Fragrance Notes Top notes - Sauvage Extrait opens with a powerful, radiant accord of Ambroxan , Lavender , and Bergamot — the unmistakable Sauvage DNA, amplified to its most intense expression. Middle notes - The heart introduces a rare and smoky depth with Vietnamese Oud , adding a rich, resinous complexity that elevates the composition far beyond the EDT or EDP. Base notes - The fragrance settles into a deep, earthy base of Patchouli , Virginia Cedar , Atlas Cedar , and Vetiver — dark, woody, and intensely masculine, leaving a trail that commands attention long after the first spray. About The Fragrance Sauvage Extrait was launched in 2026, crafted by Francis Kurkdjian — the celebrated perfumer who has redefined modern masculine fragrance. As the Extrait concentration of the Sauvage line, this is the ultimate expression of the fragrance: maximum intensity, maximum longevity, and a depth that the EDT and EDP cannot match. The addition of Vietnamese Oud at the heart marks a bold departure, pushing Sauvage into oud territory for the first time and creating a composition that is both familiar and entirely new. Performance & Character As an Extrait de Parfum, Sauvage Extrait delivers exceptional longevity and rich, commanding projection. Sillage is bold and enveloping in the opening, softening to a deep, woody and oud-infused trail as the fragrance develops on skin. The overall character is dark, intense, and deeply masculine — a fragrance built for those who want to make a lasting impression. When To Wear Sauvage Extrait is best suited to cooler seasons — autumn and winter — when the depth of the oud, cedar, and patchouli base truly comes alive. Ideal for evening occasions, formal events, and any moment that calls for a bold, statement fragrance. A few sprays go a long way with this concentration. Who Is It For? Sauvage Extrait is crafted for men who love the Sauvage signature but want the ultimate in intensity, depth, and longevity. It suits those who appreciate oud, cedar, and patchouli-forward compositions with a fresh aromatic edge. A natural choice for established Sauvage wearers ready to take the next step, or for those who simply demand the best. Why Buy From Gadgets Online NZ? Gadgets Online NZ Ltd has been a trusted New Zealand retailer since 2008. When you purchase Dior Sauvage Extrait from us, you can shop with confidence knowing: GST invoice provided with every purchase Brand new, 100% original product in original manufacturer packaging Fast delivery NZ-wide Visit us in-store at our Auckland retail store in Onehunga Trusted NZ fragrance retailer with over 15 years of experience Product Details Brand: Christian Dior Name: Sauvage Extrait Concentration: Extrait de Parfum Size: 50ml Gender: Men Fragrance Family: Woody Aromatic Launch Year: 2026 Perfumer: Francis Kurkdjian Barcode: 3348901833219 Country of Origin: France Disclaimer: Every fragrance develops uniquely on each wearer, and performance may vary depending on skin chemistry, application, and environment. Product images are intended to represent the fragrance as accurately as possible and may include enhanced backgrounds, lifestyle settings, or graphic elements for presentation purposes. Packaging, bottle details, and fragrance liquid colour may vary slightly between production batches or manufacturer updates. All fragrances sold by Gadgets Online NZ Ltd are guaranteed authentic.",
-      "source_name": "gadgets-online-shopify-suggest",
-      "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml",
-      "source_price": 315,
-      "source_count": 5,
-      "sources": [
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml",
-          "brand": "Christian Dior",
-          "name": "Dior Sauvage Extrait de Parfum 50ml",
-          "size": "50ml",
-          "price": 315,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml?_pos=1&_psq=extrait&_psid=57ba141a2&_ss=e",
-          "brand": "Christian Dior",
-          "name": "Dior Sauvage Extrait de Parfum 50ml",
-          "size": "50ml",
-          "price": 315,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml?_pos=1&_psq=extrait&_psid=275267723&_ss=e",
-          "brand": "Christian Dior",
-          "name": "Dior Sauvage Extrait de Parfum 50ml",
-          "size": "50ml",
-          "price": 315,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml?_pos=1&_psq=extrait&_psid=21303c76e&_ss=e",
-          "brand": "Christian Dior",
-          "name": "Dior Sauvage Extrait de Parfum 50ml",
-          "size": "50ml",
-          "price": 315,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720"
-        },
-        {
-          "retailer_slug": "gadgets-online",
-          "source_name": "gadgets-online-shopify-suggest",
-          "source_url": "https://www.gadgetsonline.co.nz/products/dior-sauvage-extrait-de-parfum-50ml?_pos=1&_psq=extrait&_psid=554936986&_ss=e",
-          "brand": "Christian Dior",
-          "name": "Dior Sauvage Extrait de Parfum 50ml",
-          "size": "50ml",
-          "price": 315,
-          "currency": "NZD",
-          "image_url": "https://cdn.shopify.com/s/files/1/0604/0725/1203/files/Dior_Sauvage_Extrait_de_Parfum_50ml.jpg?v=1787016720"
         }
       ]
     },
@@ -237740,5 +237768,10 @@
       ]
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "retailer_slug": "chemist-warehouse-nz",
+      "error": "chemist-warehouse-nz returned no usable product responses. Last error: HTTP 403 from www.chemistwarehouse.co.nz"
+    }
+  ]
 }
